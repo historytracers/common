@@ -2,10 +2,10 @@
 AUTOMAKE_OPTIONS = foreign
 
 # Go compiler wrapper that ensures its bin dir is in PATH and GOROOT is set
-GO_RUN = PATH="$(GO_BIN_DIR):$(PATH)" GOROOT="$(GO_GOROOT)" "$(GO_COMPILER)"
+GO_RUN = cd "$(abs_top_srcdir)/src/go" && PATH="$(GO_BIN_DIR):$(PATH)" GOROOT="$(GO_GOROOT)" "$(GO_COMPILER)"
 
 # What to distribute
-EXTRA_DIST = config.go creator.go data-type.go timestamp.go go.mod
+EXTRA_DIST = src/go/config.go src/go/creator.go src/go/data-type.go src/go/timestamp.go src/go/go.mod
 
 # Verify the library compiles
 all-local:
