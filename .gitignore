@@ -1,0 +1,34 @@
+# Editors
+*.tmp
+*.swp
+.env
+
+# Binaries
+*.exe
+
+# AI / agent files
+GEMINI.md
+AGENTS.md
+
+# autotools generated files
+Makefile
+Makefile.in
+configure
+configure~
+aclocal.m4
+autom4te.cache/
+config.guess
+config.guess~
+config.sub
+config.sub~
+config.log
+config.status
+install-sh
+missing
+compile
+depcomp
+stamp-h1
+
+# Go build artifacts
+go.sum
+build/
