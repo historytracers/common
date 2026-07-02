@@ -4,19 +4,29 @@ This directory contains the source code for the `common` package.
 
 ## Contents
 
-| Directory | Language | Description |
-|-----------|----------|-------------|
-| `go/`     | Go       | Shared types, utilities, and configuration used across History Tracers projects |
+| Directory     | Language        | Description |
+|---------------|-----------------|-------------|
+| `android/`    | Java (Android)  | Android library with data models, timestamp utilities, and creator helpers for History Tracers apps |
+| `go/`         | Go              | Shared types, utilities, and configuration used across History Tracers projects |
 
-The `go/` directory is a Go module (`github.com/historytracers/common`) exposing the `common` package with data structures, configuration types, timestamps, and indexing helpers for class and family records.
+### android/
 
-## Building
+Android library module exposing Java POJOs (with Gson serialization) mirroring the Go data structures. Includes `HTConfigBase`, all content model classes (`Family`, `ClassIdx`, `ClassTemplateFile`, `HTSourceFile`, etc.), `TimestampUtils`, and `CreatorUtils`.
+
+Build with Gradle:
 
 ```bash
-# Regenerate autotools files (if configure.ac or Makefile.am changed)
-./bootstrap
+./gradlew :common-android:assembleRelease
+```
 
-# Configure and build
+### go/
+
+Go module (`github.com/historytracers/common`) exposing the `common` package with data structures, configuration types, timestamps, and indexing helpers for class and family records.
+
+Build with autotools:
+
+```bash
+./bootstrap
 ./configure
 make
 ```
