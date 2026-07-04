@@ -146,6 +146,7 @@ type ClassContent struct {
 	ValueType string              `json:"value_type"`
 	HTMLValue string              `json:"html_value"`
 	Value     []ClassContentValue `json:"value"`
+	Source    []HTSource       `json:"source"`
 	DateTime  []HTDate            `json:"date_time"`
 }
 
