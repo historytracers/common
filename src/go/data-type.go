@@ -190,6 +190,7 @@ type IdxFamilyContent struct {
 	ValueType string           `json:"value_type"`
 	HTMLValue string           `json:"html_value"`
 	Value     []IdxFamilyValue `json:"value"`
+	Source    []HTSource       `json:"source"`
 	FillDates []HTDate         `json:"date_time"`
 }
 
