@@ -14,7 +14,7 @@ public class HTCommonContent {
     public String valueType;
 
     @SerializedName("html_value")
-    public String htmlValue;
+    public List<HTText> htmlValue;
 
     public List<IdxFamilyValue> value;
 

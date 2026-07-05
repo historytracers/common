@@ -71,7 +71,7 @@ type HTCommonContent struct {
 	Target    string           `json:"target"`
 	Page      string           `json:"page"`
 	ValueType string           `json:"value_type"`
-	HTMLValue string           `json:"html_value"`
+	HTMLValue []HTText         `json:"html_value"`
 	Value     []IdxFamilyValue `json:"value"`
 	FillDates []HTDate         `json:"date_time"`
 }
@@ -144,9 +144,9 @@ type ClassContent struct {
 	Target    string              `json:"target"`
 	Page      string              `json:"page"`
 	ValueType string              `json:"value_type"`
-	HTMLValue string              `json:"html_value"`
+	HTMLValue []HTText            `json:"html_value"`
+	Source    []HTSource          `json:"source"`
 	Value     []ClassContentValue `json:"value"`
-	Source    []HTSource       `json:"source"`
 	DateTime  []HTDate            `json:"date_time"`
 }
 
@@ -189,7 +189,7 @@ type IdxFamilyContent struct {
 	Target    string           `json:"target"`
 	Page      string           `json:"page"`
 	ValueType string           `json:"value_type"`
-	HTMLValue string           `json:"html_value"`
+	HTMLValue []HTText         `json:"html_value"`
 	Value     []IdxFamilyValue `json:"value"`
 	Source    []HTSource       `json:"source"`
 	FillDates []HTDate         `json:"date_time"`
