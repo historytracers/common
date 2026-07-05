@@ -13,7 +13,9 @@ public class ClassContent {
     public String valueType;
 
     @SerializedName("html_value")
-    public String htmlValue;
+    public List<HTText> htmlValue;
+
+    public List<HTSource> source;
 
     public List<ClassContentValue> value;
 

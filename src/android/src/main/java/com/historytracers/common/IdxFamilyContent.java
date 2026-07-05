@@ -14,7 +14,7 @@ public class IdxFamilyContent {
     public String valueType;
 
     @SerializedName("html_value")
-    public String htmlValue;
+    public List<HTText> htmlValue;
 
     public List<IdxFamilyValue> value;
 
