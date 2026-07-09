@@ -22,6 +22,27 @@ Armazena entradas de fontes sem duplicatas. Cada campo mapeia para `HTSourceElem
 
 Indexado em `src_citation` para buscas mais rápidas.
 
+### `file`
+
+Armazena entradas de arquivos. Cada arquivo tem um identificador binário único e uma descrição:
+
+| Coluna   | Tipo        | Descrição                            |
+|----------|-------------|--------------------------------------|
+| `fil_id` | `BINARY(16)`| Identificador único (chave primária) |
+| `fil_desc`| `TEXT`     | Descrição do arquivo                 |
+
+### `citation`
+
+Define um relacionamento N para M entre `file` e `source` com um qualificador de tipo:
+
+| Coluna   | Tipo        | Descrição                                                  |
+|----------|-------------|------------------------------------------------------------|
+| `fil_id` | `BINARY(16)`| Referência a uma entrada `file`                            |
+| `src_id` | `BINARY(16)`| Referência a uma entrada `source`                          |
+| `cit_type`| `TINYINT`  | Tipo de citação (0=Primary, 1=References, 2=Holy, 3=Social Media) |
+
+As três colunas juntas formam a chave primária composta. Indexado em `fil_id` para buscas mais rápidas. Uma restrição `CHECK` limita `cit_type` aos valores 0–3.
+
 ## Arquivos
 
 | Arquivo | Descrição |
@@ -29,3 +50,5 @@ Indexado em `src_citation` para buscas mais rápidas.
 | `00-create-database.sql`   | Cria o banco de dados `history_tracers` |
 | `01-create-sources.sql`    | Cria a tabela `sources` |
 | `02-index-sources-citation.sql` | Adiciona um índice em `src_citation` |
+| `03-create-file.sql`       | Cria a tabela `file` |
+| `04-create-citation.sql`   | Cria a tabela `citation` |
