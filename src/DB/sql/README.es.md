@@ -15,6 +15,7 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 | Columna           | Tipo        | Descripción                         | Campo Go    |
 |-------------------|-------------|-------------------------------------|-------------|
 | `src_id`          | `BINARY(16)`| Identificador único (clave primaria) | `ID`        |
+| `sfo_id`          | `BINARY(16)`| UUID del formato de cita            | `SfoID`     |
 | `src_citation`    | `TEXT`      | Texto de la cita de la fuente       | `Citation`  |
 | `src_date`        | `TEXT`      | Fecha asociada a la fuente          | `Date`      |
 | `src_publish_date`| `TEXT`      | Fecha de publicación de la fuente   | `PublishDate`|
@@ -22,7 +23,17 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 
 Indexado en `src_citation` para búsquedas más rápidas.
 
-### `file`
+### `source_format`
+
+Define los formatos de cita referenciados por `sources`:
+
+| Columna         | Tipo        | Descripción                          |
+|-----------------|-------------|--------------------------------------|
+| `sfo_id`        | `BINARY(16)`| Identificador único (clave primaria) |
+| `sfo_name`      | `TEXT`      | Nombre del formato                   |
+| `sfo_description`| `TEXT`     | Descripción del formato              |
+
+### `files`
 
 Almacena entradas de archivos. Cada archivo tiene un identificador binario único y una descripción:
 
@@ -33,11 +44,11 @@ Almacena entradas de archivos. Cada archivo tiene un identificador binario únic
 
 ### `citation`
 
-Define una relación N a M entre `file` y `source` con un calificador de tipo:
+Define una relación N a M entre `files` y `source` con un calificador de tipo:
 
 | Columna   | Tipo        | Descripción                                               |
 |-----------|-------------|-----------------------------------------------------------|
-| `fil_id`  | `BINARY(16)`| Referencia a la entrada `file`                            |
+| `fil_id`  | `BINARY(16)`| Referencia a la entrada `files`                            |
 | `src_id`  | `BINARY(16)`| Referencia a la entrada `source`                          |
 | `cit_type`| `TINYINT`   | Tipo de cita (0=Primary, 1=References, 2=Holy, 3=Social Media) |
 
@@ -47,8 +58,9 @@ Las tres columnas juntas forman la clave primaria compuesta. Indexado en `fil_id
 
 | Archivo | Descripción |
 |---------|-------------|
-| `00-create-database.sql`   | Crea la base de datos `history_tracers` |
-| `01-create-sources.sql`    | Crea la tabla `sources` |
-| `02-index-sources-citation.sql` | Añade un índice en `src_citation` |
-| `03-create-file.sql`       | Crea la tabla `file` |
-| `04-create-citation.sql`   | Crea la tabla `citation` |
+| `00-create-database.sql`       | Crea la base de datos `history_tracers` |
+| `01-create-source-format.sql` | Crea la tabla `source_format` |
+| `02-create-sources.sql`       | Crea la tabla `sources` |
+| `03-index-sources-citation.sql` | Añade un índice en `src_citation` |
+| `04-create-files.sql`         | Crea la tabla `files` |
+| `05-create-citation.sql`      | Crea la tabla `citation` |

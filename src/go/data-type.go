@@ -31,6 +31,7 @@ type HTSource struct {
 
 type HTSourceElement struct {
 	ID          string `json:"id"`
+	SfoID       string `json:"sfo_id"`
 	Citation    string `json:"citation"`
 	Date        string `json:"date_time"`
 	PublishDate string `json:"published"`
