@@ -22,6 +22,27 @@ Stores source entries without duplicates. Each field maps to `HTSourceElement` d
 
 Indexed on `src_citation` for faster search lookups.
 
+### `file`
+
+Stores file entries. Each file has a unique binary identifier and a description:
+
+| Column   | Type        | Description                     |
+|----------|-------------|---------------------------------|
+| `fil_id` | `BINARY(16)`| Unique identifier (primary key) |
+| `fil_desc`| `TEXT`     | File description                |
+
+### `citation`
+
+Defines an N-to-M relationship between `file` and `source` with a type qualifier:
+
+| Column    | Type        | Description                                      |
+|-----------|-------------|--------------------------------------------------|
+| `fil_id`  | `BINARY(16)`| Reference to `file` entry                        |
+| `src_id`  | `BINARY(16)`| Reference to `source` entry                      |
+| `cit_type`| `TINYINT`   | Type of citation (0=Primary, 1=References, 2=Holy, 3=Social Media) |
+
+The three columns together form the composite primary key. Indexed on `fil_id` for faster lookups. A `CHECK` constraint limits `cit_type` to values 0–3.
+
 ## Files
 
 | File | Description |
@@ -29,3 +50,5 @@ Indexed on `src_citation` for faster search lookups.
 | `00-create-database.sql`   | Creates the `history_tracers` database |
 | `01-create-sources.sql`    | Creates the `sources` table |
 | `02-index-sources-citation.sql` | Adds an index on `src_citation` |
+| `03-create-file.sql`       | Creates the `file` table |
+| `04-create-citation.sql`   | Creates the `citation` table |
