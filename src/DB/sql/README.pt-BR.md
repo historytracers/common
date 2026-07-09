@@ -1,6 +1,6 @@
-# DB
+# sql
 
-Este diretório contém scripts SQL ANSI para criar e manter o banco de dados do pacote `common`.
+Este diretório contém scripts SQL ANSI para criar e manter o banco de dados do pacote `common`. É análogo à estrutura NoSQL em [`src/DB/nosql/`](../nosql/).
 
 ## Banco de dados
 
@@ -10,7 +10,7 @@ O banco de dados `history_tracers` armazena registros de fontes sem duplicatas u
 
 ### `sources`
 
-Armazena entradas de fontes sem duplicatas. Cada campo mapeia para `HTSourceElement` definido em [`src/go/data-type.go`](../go/data-type.go#L32-L38):
+Armazena entradas de fontes sem duplicatas. Cada campo mapeia para `HTSourceElement` definido em [`src/go/data-type.go`](../../go/data-type.go#L32-L38):
 
 | Coluna          | Tipo        | Descrição                          | Campo Go    |
 |-----------------|-------------|------------------------------------|-------------|

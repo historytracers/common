@@ -1,6 +1,6 @@
-# DB
+# sql
 
-This directory contains ANSI SQL scripts to create and maintain the database for the `common` package.
+This directory contains ANSI SQL scripts to create and maintain the database for the `common` package. It mirrors the NoSQL structure in [`src/DB/nosql/`](../nosql/).
 
 ## Database
 
@@ -10,7 +10,7 @@ The database `history_tracers` stores deduplicated source records used across Hi
 
 ### `sources`
 
-Stores source entries without duplicates. Each field maps to `HTSourceElement` defined in [`src/go/data-type.go`](../go/data-type.go#L32-L38):
+Stores source entries without duplicates. Each field maps to `HTSourceElement` defined in [`src/go/data-type.go`](../../go/data-type.go#L32-L38):
 
 | Column            | Type        | Description                        | Go field      |
 |-------------------|-------------|------------------------------------|---------------|
