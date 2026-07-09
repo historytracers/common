@@ -1,4 +1,4 @@
-db.createCollection("file", {
+db.createCollection("files", {
   validator: {
     $jsonSchema: {
       bsonType: "object",

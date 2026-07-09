@@ -11,6 +11,7 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 | Campo            | Tipo BSON   | Descripción                         | Campo Go    |
 |------------------|-------------|-------------------------------------|-------------|
 | `src_id`         | `binData`   | Identificador binario único         | `ID`        |
+| `sfo_id`         | `binData`   | UUID del formato de cita            | `SfoID`     |
 | `src_citation`   | `string`    | Texto de la cita de la fuente       | `Citation`  |
 | `src_date`       | `string`    | Fecha asociada a la fuente          | `Date`      |
 | `src_publish_date`| `string`   | Fecha de publicación de la fuente   | `PublishDate`|
@@ -18,7 +19,17 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 
 Indexado en `src_citation` y `src_id` (único) para búsquedas más rápidas.
 
-### `file`
+### `source_format`
+
+Define los formatos de cita referenciados por `sources`:
+
+| Campo           | Tipo BSON | Descripción                     |
+|-----------------|-----------|---------------------------------|
+| `sfo_id`        | `binData` | Identificador binario único     |
+| `sfo_name`      | `string`  | Nombre del formato              |
+| `sfo_description`| `string` | Descripción del formato         |
+
+### `files`
 
 Almacena entradas de archivos:
 
@@ -29,11 +40,11 @@ Almacena entradas de archivos:
 
 ### `citation`
 
-Define una relación N a M entre `file` y `source` con un calificador de tipo:
+Define una relación N a M entre `files` y `source` con un calificador de tipo:
 
 | Campo     | Tipo BSON | Descripción                                                |
 |-----------|-----------|------------------------------------------------------------|
-| `fil_id`  | `binData` | Referencia a una entrada `file`                            |
+| `fil_id`  | `binData` | Referencia a una entrada `files`                            |
 | `src_id`  | `binData` | Referencia a una entrada `source`                          |
 | `cit_type`| `int`     | Tipo de cita (0=Primary, 1=References, 2=Holy, 3=Social Media) |
 
@@ -43,7 +54,8 @@ Validado con `$jsonSchema` asegurando que `cit_type` sea uno de `[0, 1, 2, 3]`.
 
 | Archivo | Descripción |
 |---------|-------------|
-| `00-create-collection.js` | Crea la colección `sources` con validación de esquema JSON |
-| `01-create-indexes.js`    | Crea índices en `src_citation` y `src_id` |
-| `02-create-file.js`       | Crea la colección `file` con validación de esquema JSON |
-| `03-create-citation.js`   | Crea la colección `citation` con validación de esquema JSON |
+| `00-create-collection.js`      | Crea la colección `sources` con validación de esquema JSON |
+| `01-create-source-format.js`  | Crea la colección `source_format` con validación de esquema JSON |
+| `02-create-indexes.js`        | Crea índices en `src_citation` y `src_id` |
+| `03-create-files.js`           | Crea la colección `files` con validación de esquema JSON |
+| `04-create-citation.js`        | Crea la colección `citation` con validación de esquema JSON |
