@@ -24,3 +24,9 @@ db.createCollection("source_format", {
     }
   }
 });
+
+db.source_format.insertOne({
+  sfo_id: UUID("a1b2c3d4-0000-4000-8000-000000000001"),
+  sfo_name: "APA",
+  sfo_description: "American Psychological Association"
+});
