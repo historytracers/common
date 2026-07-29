@@ -7,6 +7,7 @@ import java.util.List;
 public class SMGameContent {
     public String id;
     public String audio;
+    public String smile;
     public List<HTText> text;
 
     public Object desc;

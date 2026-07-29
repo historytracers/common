@@ -337,6 +337,7 @@ type AtlasTemplateFile struct {
 type SMGameContent struct {
 	ID       string      `json:"id"`
 	Audio    string      `json:"audio"`
+	Smile    string      `json:"smile"`
 	Text     []HTText    `json:"text"`
 	Desc     interface{} `json:"desc"`
 	Next     string      `json:"next"`
