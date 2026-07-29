@@ -335,17 +335,18 @@ type AtlasTemplateFile struct {
 }
 
 type SMGameContent struct {
-	ID       string      `json:"id"`
-	Audio    string      `json:"audio"`
-	Smile    string      `json:"smile"`
-	Text     []HTText    `json:"text"`
-	Desc     interface{} `json:"desc"`
-	Next     string      `json:"next"`
-	Prev     string      `json:"prev"`
-	JumpTo   string      `json:"jumpTo"`
-	Answer   interface{} `json:"answer"`
-	Score    int         `json:"score"`
-	Position string      `json:"position,omitempty"`
+	ID         string      `json:"id"`
+	Audio      string      `json:"audio"`
+	Smile      string      `json:"smile"`
+	SourceMenu HTSource    `json:"source_menu"`
+	Text       []HTText    `json:"text"`
+	Desc       interface{} `json:"desc"`
+	Next       string      `json:"next"`
+	Prev       string      `json:"prev"`
+	JumpTo     string      `json:"jumpTo"`
+	Answer     interface{} `json:"answer"`
+	Score      int         `json:"score"`
+	Position   string      `json:"position,omitempty"`
 }
 
 type SMGameLevel struct {

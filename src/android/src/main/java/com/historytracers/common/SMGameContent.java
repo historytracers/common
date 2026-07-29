@@ -8,6 +8,7 @@ public class SMGameContent {
     public String id;
     public String audio;
     public String smile;
+    public HTSource sourceMenu;
     public List<HTText> text;
 
     public Object desc;
