@@ -338,7 +338,7 @@ type SMGameContent struct {
 	ID         string      `json:"id"`
 	Audio      string      `json:"audio"`
 	Smile      string      `json:"smile"`
-	SourceMenu HTSource    `json:"source_menu"`
+	SourceMenu []HTSource  `json:"source_menu"`
 	Text       []HTText    `json:"text"`
 	Desc       interface{} `json:"desc"`
 	Next       string      `json:"next"`
