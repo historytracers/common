@@ -8,6 +8,7 @@ import java.util.List;
 
 public class SMGameFile {
     public String title;
+    public String index;
     public List<String> sources;
     public List<String> license;
 
