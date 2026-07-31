@@ -359,6 +359,7 @@ type SMGameLevel struct {
 }
 
 type SMGameFile struct {
+	Title      string          `json:"title"`
 	Sources    []string        `json:"sources"`
 	License    []string        `json:"license"`
 	LastUpdate []string        `json:"last_update"`
