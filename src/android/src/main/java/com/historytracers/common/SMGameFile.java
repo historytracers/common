@@ -7,6 +7,7 @@ import com.google.gson.annotations.SerializedName;
 import java.util.List;
 
 public class SMGameFile {
+    public String title;
     public List<String> sources;
     public List<String> license;
 
