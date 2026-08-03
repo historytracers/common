@@ -10,7 +10,10 @@ public class SMGameContent {
     public String id;
     public String audio;
     public String smile;
+
+    @SerializedName("source_menu")
     public List<HTSource> sourceMenu;
+
     public List<HTText> text;
 
     public Object desc;
