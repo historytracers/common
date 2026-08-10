@@ -1,0 +1,194 @@
+{
+   "title": "",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "71bf295a-ac36-4cdb-a377-f41dc87ae8eb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786372800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "cc86d4cb-a568-4165-aa1a-4cdd97491d1f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Famílias nnuméricas\n\nAté o momento, vimos como podemos ligar a vida dos pais a seus filhos através de números com unidades e dezenas.\n\nMas, na vida, precisamos contar muito mais que 99 quantidades.\n\nNesta aula, iremos aprofundar este conhecimento.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7506de0c-bc97-4263-b5cf-75f9a477e6ce",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7506de0c-bc97-4263-b5cf-75f9a477e6ce",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Para usarmos números maiores que 99, bastaria inciar uma nova família numérica - ordem - a partir do número 100 indo até 199, depois 200 até 299 e assim por diante?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7b7eda12-2ca9-45f9-a85a-b0f9eb3a0726",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "7b7eda12-2ca9-45f9-a85a-b0f9eb3a0726",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Lógica\n\nA mudança de família numérica - ordem - sempre ocorre da mesma menaira quando estamos trabalhamos com números. Sempre que todas as ordens anteriores chegam a 9, isso quer dizer que o próximo número é alterado e os anteriores voltam a zero.\n\nVejamos alguns exemplos:\n\n- Após 99 temos 100\n- Após 999 temos 1000\n - Após 9.999 temos 10.000\n\nE assim por diante.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5ed5b836-933d-4f53-83dc-97d1db090106",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5ed5b836-933d-4f53-83dc-97d1db090106",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Nós já falamos que números possuem suas gerações - ordens - que chamamos unidades e dezenas. As demais ordens também possuem nomes?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "41e9922f-cb01-40b5-a2e1-54052ca249d2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "41e9922f-cb01-40b5-a2e1-54052ca249d2",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Parque Arqueológico Copán",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "217bfbe4-4194-4fa1-bd0f-d44a9b783488",
+               "text": "Anastasia Hutnick",
+               "page": "https://ahutnick.github.io/copanaltarqkings/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2020",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
+               "text": "Texto original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Meu nome é\n\nDa mesma maneira que que nós temos uum nome, nossos pais tem os deles, nossos avós tinham os deles como acontece no altar Q de Copán, Honduras.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Copan/CopanAltarGenealogy2.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Imagem do Altar Q em Copán, Honduras. Foto tirada em uma visita ao sítio*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
