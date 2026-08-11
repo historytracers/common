@@ -1,0 +1,246 @@
+{
+   "title": "Hacia el infinito",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "3a3c5e37-5f91-4622-a2e8-5ec52e103f4c"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786409579"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6b6713fb-af81-4db8-98c6-f24b98dd186c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¿Existe un número máximo?\n\nEn las lecciones anteriores, aprendimos que los números tuvieron su origen en nuestro cuerpo. Vimos también que, utilizando solo las manos y los pies, sería complicado contarlo todo.\n\nAprendimos que las personas comenzaron a representar partes de nuestro cuerpo como símbolos y que, a través de estos símbolos, podríamos contar grandes cantidades.\n\nPero todavía falta saber si existe un límite para estos conteos. Y esto será estudiado en esta lección.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "da986842-0ca2-4c1e-93aa-83d423a6c00e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "da986842-0ca2-4c1e-93aa-83d423a6c00e",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Vimos que los números crecen cuando colocamos números a la izquierda. ¿Existe alguna ley que nos prohíba colocar aún más números a la izquierda?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e52b9fa6-65a2-48f3-a08f-477a24dd75f9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "e52b9fa6-65a2-48f3-a08f-477a24dd75f9",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "bdc3e24e-2029-4a4b-8fc3-116feed24586",
+               "text": "Cahal Pech",
+               "page": "https://nichbelize.org/ia-sites/cahal-pech/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sin límites\n\nNuestra vida llega a un momento en que dejamos de crecer. Y, cuando colocamos líquidos en un recipiente, como en la imagen de abajo, no podemos colocar más de lo que permite, para que no se derrame. Pero, cuando hablamos de números, el caso es bastante diferente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/CahalPech/ChocolatPot.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Imagen de un recipiente de chocolate hallado en Cahal Pech, Belice*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+
+         ],
+         "desc": null,
+         "next": "aad23fe2-76a0-45af-bf8c-c13ffe7e536c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "aad23fe2-76a0-45af-bf8c-c13ffe7e536c",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Cuando la humanidad comienza a desarrollar sus pensamientos, pasamos de un lugar sin conteos a marcadores que nos ayudan a contar. En otras palabras, pasamos de una situación hablada e imaginada a algo que podemos tocar.\n\n¿Sería posible hacer lo contrario con los números y crear algo que imaginamos tan grande que lo representamos con un símbolo que lo diga?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ddb81ec9-48a7-4959-9ca2-fa40132140fe",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "ddb81ec9-48a7-4959-9ca2-fa40132140fe",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Caminando en una dirección\n\nNada nos impide continuar añadiendo números. Ante este hecho, una persona podría pasar toda su vida nombrando números y todavía habría números por nombrar. Por lo tanto, también necesitamos hacer algo con ellos, tal como hicimos al crear símbolos para darles nombres.\n\nComo sabemos que los números crecen a medida que colocamos más valores a la izquierda, podemos decir que van en una dirección. O incluso, que tienden a un lugar.\n\nCon esto, a medida que los números van creciendo mucho, ya no nombraremos un número; diremos que los números tienden al infinito, y lo representamos como ∞.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "609397d1-d852-4926-b5e3-0f123503bed6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "00da5320-730e-43a6-976c-46494ad02a66",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta lección, aprendimos que a nuestro alrededor tenemos cantidades pequeñas que pueden ser contadas con los números que ya aprendimos.\n\nTambién vimos que los números no tienen una regla para dejar de crecer; por lo tanto, necesitamos ir más allá para definir cantidades muy grandes.\n\nFinalmente, llegamos a la conclusión de que, a medida que las cosas crecen mucho, tienden al infinito (∞), que no es un número.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
