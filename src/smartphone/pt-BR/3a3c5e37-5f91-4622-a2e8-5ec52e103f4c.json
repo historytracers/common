@@ -1,0 +1,91 @@
+{
+   "title": "Em direção ao infinito",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "3a3c5e37-5f91-4622-a2e8-5ec52e103f4c"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786409579"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6b6713fb-af81-4db8-98c6-f24b98dd186c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Existiria um número máximo?\n\nNas aulas anteriores, começamos aprendendo que os números partiram de nosso corpo. Vimos ainda que apenas utilizando mãos e pés seria complicado contar tudo.\n\nAprendemos que as pessoas começaram a reprentar parte de nossos corpos como símbolos e que através destes símoblos poderíamos contar grandes quantidades.\n\nMas, ainda falta saber se existe um limite para estas contagens. E isso, será estudado nesta aula.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "da986842-0ca2-4c1e-93aa-83d423a6c00e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+        "id": "da986842-0ca2-4c1e-93aa-83d423a6c00e",
+        "audio": "",
+        "smile": "thinking",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "Vimos que os números crescem quando colocamos números à esquerda. Existe alguma lei que proiba de colocarmos ainda mais númeors à esquerda?",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "e52b9fa6-65a2-48f3-a08f-477a24dd75f9",
+        "prev": "",
+        "jumpTo": "",
+        "answer": "no",
+        "score": 2,
+        "position": ""
+      },
+      {
+        "id": "e52b9fa6-65a2-48f3-a08f-477a24dd75f9",
+        "audio": "",
+        "smile": "shocking",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Sem límites\n\nApesar da nossa vida, chegar um momento que não aguentamos mais comer. O momento que deixamos de crescer. Quando falamos de números, o caso é bem diferentes. Nada nos impede de continuar adicionamos números",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
+      }
+   ]
+}
