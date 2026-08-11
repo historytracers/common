@@ -114,7 +114,7 @@
       {
          "id": "41e9922f-cb01-40b5-a2e1-54052ca249d2",
          "audio": "",
-         "smile": "",
+         "smile": "inlove",
          "source_menu": [
             {
                "type": 0,
@@ -183,12 +183,106 @@
             }
          ],
          "desc": null,
-         "next": "",
+         "next": "b2c8ab54-90cf-4573-80e9-74813e2e4b59",
          "prev": "",
          "jumpTo": "",
          "answer": null,
          "score": 1,
          "position": ""
+      },
+      {
+         "id": "b2c8ab54-90cf-4573-80e9-74813e2e4b59",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
+               "text": "Texto original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nomeando os números\n\nCada número tem seu nome, mas aqui apenas trataremos das famílias numéricas, ou ordens.\n\nEstas famílias numéricas possuem um padrão apresentado abaixo:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+              "text": "|Família / Ordem| Primeiro número | Ùltimo número|\n|-----|-----|------|\n|Unidade|0|9|\n|Dezena|10|99|\n|Centena|100|999|\n|Milhar|1.000|9.999|\n|Dezena de Milha|10.000|99.999|\n|Centena de Milhar|100.000|999.999|\n|Milhão|1.000.000|9.999.999|\n|Dezema de Milhão|10.000.000|99.999.999|\n|Centena de Milhão|100.000.000|999.999.999|\n|Bilhão|1.000.000.000|9.999.999.999|",
+              "source": [],
+              "date_time": [],
+              "isTable": true,
+              "imgdesc": "",
+              "format": "markdown",
+              "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93d4b480-5efe-4eb8-b9e0-179560c53ec3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+        "id": "93d4b480-5efe-4eb8-b9e0-179560c53ec3",
+        "audio": "",
+        "smile": "thinking",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "Na tela anterior listamos números até o bilhão, existem mais números?",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "3269d049-27cc-4a00-9191-11ca2d07555b",
+        "prev": "",
+        "jumpTo": "",
+        "answer": "yes",
+        "score": 1,
+        "position": ""
+      },
+      {
+        "id": "3269d049-27cc-4a00-9191-11ca2d07555b",
+        "audio": "",
+        "smile": "party",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Conclusão\n\nNesta aula vimos uqe os números são agrupados por famílias. Estas família sempre tem seu último valor quando todos as ordens possuem o valor 9. Quando isso ocorre, nós mudamos para a próxima família.\n\nApesar de termos listado apenas algumas famílias numéricas, este não é o fim.\n\nNas próximas aulas, continuaremos estudando outros números.",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
       }
    ]
 }
