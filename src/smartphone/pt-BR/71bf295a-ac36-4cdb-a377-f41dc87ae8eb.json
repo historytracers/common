@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Famílias nnuméricas\n\nAté o momento, vimos como podemos ligar a vida dos pais a seus filhos através de números com unidades e dezenas.\n\nMas, na vida, precisamos contar muito mais que 99 quantidades.\n\nNesta aula, iremos aprofundar este conhecimento.",
+               "text": "#### Famílias numéricas\n\nAté o momento, vimos como podemos relacionar a vida dos pais a seus filhos através de números com unidades e dezenas.\n\nMas, na vida, precisamos contar muito mais do que 99 quantidades.\n\nNesta aula, iremos aprofundar esse conhecimento.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Para usarmos números maiores que 99, bastaria inciar uma nova família numérica - ordem - a partir do número 100 indo até 199, depois 200 até 299 e assim por diante?",
+               "text": "Para usarmos números maiores que 99, bastaria iniciar uma nova família numérica — ordem — a partir do número 100, indo até 199, depois do 200 ao 299, e assim por diante?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -70,7 +70,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Lógica\n\nA mudança de família numérica - ordem - sempre ocorre da mesma menaira quando estamos trabalhamos com números. Sempre que todas as ordens anteriores chegam a 9, isso quer dizer que o próximo número é alterado e os anteriores voltam a zero.\n\nVejamos alguns exemplos:\n\n- Após 99 temos 100\n- Após 999 temos 1000\n - Após 9.999 temos 10.000\n\nE assim por diante.",
+               "text": "#### Lógica\n\nA mudança de família numérica — ordem — sempre ocorre da mesma maneira quando trabalhamos com números. Sempre que todas as ordens anteriores chegam ao 9, o próximo número é alterado e os anteriores voltam a zero.\n\nVejamos alguns exemplos:\n\n- Após 99 temos 100\n- Após 999 temos 1000\n- Após 9.999 temos 10.000\n\nE assim por diante.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -94,7 +94,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Nós já falamos que números possuem suas gerações - ordens - que chamamos unidades e dezenas. As demais ordens também possuem nomes?",
+               "text": "Nós já falamos que os números possuem suas gerações — ordens — que chamamos de unidades e dezenas. As demais ordens também possuem nomes?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -155,7 +155,7 @@
          ],
          "text": [
             {
-               "text": "#### Meu nome é\n\nDa mesma maneira que que nós temos uum nome, nossos pais tem os deles, nossos avós tinham os deles como acontece no altar Q de Copán, Honduras.",
+               "text": "#### Meu nome é\n\nDa mesma maneira que nós temos um nome, nossos pais têm os deles e nossos avós tinham os seus, como acontece no Altar Q de Copán, em Honduras.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -173,7 +173,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Imagem do Altar Q em Copán, Honduras. Foto tirada em uma visita ao sítio*",
+               "text": "*Imagem do Altar Q em Copán, Honduras. Foto tirada durante uma visita ao sítio.*",
                "source": [],
                "date_time": [],
                "isTable": false,
@@ -210,7 +210,7 @@
          ],
          "text": [
             {
-               "text": "#### Nomeando os números\n\nCada número tem seu nome, mas aqui apenas trataremos das famílias numéricas, ou ordens.\n\nEstas famílias numéricas possuem um padrão apresentado abaixo:",
+               "text": "#### Nomeando os números\n\nCada número tem seu nome, mas aqui trataremos apenas das famílias numéricas, ou ordens.\n\nEstas famílias numéricas seguem um padrão apresentado abaixo:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -219,7 +219,7 @@
                "PostMention": ""
             },
             {
-              "text": "|Família / Ordem| Primeiro número | Ùltimo número|\n|-----|-----|------|\n|Unidade|0|9|\n|Dezena|10|99|\n|Centena|100|999|\n|Milhar|1.000|9.999|\n|Dezena de Milha|10.000|99.999|\n|Centena de Milhar|100.000|999.999|\n|Milhão|1.000.000|9.999.999|\n|Dezema de Milhão|10.000.000|99.999.999|\n|Centena de Milhão|100.000.000|999.999.999|\n|Bilhão|1.000.000.000|9.999.999.999|",
+              "text": "|Família / Ordem|Primeiro número|Último número|\n|-----|-----|------|\n|Unidade|0|9|\n|Dezena|10|99|\n|Centena|100|999|\n|Milhar|1.000|9.999|\n|Dezena de Milhar|10.000|99.999|\n|Centena de Milhar|100.000|999.999|\n|Milhão|1.000.000|9.999.999|\n|Dezena de Milhão|10.000.000|99.999.999|\n|Centena de Milhão|100.000.000|999.999.999|\n|Bilhão|1.000.000.000|9.999.999.999|",
               "source": [],
               "date_time": [],
               "isTable": true,
@@ -243,7 +243,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "Na tela anterior listamos números até o bilhão, existem mais números?",
+            "text": "Na tela anterior, listamos números até o bilhão. Existem mais números?",
             "source": [],
             "date_time": null,
             "isTable": false,
@@ -267,7 +267,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Conclusão\n\nNesta aula vimos uqe os números são agrupados por famílias. Estas família sempre tem seu último valor quando todos as ordens possuem o valor 9. Quando isso ocorre, nós mudamos para a próxima família.\n\nApesar de termos listado apenas algumas famílias numéricas, este não é o fim.\n\nNas próximas aulas, continuaremos estudando outros números.",
+            "text": "#### Conclusão\n\nNesta aula, vimos que os números são agrupados por famílias. Estas famílias sempre têm seu último valor quando todas as ordens possuem o valor 9. Quando isso ocorre, mudamos para a próxima família.\n\nApesar de termos listado apenas algumas famílias numéricas, este não é o fim.\n\nNas próximas aulas, continuaremos estudando outros números.",
             "source": [],
             "date_time": null,
             "isTable": false,

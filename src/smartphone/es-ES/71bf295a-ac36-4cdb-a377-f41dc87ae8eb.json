@@ -1,6 +1,6 @@
 {
-   "title": "",
-   "index": "",
+   "title": "Familias Numéricas (Parte 2)",
+   "index": "FirstStepsScreen",
    "sources": [
       "71bf295a-ac36-4cdb-a377-f41dc87ae8eb"
    ],
@@ -14,5 +14,275 @@
    "reviewers": "",
    "version": 1,
    "type": "sm_game",
-   "content": []
+   "content": [
+      {
+         "id": "cc86d4cb-a568-4165-aa1a-4cdd97491d1f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Familias numéricas\n\nHasta el momento, hemos visto cómo podemos relacionar la vida de los padres con sus hijos a través de números con unidades y decenas.\n\nPero, en la vida, necesitamos contar mucho más de 99 cantidades.\n\nEn esta clase, profundizaremos este conocimiento.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7506de0c-bc97-4263-b5cf-75f9a477e6ce",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7506de0c-bc97-4263-b5cf-75f9a477e6ce",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Para usar números mayores que 99, ¿bastaría con iniciar una nueva familia numérica — orden — a partir del número 100, yendo hasta 199, luego del 200 al 299, y así sucesivamente?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7b7eda12-2ca9-45f9-a85a-b0f9eb3a0726",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "7b7eda12-2ca9-45f9-a85a-b0f9eb3a0726",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Lógica\n\nEl cambio de familia numérica — orden — siempre ocurre de la misma manera cuando trabajamos con números. Siempre que todas las órdenes anteriores llegan al 9, el siguiente número se altera y los anteriores vuelven a cero.\n\nVeamos algunos ejemplos:\n\n- Después de 99 tenemos 100\n- Después de 999 tenemos 1000\n- Después de 9.999 tenemos 10.000\n\nY así sucesivamente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5ed5b836-933d-4f53-83dc-97d1db090106",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5ed5b836-933d-4f53-83dc-97d1db090106",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Ya hemos dicho que los números tienen sus generaciones — órdenes — que llamamos unidades y decenas. ¿Las demás órdenes también tienen nombres?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "41e9922f-cb01-40b5-a2e1-54052ca249d2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "41e9922f-cb01-40b5-a2e1-54052ca249d2",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Parque Arqueológico Copán",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "217bfbe4-4194-4fa1-bd0f-d44a9b783488",
+               "text": "Anastasia Hutnick",
+               "page": "https://ahutnick.github.io/copanaltarqkings/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2020",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
+               "text": "Texto original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mi nombre es\n\nDe la misma manera que nosotros tenemos un nombre, nuestros padres tienen los suyos y nuestros abuelos tenían los suyos, como sucede en el Altar Q de Copán, en Honduras.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Copan/CopanAltarGenealogy2.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Imagen del Altar Q en Copán, Honduras. Foto tomada durante una visita al sitio.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b2c8ab54-90cf-4573-80e9-74813e2e4b59",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b2c8ab54-90cf-4573-80e9-74813e2e4b59",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
+               "text": "Texto original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nombrando los números\n\nCada número tiene su nombre, pero aquí trataremos solo de las familias numéricas, u órdenes.\n\nEstas familias numéricas siguen un patrón presentado a continuación:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "|Familia / Orden|Primer número|Último número|\n|-----|-----|------|\n|Unidad|0|9|\n|Decena|10|99|\n|Centena|100|999|\n|Unidad de mil|1.000|9.999|\n|Decena de mil|10.000|99.999|\n|Centena de mil|100.000|999.999|\n|Millón|1.000.000|9.999.999|\n|Decena de millón|10.000.000|99.999.999|\n|Centena de millón|100.000.000|999.999.999|\n|Mil millones|1.000.000.000|9.999.999.999|",
+               "source": [],
+               "date_time": [],
+               "isTable": true,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93d4b480-5efe-4eb8-b9e0-179560c53ec3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "93d4b480-5efe-4eb8-b9e0-179560c53ec3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "En la pantalla anterior, enumeramos números hasta los mil millones. ¿Existen más números?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3269d049-27cc-4a00-9191-11ca2d07555b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3269d049-27cc-4a00-9191-11ca2d07555b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, vimos que los números se agrupan por familias. Estas familias siempre tienen su último valor cuando todas las órdenes poseen el valor 9. Cuando eso ocurre, pasamos a la siguiente familia.\n\nAunque solo hemos listado algunas familias numéricas, este no es el final.\n\nEn las próximas clases, continuaremos estudiando otros números.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
 }
