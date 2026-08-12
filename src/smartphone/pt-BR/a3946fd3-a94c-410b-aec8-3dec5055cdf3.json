@@ -1,0 +1,56 @@
+{
+   "title": "Limites (min e max)",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "a3946fd3-a94c-410b-aec8-3dec5055cdf3"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786503318"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e97ef9a7-4180-4783-8688-9ace7416744b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Entre ambos\n\nAo estudarmos os números, observamos que para qualquer família - ordem - há um valor mínimo (0) e um valor máximo (9).\n\nEstes dois números na verdade, nos informam muito mais, e possuem relação com a aula anterior onde aprendemos sobre o infinito (∞).\n\nNesta aula, iremos aprofundar um pouco mais sobre este tema.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3339d6e5-3719-48ab-af4d-12665450593d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
