@@ -40,20 +40,20 @@
          "position": ""
       },
       {
-        "id": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
-        "audio": "",
-        "smile": "happy",
-        "source_menu": [],
-        "text": [
-          {
-            "text": "#### Em nós\n\nJá vimos que podemos usar os números com as mãos, mas não só isso. Veja a baixo, podemos enumerar diferentes partes do nosso corpo com ele também.",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown",
-            "PostMention": ""
-          },
+         "id": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Em nós\n\nJá vimos que podemos usar os números com as mãos, mas não só isso. Veja a baixo, podemos enumerar diferentes partes do nosso corpo com ele também.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
             {
                "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/HTHumanBody.jpg\" />",
                "source": [],
@@ -72,38 +72,288 @@
                "format": "markdown",
                "PostMention": ""
             }
-        ],
-        "desc": null,
-        "next": "1085204f-72c0-44cf-aed8-e49e307f0599",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         ],
+         "desc": null,
+         "next": "1085204f-72c0-44cf-aed8-e49e307f0599",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       },
       {
-        "id": "1085204f-72c0-44cf-aed8-e49e307f0599",
-        "audio": "",
-        "smile": "shocking",
-        "source_menu": [],
-        "text": [
-          {
-            "text": "#### Em nossas construções\n\n",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown/html/text",
-            "PostMention": ""
-          }
-        ],
-        "desc": null,
-        "next": "8d37d550-e695-4270-9174-96a18bd89f5c",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         "id": "1085204f-72c0-44cf-aed8-e49e307f0599",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Parque Arqueológico Copán",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5390fa3b-735f-4e22-ac98-178303a13fdb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1009578c-3097-4183-9f10-c6dd0a833d5b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Em nossos textos\n\nUm dos locais que números estão presentes são os textos. Por exemplo, podemos contar as letras e palavras que estamos lendo. Ou ainda, há textos que não utilizam o alfabeto, eles utilizam hieróglifos com a estela em Copán, Honduras. Podemos também contar estes hieróglifos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Copan/CopanWholeTextStelaAltar.png\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Estela, altar e hieróglifos em formato de escada em Copán, Honduras.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8d37d550-e695-4270-9174-96a18bd89f5c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8d37d550-e695-4270-9174-96a18bd89f5c",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "cb216fdf-1282-42e0-aaf4-3547b53857d7",
+               "text": "Black, J.A. et al.",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/c211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "c8dd380c-6f66-415c-94fa-b116308adeef",
+               "text": "Black, J.A. et al. (Tradução)",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Idades\n\nNosso conhecimento sobre o passado da humandiade, do planeta e do universo é algo novo. Mas, isso não quer dizer que não tentamos explicar antes de uma maneira poética.\n\nPor exemplo, na lista dos reis sumérios, que contém reis reais e outros nunca comprovados, é dito que em diferentes cidades houve 8 reis que juntos governaram 241.200 anos, com um dos reis governando 43.200 anos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Ashmolean/KingList.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Lista dos Reis Sumérios. © Ashmolean Museum, University of Oxford.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a6b3df3d-c1d2-4897-a567-508887dbb8b1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a6b3df3d-c1d2-4897-a567-508887dbb8b1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "cb216fdf-1282-42e0-aaf4-3547b53857d7",
+               "text": "Black, J.A. et al.",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/c211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "c8dd380c-6f66-415c-94fa-b116308adeef",
+               "text": "Black, J.A. et al. (Tradução)",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "A lista dos reis sumérios dá um período de governo de milênios - mais de mil anos - para pessoas. A medida que avançamos nos textos, vemos que o período vai reduzindo para séculos - períodos com mais de 100 anos - e finalmente chega a períodos que vivemos hoje.\n\nSeria possível pessoas viveram séculos ou milênios como os sumérios escreveram e outros povos possivelmente aprenderam com eles?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "74ebbfc2-8d37-4d29-b6be-eb38acc8c060",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "74ebbfc2-8d37-4d29-b6be-eb38acc8c060",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f4f9c247-4a7e-4277-8691-99659cf2c240",
+               "text": "Cy",
+               "page": "https://www.youtube.com/watch?v=7u1-tAMrIgM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2021",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ab1dda1e-95c2-4087-8299-e851e58bdc6f",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Errados, mas certos\n\nQuando os sumérios propuseram que poucos reis tinha sido governada por mais de 200.000 anos por 8 poucos reis, eles escreveram algo impossível, afinal, o tempo de vida nosso no passado não é diferente do atual.\n\nPor outro lado, sem ter o conhecimento necesário, eles conseguiram ver que a humanidade não tem pouco tempo.\n\nNos dias atuais,, sabemos que várias espécies de humanos existiam, e possivelmente, outras ainda serão descobertas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<p id=\"circtri0\"><div class=\"atlasCircleContainer\"><svg viewBox=\"0 0 600 340\" class=\"circle-draw\" id=\"svgcirctri0\">  <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"3\" markerHeight=\"3\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <text x=\"42\" y=\"60\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 70, 60)\">Paranthropus africanus</text> <text x=\"72\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 70, 60)\">Australopithecus africanus</text> <text x=\"112\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 110, 60)\">Paranthropus aethiopicus</text> <text x=\"152\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 150, 60)\">Paranthropus boisei</text> <text x=\"192\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 190, 60)\">Paranthropus robustus</text> <text x=\"232\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 230, 60)\">Homo habilis</text> <text x=\"272\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 270, 60)\">Homo rudolfensis</text> <text x=\"312\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 310, 60)\">Homo ergaster</text> <text x=\"352\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 350, 60)\">Homo erectus</text> <text x=\"392\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 390, 60)\">Homo heidelbergensis</text> <text x=\"432\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 430, 60)\">Homo neanderthalensis</text> <text x=\"472\" y=\"75\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 470, 60)\">Homo sapiens</text> <line x1=\"220\" y1=\"324\" x2=\"475\" y2=\"80\" stroke=\"black\" /> <line x1=\"253\" y1=\"294\" x2=\"50\" y2=\"80\" stroke=\"black\" /> <line x1=\"273\" y1=\"274\" x2=\"84\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"126\" y2=\"80\" stroke=\"black\" /> <line x1=\"164\" y1=\"119\" x2=\"197\" y2=\"80\" stroke=\"black\" /> <line x1=\"164\" y1=\"119\" x2=\"164\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"242\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"282\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"326\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"366\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"404\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"444\" y2=\"80\" stroke=\"black\" /></svg></div></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Relação entre humanos e espécies próximas.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "08b8faee-c9d5-4195-af8d-43573971f07d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       }
    ]
 }
