@@ -35,7 +35,7 @@
          ],
          "text": [
             {
-               "text": "#### Entre ambos\n\nAo estudarmos os números, observamos que para qualquer família - ordem - há um valor mínimo (0) e um valor máximo (9).\n\nEstes dois números na verdade, nos informam muito mais, e possuem relação com a aula anterior onde aprendemos sobre o infinito (∞).\n\nNesta aula, iremos aprofundar um pouco mais sobre este tema.",
+               "text": "#### Entre ambos\n\nAo estudarmos os números, observamos que, para qualquer família (ordem), há um valor mínimo (0) e um valor máximo (9).\n\nEsses dois números, na verdade, nos informam muito mais e têm relação com a aula anterior, na qual aprendemos sobre o infinito (∞).\n\nNesta aula, iremos aprofundar um pouco mais este tema.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -72,7 +72,7 @@
          ],
          "text": [
             {
-               "text": "Na aula anterior, aprendemos que os números crescem para sempre, e com isso, quando queremos dizer que um número é muito grande dizemos que ele tende ao infinito (∞), que não é um número.\n\nSeria possível penssar assim para números pequenos também?",
+               "text": "Na aula anterior, aprendemos que os números crescem para sempre. Por isso, quando queremos dizer que um número é muito grande, dizemos que ele tende ao infinito (∞), que não é um número.\n\nSeria possível pensar assim para números pequenos também?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -109,7 +109,7 @@
         ],
         "text": [
           {
-            "text": "##### Tendendo os outros números\n\nA idéia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que não é possível escrever números diferentes de zero (0) e nove (9) em ordens numéricas (unidades, dezenas...), com isso, quando nos aproximamos do 9 sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, a medida que os números diminuem, nós tendemos a zero, que é o mínimo.",
+            "text": "##### Tendendo os outros números\n\nA ideia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que não é possível escrever números diferentes de zero (0) e nove (9) nas ordens numéricas (unidades, dezenas...). Por isso, quando nos aproximamos do 9, sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, à medida que os números diminuem, tendemos a zero, que é o mínimo.",
             "source": [],
             "date_time": null,
             "isTable": false,
@@ -133,7 +133,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Tendências na prática\n\nPodemos ver estas tendências utilizando nossas próprias mãos.\n\nUse as setas de controle para visualizar os números",
+            "text": "#### Tendências na prática\n\nPodemos ver estas tendências utilizando nossas próprias mãos.\n\nUse as setas de controle para visualizar os números.",
             "source": [],
             "date_time": null,
             "isTable": false,
@@ -175,7 +175,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Conclusão\n\nNesta aula aprendemos que também podemos usar a idéia de limites como se fossem valores que desejamos atingir. Para isso, utilizamos os valores máxiimos e míminos dos sistemas decimais.\n\nMas, ainda falta uma pergunta para ser respondida. Como a humanidade utiliza todos os números que vimos? A resposta para esta pergunta será dada na próxima aula.",
+            "text": "#### Conclusão\n\nNesta aula, aprendemos que também podemos usar a ideia de limites como se fossem valores que desejamos atingir. Para isso, utilizamos os valores máximos e mínimos dos sistemas decimais.\n\nMas ainda falta uma pergunta para ser respondida: como a humanidade utiliza todos os números que vimos? A resposta para essa pergunta será dada na próxima aula.",
             "source": [],
             "date_time": null,
             "isTable": false,
