@@ -1,0 +1,109 @@
+{
+   "title": "Onde eles estão?",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "93b8800e-6f1d-4a79-b53f-7607a59f96b2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786586958"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d8306f3b-a479-4df1-8032-8bb5371bcb08",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### A lingua mais falada\n\nPodemos considerar a matemática como a língua da natureza, desta forma, ela está em todos os locais.\n\nA medida que estudamos a matemática, estamos entendendo como a natureza funciona e com isso podemos fazer entre outras coisas o eletrônico que você está usando para aprender\n\nNesta aula, veremos que a humanidade vem aprendendo a língua da natureza, com erros e acertos que nos ajudam a entender o universo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+        "id": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
+        "audio": "",
+        "smile": "happy",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Em nós\n\nJá vimos que podemos usar os números com as mãos, mas não só isso. Veja a baixo, podemos enumerar diferentes partes do nosso corpo com ele também.",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown",
+            "PostMention": ""
+          },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/HTHumanBody.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Corpo humanos com suas partes enumeradas.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+        ],
+        "desc": null,
+        "next": "1085204f-72c0-44cf-aed8-e49e307f0599",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
+      },
+      {
+        "id": "1085204f-72c0-44cf-aed8-e49e307f0599",
+        "audio": "",
+        "smile": "shocking",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Em nossas construções\n\n",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "8d37d550-e695-4270-9174-96a18bd89f5c",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
+      }
+   ]
+}
