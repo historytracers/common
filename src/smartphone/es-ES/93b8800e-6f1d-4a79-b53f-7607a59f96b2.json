@@ -1,0 +1,529 @@
+{
+   "title": "¿Dónde están?",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "93b8800e-6f1d-4a79-b53f-7607a59f96b2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1786586958"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d8306f3b-a479-4df1-8032-8bb5371bcb08",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### El idioma más hablado\n\nPodemos considerar las matemáticas como el idioma de la naturaleza; de esta forma, están presentes en todos los lugares.\n\nA medida que estudiamos matemáticas, pasamos a entender cómo funciona la naturaleza y, con ello, podemos crear, entre otras cosas, el dispositivo electrónico que estás usando para aprender.\n\nEn esta lección, veremos que la humanidad ha estado aprendiendo el idioma de la naturaleza, con errores y aciertos que nos ayudan a entender el universo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9fca9377-a5bd-47a5-8113-1bdb35e4e33f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### En nosotros\n\nYa hemos visto que podemos usar los números con las manos, pero no solo eso. Mira a continuación: también podemos enumerar diferentes partes de nuestro cuerpo con ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/HTHumanBody.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Cuerpo humano con sus partes enumeradas.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1085204f-72c0-44cf-aed8-e49e307f0599",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1085204f-72c0-44cf-aed8-e49e307f0599",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Parque Arqueológico Copán",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5390fa3b-735f-4e22-ac98-178303a13fdb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1009578c-3097-4183-9f10-c6dd0a833d5b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En nuestros textos\n\nUno de los lugares donde los números están presentes son los textos. Por ejemplo, podemos contar las letras y las palabras que estamos leyendo. Además, hay textos que no usan el alfabeto; usan jeroglíficos, como la estela de Copán, Honduras. También podemos contar esos jeroglíficos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Copan/CopanWholeTextStelaAltar.png\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Estela, altar y jeroglíficos en forma de escalera en Copán, Honduras.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8d37d550-e695-4270-9174-96a18bd89f5c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8d37d550-e695-4270-9174-96a18bd89f5c",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "cb216fdf-1282-42e0-aaf4-3547b53857d7",
+               "text": "Black, J.A. et al.",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/c211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "c8dd380c-6f66-415c-94fa-b116308adeef",
+               "text": "Black, J.A. et al. (Tradução)",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Edades\n\nNuestro conocimiento sobre el pasado de la humanidad, del planeta y del universo es algo nuevo. Pero esto no significa que, antes, no intentamos explicarlo de manera poética.\n\nPor ejemplo, en la lista de los reyes sumerios, que contiene reyes reales y otros nunca comprobados, se dice que, en diferentes ciudades, hubo 8 reyes que, juntos, gobernaron 241.200 años, y que uno de ellos gobernó durante 43.200 años.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Ashmolean/KingList.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Lista de los Reyes Sumerios. © Ashmolean Museum, University of Oxford.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a6b3df3d-c1d2-4897-a567-508887dbb8b1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a6b3df3d-c1d2-4897-a567-508887dbb8b1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "cb216fdf-1282-42e0-aaf4-3547b53857d7",
+               "text": "Black, J.A. et al.",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/c211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "c8dd380c-6f66-415c-94fa-b116308adeef",
+               "text": "Black, J.A. et al. (Tradução)",
+               "page": "https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1998",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "La lista de los reyes sumerios atribuye períodos de gobierno de milenios - más de mil años - a algunas personas. A medida que avanzamos en los textos, vemos que ese período se va reduciendo a siglos - períodos de más de 100 años - y, finalmente, llega a los períodos de tiempo que vivimos hoy.\n\n¿Sería posible que las personas hubieran vivido siglos o milenios, como escribieron los sumerios y otros pueblos posiblemente aprendieron de ellos?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "74ebbfc2-8d37-4d29-b6be-eb38acc8c060",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "74ebbfc2-8d37-4d29-b6be-eb38acc8c060",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7fa66cfd-dca8-4a17-bead-e79954ba684a",
+               "text": "Wood, B., & Collard, M",
+               "page": "https://www.researchgate.net/publication/13188094_The_Human_Genus",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1999",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f4f9c247-4a7e-4277-8691-99659cf2c240",
+               "text": "Cy",
+               "page": "https://www.youtube.com/watch?v=7u1-tAMrIgM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2021",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ab1dda1e-95c2-4087-8299-e851e58bdc6f",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Equivocados, pero con razón\n\nCuando los sumerios propusieron que unos pocos reyes habían gobernado durante más de 200.000 años, escribieron algo imposible; después de todo, la esperanza de vida de las personas en el pasado no era diferente de la actual.\n\nPor otro lado, aun sin tener el conocimiento necesario, lograron concluir que la humanidad no tiene una historia corta.\n\nEn la actualidad, sabemos que existieron varias especies de humanos y que, posiblemente, otras aún serán descubiertas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p id=\"circtri0\"><div class=\"atlasCircleContainer\"><svg viewBox=\"0 0 600 340\" class=\"circle-draw\" id=\"svgcirctri0\">  <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"3\" markerHeight=\"3\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <text x=\"42\" y=\"60\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 70, 60)\">Paranthropus africanus</text> <text x=\"72\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 70, 60)\">Australopithecus africanus</text> <text x=\"112\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 110, 60)\">Paranthropus aethiopicus</text> <text x=\"152\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 150, 60)\">Paranthropus boisei</text> <text x=\"192\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 190, 60)\">Paranthropus robustus</text> <text x=\"232\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 230, 60)\">Homo habilis</text> <text x=\"272\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 270, 60)\">Homo rudolfensis</text> <text x=\"312\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 310, 60)\">Homo ergaster</text> <text x=\"352\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 350, 60)\">Homo erectus</text> <text x=\"392\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 390, 60)\">Homo heidelbergensis</text> <text x=\"432\" y=\"80\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 430, 60)\">Homo neanderthalensis</text> <text x=\"472\" y=\"75\" font-size=\"0.6em\" font-style=\"italic\" transform=\"rotate(-35, 470, 60)\">Homo sapiens</text> <line x1=\"220\" y1=\"324\" x2=\"475\" y2=\"80\" stroke=\"black\" /> <line x1=\"253\" y1=\"294\" x2=\"50\" y2=\"80\" stroke=\"black\" /> <line x1=\"273\" y1=\"274\" x2=\"84\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"126\" y2=\"80\" stroke=\"black\" /> <line x1=\"164\" y1=\"119\" x2=\"197\" y2=\"80\" stroke=\"black\" /> <line x1=\"164\" y1=\"119\" x2=\"164\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"242\" y2=\"80\" stroke=\"black\" /> <line x1=\"295\" y1=\"254\" x2=\"282\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"326\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"366\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"404\" y2=\"80\" stroke=\"black\" /> <line x1=\"397\" y1=\"156\" x2=\"444\" y2=\"80\" stroke=\"black\" /></svg></div></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Relación entre los humanos y las especies cercanas.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "08b8faee-c9d5-4195-af8d-43573971f07d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "08b8faee-c9d5-4195-af8d-43573971f07d",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "816d0d03-bd90-4bcd-84ef-a2316dc68eff",
+               "text": "Hitchcock, Don",
+               "page": "Homo erectus - Homo ergaster",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "-1",
+                  "day": "-1"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ab1dda1e-95c2-4087-8299-e851e58bdc6f",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=tree&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Especies humanas\n\nEl tiempo de existencia de las especies humanas es un período que va desde miles de años hasta algunos millones de años.\n\nEse tiempo fue determinado por diferentes excavaciones que encontraron esqueletos que sobrevivieron al paso del tiempo, como huesos de *Homo ergaster*, una especie que vivió hace casi 2 millones de años.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown/html/text",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/DonsMaps/1594.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Imagen realizada por Don Hitchcock y disponible en Don's Maps.*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "504c51fb-461d-4b92-99fa-6e0ba81d5c5e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "504c51fb-461d-4b92-99fa-6e0ba81d5c5e",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "16e68adc-2955-43d3-9413-5421557a40b7",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=atlas&atlas_page=a6ee2962-6912-4035-ae74-fa6bda6e1cc3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La vida y el universo\n\nCuando hablamos de toda la vida, de la creación de los planetas y de las estrellas, los números utilizados para hablar del tiempo son mucho mayores, según nuestras medidas del universo.\n\nNuestras medidas actuales muestran que el universo tiene más de 13.000 millones de años y que el planeta Tierra tiene menos de 5.000 millones de años.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" />",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Evolución del universo, según la Agencia Espacial Europea (ESA).*",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "964f32d7-56fa-4c27-8c70-83866b62934b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "964f32d7-56fa-4c27-8c70-83866b62934b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta lección, aprendimos algunos lugares donde usamos los números. Vimos que algunas informaciones fueron solo propuestas - como las vidas milenarias - mientras que otras fueron comprobadas - como un universo con miles de millones de años.\n\nEn ninguno de los dos escenarios hay personas vivas hoy que estuvieran presentes cuando algo ocurrió. Aun así, gracias a los estudios y a las pruebas basadas en esos estudios, podemos afirmar si algo es un hecho o un poema.\n\nTodo esto quedará más claro a medida que continúes estudiando.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
