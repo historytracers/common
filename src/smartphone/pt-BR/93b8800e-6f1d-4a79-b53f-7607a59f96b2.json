@@ -295,6 +295,18 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "7fa66cfd-dca8-4a17-bead-e79954ba684a",
+               "text": "Wood, B., & Collard, M.",
+               "page": "https://www.researchgate.net/publication/13188094_The_Human_Genus",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1999",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "f4f9c247-4a7e-4277-8691-99659cf2c240",
                "text": "Cy",
                "page": "https://www.youtube.com/watch?v=7u1-tAMrIgM",
@@ -426,7 +438,32 @@
          "id": "504c51fb-461d-4b92-99fa-6e0ba81d5c5e",
          "audio": "",
          "smile": "inlove",
-         "source_menu": [],
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "16e68adc-2955-43d3-9413-5421557a40b7",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=atlas&atlas_page=a6ee2962-6912-4035-ae74-fa6bda6e1cc3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
          "text": [
             {
                "text": "#### Vida e o universo\n\nAo falarmos sobre toda a vida, da criação dos planetas e das estrelas, os números utilizados para falar do tempo são bem maiores, de acordo com nossas medidas do universo.\n\nNossas medidas atuais mostram que o universo possui mais de 13 bilhões de anos, e o planeta Terra possui menos de 5 bilhões de anos.",

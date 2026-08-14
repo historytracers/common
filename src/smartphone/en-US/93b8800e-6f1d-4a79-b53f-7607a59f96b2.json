@@ -101,7 +101,7 @@
             {
                "type": 1,
                "uuid": "5390fa3b-735f-4e22-ac98-178303a13fdb",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=1009578c-3097-4183-9f10-c6dd0a833d5b",
                "date_time": {
                   "type": "gregory",
@@ -180,7 +180,7 @@
             {
                "type": 1,
                "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
                "date_time": {
                   "type": "gregory",
@@ -259,7 +259,7 @@
             {
                "type": 1,
                "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=tree&arg=376a5f3c-c598-40ee-95ad-5db9046ab8e2",
                "date_time": {
                   "type": "gregory",
@@ -295,6 +295,18 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "7fa66cfd-dca8-4a17-bead-e79954ba684a",
+               "text": "Wood, B., & Collard, M",
+               "page": "https://www.researchgate.net/publication/13188094_The_Human_Genus",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1999",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "f4f9c247-4a7e-4277-8691-99659cf2c240",
                "text": "Cy",
                "page": "https://www.youtube.com/watch?v=7u1-tAMrIgM",
@@ -308,7 +320,7 @@
             {
                "type": 1,
                "uuid": "ab1dda1e-95c2-4087-8299-e851e58bdc6f",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=tree&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
                "date_time": {
                   "type": "gregory",
@@ -375,7 +387,7 @@
             {
                "type": 1,
                "uuid": "ab1dda1e-95c2-4087-8299-e851e58bdc6f",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=tree&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
                "date_time": {
                   "type": "gregory",
@@ -426,7 +438,32 @@
          "id": "504c51fb-461d-4b92-99fa-6e0ba81d5c5e",
          "audio": "",
          "smile": "inlove",
-         "source_menu": [],
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "16e68adc-2955-43d3-9413-5421557a40b7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=atlas&atlas_page=a6ee2962-6912-4035-ae74-fa6bda6e1cc3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
          "text": [
             {
                "text": "#### Life and the Universe\n\nWhen we talk about all life, about the creation of planets and stars, the numbers used to talk about time become much larger, according to our measurements of the universe.\n\nOur current measurements show that the universe is more than 13 billion years old, and that planet Earth is less than 5 billion years old.",
