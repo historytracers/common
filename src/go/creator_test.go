@@ -31,6 +31,71 @@ func TestHTAddNewClassToIdx(t *testing.T) {
 	})
 }
 
+func TestHTAddNewClassToIdxAfter(t *testing.T) {
+	t.Run("inserts value after matching id", func(t *testing.T) {
+		idx := &ClassIdx{
+			Content:    []ClassContent{{Value: []ClassContentValue{{ID: "first"}, {ID: "third"}}}},
+			LastUpdate: []string{""},
+		}
+
+		HTAddNewClassToIdxAfter(idx, "newFile", "first")
+
+		vals := idx.Content[0].Value
+		if len(vals) != 3 {
+			t.Fatalf("expected 3 values, got %d", len(vals))
+		}
+		if vals[0].ID != "first" {
+			t.Errorf("expected first, got %s", vals[0].ID)
+		}
+		if vals[1].ID != "newFile" {
+			t.Errorf("expected newFile, got %s", vals[1].ID)
+		}
+		if vals[2].ID != "third" {
+			t.Errorf("expected third, got %s", vals[2].ID)
+		}
+	})
+
+	t.Run("inserts value in the content entry containing the id", func(t *testing.T) {
+		idx := &ClassIdx{
+			Content: []ClassContent{
+				{Value: []ClassContentValue{{ID: "first"}}},
+				{Value: []ClassContentValue{{ID: "second"}, {ID: "last"}}},
+			},
+			LastUpdate: []string{""},
+		}
+
+		HTAddNewClassToIdxAfter(idx, "newFile", "second")
+
+		vals := idx.Content[1].Value
+		if len(vals) != 3 {
+			t.Fatalf("expected 3 values, got %d", len(vals))
+		}
+		if vals[1].ID != "newFile" {
+			t.Errorf("expected newFile, got %s", vals[1].ID)
+		}
+		if vals[2].ID != "last" {
+			t.Errorf("expected last, got %s", vals[2].ID)
+		}
+	})
+
+	t.Run("appends to last content when id not found", func(t *testing.T) {
+		idx := &ClassIdx{
+			Content:    []ClassContent{{Value: []ClassContentValue{{ID: "existing"}}}},
+			LastUpdate: []string{""},
+		}
+
+		HTAddNewClassToIdxAfter(idx, "newFile", "missing")
+
+		vals := idx.Content[0].Value
+		if len(vals) != 2 {
+			t.Fatalf("expected 2 values, got %d", len(vals))
+		}
+		if vals[1].ID != "newFile" {
+			t.Errorf("expected newFile, got %s", vals[1].ID)
+		}
+	})
+}
+
 func TestHTAddNewFamilyToIdx(t *testing.T) {
 	t.Run("appends value to last content", func(t *testing.T) {
 		idx := &IdxFamily{
@@ -61,6 +126,54 @@ func TestHTAddNewFamilyToIdx(t *testing.T) {
 	t.Run("no-op when content is empty", func(t *testing.T) {
 		idx := &IdxFamily{}
 		HTAddNewFamilyToIdx(idx, "newFile", "en")
+	})
+}
+
+func TestHTAddNewFamilyToIdxAfter(t *testing.T) {
+	t.Run("inserts value after matching id", func(t *testing.T) {
+		idx := &IdxFamily{
+			Contents:   []IdxFamilyContent{{Value: []IdxFamilyValue{{ID: "first"}, {ID: "third"}}}},
+			LastUpdate: []string{""},
+		}
+
+		HTAddNewFamilyToIdxAfter(idx, "newFile", "en", "first")
+
+		vals := idx.Contents[0].Value
+		if len(vals) != 3 {
+			t.Fatalf("expected 3 values, got %d", len(vals))
+		}
+		if vals[0].ID != "first" {
+			t.Errorf("expected first, got %s", vals[0].ID)
+		}
+		if vals[1].ID != "newFile" {
+			t.Errorf("expected newFile, got %s", vals[1].ID)
+		}
+		if vals[2].ID != "third" {
+			t.Errorf("expected third, got %s", vals[2].ID)
+		}
+		if vals[1].GEDCOM != "gedcom/newFile_en.ged" {
+			t.Errorf("expected GEDCOM gedcom/newFile_en.ged, got %s", vals[1].GEDCOM)
+		}
+		if vals[1].CSV != "csv/newFile_en.csv" {
+			t.Errorf("expected CSV csv/newFile_en.csv, got %s", vals[1].CSV)
+		}
+	})
+
+	t.Run("appends to last content when id not found", func(t *testing.T) {
+		idx := &IdxFamily{
+			Contents:   []IdxFamilyContent{{Value: []IdxFamilyValue{{ID: "existing"}}}},
+			LastUpdate: []string{""},
+		}
+
+		HTAddNewFamilyToIdxAfter(idx, "newFile", "en", "missing")
+
+		vals := idx.Contents[0].Value
+		if len(vals) != 2 {
+			t.Fatalf("expected 2 values, got %d", len(vals))
+		}
+		if vals[1].ID != "newFile" {
+			t.Errorf("expected newFile, got %s", vals[1].ID)
+		}
 	})
 }
 
