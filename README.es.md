@@ -1,3 +1,6 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/historytracers/common?utm_source=oss&utm_medium=github&utm_campaign=historytracers%2Fcommon&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 # Common
 
 Código común compartido para la organización [History Tracers](https://github.com/historytracers).
