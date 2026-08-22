@@ -1,0 +1,241 @@
+{
+   "title": "To be or not to be",
+   "index": "Equality",
+   "sources": [
+      "ab217b77-7713-43c6-9b69-744c943b16cc"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1787017228"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "da91b45e-3ff0-4f54-83da-bdd0bfc32031",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### To be or not to be\n\nWe tend to reduce situations to two scenarios: right and wrong, left and right, front and back, among others.\n\nTo reinforce these divisions, we say: if it doesn't match one side, then it must match the other.\n\nBut this oversimplification can hide many things.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2af7e230-a9c8-4c4b-bc6a-cd6e841f6952",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2af7e230-a9c8-4c4b-bc6a-cd6e841f6952",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "If two objects are completely equal, can they have different colors?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8d1841fc-c7b2-420f-83ff-4abed282de33",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8d1841fc-c7b2-420f-83ff-4abed282de33",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### They must be equal\n\nWhen comparing objects, we conclude that two items are equal when there is no difference between them — like the circles below:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><div class=\"htTwoGeometricalRectangle\"> <div class=\"htFirstGeometrical\"><div class=\"htCircle\" style=\"height: 12vh; width: 12vh;\"></div></div> <div class=\"htSecondGeometrical\"><div class=\"htCircle\" style=\"height: 12vh; width: 12vh;\"></div></div> </div></p>",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c515898f-ec39-4c7a-a354-8f0bd6d2f815",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c515898f-ec39-4c7a-a354-8f0bd6d2f815",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f3cee656-d0ed-4885-a059-91ce6e50b17a",
+               "text": "Weisstein, Eric W.",
+               "page": "Circle",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "09",
+                  "day": "28"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Expanding\n\nTo compare on a broader level, we define objects by their main characteristics. For example, a circle is defined as:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><ul class=\"citation\"> <li>\"<i>A circle is a set of points in a plane, all at the same distance from a central point.</i>\"</li></ul></p>",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "25eb94f6-7947-4892-a078-c99d4445e77d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "25eb94f6-7947-4892-a078-c99d4445e77d",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### In general\n\nWith this broader definition, we can conclude that the circles below are the same figure, even with different colors.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><div class=\"htTwoGeometricalRectangle\"> <div class=\"htFirstGeometrical\"><div class=\"htCircle\" style=\"height: 12vh; width: 12vh;\"></div></div> <div class=\"htSecondGeometrical\"><div class=\"htCircle\" style=\"height: 12vh; width: 12vh; background-color: blue;\"></div></div> </div></p>",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc52d0e4-4c80-473a-910a-33ccbb5e202c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+        "id": "cc52d0e4-4c80-473a-910a-33ccbb5e202c",
+        "audio": "",
+        "smile": "party",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Conclusion\n\nIn this lesson, we saw that comparing is not just about saying whether something is equal or different. Often, we need to look at specific characteristics rather than the whole object.\n\nThis leads us to better define what it means to be equal — the topic of the next lesson.",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown/html/text",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
+      }
+   ]
+}
