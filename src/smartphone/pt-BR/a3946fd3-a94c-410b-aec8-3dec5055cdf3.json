@@ -109,7 +109,7 @@
         ],
         "text": [
           {
-            "text": "##### Tendendo para os outros números\n\nA ideia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que não é possível escrever números que não sejam zero (0) e nove (9) nas ordens numéricas (unidades, dezenas...). Por isso, quando nos aproximamos do 9, sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, à medida que os números diminuem, tendemos a zero, que é o mínimo.",
+            "text": "##### Tendendo para os outros números\n\nA ideia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que os dígitos em cada ordem numérica vão apenas de zero (0) a nove (9) (unidades, dezenas...). Por isso, quando nos aproximamos do 9, sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, à medida que os números diminuem, tendemos a zero, que é o mínimo.",
             "source": [],
             "date_time": null,
             "isTable": false,

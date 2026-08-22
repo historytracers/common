@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "We saw that numbers grow when we add digits to the left. Is there any law that prevents us from placing even more numbers to the left?",
+               "text": "We saw that numbers grow when we add digits to the left. Is there any law that prevents us from placing even more digits to the left?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -151,7 +151,7 @@
          ],
          "text": [
             {
-               "text": "When humans first began to think abstractly, we move from a place without counting to markers that help us count. In other words, we move from a spoken and imagined situation to something we can touch.\n\nWould it be possible to do the reverse with numbers and imagine something so large that we need a single symbol to represent it?",
+               "text": "When humans first began to think abstractly, they moved from a situation without counting to markers that helped them count. In other words, they moved from a spoken and imagined world to something they could touch.\n\nWould it be possible to do the reverse with numbers and imagine something so large that we need a single symbol to represent it?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -188,7 +188,7 @@
          ],
          "text": [
             {
-               "text": "#### Walking in One Direction\n\nNothing stops us from continuing to add numbers. Given this fact, a person could spend an entire lifetime naming numbers and there would still be numbers to name. So, we also need to do something about them, just as we did when we created symbols to give them names.\n\nSince we know that numbers grow as we add more digits to the left, we can say that they go in one direction. Or, more precisely, that they tend toward a destination.\n\nWith this, as numbers grow larger and larger, we will no longer name a number; we will say that numbers tend toward infinity, and we represent it as ∞.",
+               "text": "#### Walking in One Direction\n\nNothing stops us from continuing to add numbers. Given this fact, a person could spend an entire lifetime naming numbers and there would still be numbers to name. So, we also need to do something about them, just as we did when we created symbols to give them names.\n\nSince we know that numbers grow as we add more digits to the left, we can say that they go in one direction. Or, more precisely, that they tend toward infinity.\n\nWith this, as numbers grow larger and larger, we will no longer name a number; we will say that numbers tend toward infinity, and we represent it as ∞.",
                "source": [],
                "date_time": null,
                "isTable": false,
