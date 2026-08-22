@@ -89,7 +89,7 @@
       {
          "id": "4b3522ef-ae24-4ee0-804d-3e47ef1854bd",
          "audio": "",
-         "smile": "thiking",
+         "smile": "thinking",
          "source_menu": [],
          "text": [
             {
@@ -112,7 +112,7 @@
       {
          "id": "00388b1c-ec87-41a7-8a29-644f70fb96b6",
          "audio": "",
-         "smile": "smilling",
+         "smile": "smiling",
          "source_menu": [
             {
                "type": 1,
@@ -164,7 +164,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Visualizando os números\n\nListamos todos os números. Mas ainda não ligamos eles aos nossos dedos, como fizemos em outra aula. Não podemos terminar esta aula sem saber como fazer isso.\n\nAbaixo, mostramos nossas mãos novamente com os números em cima delas:",
+               "text": "#### Visualizando os números\n\nListamos todos os números. Mas ainda não os ligamos aos nossos dedos, como fizemos em outra aula. Não podemos terminar esta aula sem saber como fazer isso.\n\nAbaixo, mostramos nossas mãos novamente. Os números correspondentes estão associados a cada dedo:",
                "source": [],
                "date_time": null,
                "isTable": false,
