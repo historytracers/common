@@ -1,5 +1,5 @@
 {
-   "title": "Ser ou não ser",
+   "title": "To be or not to be",
    "index": "Equality",
    "sources": [
       "ab217b77-7713-43c6-9b69-744c943b16cc"
@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Ser ou não ser\n\nMuitas vezes, como simplificação acabamos resumindo situações na vida em apenas dois cenários. Por exemplo, certo e errado, direita e esquerda, frente e verso entre outras.\n\nE para reforçar estas divisões, geralmente dizemos que se não é igual a um lado, então só pode ser outro.\n\nApesar desta simplificação poder levar a respostas que desejamos, ela pode esconder muitas coisas,",
+               "text": "#### To be or not to be\n\nWe tend to reduce situations to two scenarios: right and wrong, left and right, front and back, among others.\n\nTo reinforce these divisions, we say: if it's not equal to one side, then it must be the other.\n\nBut this oversimplification can hide many things.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -47,7 +47,7 @@
             {
                "type": 1,
                "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
                "date_time": {
                   "type": "gregory",
@@ -59,7 +59,7 @@
          ],
          "text": [
             {
-               "text": "Se dois objetos são totalmente iguais, eles podem ter uma cor diferente?",
+               "text": "If two objects are completely equal, can they have different colors?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -84,7 +84,7 @@
             {
                "type": 1,
                "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
                "date_time": {
                   "type": "gregory",
@@ -96,7 +96,7 @@
          ],
          "text": [
             {
-               "text": "#### Tem que ser\n\nMuitas vezes ao realizarmos comparações, podemos chegar a conclusão que algo é realmente igual se não existe nenhuma diferença entre eles, como os círculos abaixo:",
+               "text": "#### It must be\n\nWhen comparing objects, we conclude that two items are equal when there is no difference between them — like the circles below:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -131,7 +131,7 @@
                "type": 1,
                "uuid": "f3cee656-d0ed-4885-a059-91ce6e50b17a",
                "text": "Weisstein, Eric W.",
-               "page": "Círculo",
+               "page": "Circle",
                "date_time": {
                   "type": "gregory",
                   "year": "2024",
@@ -142,7 +142,7 @@
             {
                "type": 1,
                "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
                "date_time": {
                   "type": "gregory",
@@ -154,7 +154,7 @@
          ],
          "text": [
             {
-               "text": "#### Expandindo\n\nPara fazer comparações mais amplas, podemos fazer definições baseadas nas principais caraceterísticas de um objeto. Por exemplo, para um círculo o definimos como:",
+               "text": "#### Expanding\n\nTo compare on a broader level, we define objects by their main characteristics. For example, a circle is defined as:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -163,7 +163,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p><ul class=\"citation\"> <li>\"<i>Um círculo é um conjunto de pontos, em um plano, todos a mesma distância de um ponto central.</i>\"</li></ul></p>",
+               "text": "<p><ul class=\"citation\"> <li>\"<i>A circle is a set of points in a plane, all at the same distance from a central point.</i>\"</li></ul></p>",
                "source": [],
                "date_time": [],
                "isTable": false,
@@ -187,7 +187,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### De uma maneira geral\n\nAgora que temos uma definição mais ampla, também podemos dizer que os círculos a seguir são a mesma figura, apesar da cor diferente.",
+               "text": "#### In general\n\nWith this broader definition, we can conclude that the circles below are the same figure, even with different colors.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -220,7 +220,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Conclusão\n\nNesta aula vimos que comparar não é apenas dizer que algo é igual ou não. Muitas vezes, precismos olhar características específicas apenas ao invés do todo.\n\nEste cenário nos leva a uma situação onde devemos definir melhor o que é ser igual. E isso será tratado na próxima aula.",
+            "text": "#### Conclusion\n\nIn this lesson, we saw that comparing is not just about saying whether something is equal or different. Often, we need to look at specific characteristics rather than the whole.\n\nThis leads us to better define what it means to be equal — the topic of the next lesson.",
             "source": [],
             "date_time": null,
             "isTable": false,
