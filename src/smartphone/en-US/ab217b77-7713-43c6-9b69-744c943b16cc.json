@@ -96,7 +96,7 @@
          ],
          "text": [
             {
-               "text": "#### It must be\n\nWhen comparing objects, we conclude that two items are equal when there is no difference between them — like the circles below:",
+               "text": "#### They must be equal\n\nWhen comparing objects, we conclude that two items are equal when there is no difference between them — like the circles below:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -220,7 +220,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Conclusion\n\nIn this lesson, we saw that comparing is not just about saying whether something is equal or different. Often, we need to look at specific characteristics rather than the whole.\n\nThis leads us to better define what it means to be equal — the topic of the next lesson.",
+            "text": "#### Conclusion\n\nIn this lesson, we saw that comparing is not just about saying whether something is equal or different. Often, we need to look at specific characteristics rather than the whole object.\n\nThis leads us to better define what it means to be equal — the topic of the next lesson.",
             "source": [],
             "date_time": null,
             "isTable": false,
