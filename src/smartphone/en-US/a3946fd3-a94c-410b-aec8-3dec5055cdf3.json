@@ -109,7 +109,7 @@
         ],
         "text": [
           {
-            "text": "##### Tending Toward the Other Numbers\n\nThe idea of moving toward a number also happens for small numbers, and we have already used it. For example, we know that it is not possible to write numbers other than zero (0) and nine (9) in the numeric orders (units, tens...). Because of this, when we get close to 9, we know that we tend to a maximum value, the number 9.\n\nOn the other hand, if we count in reverse order, as the numbers get smaller, we tend to zero, which is the minimum.",
+            "text": "##### Tending Toward the Other Numbers\n\nThe idea of moving toward a number also happens for small numbers, and we have already used it. For example, we know that each digit position can only hold values from 0 to 9 (units, tens...). Because of this, when we get close to 9, we know that we tend to a maximum value, the number 9.\n\nOn the other hand, if we count in reverse order, as the numbers get smaller, we tend to zero, which is the minimum.",
             "source": [],
             "date_time": null,
             "isTable": false,
@@ -175,7 +175,7 @@
         "source_menu": [],
         "text": [
           {
-            "text": "#### Conclusion\n\nIn this lesson, we learned that we can also use the idea of limits as if they were values we want to reach. To do this, we use the maximum and minimum values of the decimal systems.\n\nBut there is still a question to answer: how does humanity use all the numbers we saw? The answer to this question will be given in the next lesson.",
+            "text": "#### Conclusion\n\nIn this lesson, we learned that we can also use the idea of limits as if they were values we want to reach. To do this, we use the maximum and minimum values of the decimal system.\n\nBut there is still a question to answer: how does humanity use all the numbers we have seen? The answer to this question will be given in the next lesson.",
             "source": [],
             "date_time": null,
             "isTable": false,
