@@ -1,6 +1,6 @@
 {
-   "title": "",
-   "index": "",
+   "title": "Totalmente iguales",
+   "index": "Equality",
    "sources": [
       "e8178512-5c58-429e-9776-024bb9bff0b0"
    ],
@@ -14,5 +14,179 @@
    "reviewers": "",
    "version": 1,
    "type": "sm_game",
-   "content": []
+   "content": [
+      {
+         "id": "7eff4db5-c2cd-4fe6-b3f4-357c616cc2fb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Totalmente iguales\n\nEn la clase anterior vimos que los objetos pueden ser iguales, incluso con algunas diferencias.\n\nAhora vamos a aprender qué son los objetos totalmente iguales y cómo permanecen iguales con el tiempo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d86ec041-6b4b-41a5-9f9e-f716737d8c32",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d86ec041-6b4b-41a5-9f9e-f716737d8c32",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "¿Existe alguna señal para mostrar que dos cosas son realmente iguales?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5bbf69de-b8f4-4dc5-bb11-dacbb1377637",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "5bbf69de-b8f4-4dc5-bb11-dacbb1377637",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una señal, un mensaje\n\nPara decir que algo es igual, usamos el símbolo \"=\". Mira un ejemplo con dos números:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<center><span class=\"text_to_paint\">0</span> <span class=\"text_to_paint\">=</span> <span class=\"text_to_paint\">0</span></center>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Importante: cuando se define una igualdad, se debe mantener. Si cambiamos algo de un lado, el otro lado también debe cambiar de la misma manera.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5254d26b-5d27-439b-9b35-37eb366d021b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5254d26b-5d27-439b-9b35-37eb366d021b",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Veamos un ejercicio con números y manos, usando flechas. Observa que, a medida que cambiamos un lado, el otro también cambia.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><table id=\"yupana0\" class=\"tawapukllay\"><tr><th colspan=\"4\"><i>Ecuación</i></th><th>Mano izquierda</th><th>Mano derecha</th><th>Flechas</th></tr> <tr id=\"tf1\"><td id=\"tc1f1\"><span class=\"text_to_paint\" id=\"leftnum\">0</span></td> <td id=\"tc2f1\" colspan=\"2\"><span class=\"text_to_paint\">=</span></td> <td id=\"tc4f1\"><span class=\"text_to_paint\" id=\"rightnum\">0</span></td><td id=\"tc5f1\" style=\"background-color:white;\"><img id=\"leftHandImg\" onclick=\"htImageZoom('leftHandImg', '0%')\"  /></td><td id=\"tc6f1\"><img id=\"rightHandImg\" onclick=\"htImageZoom('rightHandImg', '0%')\"  /></td><td id=\"tc7f1\"><i class=\"fa-solid fa-caret-up upArrowWithFA\" id=\"traineeUp0\"></i>  <i class=\"fa-solid fa-caret-down downArrowWithFA\" style=\"font-size:4em;color:#00f;\" id=\"traineeDown0\"></i></td></tr></table><p class=\"desc\"><b>Tabla 1</b>: Manteniendo la igualdad.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a6e92022-3a54-4d82-8137-c8045679a76b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a6e92022-3a54-4d82-8137-c8045679a76b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "### Conclusión\n\nAprendimos que existe un signo de igualdad (=). Cuando está presente, cualquier cambio en un lado debe repetirse en el otro para mantener la igualdad.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
 }
