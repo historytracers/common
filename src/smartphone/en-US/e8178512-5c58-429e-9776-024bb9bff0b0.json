@@ -1,0 +1,192 @@
+{
+   "title": "Totally Equal",
+   "index": "Equality",
+   "sources": [
+      "e8178512-5c58-429e-9776-024bb9bff0b0"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1787584885"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7eff4db5-c2cd-4fe6-b3f4-357c616cc2fb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Totally Equal\n\nIn the previous lesson, we saw that objects can be equal even with some differences.\n\nNow let's learn what totally equal objects are and how they stay equal over time.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d86ec041-6b4b-41a5-9f9e-f716737d8c32",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d86ec041-6b4b-41a5-9f9e-f716737d8c32",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Is there a sign to show that two things are really equal?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5bbf69de-b8f4-4dc5-bb11-dacbb1377637",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "5bbf69de-b8f4-4dc5-bb11-dacbb1377637",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Sign, a Message\n\nTo say that something is equal, we use the symbol \"=\". Here is an example with two numbers:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<center><span class=\"text_to_paint\">0</span> <span class=\"text_to_paint\">=</span> <span class=\"text_to_paint\">0</span></center>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Important: once an equality is defined, it must be maintained. If we change something on one side, the other side must also change in the same way.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5254d26b-5d27-439b-9b35-37eb366d021b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5254d26b-5d27-439b-9b35-37eb366d021b",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "bb226b7f-2358-437f-b6e1-668943c682d7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cbf361bb-a62f-4399-9776-845a7627b195",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Let's see an exercise with numbers and hands, using arrows. Notice that as we change one side, the other side changes too.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><table id=\"yupana0\" class=\"tawapukllay\"><tr><th colspan=\"4\"><i>Equation</i></th><th>Left Hand</th><th>Right Hand</th><th>Arrows</th></tr> <tr id=\"tf1\"><td id=\"tc1f1\"><span class=\"text_to_paint\" id=\"leftnum\">0</span></td> <td id=\"tc2f1\" colspan=\"2\"><span class=\"text_to_paint\">=</span></td> <td id=\"tc4f1\"><span class=\"text_to_paint\" id=\"rightnum\">0</span></td><td id=\"tc5f1\" style=\"background-color:white;\"><img id=\"leftHandImg\" onclick=\"htImageZoom('leftHandImg', '0%')\"  /></td><td id=\"tc6f1\"><img id=\"rightHandImg\" onclick=\"htImageZoom('rightHandImg', '0%')\"  /></td><td id=\"tc7f1\"><i class=\"fa-solid fa-caret-up upArrowWithFA\" id=\"traineeUp0\"></i>  <i class=\"fa-solid fa-caret-down downArrowWithFA\" style=\"font-size:4em;color:#00f;\" id=\"traineeDown0\"></i></td></tr></table><p class=\"desc\"><b>Table 1</b>: Maintaining equality.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a6e92022-3a54-4d82-8137-c8045679a76b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a6e92022-3a54-4d82-8137-c8045679a76b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "### Conclusion\n\nWe learned that there is an equality sign (=). When it is present, any change on one side must be repeated on the other side to maintain equality.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
