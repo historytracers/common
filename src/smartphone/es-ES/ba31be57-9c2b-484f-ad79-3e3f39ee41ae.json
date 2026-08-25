@@ -1,6 +1,6 @@
 {
-   "title": "",
-   "index": "",
+   "title": "Igualdad Histórica",
+   "index": "Equality",
    "sources": [
       "ba31be57-9c2b-484f-ad79-3e3f39ee41ae"
    ],
@@ -14,5 +14,272 @@
    "reviewers": "",
    "version": 1,
    "type": "sm_game",
-   "content": []
+   "content": [
+      {
+         "id": "",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Igualdad Histórica\n\nComparar no es solo cosa de matemáticas. Lo hacemos todo el tiempo — para decidir algo o para entender el pasado.\n\nVeamos dos casos y aprendamos a comparar evidencias históricas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9bd2ba2d-e1f9-481f-b019-3a821ee74732",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9bd2ba2d-e1f9-481f-b019-3a821ee74732",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "dd4f3c8a-6624-4df5-93ac-37e0a4be9fdc",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mapeando\n\nHay una región del mundo que hoy abarca varios países. En el pasado tuvo otras fronteras, pero siempre compartió la misma cultura.\n\nEsta región se llama Mesoamérica — véanlo en el mapa:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img id=\"imgGeo14\" onclick=\"htImageZoom('imgGeo14', '0%')\" src=\"\" class=\"imgcenter\"/><b>Figura 1</b>: En este mapa, el continente está resaltado © Mapswire (<htcite0>)</p>",
+               "source": [
+                  {
+                     "type": 1,
+                     "uuid": "dd4f3c8a-6624-4df5-93ac-37e0a4be9fdc",
+                     "text": "Mapswire",
+                     "page": "",
+                     "date_time": {
+                        "type": "",
+                        "year": "",
+                        "month": "",
+                        "day": ""
+                     }
+                  }
+               ],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "de39ec06-bdff-4e72-bbf9-a3159ae8726f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "de39ec06-bdff-4e72-bbf9-a3159ae8726f",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "3e4dc8f8-8c2b-491e-9e2b-0b3adb927c70",
+               "text": "Museo Nacional de Costa Rica",
+               "page": "",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Objetos\n\nEn esta gran región encontramos metates — usados para moler maíz — como el de la foto, en varios museos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"http://www.historytracers.org/images/SanJoseCRMuseo/SanJoseCRAntropologia.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Foto tomada en <htdate0></span>, durante una visita al Museo de Antropología de San José, Costa Rica*",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2015",
+                     "month": "10",
+                     "day": "17"
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ba0cae93-4516-4f24-a616-0c0d79372569",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ba0cae93-4516-4f24-a616-0c0d79372569",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "¿Es posible descubrir si estos objetos fueron hechos por un mismo pueblo y llevados a otras regiones — y no por pueblos diferentes, de forma independiente?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51c8e018-dd46-4bae-9a51-7af416dc31e0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "51c8e018-dd46-4bae-9a51-7af416dc31e0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3fb52297-2d42-46f2-8ef1-b8a2c8f4052a",
+               "text": "HOOPES, J. W, pp. 459",
+               "page": "https://www.researchgate.net/publication/225268005_Sorcery_and_the_Taking_of_Trophy_Heads_in_Ancient_Costa_Rica",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Más allá de las apariencias\n\nSolo comparar altura y ancho no basta. También hay que verificar la edad del objeto — o de otros hallazgos en el mismo lugar.\n\nEn el caso de los metates, pruebas adicionales mostraron que fueron hechos en Costa Rica. Y es ahí donde se encuentran más ejemplares.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1304d59e-9777-418e-a4d6-ddd3d57e34d5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1304d59e-9777-418e-a4d6-ddd3d57e34d5",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nPara decir si algo es igual, la apariencia no basta. Hay que mirar el contexto — lo que hay alrededor.\n\nUsamos un metate mesoamericano para verlo en la práctica.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
 }
