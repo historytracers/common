@@ -1,0 +1,285 @@
+{
+   "title": "Igualdade Histórica",
+   "index": "Equality",
+   "sources": [
+      "ba31be57-9c2b-484f-ad79-3e3f39ee41ae"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1787609687"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Igualdade Histórica\n\nComparações não são algo que ocorrem somente na matemática. Fazemos isso constantemente, seja para tomar uma decisão, ou quando olhamos para o passado.\n\nNesta aula, veremos dois casos onde podemos comparar nossos conhecimentos para poder determinar se uma construção é ou não igual a outra.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9bd2ba2d-e1f9-481f-b019-3a821ee74732",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9bd2ba2d-e1f9-481f-b019-3a821ee74732",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "dd4f3c8a-6624-4df5-93ac-37e0a4be9fdc",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mapeando\n\nExiste uma região no mundo que apesar de haver divisões de diferentes países atualmente, no passado ela teve divisões diferentes, mas compartilhavam elementos culturais.\n\nEsta região é conhecida atualmente como mesoamérica e mostrada na figura abaixo:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img id=\"imgGeo14\" onclick=\"htImageZoom('imgGeo14', '0%')\" src=\"\" class=\"imgcenter\"/><b>Figura 1</b>: Neste mapa, o continente está destacado © Mapswire (<htcite0>)</p>",
+               "source": [
+                  {
+                     "type": 1,
+                     "uuid": "dd4f3c8a-6624-4df5-93ac-37e0a4be9fdc",
+                     "text": "Mapswire",
+                     "page": "",
+                     "date_time": {
+                        "type": "",
+                        "year": "",
+                        "month": "",
+                        "day": ""
+                     }
+                  }
+               ],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "de39ec06-bdff-4e72-bbf9-a3159ae8726f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "de39ec06-bdff-4e72-bbf9-a3159ae8726f",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "3e4dc8f8-8c2b-491e-9e2b-0b3adb927c70",
+               "text": "Museo Nacional de Costa Rica",
+               "page": "",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Objetos\n\nNesta enorme região podemos observar metates - instrumento utizado para moer milho -  iguais ao da figura em diferentes museus.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"http://www.historytracers.org/images/SanJoseCRMuseo/SanJoseCRAntropologia.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Fotografia tirada em <htdate0></span>, durante uma visita ao Museu de Antropologia de San José, Costa Rica*",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2015",
+                     "month": "10",
+                     "day": "17"
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ba0cae93-4516-4f24-a616-0c0d79372569",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ba0cae93-4516-4f24-a616-0c0d79372569",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "É possível estimar se as figuras foram criadas por um mesmo povo e levada a outras reigões oa invés de povos diferentes terem feito o mesmo objeto?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51c8e018-dd46-4bae-9a51-7af416dc31e0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "51c8e018-dd46-4bae-9a51-7af416dc31e0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3fb52297-2d42-46f2-8ef1-b8a2c8f4052a",
+               "text": "HOOPES, J. W, pp. 459",
+               "page": "https://www.researchgate.net/publication/225268005_Sorcery_and_the_Taking_of_Trophy_Heads_in_Ancient_Costa_Rica",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Além das aparências\n\nNo mundo não basta apenas comparar altura e largura de um objeto, para sabermos se foram feitos pelos mesmos povos, apesar de serem encontrados em locais diferentes, tamnbém é necessário ver a idade do objeto quando possível, ou de objetos que podemos medir a idade descobertos juntos a ele.\n\nNo caso dos metates, foi possível determinar que foram feitos em Costa Rica, graças a estas comparações adicionais além do fato de encontrarmos mais objetos em Costa Rica que em qualquer outro local.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1304d59e-9777-418e-a4d6-ddd3d57e34d5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+        "id": "1304d59e-9777-418e-a4d6-ddd3d57e34d5",
+        "audio": "",
+        "smile": "party",
+        "source_menu": [],
+        "text": [
+          {
+            "text": "#### Conclusão\n\nNesta aula, aprendemos que para definir se algo é igual na natureza, não basta olhar para as aparências. Também é necessário olhar o que está ao redor.\n\nComo exemplo, utilizamos um metate criado em uma região que chamamos hoje de mesoamérica.",
+            "source": [],
+            "date_time": null,
+            "isTable": false,
+            "imgdesc": "",
+            "format": "markdown",
+            "PostMention": ""
+          }
+        ],
+        "desc": null,
+        "next": "",
+        "prev": "",
+        "jumpTo": "",
+        "answer": null,
+        "score": 1,
+        "position": ""
+      }
+   ]
+}
