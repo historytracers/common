@@ -1,6 +1,6 @@
 {
-   "title": "",
-   "index": "",
+   "title": "Historical Equality (Pyramids)",
+   "index": "Equality",
    "sources": [
       "79fa77f4-0934-4e20-825c-cb7cb1ec5d8d"
    ],
@@ -14,5 +14,264 @@
    "reviewers": "",
    "version": 1,
    "type": "sm_game",
-   "content": []
+   "content": [
+      {
+         "id": "f7efbd81-1bfa-41b8-b800-fc747b249c2b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pyramids look alike, but...\n\nIn the previous lesson we talked about metates and how we can confirm that a Mesoamerican people were responsible for creating metates with a jaguar appearance.\n\nOn the other hand, there are comparisons that are not so simple and require further investigation.\n\nIn this lesson, we will study the case of pyramids.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b0c0ac8e-f812-41a4-88c8-0f3eafb1c872",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "b0c0ac8e-f812-41a4-88c8-0f3eafb1c872",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aae32d7-8b8a-49d9-b136-f859e24a53e6",
+               "text": "Weisstein, Eric W",
+               "page": "https://mathworld.wolfram.com/Pyramid.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The definition\n\nTo compare pyramids, we first need to define what a pyramid is.\n\nFor this, we will use Eric W. Weisstein's definition: pyramids *are a geometric figure with a closed base and whose lateral faces are triangles that meet at a common point at the top, called the apex*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "\u003cimg src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/\u003e",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Pentagonal Base Pyramid following the mathematical definition*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ee2d3587-30a6-4a45-9032-555441b3b829",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "ee2d3587-30a6-4a45-9032-555441b3b829",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "960e3a8e-3a60-4ee4-9df4-e2187489e3b9",
+               "text": "García Capistrán, H. pp. 144",
+               "page": "https://doi.org/10.19130/iifl.ecm.2019.53.923",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Mesoamerica\n\nNow, let's look at a structure known to its builders as *Witz* — a sacred mountain.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003e\u003cb\u003eFigure 6\u003c/b\u003e: Sacred mountain at Xunantunich, Belize. Photograph taken in \u003chtdate0\u003e\u003c/span\u003e, during a visit to the site.\u003c/p\u003e",
+               "source": null,
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2016",
+                     "month": "7",
+                     "day": "22"
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "In this sacred mountain, we see a staircase on the front face, leading to a pyramidal structure with three levels. At the top of this structure, there are windows of a room. Finally, at the highest part, there is an open area for celebrations.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a863271d-bd7d-413b-8f07-33872be983ea",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "a863271d-bd7d-413b-8f07-33872be983ea",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Does the Witz at Xunantunich, Belize, have exactly the shape of a pyramid?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "36b9dbda-e84c-49cf-9b69-88e0afc97a9a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2
+      },
+      {
+         "id": "36b9dbda-e84c-49cf-9b69-88e0afc97a9a",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### It looks like one, but it isn't\n\nWe often simplify definitions to compare them with something we already know, making it something it is not.\n\nIf we simplify the concept of pyramids too much, leaving the sides as triangles that meet at the top, we might be able to call the Witz at Xunantunich a pyramid.\n\nBut, since we cannot extract these characteristics from it, the best approach would be to keep it as a sacred mountain.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "29039ebb-c1e6-42ba-b165-8094df28addb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "29039ebb-c1e6-42ba-b165-8094df28addb",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### On precision\n\nWhen we work with precise definitions, besides improving our understanding of things, we can avoid errors like claiming that the pyramids built in Egypt are the same as those built in the Americas (*AbyaYala*).\n\nBut this is not a definitive barrier. If we talked about structures that resemble pyramids, it might be possible to group them together, but even then, we could not speak of the same origins.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0a1473d5-2f57-4352-a7e8-7ec8cd80561e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "0a1473d5-2f57-4352-a7e8-7ec8cd80561e",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this lesson we learned that not everything that looks alike is the same, and even when we make simplifications to try to group things together, we still would not change their origins.\n\nFor this reason, when making comparisons, we must be careful not to make mistakes.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      }
+   ]
 }
