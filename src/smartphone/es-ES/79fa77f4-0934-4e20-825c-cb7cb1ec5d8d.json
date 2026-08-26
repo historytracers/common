@@ -79,7 +79,7 @@
                "PostMention": ""
             },
             {
-               "text": "\u003cimg src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/\u003e",
+               "text": "<img src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
                "source": [],
                "date_time": [],
                "isTable": false,
@@ -145,7 +145,7 @@
                "PostMention": ""
             },
             {
-               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003e\u003cb\u003eFigura 6\u003c/b\u003e: Montaña sagrada en Xunantunich, Belice. Fotografía tomada en \u003chtdate0\u003e\u003c/span\u003e, durante una visita al sitio.\u003c/p\u003e",
+               "text": "<p><p class=\"desc\"><img id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/><b>Figura 6</b>: Montaña sagrada en Xunantunich, Belice. Fotografía tomada el <htdate0></span>, durante una visita al sitio.</p>",
                "source": null,
                "date_time": [
                   {
@@ -219,6 +219,18 @@
          "audio": "",
          "smile": "thinking",
          "source_menu": [
+                  {
+                     "type": 1,
+                     "uuid": "160fb48c-1711-491e-a1aa-e1257e7889af",
+                     "text": "Porto-Gonçalves, Carlos Walter",
+                     "page": "https://www.ceapedi.com.ar/Imagenes/Biblioteca/libreria/298.pdf",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2011",
+                        "month": "",
+                        "day": ""
+                     }
+                  },
             {
                "type": 1,
                "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
@@ -234,7 +246,7 @@
          ],
          "text": [
             {
-               "text": "#### Sobre precisión\n\nCuando trabajamos con definiciones precisas, además de mejorar nuestra comprensión de las cosas, podemos evitar errores como afirmar que las pirámides construidas en Egipto son las mismas que se hicieron en América (*AbyaYala*).\n\nPero esto no es una barrera definitiva. Si habláramos de construcciones que se parecen a pirámides, tal vez sería posible agruparlas, pero aun así, no podríamos hablar de los mismos orígenes.",
+               "text": "#### Sobre precisión\n\nCuando trabajamos con definiciones precisas, además de mejorar nuestra comprensión de las cosas, podemos evitar errores como afirmar que las pirámides construidas en Egipto son las mismas que se hicieron en América (*Abya Yala*).\n\nPero esto no es una barrera definitiva. Si habláramos de construcciones que se parecen a pirámides, tal vez sería posible agruparlas, pero aun así, no podríamos hablar de los mismos orígenes.",
                "source": [],
                "date_time": null,
                "isTable": false,
