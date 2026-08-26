@@ -1,0 +1,277 @@
+{
+   "title": "Igualdad Histórica (Pirámides)",
+   "index": "Equality",
+   "sources": [
+      "79fa77f4-0934-4e20-825c-cb7cb1ec5d8d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1787752621"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f7efbd81-1bfa-41b8-b800-fc747b249c2b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Las pirámides se parecen, pero...\n\nEn la clase anterior hablamos de metates y cómo podemos confirmar que un pueblo mesoamericano fue responsable de crear metates con apariencia de jaguar.\n\nPor otro lado, hay comparaciones que no son tan simples y requieren más investigaciones.\n\nEn esta clase, estudiaremos el caso de las pirámides.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b0c0ac8e-f812-41a4-88c8-0f3eafb1c872",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "b0c0ac8e-f812-41a4-88c8-0f3eafb1c872",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aae32d7-8b8a-49d9-b136-f859e24a53e6",
+               "text": "Weisstein, Eric W",
+               "page": "https://mathworld.wolfram.com/Pyramid.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La definición\n\nPara comparar pirámides, primero necesitamos definir qué es una pirámide.\n\nPara ello, utilizaremos la definición de Eric W. Weisstein: las pirámides *son una figura geométrica con una base cerrada y cuyas caras laterales son triángulos que se encuentran en un punto común en la cima, llamado ápice*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "\u003cimg src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/\u003e",
+               "source": [],
+               "date_time": [],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Pirámide de Base Pentagonal según la definición matemática*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ee2d3587-30a6-4a45-9032-555441b3b829",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "ee2d3587-30a6-4a45-9032-555441b3b829",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "960e3a8e-3a60-4ee4-9df4-e2187489e3b9",
+               "text": "García Capistrán, H. pp. 144",
+               "page": "https://doi.org/10.19130/iifl.ecm.2019.53.923",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Mesoamérica\n\nAhora, veamos una construcción conocida por sus constructores como *Witz* — una montaña sagrada.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003e\u003cb\u003eFigura 6\u003c/b\u003e: Montaña sagrada en Xunantunich, Belice. Fotografía tomada en \u003chtdate0\u003e\u003c/span\u003e, durante una visita al sitio.\u003c/p\u003e",
+               "source": null,
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2016",
+                     "month": "7",
+                     "day": "22"
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "En esta montaña sagrada, vemos una escalinata en la cara frontal, que conduce a una estructura piramidal con tres niveles. En la cima de esta estructura, hay ventanas de una habitación. Finalmente, en la parte superior, hay un área abierta para celebraciones.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a863271d-bd7d-413b-8f07-33872be983ea",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "a863271d-bd7d-413b-8f07-33872be983ea",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "¿El Witz de Xunantunich, Belice, tiene exactamente la forma de una pirámide?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "36b9dbda-e84c-49cf-9b69-88e0afc97a9a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2
+      },
+      {
+         "id": "36b9dbda-e84c-49cf-9b69-88e0afc97a9a",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Parece, pero no es\n\nA menudo simplificamos las definiciones para compararlas con algo que ya conocemos, haciendo que sea lo que no es.\n\nSi simplificamos demasiado el concepto de pirámides, dejando los lados como triángulos que se encuentran en la cima, tal vez podríamos llamar pirámide al Witz de Xunantunich.\n\nPero, como no es posible extraer estas características de ella, lo mejor sería mantenerla como una montaña sagrada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "29039ebb-c1e6-42ba-b165-8094df28addb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "29039ebb-c1e6-42ba-b165-8094df28addb",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sobre precisión\n\nCuando trabajamos con definiciones precisas, además de mejorar nuestra comprensión de las cosas, podemos evitar errores como afirmar que las pirámides construidas en Egipto son las mismas que se hicieron en América (*AbyaYala*).\n\nPero esto no es una barrera definitiva. Si habláramos de construcciones que se parecen a pirámides, tal vez sería posible agruparlas, pero aun así, no podríamos hablar de los mismos orígenes.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0a1473d5-2f57-4352-a7e8-7ec8cd80561e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      },
+      {
+         "id": "0a1473d5-2f57-4352-a7e8-7ec8cd80561e",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que no todo lo que parece ser es igual, e incluso cuando hacemos simplificaciones para intentar agrupar cosas, aún no cambiaríamos sus orígenes.\n\nPor este motivo, al hacer comparaciones, debemos tener cuidado de no cometer equivocaciones.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      }
+   ]
+}

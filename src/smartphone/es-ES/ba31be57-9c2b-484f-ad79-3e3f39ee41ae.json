@@ -1,5 +1,5 @@
 {
-   "title": "Igualdad Histórica",
+   "title": "Igualdad Histórica (Metates)",
    "index": "Equality",
    "sources": [
       "ba31be57-9c2b-484f-ad79-3e3f39ee41ae"
@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Igualdad Histórica\n\nComparar no es solo cosa de matemáticas. Lo hacemos todo el tiempo — para decidir algo o para entender el pasado.\n\nVeamos dos casos y aprendamos a comparar evidencias históricas.",
+                "text": "#### Igualdad Histórica\n\nComparar no es solo matemáticas. Lo hacemos todo el tiempo — para decidir o para entender el pasado.\n\nVeamos un ejemplo y aprendamos a comparar pruebas históricas.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -71,7 +71,7 @@
          ],
          "text": [
             {
-               "text": "#### Mapeando\n\nHay una región del mundo que hoy abarca varios países. En el pasado tuvo otras fronteras, pero siempre compartió la misma cultura.\n\nEsta región se llama Mesoamérica — véanlo en el mapa:",
+                "text": "#### Mapeando\n\nHay una región que hoy abarca varios países. En el pasado, sus límites eran otros, pero los pueblos compartían varios rasgos culturales.\n\nSe llama Mesoamérica. Véala en el mapa:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -142,7 +142,7 @@
          ],
          "text": [
             {
-               "text": "#### Objetos\n\nEn esta gran región encontramos metates — usados para moler maíz — como el de la foto, en varios museos.",
+                "text": "#### Objetos\n\nEn esta región, varios museos tienen metates como el de la foto. Son piedras usadas para moler maíz.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -191,7 +191,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "¿Es posible descubrir si estos objetos fueron hechos por un mismo pueblo y llevados a otras regiones — y no por pueblos diferentes, de forma independiente?",
+                "text": "¿Cómo saber si estos objetos fueron hechos por un único pueblo y llevados a otras regiones? ¿O si fueron creados por separado por pueblos diferentes?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -240,7 +240,7 @@
          ],
          "text": [
             {
-               "text": "#### Más allá de las apariencias\n\nSolo comparar altura y ancho no basta. También hay que verificar la edad del objeto — o de otros hallazgos en el mismo lugar.\n\nEn el caso de los metates, pruebas adicionales mostraron que fueron hechos en Costa Rica. Y es ahí donde se encuentran más ejemplares.",
+                "text": "#### Más allá de las apariencias\n\nSolo comparar altura y ancho no basta. También debemos verificar la edad del objeto — o la de otros objetos hallados en el mismo lugar.\n\nEn el caso de los metates, otras pruebas muestran que fueron hechos en Costa Rica, donde se encuentra la mayoría de los ejemplares.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -264,7 +264,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Conclusión\n\nPara decir si algo es igual, la apariencia no basta. Hay que mirar el contexto — lo que hay alrededor.\n\nUsamos un metate mesoamericano para verlo en la práctica.",
+                "text": "#### Conclusión\n\nPara saber si dos cosas son iguales, no basta con mirar la apariencia. Hay que analizar el contexto — lo que hay alrededor.\n\nLo vimos en la práctica con un metate de Mesoamérica.",
                "source": [],
                "date_time": null,
                "isTable": false,
