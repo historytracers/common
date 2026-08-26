@@ -145,7 +145,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p><p class=\"desc\"><img id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/><b>Figure 6</b>: Sacred mountain at Xunantunich, Belize. Photograph taken in <htdate0></span>, during a visit to the site.</p>",
+               "text": "<p><p class=\"desc\"><img id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/><b>Figure 6</b>: Sacred mountain at Xunantunich, Belize. Photograph taken on <htdate0></span>, during a visit to the site.</p>",
                "source": null,
                "date_time": [
                   {
