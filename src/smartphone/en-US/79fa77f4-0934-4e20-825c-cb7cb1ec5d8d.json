@@ -79,7 +79,7 @@
                "PostMention": ""
             },
             {
-               "text": "\u003cimg src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/\u003e",
+               "text": "<img src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
                "source": [],
                "date_time": [],
                "isTable": false,
@@ -145,7 +145,7 @@
                "PostMention": ""
             },
             {
-               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg src=\"https://www.historytracers.org/images/Xunantunich/WitzXunantunich.jpg\" id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003eSacred mountain at Xunantunich, Belize. Photograph taken in \u003chtdate0\u003e\u003c/span\u003e, during a visit to the site.\u003c/p\u003e",
+               "text": "<p><p class=\"desc\"><img id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/><b>Figure 6</b>: Sacred mountain at Xunantunich, Belize. Photograph taken in <htdate0></span>, during a visit to the site.</p>",
                "source": null,
                "date_time": [
                   {
@@ -219,6 +219,18 @@
          "audio": "",
          "smile": "thinking",
          "source_menu": [
+                  {
+                     "type": 1,
+                     "uuid": "160fb48c-1711-491e-a1aa-e1257e7889af",
+                     "text": "Porto-Gonçalves, Carlos Walter",
+                     "page": "https://www.ceapedi.com.ar/Imagenes/Biblioteca/libreria/298.pdf",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2011",
+                        "month": "",
+                        "day": ""
+                     }
+                  },
             {
                "type": 1,
                "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
@@ -234,7 +246,7 @@
          ],
          "text": [
             {
-               "text": "#### On precision\n\nWhen we work with precise definitions, besides improving our understanding of things, we can avoid errors like claiming that the pyramids built in Egypt are the same as those built in the Americas (*AbyaYala*).\n\nBut this is not a definitive barrier. If we talked about structures that resemble pyramids, it might be possible to group them together, but even then, we could not speak of the same origins.",
+               "text": "#### On precision\n\nWhen we work with precise definitions, besides improving our understanding of things, we can avoid errors like claiming that the pyramids built in Egypt are the same as those built in the Americas (*Abya Yala*).\n\nBut this is not a definitive barrier. If we talked about structures that resemble pyramids, it might be possible to group them together, but even then, we could not speak of the same origins.",
                "source": [],
                "date_time": null,
                "isTable": false,
