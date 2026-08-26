@@ -145,7 +145,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p><p class=\"desc\"><img id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/><b>Figura 6</b>: Montaña sagrada en Xunantunich, Belice. Fotografía tomada el <htdate0></span>, durante una visita al sitio.</p>",
+               "text": "<p><p class=\"desc\"><img src=\"https://www.historytracers.org/images/Xunantunich/WitzXunantunich.jpg\" id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/>Montaña sagrada en Xunantunich, Belice. Fotografía tomada el <htdate0></span>, durante una visita al sitio.</p>",
                "source": null,
                "date_time": [
                   {
