@@ -145,7 +145,7 @@
                "PostMention": ""
             },
             {
-               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003e\u003cb\u003eFigura 6\u003c/b\u003e: Montanha sagrada em Xunantunich, Belize. Fotografia tirada em \u003chtdate0\u003e\u003c/span\u003e, durante uma visita ao sítio.\u003c/p\u003e",
+               "text": "\u003cp\u003e\u003cp class=\"desc\"\u003e\u003cimg src=\"https://www.historytracers.org/images/Xunantunich/WitzXunantunich.jpg\" id=\"img4\" onclick=\"htImageZoom('img4', '0%')\"  class=\"imgcenter\"/\u003eMontanha sagrada em Xunantunich, Belize. Fotografia tirada em \u003chtdate0\u003e\u003c/span\u003e, durante uma visita ao sítio.\u003c/p\u003e",
                "source": null,
                "date_time": [
                   {
