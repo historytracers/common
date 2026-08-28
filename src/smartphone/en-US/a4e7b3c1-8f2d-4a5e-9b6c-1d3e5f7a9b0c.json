@@ -109,23 +109,81 @@
          ],
          "text": [
             {
-               "text": "#### Roads\n\nLong before modern highways, the indigenous peoples of the Americas (*Abya Yala*) were master road builders. The Mayas created **sacbes**—white stone roads that connected their cities like threads in a web.\n\nEven more impressive, the Incas built the **Qhapaq Ñan**, a road network stretching 39,000 kilometers across mountains, deserts, and forests. These roads were the arteries of their empire, carrying people, goods, and ideas.\n\nThink about it: roads connect places, just like numbers connect to each other. A road takes you from one city to the next—can numbers do the same?",
+               "text": "#### Roads\n\nLong before modern highways, the indigenous peoples of the Americas (*Abya Yala*) were master road builders. The Mayas created **sacbes**—white stone roads that connected their cities like threads in a web.",
                "source": [],
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
                "format": "markdown",
                "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"450\" height=\"120\" fill=\"none\" stroke=\"black\" class=\"road\"> <path d=\"M 20 95 C 90 95, 120 30, 190 30 C 260 30, 290 95, 360 95 L 430 75\" fill=\"none\" stroke=\"#8B5E3C\" stroke-width=\"18\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-dasharray=\"0.1 14\" /> <path d=\"M 20 95 C 90 95, 120 30, 190 30 C 260 30, 290 95, 360 95 L 430 75\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"12\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /> <circle cx=\"20\" cy=\"95\" r=\"8\" fill=\"#B48B5A\" /> <circle cx=\"430\" cy=\"75\" r=\"8\" fill=\"#B48B5A\" /> <path d=\"M 430 67 L 442 75 L 430 83 z\" fill=\"black\" /> </svg></p><p class=\"desc\"><b>Graphic 1</b>: A winding road connecting two places, just like numbers connect to each other.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
             }
          ],
          "desc": null,
-         "next": "d3c4b5a6-e7f8-4c9d-0e1f-2a3b4c5d6e7f",
-         "prev": "",
-         "jumpTo": "",
-         "answer": null,
-         "score": 1,
-         "position": ""
-      },
+          "next": "b76b8c5f-4479-4b74-9556-9d722b4a4ed6",
+          "prev": "",
+          "jumpTo": "",
+          "answer": null,
+          "score": 1,
+          "position": ""
+       },
+       {
+          "id": "b76b8c5f-4479-4b74-9556-9d722b4a4ed6",
+          "audio": "",
+          "smile": "happy",
+          "source_menu": [
+             {
+                "type": 1,
+                "uuid": "0bc6455e-7fdb-49cd-bf29-c3675aca4d4f",
+                "text": "Jurado, L. R. C. V.",
+                "page": "https://ulk.ist/media/kitap/IV-UKODTLK/trade-and-logistics-in-the-inca-empire.pdf",
+                "date_time": {
+                   "type": "gregory",
+                   "year": "2018",
+                   "month": "",
+                   "day": ""
+                }
+             },
+             {
+                "type": 1,
+                "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
+                "text": "Original Text",
+                "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+                "date_time": {
+                   "type": "gregory",
+                   "year": "2026",
+                   "month": "",
+                   "day": ""
+                }
+             }
+          ],
+          "text": [
+             {
+                "text": "Even more impressive, the Incas built the **Qhapaq Ñan**, a road network stretching 39,000 kilometers across mountains, deserts, and forests. These roads were the arteries of their empire, carrying people, goods, and ideas.\n\nThink about it: roads connect places, just like numbers connect to each other. A road takes you from one city to the next—can numbers do the same?",
+                "source": [],
+                "date_time": null,
+                "isTable": false,
+                "imgdesc": "",
+                "format": "markdown",
+                "PostMention": ""
+             }
+          ],
+          "desc": null,
+          "next": "d3c4b5a6-e7f8-4c9d-0e1f-2a3b4c5d6e7f",
+          "prev": "",
+          "jumpTo": "",
+          "answer": null,
+          "score": 1,
+          "position": ""
+       },
       {
          "id": "d3c4b5a6-e7f8-4c9d-0e1f-2a3b4c5d6e7f",
          "audio": "",
@@ -167,7 +225,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p class=\"desc\"><svg width=\"450\" height=\"100\"  fill=\"none\" stroke=\"black\"> <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <line x1=\"2\" y1=\"15\" x2=\"400\" y2=\"15\" stroke=\"black\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /> <text x=\"0\" y=\"40\" font-size=\"1.5em\">0</text> <text x=\"40\" y=\"40\" font-size=\"1.5em\">1</text> <text x=\"80\" y=\"40\" font-size=\"1.5em\">2</text> <text x=\"120\" y=\"40\" font-size=\"1.5em\">3</text> <text x=\"160\" y=\"40\" font-size=\"1.5em\">4</text> <text x=\"200\" y=\"40\" font-size=\"1.5em\">5</text> <text x=\"240\" y=\"40\" font-size=\"1.5em\">6</text> <text x=\"280\" y=\"40\" font-size=\"1.5em\">7</text> <text x=\"320\" y=\"40\" font-size=\"1.5em\">8</text> <text x=\"360\" y=\"40\" font-size=\"1.5em\">9</text> <line x1=\"5\" y1=\"15\" x2=\"5\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"85\" y1=\"15\" x2=\"85\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"125\" y1=\"15\" x2=\"125\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"165\" y1=\"15\" x2=\"165\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"205\" y1=\"15\" x2=\"205\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"245\" y1=\"15\" x2=\"245\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"285\" y1=\"15\" x2=\"285\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"325\" y1=\"15\" x2=\"325\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"365\" y1=\"15\" x2=\"365\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" />  </svg></p><p class=\"desc\"><b>Graphic 1</b>: Representation of an axis with numbers. The numbers are placed below the line, and an arrow on the right end indicates the direction in which the numbers grow.</p>",
+               "text": "<p class=\"desc\"><svg width=\"450\" height=\"100\"  fill=\"none\" stroke=\"black\"> <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <line x1=\"2\" y1=\"15\" x2=\"400\" y2=\"15\" stroke=\"black\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /> <text x=\"0\" y=\"40\" font-size=\"1.5em\">0</text> <text x=\"40\" y=\"40\" font-size=\"1.5em\">1</text> <text x=\"80\" y=\"40\" font-size=\"1.5em\">2</text> <text x=\"120\" y=\"40\" font-size=\"1.5em\">3</text> <text x=\"160\" y=\"40\" font-size=\"1.5em\">4</text> <text x=\"200\" y=\"40\" font-size=\"1.5em\">5</text> <text x=\"240\" y=\"40\" font-size=\"1.5em\">6</text> <text x=\"280\" y=\"40\" font-size=\"1.5em\">7</text> <text x=\"320\" y=\"40\" font-size=\"1.5em\">8</text> <text x=\"360\" y=\"40\" font-size=\"1.5em\">9</text> <line x1=\"5\" y1=\"15\" x2=\"5\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"85\" y1=\"15\" x2=\"85\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"125\" y1=\"15\" x2=\"125\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"165\" y1=\"15\" x2=\"165\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"205\" y1=\"15\" x2=\"205\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"245\" y1=\"15\" x2=\"245\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"285\" y1=\"15\" x2=\"285\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"325\" y1=\"15\" x2=\"325\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"365\" y1=\"15\" x2=\"365\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" />  </svg></p><p class=\"desc\"><b>Graphic 2</b>: Representation of an axis with numbers. The numbers are placed below the line, and an arrow on the right end indicates the direction in which the numbers grow.</p>",
                "source": [],
                "date_time": null,
                "isTable": false,
