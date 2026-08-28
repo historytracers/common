@@ -23,6 +23,18 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "d6a6b284-a060-4a85-bc6c-9d2fe442254c",
+               "text": "González Redondo, Francisco A.",
+               "page": "https://hfm.unitru.edu.pe/chfm3/conferencias-3/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
                "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
@@ -36,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Walking Among the Numbers\n\nIn the previous classes, we learned how to count, organize numbers, and understand the basic idea of limits. Then, we explored how to compare numbers.\n\nIn this class, we begin our journey into *pre-mathematics*—where we learn basic number ideas through everyday examples. We will focus on addition: learning how to go from one number to the next.",
+               "text": "#### Walking Among the Numbers\n\nHave you ever thought about how we move from one number to the next? It seems simple—just add one! But there is a whole world of ideas hidden behind this simple action.\n\nIn this class, we begin our journey into *pre-mathematics*—where we discover basic number ideas through everyday examples. We will focus on addition: learning how to go from one number to the next, step by step.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +109,7 @@
          ],
          "text": [
             {
-               "text": "#### Roads\n\nThe indigenous peoples of the Americas (*Abya Yala*) built roads inside their cities. They also built long roads to connect different regions. For example, the Mayas made **sacbes** (plural: **sacbeob**)—white roads that made it easier to travel between cities.\n\nIn the south, the Incas built an amazing road network called **Qhapaq Ñan**. It was 39,000 kilometers long and connected many regions.",
+               "text": "#### Roads\n\nLong before modern highways, the indigenous peoples of the Americas (*Abya Yala*) were master road builders. The Mayas created **sacbes**—white stone roads that connected their cities like threads in a web.\n\nEven more impressive, the Incas built the **Qhapaq Ñan**, a road network stretching 39,000 kilometers across mountains, deserts, and forests. These roads were the arteries of their empire, carrying people, goods, and ideas.\n\nThink about it: roads connect places, just like numbers connect to each other. A road takes you from one city to the next—can numbers do the same?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -146,7 +158,7 @@
          ],
          "text": [
             {
-               "text": "#### Axes\n\nIn math, we use a similar idea to show movement and position: **axes**. An axis is like a road with marked spots. Numbers show where we are, like steps on a path.\n\nThe numbers 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 are placed in order along a line, and an arrow shows the direction in which numbers grow.",
+               "text": "#### Axes\n\nMathematics has its own version of a road: the **axis**. Imagine a straight line with marked spots, just like milestones on a highway. Each spot has a number, and an arrow shows which direction the numbers grow.\n\nBelow, you can see the numbers 0 through 9 placed in order. Each one is a step on our mathematical road. The arrow tells us: numbers grow to the right!",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -216,7 +228,7 @@
          ],
          "text": [
             {
-               "text": "#### Counting with Our Hands\n\nWe can use our fingers to count. Each finger represents one number. When we raise a finger, we move to the next number.\n\nBelow, we show our hands. The numbers correspond to each finger:",
+               "text": "#### Counting with Our Hands\n\nOur hands are the oldest counting tool in history! Long before calculators or even written numbers, people used their fingers to count.\n\nEach finger represents one number. When we raise a finger, we move to the next number. Look at the hands below—each finger is a step forward on our number road.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -249,7 +261,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Can we think of counting numbers in order as adding 1 to the previous number each time?",
+               "text": "Think about it: when we count 1, 2, 3... each number is exactly 1 more than the one before. Can we say that counting is the same as adding 1 each time?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -286,7 +298,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nMoving fingers up to count is more than just ordering. It is about moving forward by adding one. Each time we raise a finger, we go to the next number by adding 1. We can show this with the \"+\" symbol:\n\n0 + 1 = 1\n1 + 1 = 2\n2 + 1 = 3\n3 + 1 = 4\n4 + 1 = 5\n5 + 1 = 6\n6 + 1 = 7\n7 + 1 = 8\n8 + 1 = 9\n\nLike learning to walk, we have taken our first steps in understanding how numbers connect. Each +1 is a small step forward.",
+               "text": "#### Conclusion\n\nNow we see the secret behind counting: it is just addition in disguise! Every time we count, we add 1 to get to the next number:\n\n0 + 1 = 1\n1 + 1 = 2\n2 + 1 = 3\n3 + 1 = 4\n4 + 1 = 5\n5 + 1 = 6\n6 + 1 = 7\n7 + 1 = 8\n8 + 1 = 9\n\nLike learning to walk, we have taken our first steps in understanding how numbers connect. Each +1 is a small step forward. In the next class, we will explore what happens when we reach 9 and need to take one more step!",
                "source": [],
                "date_time": null,
                "isTable": false,
