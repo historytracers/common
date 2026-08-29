@@ -1,214 +1,214 @@
-	{
-	   "title": "Carrying in Addition",
-	   "index": "Addition",
-	   "sources": [
-	      "1ae03186-6cd0-451d-ae10-d5107cbe9651"
-	   ],
-	   "license": [
-	      "SPDX-License-Identifier: GPL-3.0-or-later",
-	      "CC BY-NC 4.0 DEED"
-	   ],
-	   "last_update": [
-	      "1787855802"
-	   ],
-	   "authors": "",
-	   "reviewers": "",
-	   "version": 1,
-	   "type": "sm_game",
-	   "content": [
-	      {
-		 "id": "a1b2c3d4-1111-4a00-8000-000000000001",
-		 "audio": "",
-		 "smile": "nerd",
-		 "source_menu": [
-		    {
-		       "type": 1,
-		       "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "text": "Original Text",
-		       "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "2026",
-			  "month": "",
-			  "day": ""
-		       }
-		    }
-		 ],
-		 "text": [
-		    {
-		       "text": "#### Carrying in Addition\n\nImagine you are counting on your fingers. You raise one finger at a time: 1, 2, 3... up to 9. But what happens when you need to count one more? You have no more fingers left on that hand!\n\nIn the decimal system, the same thing happens. We count up to nine (9)—the highest single digit. Then we go back to zero (0) and add one to the digit on the left. This is the basic idea behind **carrying**.",
-		       "source": [],
-		       "date_time": null,
-		       "isTable": false,
-		       "imgdesc": "",
-		       "format": "markdown",
-		       "PostMention": ""
-		    }
-		 ],
-		 "desc": null,
-		 "next": "a1b2c3d4-2222-4a00-8000-000000000002",
-		 "prev": "",
-		 "jumpTo": "",
-		 "answer": null,
-		 "score": 1,
-		 "position": ""
-	      },
-	      {
-		 "id": "a1b2c3d4-2222-4a00-8000-000000000002",
-		 "audio": "",
-		 "smile": "happy",
-		 "source_menu": [
-		    {
-		       "type": 1,
-		       "uuid": "94c4d446-cc89-499b-8404-b528e5107864",
-		       "text": "Weisstein, Eric W.",
-		       "page": "https://mathworld.wolfram.com/Addition.html",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "",
-			  "month": "",
-			  "day": ""
-		       }
-		    },
-		    {
-		       "type": 1,
-		       "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "text": "Original Text",
-		       "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "2026",
-			  "month": "",
-			  "day": ""
-		       }
-		    }
-		 ],
-		 "text": [
-		    {
-		       "text": "#### Adding 1 to 9\n\nLet us see what happens when we add 1 to 9 using the vertical format:\n\n```\n    9\n+   1\n_____\n   10\n```\n\nThe result is 10. But look closely—the number 1 seems to just \"drop\" into the result. Is that really what happened? Something important is missing from this picture.",
-		       "source": [],
-		       "date_time": null,
-		       "isTable": false,
-		       "imgdesc": "",
-		       "format": "markdown",
-		       "PostMention": ""
-		    }
-		 ],
-		 "desc": null,
-		 "next": "a1b2c3d4-3333-4a00-8000-000000000003",
-		 "prev": "",
-		 "jumpTo": "",
-		 "answer": null,
-		 "score": 1,
-		 "position": ""
-	      },
-	      {
-		 "id": "a1b2c3d4-3333-4a00-8000-000000000003",
-		 "audio": "",
-		 "smile": "shocking",
-		 "source_menu": [
-		    {
-		       "type": 1,
-		       "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
-		       "text": "Musa, Auwalu",
-		       "page": "",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "2024",
-			  "month": "",
-			  "day": ""
-		       }
-		    },
-		    {
-		       "type": 1,
-		       "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "text": "Original Text",
-		       "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "2026",
-			  "month": "",
-			  "day": ""
-		       }
-		    }
-		 ],
-		 "text": [
-		    {
-		       "text": "#### The Hidden Zero\n\nHere is a secret: every number has invisible zeros on its left. The number 9 is really 09, and 1 is really 01. We just do not write them because they do not change the value.\n\nLet us rewrite the calculation with the hidden zeros shown:\n\n```\n   09\n+  01\n_____\n   10\n```\n\nNow we can see what really happens! When we add 9 + 1, we get 10. Since each position can only hold one digit (0 through 9), the extra value has nowhere to go in the ones column. So it **moves to the next column on the left**—the tens column. That is the carrying action!",
-		       "source": [],
-		       "date_time": null,
-		       "isTable": false,
-		       "imgdesc": "",
-		       "format": "markdown",
-		       "PostMention": ""
-		    }
-		 ],
-		 "desc": null,
-		 "next": "a1b2c3d4-4444-4a00-8000-000000000004",
-		 "prev": "",
-		 "jumpTo": "",
-		 "answer": null,
-		 "score": 1,
-		 "position": ""
-	      },
-	      {
-		 "id": "a1b2c3d4-4444-4a00-8000-000000000004",
-		 "audio": "",
-		 "smile": "thinking",
-		 "source_menu": [],
-		 "text": [
-		    {
-		       "text": "When we add 9 + 1 and get 10, does the extra value move to the next column on the left?",
-		       "source": [],
-		       "date_time": null,
-		       "isTable": false,
-		       "imgdesc": "",
-		       "format": "markdown",
-		       "PostMention": ""
-		    }
-		 ],
-		 "desc": null,
-		 "next": "a1b2c3d4-5555-4a00-8000-000000000005",
-		 "prev": "",
-		 "jumpTo": "",
-		 "answer": "yes",
-		 "score": 2,
-		 "position": ""
-	      },
-	      {
-		 "id": "a1b2c3d4-5555-4a00-8000-000000000005",
-		 "audio": "",
-		 "smile": "happy",
-		 "source_menu": [
-		    {
-		       "type": 1,
-		       "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
-		       "text": "Ernst, Dana.",
-		       "page": "",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "",
-			  "month": "",
-			  "day": ""
-		       }
-		    },
-		    {
-		       "type": 1,
-		       "uuid": "d26564d2-f3d4-41fa-bfd7-3e555cf6cb8f",
-		       "text": "Weisstein, Eric W.",
-		       "page": "",
-		       "date_time": {
-			  "type": "gregory",
-			  "year": "",
-			  "month": "",
-			  "day": ""
-		       }
-		    },
-		    {
-		       "type": 1,
-		       "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
-		       "text": "Original Text",
-		       "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+{
+   "title": "Carrying in Addition",
+   "index": "Addition",
+   "sources": [
+      "1ae03186-6cd0-451d-ae10-d5107cbe9651"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1787855802"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a1b2c3d4-1111-4a00-8000-000000000001",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Carrying in Addition\n\nImagine you are counting on your fingers. You raise one finger at a time: 1, 2, 3... up to 9. But what happens when you need to count one more? You have no more fingers left on that hand!\n\nIn the decimal system, the same thing happens. We count up to nine (9)—the highest single digit. Then we go back to zero (0) and add one to the digit on the left. This is the basic idea behind **carrying**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a1b2c3d4-2222-4a00-8000-000000000002",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a1b2c3d4-2222-4a00-8000-000000000002",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "94c4d446-cc89-499b-8404-b528e5107864",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Addition.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding 1 to 9\n\nLet us see what happens when we add 1 to 9 using the vertical format:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nThe result is 10. But look closely—the number 1 seems to just \"drop\" into the result. Is that really what happened? Something important is missing from this picture.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a1b2c3d4-3333-4a00-8000-000000000003",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a1b2c3d4-3333-4a00-8000-000000000003",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu",
+               "page": "",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Hidden Zero\n\nHere is a secret: every number has invisible zeros on its left. The number 9 is really 09, and 1 is really 01. We just do not write them because they do not change the value.\n\nLet us rewrite the calculation with the hidden zeros shown:\n\n```\n   1 \n   09\n+  01\n_____\n   10\n```\n\nNow we can see what really happens! When we add 9 + 1, we get 10. Since each position can only hold one digit (0 through 9), the extra value has nowhere to go in the ones column. So it **moves to the next column on the left**—the tens column. That is the carrying action!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a1b2c3d4-4444-4a00-8000-000000000004",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a1b2c3d4-4444-4a00-8000-000000000004",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "When we add 9 + 1 and get 10, does the extra value move to the next column on the left?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a1b2c3d4-5555-4a00-8000-000000000005",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "a1b2c3d4-5555-4a00-8000-000000000005",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "d26564d2-f3d4-41fa-bfd7-3e555cf6cb8f",
+               "text": "Weisstein, Eric W.",
+               "page": "",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",

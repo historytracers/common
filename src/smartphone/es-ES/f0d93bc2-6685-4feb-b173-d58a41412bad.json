@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Sumando 1 a 9\n\nVeamos qué pasa cuando sumamos 1 a 9 usando el formato vertical:\n\n```\n    9\n+   1\n_____\n   10\n```\n\nEl resultado es 10. Pero miremos con atención—el número 1 parece que solo \"baja\" al resultado. ¿Será que eso fue lo que realmente pasó? Algo importante falta en esta imagen.",
+               "text": "#### Sumando 1 a 9\n\nVeamos qué pasa cuando sumamos 1 a 9 usando el formato vertical:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nEl resultado es 10. Pero miremos con atención—el número 1 parece que solo \"baja\" al resultado. ¿Será que eso fue lo que realmente pasó? Algo importante falta en esta imagen.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -134,7 +134,7 @@
          ],
          "text": [
             {
-               "text": "#### El Cero Oculto\n\nAquí va un secreto: todo número tiene ceros invisibles a su izquierda. El número 9 es en realidad 09, y 1 es en realidad 01. Solo que no los escribimos porque no cambian el valor.\n\nReescribamos el cálculo con los ceros ocultos mostrados:\n\n```\n   09\n+  01\n_____\n   10\n```\n\n¡Ahora podemos ver lo que realmente ocurre! Cuando sumamos 9 + 1, el resultado es 10. Como cada posición solo puede tener un dígito (del 0 al 9), el valor extra no cabe en la columna de las unidades. Así que **pasa a la siguiente columna a la izquierda**—la columna de las decenas. ¡Esa es la acción del llevar!",
+               "text": "#### El Cero Oculto\n\nAquí va un secreto: todo número tiene ceros invisibles a su izquierda. El número 9 es en realidad 09, y 1 es en realidad 01. Solo que no los escribimos porque no cambian el valor.\n\nReescribamos el cálculo con los ceros ocultos mostrados:\n\n```\n   1 \n   09\n+  01\n_____\n   10\n```\n\n¡Ahora podemos ver lo que realmente ocurre! Cuando sumamos 9 + 1, el resultado es 10. Como cada posición solo puede tener un dígito (del 0 al 9), el valor extra no cabe en la columna de las unidades. Así que **pasa a la siguiente columna a la izquierda**—la columna de las decenas. ¡Esa es la acción del llevar!",
                "source": [],
                "date_time": null,
                "isTable": false,
