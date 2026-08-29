@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Somando 1 a 9\n\nVamos ver o que acontece quando somamos 1 a 9 usando o formato vertical:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nO resultado é 10. Mas olhe com atenção—o número 1 parece que apenas \"cai\" no resultado. Será que foi realmente isso que aconteceu? Algo importante está faltando nessa imagem.",
+               "text": "#### Somando 1 a 9\n\nVamos ver o que acontece quando somamos 1 a 9 usando o formato vertical:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nO resultado é 10. Mas olhe com atenção—o número 1 parece que apenas \"cai\" no resultado. Será que foi realmente isso que aconteceu? Vamos dar uma olhada mais de perto.",
                "source": [],
                "date_time": null,
                "isTable": false,
