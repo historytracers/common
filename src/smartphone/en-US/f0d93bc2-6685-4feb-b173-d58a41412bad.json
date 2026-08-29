@@ -85,7 +85,7 @@
 		 ],
 		 "text": [
 		    {
-		       "text": "#### Adding 1 to 9\n\nLet us see what happens when we add 1 to 9 using the vertical format:\n\n```\n    9\n+   1\n_____\n   10\n```\n\nThe result is 10. But look closely—the number 1 seems to just \"drop\" into the result. Is that really what happened? Something important is missing from this picture.",
+		       "text": "#### Adding 1 to 9\n\nLet us see what happens when we add 1 to 9 using the vertical format:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nThe result is 10. But look closely—the number 1 seems to just \"drop\" into the result. Is that really what happened? Let us take a closer look.",
 		       "source": [],
 		       "date_time": null,
 		       "isTable": false,
@@ -134,7 +134,7 @@
 		 ],
 		 "text": [
 		    {
-		       "text": "#### The Hidden Zero\n\nHere is a secret: every number has invisible zeros on its left. The number 9 is really 09, and 1 is really 01. We just do not write them because they do not change the value.\n\nLet us rewrite the calculation with the hidden zeros shown:\n\n```\n   09\n+  01\n_____\n   10\n```\n\nNow we can see what really happens! When we add 9 + 1, we get 10. Since each position can only hold one digit (0 through 9), the extra value has nowhere to go in the ones column. So it **moves to the next column on the left**—the tens column. That is the carrying action!",
+		       "text": "#### The Hidden Zero\n\nHere is a secret: every number has invisible zeros on its left. The number 9 is really 09, and 1 is really 01. We just do not write them because they do not change the value.\n\nLet us rewrite the calculation with the hidden zeros shown:\n\n```\n   1 \n   09\n+  01\n_____\n   10\n```\n\nNow we can see what really happens! When we add 9 + 1, we get 10. Since each position can only hold one digit (0 through 9), the extra value has nowhere to go in the ones column. So it **moves to the next column on the left**—the tens column. That is the carrying action!",
 		       "source": [],
 		       "date_time": null,
 		       "isTable": false,

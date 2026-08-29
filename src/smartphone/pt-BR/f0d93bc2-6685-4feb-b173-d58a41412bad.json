@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Somando 1 a 9\n\nVamos ver o que acontece quando somamos 1 a 9 usando o formato vertical:\n\n```\n    9\n+   1\n_____\n   10\n```\n\nO resultado é 10. Mas olhe com atenção—o número 1 parece que apenas \"cai\" no resultado. Será que foi realmente isso que aconteceu? Algo importante está faltando nessa imagem.",
+               "text": "#### Somando 1 a 9\n\nVamos ver o que acontece quando somamos 1 a 9 usando o formato vertical:\n\n```\n   1 \n    9\n+   1\n_____\n   10\n```\n\nO resultado é 10. Mas olhe com atenção—o número 1 parece que apenas \"cai\" no resultado. Será que foi realmente isso que aconteceu? Vamos dar uma olhada mais de perto.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -134,7 +134,7 @@
          ],
          "text": [
             {
-               "text": "#### O Zero Escondido\n\nAqui vai um segredo: todo número tem zeros invisíveis à sua esquerda. O número 9 é na verdade 09, e 1 é na verdade 01. Só não os escrevemos porque eles não mudam o valor.\n\nVamos reescrever o cálculo com os zeros escondidos aparecendo:\n\n```\n   09\n+  01\n_____\n   10\n```\n\nAgora podemos ver o que realmente acontece! Quando somamos 9 + 1, o resultado é 10. Como cada posição só pode ter um dígito (de 0 a 9), o valor extra não cabe na coluna das unidades. Então ele **passa para a próxima coluna à esquerda**—a coluna das dezenas. Essa é a ação do vai-um!",
+               "text": "#### O Zero Escondido\n\nAqui vai um segredo: todo número tem zeros invisíveis à sua esquerda. O número 9 é na verdade 09, e 1 é na verdade 01. Só não os escrevemos porque eles não mudam o valor.\n\nVamos reescrever o cálculo com os zeros escondidos aparecendo:\n\n```\n   1 \n   09\n+  01\n_____\n   10\n```\n\nAgora podemos ver o que realmente acontece! Quando somamos 9 + 1, o resultado é 10. Como cada posição só pode ter um dígito (de 0 a 9), o valor extra não cabe na coluna das unidades. Então ele **passa para a próxima coluna à esquerda**—a coluna das dezenas. Essa é a ação do vai-um!",
                "source": [],
                "date_time": null,
                "isTable": false,
