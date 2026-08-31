@@ -1,5 +1,5 @@
 {
-   "title": "Correndo entre os números",
+   "title": "A ordem da Adição",
    "index": "Addition",
    "sources": [
       "687a38b5-de0e-4d16-a4d0-8ec87a545ccb"
@@ -60,7 +60,7 @@
          ],
          "text": [
             {
-               "text": "#### Correndo entre os números\n\nNa aula anterior, aprendemos a **caminhar** entre os números. Cada passo somava 1, e descobrimos que qualquer número somado a 0 permanece o mesmo: essa é a **Identidade Aditiva**.\n\nHoje vamos aprender a **correr**! Vamos descobrir regras poderosas que tornam a adição mais rápida e fácil, usando sempre os mesmos passos simples.",
+               "text": "#### A ordem da Adição\n\nNa aula anterior, aprendemos a **caminhar** entre os números. Cada passo somava 1, e descobrimos que qualquer número somado a 0 permanece o mesmo: essa é a **Identidade Aditiva**.\n\nNesta aula, exploraremos mais a fundo a ordem em que realizamos a soma de dois números.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -82,30 +82,6 @@
          "audio": "",
          "smile": "inlove",
          "source_menu": [
-            {
-               "type": 1,
-               "uuid": "c7edc93c-0a41-4753-8f89-9e52904ff003",
-               "text": "W3 Schools",
-               "page": "https://www.w3schools.com/howto/howto_css_arrows.asp",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2024",
-                  "month": "07",
-                  "day": "25"
-               }
-            },
-            {
-               "type": 1,
-               "uuid": "6e3666ca-88e4-4b5e-a717-c42056476a77",
-               "text": "History Tracers Team",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2025",
-                  "month": "",
-                  "day": ""
-               }
-            },
             {
                "type": 1,
                "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
@@ -249,7 +225,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, descobrimos duas regras poderosas. A **Identidade Aditiva** nos diz que somar 0 a qualquer número não muda nada: 5 + 0 = 5. E o **Axioma da Comutatividade** nos diz que a ordem da adição não importa: 4 + 1 = 1 + 4.\n\nAgora você está pronto para continuar correndo entre os números!",
+               "text": "#### Conclusão\n\nNesta aula, descobrimos duas regras poderosas. A **Identidade Aditiva** nos diz que somar 0 a qualquer número não muda nada: 5 + 0 = 5. E o **Axioma da Comutatividade** nos diz que a ordem da adição não importa: 4 + 1 = 1 + 4.\n\nAgora você está pronto para continuar movendo entre os números!",
                "source": [],
                "date_time": null,
                "isTable": false,
