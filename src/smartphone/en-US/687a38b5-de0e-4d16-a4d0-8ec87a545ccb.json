@@ -84,6 +84,18 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
                "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
@@ -210,6 +222,18 @@
          "audio": "",
          "smile": "party",
          "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
             {
                "type": 1,
                "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
