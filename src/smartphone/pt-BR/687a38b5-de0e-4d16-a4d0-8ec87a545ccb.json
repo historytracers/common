@@ -1,0 +1,270 @@
+{
+   "title": "Correndo entre os números",
+   "index": "Addition",
+   "sources": [
+      "687a38b5-de0e-4d16-a4d0-8ec87a545ccb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788030677"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e6b831de-1aa5-45b6-b75a-2c2fb5cf395e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6e3666ca-88e4-4b5e-a717-c42056476a77",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Correndo entre os números\n\nNa aula anterior, aprendemos a **caminhar** entre os números. Cada passo somava 1, e descobrimos que qualquer número somado a 0 permanece o mesmo: essa é a **Identidade Aditiva**.\n\nHoje vamos aprender a **correr**! Vamos descobrir regras poderosas que tornam a adição mais rápida e fácil, usando sempre os mesmos passos simples.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3c4de149-3d19-4695-9282-e30e3dcdba24",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3c4de149-3d19-4695-9282-e30e3dcdba24",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c7edc93c-0a41-4753-8f89-9e52904ff003",
+               "text": "W3 Schools",
+               "page": "https://www.w3schools.com/howto/howto_css_arrows.asp",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "07",
+                  "day": "25"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6e3666ca-88e4-4b5e-a717-c42056476a77",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1ae03186-6cd0-451d-ae10-d5107cbe9651",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Onde Estamos?\n\nPense no eixo numérico como uma estrada com marcas de 0 a 9. Uma pessoa parada no número 5 deu cinco passos para a direita da origem (0).\n\nAgora, o que acontece se somarmos 0? Nada muda: **5 + 0 = 5**. O zero é como um número mágico que não adiciona nenhum passo a mais!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"450\" height=\"100\"  fill=\"none\" stroke=\"black\"> <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <line x1=\"2\" y1=\"15\" x2=\"400\" y2=\"15\" stroke=\"black\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /> <text x=\"0\" y=\"40\" font-size=\"1.5em\">0</text> <text x=\"40\" y=\"40\" font-size=\"1.5em\">1</text> <text x=\"80\" y=\"40\" font-size=\"1.5em\">2</text> <text x=\"120\" y=\"40\" font-size=\"1.5em\">3</text> <text x=\"160\" y=\"40\" font-size=\"1.5em\">4</text> <text x=\"200\" y=\"40\" font-size=\"1.5em\">5</text> <text x=\"240\" y=\"40\" font-size=\"1.5em\">6</text> <text x=\"280\" y=\"40\" font-size=\"1.5em\">7</text> <text x=\"320\" y=\"40\" font-size=\"1.5em\">8</text> <text x=\"360\" y=\"40\" font-size=\"1.5em\">9</text> <line x1=\"5\" y1=\"15\" x2=\"5\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"85\" y1=\"15\" x2=\"85\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"125\" y1=\"15\" x2=\"125\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"165\" y1=\"15\" x2=\"165\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"205\" y1=\"15\" x2=\"205\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"245\" y1=\"15\" x2=\"245\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"285\" y1=\"15\" x2=\"285\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"325\" y1=\"15\" x2=\"325\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"365\" y1=\"15\" x2=\"365\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" />  </svg></p><p class=\"desc\"><b>Graphic 1</b>: Representação de um eixo contendo números. A seta indica a direção em que os números crescem.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "649d5a22-f27a-454f-a8f0-3cbeae630186",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "649d5a22-f27a-454f-a8f0-3cbeae630186",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Ordem Não Muda Nada\n\nVamos fazer uma brincadeira com dois cálculos:\n\n4 + 1 = 5\n1 + 4 = 5\n\nAmbos chegam a 5! No eixo, partir da posição 4 e dar 1 passo chega ao 5. Começar na posição 1 e dar 4 passos também chega ao 5. A ordem dos números não importa. Essa regra é o **Axioma da Comutatividade**:\n\n**a + b = b + a**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"600\" height=\"210\" fill=\"none\" font-family=\"Arial\"><g font-size=\"22\" fill=\"#2C3E50\"><circle cx=\"30\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"56\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"82\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"108\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><text x=\"134\" y=\"54\" text-anchor=\"middle\">+</text><circle cx=\"160\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><text x=\"188\" y=\"54\" text-anchor=\"middle\">=</text><circle cx=\"214\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"240\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"266\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"292\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"318\" cy=\"45\" r=\"10\" fill=\"#8E44AD\"/><text x=\"174\" y=\"82\" text-anchor=\"middle\" font-size=\"18\" fill=\"#555\">4 + 1 = 5</text><circle cx=\"30\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><text x=\"54\" y=\"137\" text-anchor=\"middle\">+</text><circle cx=\"80\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"106\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"132\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"158\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><text x=\"186\" y=\"137\" text-anchor=\"middle\">=</text><circle cx=\"214\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"240\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"266\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"292\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><circle cx=\"318\" cy=\"128\" r=\"10\" fill=\"#8E44AD\"/><text x=\"174\" y=\"165\" text-anchor=\"middle\" font-size=\"18\" fill=\"#555\">1 + 4 = 5</text></g></svg></p><p class=\"desc\"><b>Graphic 2</b>: As mesmas cinco frutas, não importa a ordem.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f389d75c-c708-4ea5-85bd-a54a81c6661b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f389d75c-c708-4ea5-85bd-a54a81c6661b",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Por causa do Axioma da Comutatividade, 3 + 2 dá o mesmo resultado que 2 + 3?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bc8091be-beba-4c48-bd41-0c636583de6f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "bc8091be-beba-4c48-bd41-0c636583de6f",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, descobrimos duas regras poderosas. A **Identidade Aditiva** nos diz que somar 0 a qualquer número não muda nada: 5 + 0 = 5. E o **Axioma da Comutatividade** nos diz que a ordem da adição não importa: 4 + 1 = 1 + 4.\n\nAgora você está pronto para continuar correndo entre os números!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
