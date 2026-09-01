@@ -1,0 +1,346 @@
+{
+   "title": "Running Among the Numbers",
+   "index": "Addition",
+   "sources": [
+      "687a38b5-de0e-4d16-a4d0-8ec87a545ccb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788221723"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "dbd36a73-6a7b-4a76-9da5-08465f9fb4f9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Running Among the Numbers\n\nIn our last lessons, we learned to **walk** among the numbers. We discovered two powerful rules:\n\n- The **Additive Identity**: any number added to 0 stays the same, so **a + 0 = a**.\n- The **Commutative Axiom**: the order of the numbers does not matter, so **a + b = b + a**.\n\nIn this lesson, we will deepen our knowledge and learn how to add large numbers, step by step, and discover that there are no secrets—just repetition of simple steps.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ed939a9e-83b3-49fb-b52e-17b4e92817f3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ed939a9e-83b3-49fb-b52e-17b4e92817f3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "daae87a2-5fa9-43d1-88fb-6713b25d50d5",
+               "text": "Tuarez Mejia, L. F.",
+               "page": "https://digitalcommons.unl.edu/civilengdiss/195/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Copán Archaeological Park",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Building Layer by Layer\n\nHuman constructions often grow exactly like numbers. A famous example is **Temple 16 in Copán**.\n\nEach rebuild added a new layer—just like each addition adds to a total.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img id=\"imgCopanTemple\" src=\"https://historytracers.org/images/Copan/Temple16Copan.png\" class=\"imgcenter\"/></p>",
+               "source": [ ],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "* Sign at the Archaeological Site of Copán (<htcite0>). Photo taken on <htdate0> during a visit to the site.*",
+               "source": [                  {
+                     "type": 1,
+                     "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+                     "text": "Instituto Hondureño de Antropologia e Historia",
+                     "page": "",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "02",
+                        "day": "01"
+                     }
+                  }
+],
+               "date_time": [                  {
+                     "type": "gregory",
+                     "year": "2015",
+                     "month": "-1",
+                     "day": "-1"
+                  }
+],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4345bc25-d6d7-4713-9426-d0054286260f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "178c02be-27a7-43d6-a9ec-f6d5215002b7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "daae87a2-5fa9-43d1-88fb-6713b25d50d5",
+               "text": "Tuarez Mejia, L. F.",
+               "page": "https://digitalcommons.unl.edu/civilengdiss/195/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
+               "text": "Copán Archaeological Park",
+               "page": "https://ihah.hn/parque-arqueologico-copan/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Addition Is a Reconstruction\n\nJust as a temple starts small and grows, an addition starts from the smallest values and moves toward the largest.\nAnd just as temples are built in pairs of layers, addition always happens in **pairs** of numbers: **a + b**, over and over, until we reach the final result.\n\nSo, when you add big numbers, remember the temple: build the result little by little!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d04e95d9-def6-4bb8-91a7-5fcda6985e7b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d04e95d9-def6-4bb8-91a7-5fcda6985e7b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "94c4d446-cc89-499b-8404-b528e5107864",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Addition.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding Large Numbers\n\nTo add numbers with more than one digit, we follow a simple and repetitive process:\n\n1. Write the numbers one above the other, lining up the digits by their place value (units under units, tens under tens).\n2. Add the numbers **column by column**, starting from the **rightmost** digit (the units).\n3. Move to the left, one column at a time.\n\nIf a column sum is 9 or less, we simply write it. If it is greater than 9, we keep the unit digit and **carry 1** to the next column.\n\nLet us try it with **654321 + 543210**!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"480\" height=\"185\" fill=\"none\" font-family=\"monospace\"><text x=\"142\" y=\"40\" font-size=\"26\" fill=\"#E67E22\" text-anchor=\"middle\">1</text><text x=\"190\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">6</text><text x=\"238\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">5</text><text x=\"286\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">4</text><text x=\"334\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">3</text><text x=\"382\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">2</text><text x=\"430\" y=\"72\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">1</text><text x=\"108\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">+</text><text x=\"190\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">5</text><text x=\"238\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">4</text><text x=\"286\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">3</text><text x=\"334\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">2</text><text x=\"382\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">1</text><text x=\"430\" y=\"104\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">0</text><line x1=\"110\" y1=\"118\" x2=\"450\" y2=\"118\" stroke=\"#2C3E50\" stroke-width=\"3\"/><text x=\"142\" y=\"152\" font-size=\"26\" fill=\"#E74C3C\" text-anchor=\"middle\">1</text><text x=\"190\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">1</text><text x=\"238\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">9</text><text x=\"286\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">7</text><text x=\"334\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">5</text><text x=\"382\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">3</text><text x=\"430\" y=\"152\" font-size=\"26\" fill=\"#2C3E50\" text-anchor=\"middle\">1</text></svg></p><p class=\"desc\"><b>Calculation 3</b>: Addition of 654321 and 543210. The small 1 above the columns is the digit we carry to the millions column.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "daf9d61a-a207-4ed5-aaa9-dd662b2174f9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "daf9d61a-a207-4ed5-aaa9-dd662b2174f9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let's Check Our Understanding\n\nWhen we add two numbers column by column, if a column sum is greater than 9, do we write the unit digit in the result and carry 1 to the next column?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "50c6f3af-0f85-4663-9231-0b34e5083624",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "50c6f3af-0f85-4663-9231-0b34e5083624",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "94c4d446-cc89-499b-8404-b528e5107864",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Addition.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nThe secret of adding big numbers is that there is no secret: we simply **repeat the same steps** of adding two digits, column by column, as many times as needed.\n\nSo do not be intimidated by the size of the numbers—you already know how to run among them! And you also learned how the Mesoamerican people built their temples, layer by layer, exactly like we build our results.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
