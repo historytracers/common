@@ -1,0 +1,356 @@
+{
+   "title": "Adding the Same Numbers",
+   "index": "Addition",
+   "sources": [
+      "d862242c-0538-4b18-8b32-4a84d4a5858e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788534849"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4e57e3a8-9e51-4625-8170-a17d095f041e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fc77d792-25d3-4c13-ace0-0378f3aaec70",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding the Same Numbers\n\nDo you remember how we learned to count with our fingers and to add numbers one step at a time? Today we are going to meet a very special operation: **multiplication**!\n\nMultiplication happens when we add the **same number** many times. For example, adding 2 + 2 + 2 is adding the number 2 three times. Let us discover multiplication together, starting with something very close to us: our own body.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ea65579-0b5a-4a9a-91eb-8f4154bd8dcb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ea65579-0b5a-4a9a-91eb-8f4154bd8dcb",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Let's Start with Our Body\n\nLook at your hands! Each hand has **five fingers**. Put your two hands together: in total we have **ten fingers**—five on the left hand and five on the right hand.\n\nOur hands are the perfect tool to explore our new operation.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b6bf2269-f1e3-4e50-8b01-ebb00cc70d63",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b6bf2269-f1e3-4e50-8b01-ebb00cc70d63",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "How would you count the fingers on your two hands?\n\nLook carefully at your hands. Do you think there is more than one way to count until we reach ten fingers? Think about it before continuing.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e8a045ce-e997-4f9f-8041-03002c27b010",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e8a045ce-e997-4f9f-8041-03002c27b010",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7b080e09-91f4-426d-8feb-c440249078d1",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Sum.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### First Idea: Counting One by One\n\nA good way is to count **one by one**. Raise your fingers one at a time: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. As an addition, we can write:\n\n1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 10\n\nIt works! But writing the number 1 ten times is a lot of work, is it not? Can we write it in a shorter way?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><text x=\"146\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">1</text><text x=\"240\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">2</text><text x=\"275\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">3</text><text x=\"294\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">4</text><text x=\"300\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">5</text><text x=\"339\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">6</text><text x=\"345\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">7</text><text x=\"364\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">8</text><text x=\"399\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">9</text><text x=\"493\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">10</text></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "03ed6a29-d19b-4dbe-9c49-9d43464d5558",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "03ed6a29-d19b-4dbe-9c49-9d43464d5558",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Second Idea: Adding Five by Five\n\nWe have a faster idea! Instead of counting one by one, we can count **by groups**. Each hand has five fingers, so we add:\n\n5 + 5 = 10\n\nTwo hands of five fingers give ten fingers. Look how short the addition is! When we group, our work becomes easier.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><circle cx=\"200\" cy=\"200\" r=\"24\" fill=\"#FFFFFF\" stroke=\"#1B4F72\" stroke-width=\"4\"/><text x=\"200\" y=\"213\" font-size=\"38\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1B4F72\">5</text><circle cx=\"439\" cy=\"200\" r=\"24\" fill=\"#FFFFFF\" stroke=\"#1B4F72\" stroke-width=\"4\"/><text x=\"439\" y=\"213\" font-size=\"38\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1B4F72\">5</text></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "55ef7e2d-40c2-4393-bb17-6056f3f84710",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "55ef7e2d-40c2-4393-bb17-6056f3f84710",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "Do we reach the same total when we count our ten fingers one by one (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) and when we add them hand by hand (5 + 5)?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0b581a82-aa6e-4a93-9874-8137b65f2597",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0b581a82-aa6e-4a93-9874-8137b65f2597",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fc77d792-25d3-4c13-ace0-0378f3aaec70",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A New Sign: × (Times)\n\nWhen we add the same number many times, writing the whole addition takes a long time. Mathematicians created a short sign for that: the multiplication sign **×**, which we read as \"times\".\n\nWe counted our fingers one by one, adding the number 1 ten times. With × we write:\n\n1 × 10 = 10\n\nAnd when we counted hand by hand, we added the number 5 two times. With × we write:\n\n2 × 5 = 10\n\nDid you see? With just a few symbols we say the same thing as a long addition. That is multiplication!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "44f9b325-1368-4fae-a8f5-b76cff53b6cc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "44f9b325-1368-4fae-a8f5-b76cff53b6cc",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned that we can **group** our fingers to count them. Instead of adding the values one by one, we can multiply:\n\n1 × 10 = 10  and  2 × 5 = 10\n\nWe discovered that multiplication is a shortcut to add the **same number** many times. And we found all of this using our own hands! In the next class, we will keep discovering the secrets of this amazing operation.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
