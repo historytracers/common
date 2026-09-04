@@ -1,0 +1,331 @@
+{
+   "title": "Four Ways to Count to Ten",
+   "index": "Addition",
+   "sources": [
+      "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788548788"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9912f005-9652-4a35-a9ec-bcb3e0d831bf",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Four Ways to Count to Ten\n\nIn our previous classes, we learned to count with our hands. We counted **two hands with five fingers**: **5 × 2 = 10**. We also counted our ten fingers **one by one**: **10 × 1 = 10**.\n\nThose are two ways to reach ten… but is that all? In this class, we are going to discover that there are actually **four different ways** to group the ten! Let us find them together with the help of squares.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5c563f18-05aa-4212-a6c0-212ff48aaecc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5c563f18-05aa-4212-a6c0-212ff48aaecc",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Squares Going Up\n\nTake a rectangle made of ten squares. Look at it carefully: going up, it has **5 lines**; going across, it has **2 columns**.\n\nCount the squares line by line: **2 + 2 + 2 + 2 + 2 = 10**.\n\nWith multiplication, we write **5 × 2 = 10**: five lines, each one with two squares.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"96\" height=\"240\" viewBox=\"0 0 96 240\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(0,0)\"><rect x=\"0\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"96\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"96\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"144\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"144\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"192\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"192\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/></g></svg></p><p class=\"desc\"><b>Graphic 1: The rectangle with 5 lines and 2 columns — ten squares in total.</b></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b92f8d72-f200-464a-a23a-4573f5177978",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b92f8d72-f200-464a-a23a-4573f5177978",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Squares Lying Down\n\nNow let us turn the rectangle around. Now it has **2 lines** and **5 columns**.\n\nCount the squares line by line: **5 + 5 = 10**.\n\nWith multiplication, we write **2 × 5 = 10**: two lines, each one with five squares.\n\nOnly the position changed. The squares are the same!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"240\" height=\"96\" viewBox=\"0 0 240 96\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(0,0)\"><rect x=\"0\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"96\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"144\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"192\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"96\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"144\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"192\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/></g></svg></p><p class=\"desc\"><b>Graphic 2: The same rectangle, now with 2 lines and 5 columns — ten squares in total.</b></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "46d8c73a-96f7-41a1-85f4-5f6222c93de9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "46d8c73a-96f7-41a1-85f4-5f6222c93de9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Did the Squares Change?\n\nWe turned the rectangle around. Did the number of squares change? Count them one more time and answer.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d680f637-ee34-46e4-b811-c7dd485e81a0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "d680f637-ee34-46e4-b811-c7dd485e81a0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Multiplication, the Order Does Not Matter\n\nRemember: **multiplication is a repeated addition**. When we multiply, we add the same number many times.\n\n**2 × 5 = 10** means: **5 + 5 = 10** — the five, added two times.\n**5 × 2 = 10** means: **2 + 2 + 2 + 2 + 2 = 10** — the two, added five times.\n\nIn both cases, we add the same squares, so the result is always 10! It is like counting with our hands: we can count **two hands with five fingers** (2 × 5 = 10) or **five pairs of fingers** (5 × 2 = 10) — joining thumb with thumb, index with index, and so on, we make five pairs of two fingers.\n\nIn any order, we always reach our ten fingers. The order of the numbers does not change the result!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9d21af0b-4582-449a-b44f-a848b52e47bb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9d21af0b-4582-449a-b44f-a848b52e47bb",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nFantastic! In this class, we learned that multiplication is a **repeated addition** and that the **order of the numbers does not change the result**.\n\nThere are **four ways** to group ten:\n**1 × 10 = 10** (one line with ten squares)\n**2 × 5 = 10** (two lines with five squares)\n**5 × 2 = 10** (five lines with two squares)\n**10 × 1 = 10** (ten lines with one square)\n\nWhichever way we choose, we always count ten! Now you know a secret of multiplication: the order does not change the result.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

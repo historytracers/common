@@ -1,0 +1,331 @@
+{
+   "title": "Cuatro Formas de Contar hasta Diez",
+   "index": "Addition",
+   "sources": [
+      "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788548788"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9912f005-9652-4a35-a9ec-bcb3e0d831bf",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cuatro Formas de Contar hasta Diez\n\nEn las clases anteriores, aprendimos a contar con nuestras manos. Contamos **dos manos con cinco dedos**: **5 × 2 = 10**. También contamos nuestros diez dedos **uno a uno**: **10 × 1 = 10**.\n\nEsas son dos formas de llegar al diez… pero, ¿es todo? En esta clase vamos a descubrir que en realidad hay **cuatro formas diferentes** de agrupar el diez. ¡Vamos a encontrarlas juntos con la ayuda de los cuadrados!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5c563f18-05aa-4212-a6c0-212ff48aaecc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5c563f18-05aa-4212-a6c0-212ff48aaecc",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cuadrados Subiendo\n\nToma un rectángulo hecho de diez cuadrados. Obsérvalo con atención: hacia arriba tiene **5 líneas**; de lado a lado tiene **2 columnas**.\n\nCuenta los cuadrados línea por línea: **2 + 2 + 2 + 2 + 2 = 10**.\n\nCon la multiplicación escribimos **5 × 2 = 10**: cinco líneas, cada una con dos cuadrados.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"96\" height=\"240\" viewBox=\"0 0 96 240\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(0,0)\"><rect x=\"0\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"96\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"96\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"144\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"144\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"192\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"192\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/></g></svg></p><p class=\"desc\"><b>Gráfico 1: El rectángulo con 5 líneas y 2 columnas — diez cuadrados en total.</b></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b92f8d72-f200-464a-a23a-4573f5177978",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b92f8d72-f200-464a-a23a-4573f5177978",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cuadrados Acostados\n\nAhora vamos a girar el rectángulo. Ahora tiene **2 líneas** y **5 columnas**.\n\nCuenta los cuadrados línea por línea: **5 + 5 = 10**.\n\nCon la multiplicación escribimos **2 × 5 = 10**: dos líneas, cada una con cinco cuadrados.\n\n¡Solo cambió la posición! Los cuadrados son los mismos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"240\" height=\"96\" viewBox=\"0 0 240 96\" xmlns=\"http://www.w3.org/2000/svg\"><g transform=\"translate(0,0)\"><rect x=\"0\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"96\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"144\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"192\" y=\"0\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"0\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"48\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"96\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"144\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/><rect x=\"192\" y=\"48\" width=\"48\" height=\"48\" fill=\"#FFFFFF\" stroke=\"#2C3E50\" stroke-width=\"3\"/></g></svg></p><p class=\"desc\"><b>Gráfico 2: El mismo rectángulo, ahora con 2 líneas y 5 columnas — diez cuadrados en total.</b></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "46d8c73a-96f7-41a1-85f4-5f6222c93de9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "46d8c73a-96f7-41a1-85f4-5f6222c93de9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¿Cambiaron los Cuadrados?\n\nGiramos el rectángulo. ¿Cambió el número de cuadrados? Cuéntalos una vez más y responde.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d680f637-ee34-46e4-b811-c7dd485e81a0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "d680f637-ee34-46e4-b811-c7dd485e81a0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En la Multiplicación, el Orden No Importa\n\nRecuerda: **multiplicar es sumar varias veces**. Cuando multiplicamos, sumamos el mismo número muchas veces.\n\n**2 × 5 = 10** significa: **5 + 5 = 10** — el cinco, sumado dos veces.\n**5 × 2 = 10** significa: **2 + 2 + 2 + 2 + 2 = 10** — el dos, sumado cinco veces.\n\nEn los dos casos sumamos los mismos cuadrados, ¡y por eso el resultado siempre es 10! Es como contar con nuestras manos: podemos contar **dos manos con cinco dedos** (2 × 5 = 10) o **cinco parejas de dedos** (5 × 2 = 10): al juntar pulgar con pulgar, índice con índice, y así sucesivamente, formamos cinco parejas con dos dedos.\n\nEn cualquier orden, siempre llegamos a nuestros diez dedos. El orden de los números no cambia el resultado.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9d21af0b-4582-449a-b44f-a848b52e47bb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9d21af0b-4582-449a-b44f-a848b52e47bb",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\n¡Fantástico! En esta clase aprendimos que la multiplicación es una **suma repetida** y que **el orden de los números no cambia el resultado**.\n\nHay **cuatro formas** de agrupar el diez:\n**1 × 10 = 10** (una línea con diez cuadrados)\n**2 × 5 = 10** (dos líneas con cinco cuadrados)\n**5 × 2 = 10** (cinco líneas con dos cuadrados)\n**10 × 1 = 10** (diez líneas con un cuadrado)\n\n¡De cualquier forma que elijamos, siempre contamos diez! Ahora conoces un secreto de la multiplicación: el orden no cambia el resultado.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
