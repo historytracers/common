@@ -21,7 +21,7 @@ Armazena entradas de fontes sem duplicatas. Cada campo mapeia para `HTSourceElem
 | `src_publish_date`| `TEXT`    | Data de publicação da fonte        | `PublishDate`|
 | `src_url`       | `TEXT`      | URL da fonte                       | `URL`       |
 
-Indexado em `src_citation` para buscas mais rápidas.
+Indexado em `src_citation` para buscas mais rápidas e em `src_url` com um índice único para valores não vazios.
 
 ### `source_format`
 
@@ -61,6 +61,6 @@ As três colunas juntas formam a chave primária composta. Indexado em `fil_id` 
 | `00-create-database.sql`       | Cria o banco de dados `history_tracers` |
 | `01-create-source-format.sql` | Cria a tabela `source_format` |
 | `02-create-sources.sql`       | Cria a tabela `sources` |
-| `03-index-sources-citation.sql` | Adiciona um índice em `src_citation` |
+| `03-index-sources-citation.sql` | Adiciona índices em `src_citation` e em `src_url` (único, não vazio) |
 | `04-create-files.sql`         | Cria a tabela `files` |
 | `05-create-citation.sql`      | Cria a tabela `citation` |

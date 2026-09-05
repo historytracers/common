@@ -17,7 +17,7 @@ Armazena entradas de fontes sem duplicatas. Cada campo mapeia para `HTSourceElem
 | `src_publish_date`| `string`  | Data de publicação da fonte        | `PublishDate`|
 | `src_url`       | `string`    | URL da fonte                       | `URL`       |
 
-Indexado em `src_citation` e `src_id` (único) para buscas mais rápidas.
+Indexado em `src_citation` e `src_id` (único) e em `src_url` com um índice parcial único para valores não vazios.
 
 ### `source_format`
 
@@ -56,6 +56,6 @@ Validado com `$jsonSchema` garantindo que `cit_type` seja um de `[0, 1, 2, 3]`.
 |---------|-----------|
 | `00-create-collection.js`      | Cria a coleção `sources` com validação de esquema JSON |
 | `01-create-source-format.js`  | Cria a coleção `source_format` com validação de esquema JSON |
-| `02-create-indexes.js`        | Cria índices em `src_citation` e `src_id` |
+| `02-create-indexes.js`        | Cria índices em `src_citation`, `src_id` e `src_url` |
 | `03-create-files.js`           | Cria a coleção `files` com validação de esquema JSON |
 | `04-create-citation.js`        | Cria a coleção `citation` com validação de esquema JSON |

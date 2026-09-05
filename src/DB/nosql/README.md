@@ -17,7 +17,7 @@ Stores source entries without duplicates. Each field maps to `HTSourceElement` d
 | `src_publish_date`| `string`    | Publication date of the source     | `PublishDate` |
 | `src_url`         | `string`    | Source URL                         | `URL`         |
 
-Indexed on `src_citation` and `src_id` (unique) for faster lookups.
+Indexed on `src_citation` and `src_id` (unique), and on `src_url` with a unique partial index for non-empty values.
 
 ### `source_format`
 
@@ -56,6 +56,6 @@ Validated with `$jsonSchema` ensuring `cit_type` is one of `[0, 1, 2, 3]`.
 |------|-------------|
 | `00-create-collection.js`      | Creates the `sources` collection with JSON Schema validation |
 | `01-create-source-format.js`  | Creates the `source_format` collection with JSON Schema validation |
-| `02-create-indexes.js`        | Creates indexes on `src_citation` and `src_id` |
+| `02-create-indexes.js`        | Creates indexes on `src_citation`, `src_id` and `src_url` |
 | `03-create-files.js`           | Creates the `files` collection with JSON Schema validation |
 | `04-create-citation.js`        | Creates the `citation` collection with JSON Schema validation |

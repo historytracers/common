@@ -17,7 +17,7 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 | `src_publish_date`| `string`   | Fecha de publicación de la fuente   | `PublishDate`|
 | `src_url`        | `string`    | URL de la fuente                    | `URL`       |
 
-Indexado en `src_citation` y `src_id` (único) para búsquedas más rápidas.
+Indexado en `src_citation` y `src_id` (único) y en `src_url` con un índice parcial único para valores no vacíos.
 
 ### `source_format`
 
@@ -56,6 +56,6 @@ Validado con `$jsonSchema` asegurando que `cit_type` sea uno de `[0, 1, 2, 3]`.
 |---------|-------------|
 | `00-create-collection.js`      | Crea la colección `sources` con validación de esquema JSON |
 | `01-create-source-format.js`  | Crea la colección `source_format` con validación de esquema JSON |
-| `02-create-indexes.js`        | Crea índices en `src_citation` y `src_id` |
+| `02-create-indexes.js`        | Crea índices en `src_citation`, `src_id` y `src_url` |
 | `03-create-files.js`           | Crea la colección `files` con validación de esquema JSON |
 | `04-create-citation.js`        | Crea la colección `citation` con validación de esquema JSON |

@@ -21,7 +21,7 @@ Almacena entradas de fuentes sin duplicados. Cada campo se corresponde con `HTSo
 | `src_publish_date`| `TEXT`      | Fecha de publicación de la fuente   | `PublishDate`|
 | `src_url`         | `TEXT`      | URL de la fuente                    | `URL`       |
 
-Indexado en `src_citation` para búsquedas más rápidas.
+Indexado en `src_citation` para búsquedas más rápidas y en `src_url` con un índice único para valores no vacíos.
 
 ### `source_format`
 
@@ -61,6 +61,6 @@ Las tres columnas juntas forman la clave primaria compuesta. Indexado en `fil_id
 | `00-create-database.sql`       | Crea la base de datos `history_tracers` |
 | `01-create-source-format.sql` | Crea la tabla `source_format` |
 | `02-create-sources.sql`       | Crea la tabla `sources` |
-| `03-index-sources-citation.sql` | Añade un índice en `src_citation` |
+| `03-index-sources-citation.sql` | Añade índices en `src_citation` y en `src_url` (único, no vacío) |
 | `04-create-files.sql`         | Crea la tabla `files` |
 | `05-create-citation.sql`      | Crea la tabla `citation` |
