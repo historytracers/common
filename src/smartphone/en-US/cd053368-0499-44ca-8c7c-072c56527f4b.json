@@ -139,18 +139,6 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
-               "text": "Chart JS",
-               "page": "https://www.chartjs.org/",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2025",
-                  "month": "",
-                  "day": ""
-               }
-            },
-            {
-               "type": 1,
                "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
                "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
@@ -230,18 +218,6 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
-               "text": "Chart JS",
-               "page": "https://www.chartjs.org/",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2025",
-                  "month": "",
-                  "day": ""
-               }
-            },
-            {
-               "type": 1,
                "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
                "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
@@ -295,18 +271,6 @@
          "audio": "",
          "smile": "shocking",
          "source_menu": [
-            {
-               "type": 1,
-               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
-               "text": "Chart JS",
-               "page": "https://www.chartjs.org/",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2025",
-                  "month": "",
-                  "day": ""
-               }
-            },
             {
                "type": 1,
                "uuid": "f33dbf7c-924c-453f-bee5-a19388e75109",
