@@ -1,0 +1,380 @@
+{
+   "title": "Drawing the Table of Zero",
+   "index": "Multiplication",
+   "sources": [
+      "a648cecf-238e-4294-a012-3830ff833d67"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788614397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "ab6e5e99-4673-4147-93ed-2964b2b2d78a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Drawing with Multiplication\n\nMultiplication is not only for working with numbers: it is all around us in the real world! When we count the tiles on a floor, the windows of a building, or the beats of a song, we repeat the same quantity many times—we are multiplying.\n\nBut there is an even more beautiful secret: we can **draw** with the results of a multiplication! When we mark the numbers on paper and connect them, straight lines and other shapes appear.\n\nIn this class, we will start drawing with the results of the multiplication table of zero. Let us discover which shape is hiding inside it!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bbb3ae06-bcec-42f9-8eb1-7e9a7e4bf35a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "bbb3ae06-bcec-42f9-8eb1-7e9a7e4bf35a",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "79d126c9-39ac-4679-904b-4ab69558e44e",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule for Multiplication\n\nWhen we have situations in which an action repeats many times, like multiplication, we can write a **rule** (a law) for it. The rule of multiplication is:\n\n**R = a × N**\n\nWhere:\n- **R** is the **Result** of the multiplication.\n- **a** is the number we are multiplying (the number that is repeated).\n- **N** is the **Number of times** we repeat it.\n\nLet us use this rule to build the multiplication table of zero!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c601f869-fa3b-4bcc-a247-10f4d7aa07ae",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c601f869-fa3b-4bcc-a247-10f4d7aa07ae",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Table of Zero\n\nLet us use our rule with **a = 0** (repeating the number zero): no matter how many times we add zero, the result is always zero. See it with your own eyes:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"font-family: monospace; font-size: 1.05em; text-align: center; line-height: 1.75; margin: 0.2em auto;\">0 × 0 = 0<br/>0 × 1 = 0<br/>0 × 2 = 0<br/>0 × 3 = 0<br/>0 × 4 = 0<br/>0 × 5 = 0<br/>0 × 6 = 0<br/>0 × 7 = 0<br/>0 × 8 = 0<br/>0 × 9 = 0<br/>0 × 10 = 0</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Did you notice? The result **R** never changes! No matter which number **N** we use, multiplying by zero always gives **0**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "157b30ee-cbd6-4bc2-afc2-5d1fccceb6a3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "157b30ee-cbd6-4bc2-afc2-5d1fccceb6a3",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
+               "text": "Chart JS",
+               "page": "https://www.chartjs.org/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Drawing the Results\n\nA table gives us numbers, but numbers alone do not show the drawing of a multiplication. To see the drawing, we must **draw**!\n\nIn this class, we work only with **horizontal** values. So let us draw a horizontal line and mark on it the numbers **N** (0, 1, 2, ...).\n\nFor each value of **N**, our table gives one result, and we mark it with a dot on that line, one after the other. But every result is zero! So every dot is placed exactly on the line, at the value zero.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg viewBox=\"0 0 520 190\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;max-width:500px\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"520\" height=\"190\" fill=\"#FFFFFF\"/><defs><marker id=\"arrowH\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker></defs><line x1=\"32\" y1=\"110\" x2=\"450\" y2=\"110\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowH)\"/><line x1=\"40\" y1=\"104\" x2=\"40\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"80\" y1=\"104\" x2=\"80\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"120\" y1=\"104\" x2=\"120\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"104\" x2=\"160\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"104\" x2=\"200\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"240\" y1=\"104\" x2=\"240\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"280\" y1=\"104\" x2=\"280\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"320\" y1=\"104\" x2=\"320\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"360\" y1=\"104\" x2=\"360\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"400\" y1=\"104\" x2=\"400\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"440\" y1=\"104\" x2=\"440\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"40\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">0</text><text x=\"80\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">1</text><text x=\"120\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">2</text><text x=\"160\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">3</text><text x=\"200\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">4</text><text x=\"240\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">5</text><text x=\"280\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">6</text><text x=\"320\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">7</text><text x=\"360\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">8</text><text x=\"400\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">9</text><text x=\"440\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">10</text><text x=\"468\" y=\"106\" font-size=\"15\" fill=\"#333333\">N</text><circle cx=\"40\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"160\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"200\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"240\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"280\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"320\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"360\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"400\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"440\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Chart 1: points of the multiplication table of zero.*\n\nSurprising, is it not? All the dots stay exactly on the horizontal line, because every result is zero.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "20ee4936-b75a-42a8-9b57-73de7601b3a6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "20ee4936-b75a-42a8-9b57-73de7601b3a6",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let's Think!\n\nAll the dots of the table of zero are on the same horizontal line—at the value zero.\nIf we connect the neighboring dots with straight strokes, will our drawing be a **straight, flat line**?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "53a6fc0f-5cfa-464e-9e91-4697760e77de",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "53a6fc0f-5cfa-464e-9e91-4697760e77de",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
+               "text": "Chart JS",
+               "page": "https://www.chartjs.org/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Yes! A Straight, Flat Line\n\nExactly! When we connect all the dots with straight strokes, our drawing becomes a **straight line** that is perfectly **flat**—since every result is zero, the line never goes up or down: it stays exactly on the horizontal line:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg viewBox=\"0 0 520 190\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;max-width:500px\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"520\" height=\"190\" fill=\"#FFFFFF\"/><defs><marker id=\"arrowH\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker></defs><line x1=\"32\" y1=\"110\" x2=\"450\" y2=\"110\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowH)\"/><line x1=\"40\" y1=\"104\" x2=\"40\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"80\" y1=\"104\" x2=\"80\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"120\" y1=\"104\" x2=\"120\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"104\" x2=\"160\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"104\" x2=\"200\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"240\" y1=\"104\" x2=\"240\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"280\" y1=\"104\" x2=\"280\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"320\" y1=\"104\" x2=\"320\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"360\" y1=\"104\" x2=\"360\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"400\" y1=\"104\" x2=\"400\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><line x1=\"440\" y1=\"104\" x2=\"440\" y2=\"116\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"40\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">0</text><text x=\"80\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">1</text><text x=\"120\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">2</text><text x=\"160\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">3</text><text x=\"200\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">4</text><text x=\"240\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">5</text><text x=\"280\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">6</text><text x=\"320\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">7</text><text x=\"360\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">8</text><text x=\"400\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">9</text><text x=\"440\" y=\"138\" font-size=\"13\" fill=\"#555555\" text-anchor=\"middle\">10</text><text x=\"468\" y=\"106\" font-size=\"15\" fill=\"#333333\">N</text><polyline points=\"40,110 80,110 120,110 160,110 200,110 240,110 280,110 320,110 360,110 400,110 440,110\" fill=\"none\" stroke=\"#E74C3C\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"40\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"160\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"200\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"240\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"280\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"320\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"360\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"400\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"440\" cy=\"110\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Chart 2: connected points of the multiplication table of zero, forming a flat, straight line.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ddeb209a-72e7-44af-8e8d-ee707c96b5fc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ddeb209a-72e7-44af-8e8d-ee707c96b5fc",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nNow we understand the reason: multiplying any number by zero always gives zero, that is, **0 × N = 0**. Since all the results are the same, all the dots are on the same horizontal line—at the value zero.\n\nThat is why, when we connect them, our drawing is a **straight, flat line** lying exactly on the horizontal line—the first shape we draw with multiplication!\n\nIn the next classes, we will draw other multiplication tables (by 1, by 2, ...) and discover new shapes: rising lines and even triangles. What do you think the multiplication table of one will draw?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
