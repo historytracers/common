@@ -1,0 +1,410 @@
+{
+   "title": "Drawing the Table of One",
+   "index": "Multiplication",
+   "sources": [
+      "a648cecf-238e-4294-a012-3830ff833d67"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788633364"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "794c1c4a-0f43-4c27-95e6-d9bffabf9a57",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Life with Slopes\n\nIn the previous class we learned a recipe with three steps to draw a multiplication: create the formula, plot the points, and connect them. With the table of zero every result was zero, so all the points stayed at the same height and our drawing was a flat, straight line.\n\nBut life is not always a straight line! When we walk on a mountain trail or ride a bicycle uphill, we face slopes: paths that go up little by little. Multiplication can also show us scenarios like this.\n\nIn this class we will draw the multiplication table of one (R = 1 × N) and discover the shape that appears when the results are not all the same. What do you think it will be?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "445bcf37-da2a-4532-8aef-b1f8bb9ac212",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "445bcf37-da2a-4532-8aef-b1f8bb9ac212",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa59295-fb80-4c33-b1e4-bcdf3c11dabf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "79d126c9-39ac-4679-904b-4ab69558e44e",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule for the Table of One\n\nWe already know the rule of multiplication: **R = a × N**, where **a** is the number we repeat and **N** is the number of times we repeat it.\n\nWhen we drew the table of zero we used **a = 0**, and every result was zero. Now let us apply the same rule with **a = 1**, that is, repeating the number one: **R = 1 × N**. Let us see the results:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"font-family: monospace; font-size: 1.05em; text-align: center; line-height: 1.75; margin: 0.2em auto;\">1 × 0 = 0<br/>1 × 1 = 1<br/>1 × 2 = 2<br/>1 × 3 = 3<br/>1 × 4 = 4<br/>1 × 5 = 5<br/>1 × 6 = 6<br/>1 × 7 = 7<br/>1 × 8 = 8<br/>1 × 9 = 9<br/>1 × 10 = 10</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Did you notice? This time the results are **not** all the same: multiplying one by **N** gives **N** itself (1 × N = N). So, as **N** grows, the result grows too.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9f6708d0-1adb-4f81-a5dd-4e072da22ec4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9f6708d0-1adb-4f81-a5dd-4e072da22ec4",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
+               "text": "Chart JS",
+               "page": "https://www.chartjs.org/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Drawing the Results\n\nA table gives us numbers, but numbers alone do not show the drawing of a multiplication. To see the drawing, we must **draw**!\n\nWith the table of zero every result was zero, so we could place all the points on the same straight line. But in the table of one the results are not all the same: 1 × N = N, so each result is different from the previous one.\n\nBecause the values are not the same, we cannot stay on a straight line. We will need another axis to draw the results: the horizontal axis shows **N** and the vertical axis shows the result **R**. Let us plot the points of the table of one:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg viewBox=\"0 0 540 420\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;max-width:520px\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"540\" height=\"420\" fill=\"#FFFFFF\"/><defs><marker id=\"arrowH\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker><marker id=\"arrowV\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker></defs><line x1=\"60\" y1=\"360\" x2=\"500\" y2=\"360\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowH)\"/><line x1=\"90\" y1=\"360\" x2=\"90\" y2=\"44\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowV)\"/><line x1=\"90\" y1=\"355\" x2=\"90\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"90\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">0</text><line x1=\"126\" y1=\"355\" x2=\"126\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"126\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">1</text><line x1=\"162\" y1=\"355\" x2=\"162\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"162\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">2</text><line x1=\"198\" y1=\"355\" x2=\"198\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"198\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">3</text><line x1=\"234\" y1=\"355\" x2=\"234\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"234\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">4</text><line x1=\"270\" y1=\"355\" x2=\"270\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"270\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">5</text><line x1=\"306\" y1=\"355\" x2=\"306\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"306\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">6</text><line x1=\"342\" y1=\"355\" x2=\"342\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"342\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">7</text><line x1=\"378\" y1=\"355\" x2=\"378\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"378\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">8</text><line x1=\"414\" y1=\"355\" x2=\"414\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"414\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">9</text><line x1=\"450\" y1=\"355\" x2=\"450\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"450\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">10</text><text x=\"496\" y=\"350\" font-size=\"14\" fill=\"#333333\" font-weight=\"bold\">N</text><line x1=\"85\" y1=\"360\" x2=\"95\" y2=\"360\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"364\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">0</text><line x1=\"85\" y1=\"332\" x2=\"95\" y2=\"332\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"336\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">1</text><line x1=\"85\" y1=\"304\" x2=\"95\" y2=\"304\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"308\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">2</text><line x1=\"85\" y1=\"276\" x2=\"95\" y2=\"276\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"280\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">3</text><line x1=\"85\" y1=\"248\" x2=\"95\" y2=\"248\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"252\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">4</text><line x1=\"85\" y1=\"220\" x2=\"95\" y2=\"220\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"224\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">5</text><line x1=\"85\" y1=\"192\" x2=\"95\" y2=\"192\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"196\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">6</text><line x1=\"85\" y1=\"164\" x2=\"95\" y2=\"164\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"168\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">7</text><line x1=\"85\" y1=\"136\" x2=\"95\" y2=\"136\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"140\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">8</text><line x1=\"85\" y1=\"108\" x2=\"95\" y2=\"108\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"112\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">9</text><line x1=\"85\" y1=\"80\" x2=\"95\" y2=\"80\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"84\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">10</text><text x=\"78\" y=\"40\" font-size=\"14\" fill=\"#333333\" font-weight=\"bold\">R</text><circle cx=\"90\" cy=\"360\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"126\" cy=\"332\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"162\" cy=\"304\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"198\" cy=\"276\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"234\" cy=\"248\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"270\" cy=\"220\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"306\" cy=\"192\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"342\" cy=\"164\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"378\" cy=\"136\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"414\" cy=\"108\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"450\" cy=\"80\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Chart 1: points of the multiplication table of one.*\n\nLook! The points climb one step at a time, like a slope.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "be776569-eb56-4fde-8acf-97d7b2369a57",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "be776569-eb56-4fde-8acf-97d7b2369a57",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let's Think!\n\nIn the table of one each result is different: the points climb one step at a time, always higher than the previous one.\n\nIs the previous chart showing repetition of the same value?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e993f37a-d632-4b74-b5d8-2901be52a10b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "e993f37a-d632-4b74-b5d8-2901be52a10b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
+               "text": "Chart JS",
+               "page": "https://www.chartjs.org/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Boxes of the Same Size\n\nNo! The chart does not repeat the same value: each point is higher than the previous one. But we can still draw each result in another way.\n\nLet us add, below each value, **boxes of the same size**. Under the value 1 we place one box, under the value 2 two boxes, and so on. Each column of boxes represents a result of the table of one:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg viewBox=\"0 0 560 420\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;max-width:520px\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"560\" height=\"420\" fill=\"#FFFFFF\"/><defs><marker id=\"arrowBox\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker></defs><line x1=\"40\" y1=\"360\" x2=\"520\" y2=\"360\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowBox)\"/><rect x=\"40\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"55\" y1=\"355\" x2=\"55\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"55\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">1</text><rect x=\"84\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"84\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"99\" y1=\"355\" x2=\"99\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"99\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">2</text><rect x=\"128\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"128\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"128\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"143\" y1=\"355\" x2=\"143\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"143\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">3</text><rect x=\"172\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"172\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"172\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"172\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"187\" y1=\"355\" x2=\"187\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"187\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">4</text><rect x=\"216\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"216\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"216\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"216\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"216\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"231\" y1=\"355\" x2=\"231\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"231\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">5</text><rect x=\"260\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"260\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"260\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"260\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"260\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"260\" y=\"216\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"275\" y1=\"355\" x2=\"275\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"275\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">6</text><rect x=\"304\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"216\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"304\" y=\"192\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"319\" y1=\"355\" x2=\"319\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"319\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">7</text><rect x=\"348\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"216\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"192\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"348\" y=\"168\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"363\" y1=\"355\" x2=\"363\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"363\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">8</text><rect x=\"392\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"216\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"192\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"168\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"392\" y=\"144\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"407\" y1=\"355\" x2=\"407\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"407\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">9</text><rect x=\"436\" y=\"336\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"312\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"288\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"264\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"240\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"216\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"192\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"168\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"144\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><rect x=\"436\" y=\"120\" width=\"30\" height=\"24\" fill=\"#3498DB\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><line x1=\"451\" y1=\"355\" x2=\"451\" y2=\"365\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"451\" y=\"382\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">10</text><text x=\"510\" y=\"350\" font-size=\"14\" fill=\"#333333\" font-weight=\"bold\">N</text></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Chart 2: boxes of the same size showing the multiplication table of one. Each column of boxes represents a result: the column of value 1 has one box, the column of value 2 has two boxes, and so on.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d8c5c78f-9f43-47fc-8636-3ba9fedfbfe5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d8c5c78f-9f43-47fc-8636-3ba9fedfbfe5",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b77ec8fc-c988-45f3-82f8-03b136bf1aa9",
+               "text": "Chart JS",
+               "page": "https://www.chartjs.org/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f33dbf7c-924c-453f-bee5-a19388e75109",
+               "text": "Weisstein, Eric W., Triangle",
+               "page": "https://mathworld.wolfram.com/Triangle.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Connecting the Points\n\nNow that we can see the repetition of the same value (boxes of the same size), let us remove the boxes and keep only the points that mark each result.\n\nLet us connect the neighboring points with straight strokes. As you can see, the drawing is now a **rising line** that divides the screen into **two triangles**: one below the line and one above it.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg viewBox=\"0 0 540 480\" preserveAspectRatio=\"xMidYMid meet\" style=\"width:100%;height:auto;max-width:520px\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"540\" height=\"480\" fill=\"#FFFFFF\"/><defs><marker id=\"arrowC\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M 0 0 L 10 5 L 0 10 z\" fill=\"#333333\"/></marker></defs><line x1=\"60\" y1=\"400\" x2=\"500\" y2=\"400\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowC)\"/><line x1=\"90\" y1=\"400\" x2=\"90\" y2=\"44\" stroke=\"#333333\" stroke-width=\"2\" marker-end=\"url(#arrowC)\"/><line x1=\"90\" y1=\"395\" x2=\"90\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"90\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">0</text><line x1=\"85\" y1=\"400\" x2=\"95\" y2=\"400\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"404\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">0</text><line x1=\"122\" y1=\"395\" x2=\"122\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"122\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">1</text><line x1=\"85\" y1=\"368\" x2=\"95\" y2=\"368\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"372\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">1</text><line x1=\"154\" y1=\"395\" x2=\"154\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"154\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">2</text><line x1=\"85\" y1=\"336\" x2=\"95\" y2=\"336\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"340\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">2</text><line x1=\"186\" y1=\"395\" x2=\"186\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"186\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">3</text><line x1=\"85\" y1=\"304\" x2=\"95\" y2=\"304\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"308\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">3</text><line x1=\"218\" y1=\"395\" x2=\"218\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"218\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">4</text><line x1=\"85\" y1=\"272\" x2=\"95\" y2=\"272\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"276\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">4</text><line x1=\"250\" y1=\"395\" x2=\"250\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"250\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">5</text><line x1=\"85\" y1=\"240\" x2=\"95\" y2=\"240\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"244\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">5</text><line x1=\"282\" y1=\"395\" x2=\"282\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"282\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">6</text><line x1=\"85\" y1=\"208\" x2=\"95\" y2=\"208\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"212\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">6</text><line x1=\"314\" y1=\"395\" x2=\"314\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"314\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">7</text><line x1=\"85\" y1=\"176\" x2=\"95\" y2=\"176\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"180\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">7</text><line x1=\"346\" y1=\"395\" x2=\"346\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"346\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">8</text><line x1=\"85\" y1=\"144\" x2=\"95\" y2=\"144\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"148\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">8</text><line x1=\"378\" y1=\"395\" x2=\"378\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"378\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">9</text><line x1=\"85\" y1=\"112\" x2=\"95\" y2=\"112\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"116\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">9</text><line x1=\"410\" y1=\"395\" x2=\"410\" y2=\"405\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"410\" y=\"422\" font-size=\"12\" fill=\"#555555\" text-anchor=\"middle\">10</text><line x1=\"85\" y1=\"80\" x2=\"95\" y2=\"80\" stroke=\"#333333\" stroke-width=\"1.5\"/><text x=\"78\" y=\"84\" font-size=\"12\" fill=\"#555555\" text-anchor=\"end\">10</text><text x=\"496\" y=\"390\" font-size=\"14\" fill=\"#333333\" font-weight=\"bold\">N</text><text x=\"78\" y=\"40\" font-size=\"14\" fill=\"#333333\" font-weight=\"bold\">R</text><polygon points=\"90,400 410,400 410,80\" fill=\"#E74C3C\" fill-opacity=\"0.12\" stroke=\"none\"/><polygon points=\"90,400 410,80 90,80\" fill=\"#3498DB\" fill-opacity=\"0.12\" stroke=\"none\"/><polyline points=\"90,400 122,368 154,336 186,304 218,272 250,240 282,208 314,176 346,144 378,112 410,80\" fill=\"none\" stroke=\"#E74C3C\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"90\" cy=\"400\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"122\" cy=\"368\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"154\" cy=\"336\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"186\" cy=\"304\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"218\" cy=\"272\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"240\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"282\" cy=\"208\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"314\" cy=\"176\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"346\" cy=\"144\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"378\" cy=\"112\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><circle cx=\"410\" cy=\"80\" r=\"7\" fill=\"#E74C3C\" stroke=\"#FFFFFF\" stroke-width=\"2\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Chart 3: connecting the points of the multiplication table of one. The rising line divides the chart into two triangles.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bfe651d9-c3dd-41e6-bea2-950900eb3f6c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "bfe651d9-c3dd-41e6-bea2-950900eb3f6c",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a648cecf-238e-4294-a012-3830ff833d67",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a648cecf-238e-4294-a012-3830ff833d67",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we confirmed that multiplication **repeats the same value**: multiplying one by **N** means repeating the number one **N** times, which gives the result **N** itself (1 × N = N).\n\nWe also observed something beautiful: when we connect the results of the multiplications greater than 0, we obtain **slopes** that, together with the axes, form **triangles**.\n\nIn the next classes we will draw other multiplication tables (by 2, by 3, ...) and discover new shapes and slopes. What do you think the table of two will draw?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
