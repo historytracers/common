@@ -3,6 +3,7 @@
 - All new source files must have `// SPDX-License-Identifier: GPL-3.0-or-later` as the first line.
 - When modifying a Go datatype file (`src/go/data-type.go`) or a Java datatype file (`src/android/.../com/historytracers/common/*.java`), the counterpart must always be updated in sync.
 - All files must use LF (`\n`) line endings, never CRLF (`\r\n`). Enforced by `.gitattributes` (`* text=auto eol=lf`).
+- **No BOM**: Files must not contain a UTF-8 Byte Order Mark (`\xef\xbb\xbf` / `\ufeff`). JSON files with a BOM will fail to parse. When writing files programmatically, ensure no BOM is written (Python's `open(f, 'w', encoding='utf-8')` does not add one by default).
 
 ## Creating Smartphone Screen Files
 
