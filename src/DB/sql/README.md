@@ -21,7 +21,7 @@ Stores source entries without duplicates. Each field maps to `HTSourceElement` d
 | `src_publish_date`| `TEXT`      | Publication date of the source     | `PublishDate` |
 | `src_url`         | `TEXT`      | Source URL                         | `URL`         |
 
-Indexed on `src_citation` for faster search lookups.
+Indexed on `src_citation` for faster search lookups, and on `src_url` with a unique index for non-empty values.
 
 ### `source_format`
 
@@ -61,6 +61,6 @@ The three columns together form the composite primary key. Indexed on `fil_id` f
 | `00-create-database.sql`       | Creates the `history_tracers` database |
 | `01-create-source-format.sql` | Creates the `source_format` table |
 | `02-create-sources.sql`       | Creates the `sources` table |
-| `03-index-sources-citation.sql` | Adds an index on `src_citation` |
+| `03-index-sources-citation.sql` | Adds indexes on `src_citation` and on `src_url` (unique, non-empty) |
 | `04-create-files.sql`         | Creates the `files` table |
 | `05-create-citation.sql`      | Creates the `citation` table |
