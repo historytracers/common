@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Somando o mesmo número\n\nVocê se lembra de como aprendemos a contar com os dedos e a somar os números passo a passo? Hoje vamos conhecer uma operação muito especial: a **multiplicação**!\n\nA multiplicação acontece quando somamos o **mesmo número** várias vezes. Por exemplo, somar 2 + 2 + 2 é somar o número 2 três vezes. Vamos descobrir a multiplicação juntos, começando por algo muito próximo de nós: o nosso próprio corpo.",
+               "text": "#### Somando o mesmo número\n\nAprendemos a contar com os dedos e a somar os números passo a passo. Hoje vamos conhecer uma operação muito especial: a **multiplicação**.\n\nA multiplicação acontece quando somamos o **mesmo número** várias vezes. Por exemplo, somar 2 + 2 + 2 é somar o número 2 três vezes. Vamos descobrir a multiplicação juntos, começando por algo muito próximo de nós: o nosso próprio corpo.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### Vamos começar pelo nosso corpo\n\nOlhe para as suas mãos! Cada mão tem **cinco dedos**. Junte as suas duas mãos: no total temos **dez dedos**—cinco na mão esquerda e cinco na mão direita.\n\nAs nossas mãos são a ferramenta perfeita para explorar a nossa nova operação.",
+               "text": "#### Vamos começar pelo nosso corpo\n\nOlhe para as suas mãos. Cada mão tem **cinco dedos**. Junte as suas duas mãos: no total temos **dez dedos**—cinco na mão esquerda e cinco na mão direita.\n\nAs nossas mãos são a ferramenta perfeita para explorar a nossa nova operação.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -121,7 +121,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Como você contaria os dedos das suas duas mãos?\n\nObserve bem as suas mãos. Você acha que existe mais de uma maneira de contar até chegarmos aos dez dedos? Pense nisso antes de continuar.",
+               "text": "Existem diferentes maneiras de contar os dedos das suas duas mãos. Algumas contam um por um, outras contam em grupos. Pense nisso antes de continuar.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -170,7 +170,7 @@
          ],
          "text": [
             {
-               "text": "#### Primeira ideia: contar um por um\n\nUma boa maneira é contar **um por um**. Levante os dedos um de cada vez: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Como adição, podemos escrever:\n\n1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 10\n\nFunciona! Mas escrever o número 1 dez vezes dá muito trabalho, não é? Será que podemos escrever de um jeito mais curto?",
+               "text": "#### Primeira ideia: contar um por um\n\nUma boa maneira é contar **um por um**. Levante os dedos um de cada vez: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Como adição, podemos escrever:\n\n1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 10\n\nFunciona, mas escrever o número 1 dez vezes dá muito trabalho. Vamos ver um jeito mais curto.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -216,7 +216,7 @@
          ],
          "text": [
             {
-               "text": "#### Segunda ideia: somar de cinco em cinco\n\nTemos uma ideia mais rápida! Em vez de contar um por um, podemos contar **em grupos**. Cada mão tem cinco dedos, então somamos:\n\n5 + 5 = 10\n\nDuas mãos de cinco dedos dão dez dedos. Veja como a adição ficou curta! Quando agrupamos, o nosso trabalho fica mais fácil.",
+               "text": "#### Segunda ideia: somar de cinco em cinco\n\nTemos uma ideia mais rápida. Em vez de contar um por um, podemos contar **em grupos**. Cada mão tem cinco dedos, então somamos:\n\n5 + 5 = 10\n\nDuas mãos de cinco dedos dão dez dedos. Veja como a adição ficou curta. Quando agrupamos, o nosso trabalho fica mais fácil.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -249,7 +249,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Chegamos ao mesmo total quando contamos os nossos dez dedos um por um (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) e quando os somamos mão por mão (5 + 5)?",
+               "text": "Chegamos ao mesmo total quando contamos os nossos dez dedos um por um (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) e quando os somamos mão por mão (5 + 5).",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -298,7 +298,7 @@
          ],
          "text": [
             {
-               "text": "#### Um novo sinal: × (vezes)\n\nQuando somamos o mesmo número muitas vezes, escrever a adição inteira demora muito. Os matemáticos criaram um sinal curto para isso: o sinal de multiplicação **×**, que lemos como \"vezes\".\n\nContamos os nossos dedos um por um, somando o número 1 dez vezes. Com o ×, escrevemos:\n\n1 × 10 = 10\n\nE quando contamos mão por mão, somamos o número 5 duas vezes. Com o ×, escrevemos:\n\n2 × 5 = 10\n\nVocê viu? Com poucos símbolos dizemos a mesma coisa que uma adição longa. Isso é a multiplicação!",
+               "text": "#### Um novo sinal: × (vezes)\n\nQuando somamos o mesmo número muitas vezes, escrever a adição inteira demora muito. Os matemáticos criaram um sinal curto para isso: o sinal de multiplicação **×**, que lemos como \"vezes\".\n\nContamos os nossos dedos um por um, somando o número 1 dez vezes. Com o ×, escrevemos:\n\n1 × 10 = 10\n\nE quando contamos mão por mão, somamos o número 5 duas vezes. Com o ×, escrevemos:\n\n2 × 5 = 10\n\nCom poucos símbolos dizemos a mesma coisa que uma adição longa. Isso é a multiplicação.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -335,7 +335,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que podemos **agrupar** os nossos dedos para contá-los. Em vez de somar os valores um por um, podemos multiplicar:\n\n1 × 10 = 10  e  2 × 5 = 10\n\nDescobrimos que a multiplicação é um atalho para somar o **mesmo número** muitas vezes. E encontramos tudo isso usando as nossas próprias mãos! Na próxima aula, continuaremos descobrindo os segredos dessa operação incrível.",
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que podemos **agrupar** os nossos dedos para contá-los. Em vez de somar os valores um por um, podemos multiplicar:\n\n1 × 10 = 10  e  2 × 5 = 10\n\nDescobrimos que a multiplicação é um atalho para somar o **mesmo número** muitas vezes. E encontramos tudo isso usando as nossas próprias mãos. Na próxima aula, continuaremos descobrindo os segredos dessa operação.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Adding the Same Numbers\n\nDo you remember how we learned to count with our fingers and to add numbers one step at a time? Today we are going to meet a very special operation: **multiplication**!\n\nMultiplication happens when we add the **same number** many times. For example, adding 2 + 2 + 2 is adding the number 2 three times. Let us discover multiplication together, starting with something very close to us: our own body.",
+               "text": "#### Adding the Same Numbers\n\nWe learned to count with our fingers and to add numbers one step at a time. Today we are going to meet a very special operation: **multiplication**.\n\nMultiplication happens when we add the **same number** many times. For example, adding 2 + 2 + 2 is adding the number 2 three times. Let us discover multiplication together, starting with something very close to us: our own body.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### Let's Start with Our Body\n\nLook at your hands! Each hand has **five fingers**. Put your two hands together: in total we have **ten fingers**—five on the left hand and five on the right hand.\n\nOur hands are the perfect tool to explore our new operation.",
+               "text": "#### Let's Start with Our Body\n\nLook at your hands. Each hand has **five fingers**. Put your two hands together: in total we have **ten fingers**—five on the left hand and five on the right hand.\n\nOur hands are the perfect tool to explore our new operation.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -121,7 +121,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "How would you count the fingers on your two hands?\n\nLook carefully at your hands. Do you think there is more than one way to count until we reach ten fingers? Think about it before continuing.",
+               "text": "There are different ways to count the fingers on your two hands. Some count one by one, others count by groups. Think about it before continuing.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -170,7 +170,7 @@
          ],
          "text": [
             {
-               "text": "#### First Idea: Counting One by One\n\nA good way is to count **one by one**. Raise your fingers one at a time: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. As an addition, we can write:\n\n1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 10\n\nIt works! But writing the number 1 ten times is a lot of work, is it not? Can we write it in a shorter way?",
+               "text": "#### First Idea: Counting One by One\n\nA good way is to count **one by one**. Raise your fingers one at a time: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. As an addition, we can write:\n\n1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 = 10\n\nIt works, but writing the number 1 ten times is a lot of work. Let us see a shorter way.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -216,7 +216,7 @@
          ],
          "text": [
             {
-               "text": "#### Second Idea: Adding Five by Five\n\nWe have a faster idea! Instead of counting one by one, we can count **by groups**. Each hand has five fingers, so we add:\n\n5 + 5 = 10\n\nTwo hands of five fingers give ten fingers. Look how short the addition is! When we group, our work becomes easier.",
+               "text": "#### Second Idea: Adding Five by Five\n\nWe have a faster idea. Instead of counting one by one, we can count **by groups**. Each hand has five fingers, so we add:\n\n5 + 5 = 10\n\nTwo hands of five fingers give ten fingers. Look how short the addition is. When we group, our work becomes easier.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -298,7 +298,7 @@
          ],
          "text": [
             {
-               "text": "#### A New Sign: × (Times)\n\nWhen we add the same number many times, writing the whole addition takes a long time. Mathematicians created a short sign for that: the multiplication sign **×**, which we read as \"times\".\n\nWe counted our fingers one by one, adding the number 1 ten times. With × we write:\n\n1 × 10 = 10\n\nAnd when we counted hand by hand, we added the number 5 two times. With × we write:\n\n2 × 5 = 10\n\nDid you see? With just a few symbols we say the same thing as a long addition. That is multiplication!",
+               "text": "#### A New Sign: × (Times)\n\nWhen we add the same number many times, writing the whole addition takes a long time. Mathematicians created a short sign for that: the multiplication sign **×**, which we read as \"times\".\n\nWe counted our fingers one by one, adding the number 1 ten times. With × we write:\n\n1 × 10 = 10\n\nAnd when we counted hand by hand, we added the number 5 two times. With × we write:\n\n2 × 5 = 10\n\nWith just a few symbols we say the same thing as a long addition. That is multiplication.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -335,7 +335,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned that we can **group** our fingers to count them. Instead of adding the values one by one, we can multiply:\n\n1 × 10 = 10  and  2 × 5 = 10\n\nWe discovered that multiplication is a shortcut to add the **same number** many times. And we found all of this using our own hands! In the next class, we will keep discovering the secrets of this amazing operation.",
+               "text": "#### Conclusion\n\nIn this class, we learned that we can **group** our fingers to count them. Instead of adding the values one by one, we can multiply:\n\n1 × 10 = 10  and  2 × 5 = 10\n\nWe discovered that multiplication is a shortcut to add the **same number** many times. And we found all of this using our own hands. In the next class, we will keep discovering the secrets of this operation.",
                "source": [],
                "date_time": null,
                "isTable": false,
