@@ -1,4 +1,4 @@
-{
+﻿{
    "title": "Drawing the Table of One",
    "index": "Multiplication",
    "sources": [
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### A Life with Slopes\n\nIn the previous class we learned a recipe with three steps to draw a multiplication: create the formula, plot the points, and connect them. With the table of zero every result was zero, so all the points stayed at the same height and our drawing was a flat, straight line.\n\nBut life is not always a straight line. When we walk on a mountain trail or ride a bicycle uphill, we face slopes: paths that go up little by little. Multiplication can also show us scenarios like this.\n\nIn this class we will draw the multiplication table of one (R = 1 × N) and discover the shape that appears when the results are not all the same. It will be a different shape.",
+               "text": "#### A Life with Slopes\n\nIn the previous class we learned a recipe with three steps to draw a multiplication: create the formula, plot the points, and connect them. With the table of zero every result was zero, so all the points stayed at the same height and our drawing was a flat, straight line.\n\nBut life is not always a straight line. When we walk on a mountain trail or ride a bicycle uphill, we face slopes: paths that go up little by little. Multiplication can also show us scenarios like this.\n\nIn this class we will draw the multiplication table of one (R = 1 Ã— N) and discover the shape that appears when the results are not all the same. It will be a different shape.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### A Rule for the Table of One\n\nWe already know the rule of multiplication: **R = a × N**, where **a** is the number we repeat and **N** is the number of times we repeat it.\n\nWhen we drew the table of zero we used **a = 0**, and every result was zero. Now let us apply the same rule with **a = 1**, that is, repeating the number one: **R = 1 × N**. Let us see the results:",
+               "text": "#### A Rule for the Table of One\n\nWe already know the rule of multiplication: **R = a Ã— N**, where **a** is the number we repeat and **N** is the number of times we repeat it.\n\nWhen we drew the table of zero we used **a = 0**, and every result was zero. Now let us apply the same rule with **a = 1**, that is, repeating the number one: **R = 1 Ã— N**. Let us see the results:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -106,7 +106,7 @@
                "PostMention": ""
             },
             {
-               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">1 × 0 = 0<br/>1 × 1 = 1<br/>1 × 2 = 2<br/>1 × 3 = 3<br/>1 × 4 = 4<br/>1 × 5 = 5</div><div style=\"text-align: center;\">1 × 6 = 6<br/>1 × 7 = 7<br/>1 × 8 = 8<br/>1 × 9 = 9<br/>1 × 10 = 10</div></div>",
+               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">1 Ã— 0 = 0<br/>1 Ã— 1 = 1<br/>1 Ã— 2 = 2<br/>1 Ã— 3 = 3<br/>1 Ã— 4 = 4<br/>1 Ã— 5 = 5</div><div style=\"text-align: center;\">1 Ã— 6 = 6<br/>1 Ã— 7 = 7<br/>1 Ã— 8 = 8<br/>1 Ã— 9 = 9<br/>1 Ã— 10 = 10</div></div>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -115,7 +115,7 @@
                "PostMention": ""
             },
             {
-               "text": "Notice how this time the results are **not** all the same: multiplying one by **N** gives **N** itself (1 × N = N). So, as **N** grows, the result grows too.",
+               "text": "Notice how this time the results are **not** all the same: multiplying one by **N** gives **N** itself (1 Ã— N = N). So, as **N** grows, the result grows too.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -152,7 +152,7 @@
          ],
          "text": [
             {
-               "text": "#### Drawing the Results\n\nWith the table of zero every result was zero, so we could place all the points on the same straight line. But in the table of one the results are not all the same: 1 × N = N, so each result is different from the previous one.\n\nBecause the values are not the same, we cannot stay on a straight line. We will need another axis to draw the results: the horizontal axis shows **N** and the vertical axis shows the result **R**. Let us plot the points of the table of one:",
+               "text": "#### Drawing the Results\n\nWith the table of zero every result was zero, so we could place all the points on the same straight line. But in the table of one the results are not all the same: 1 Ã— N = N, so each result is different from the previous one.\n\nBecause the values are not the same, we cannot stay on a straight line. We will need another axis to draw the results: the horizontal axis shows **N** and the vertical axis shows the result **R**. Let us plot the points of the table of one:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class we confirmed that multiplication **repeats the same value**: multiplying one by **N** means repeating the number one **N** times, which gives the result **N** itself (1 × N = N).\n\nWe also observed something beautiful: when we connect the results of the multiplications greater than 0, we obtain **slopes** that, together with the axes, form **triangles**.\n\nIn the next classes we will draw other multiplication tables (by 2, by 3, ...) and discover new shapes and slopes. The table of two will draw a different shape.",
+               "text": "#### Conclusion\n\nIn this class we confirmed that multiplication **repeats the same value**: multiplying one by **N** means repeating the number one **N** times, which gives the result **N** itself (1 Ã— N = N).\n\nWe also observed something beautiful: when we connect the results of the multiplications greater than 0, we obtain **slopes** that, together with the axes, form **triangles**.\n\nIn the next classes we will draw other multiplication tables (by 2, by 3, ...) and discover new shapes and slopes. The table of two will draw a different shape.",
                "source": [],
                "date_time": null,
                "isTable": false,

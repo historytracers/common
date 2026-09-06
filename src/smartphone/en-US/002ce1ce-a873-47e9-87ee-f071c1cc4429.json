@@ -1,4 +1,4 @@
-{
+﻿{
    "title": "Drawing the Table of Zero",
    "index": "Multiplication",
    "sources": [
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Drawing with Multiplication\n\nMultiplication is not only for working with numbers: it is all around us in the real world. When we count the tiles on a floor, the windows of a building, or the beats of a song, we repeat the same quantity many times—we are multiplying.\n\nBut there is an even more beautiful secret: we can **draw** with the results of a multiplication. When we mark the numbers on paper and connect them, straight lines and other shapes appear.\n\nIn this class, we will start drawing with the results of the multiplication table of zero. Let us discover which shape is hiding inside it.",
+               "text": "#### Drawing with Multiplication\n\nMultiplication is not only for working with numbers: it is all around us in the real world. When we count the tiles on a floor, the windows of a building, or the beats of a song, we repeat the same quantity many timesâ€”we are multiplying.\n\nBut there is an even more beautiful secret: we can **draw** with the results of a multiplication. When we mark the numbers on paper and connect them, straight lines and other shapes appear.\n\nIn this class, we will start drawing with the results of the multiplication table of zero. Let us discover which shape is hiding inside it.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### A Rule for Multiplication\n\nWhen we have situations in which an action repeats many times, like multiplication, we can write a **rule** (a law) for it. The rule of multiplication is:\n\n**R = a × N**\n\nWhere:\n- **R** is the **Result** of the multiplication.\n- **a** is the number we are multiplying (the number that is repeated).\n- **N** is the **Number of times** we repeat it.\n\nLet us use this rule to build the multiplication table of zero.",
+               "text": "#### A Rule for Multiplication\n\nWhen we have situations in which an action repeats many times, like multiplication, we can write a **rule** (a law) for it. The rule of multiplication is:\n\n**R = a Ã— N**\n\nWhere:\n- **R** is the **Result** of the multiplication.\n- **a** is the number we are multiplying (the number that is repeated).\n- **N** is the **Number of times** we repeat it.\n\nLet us use this rule to build the multiplication table of zero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -155,7 +155,7 @@
                "PostMention": ""
             },
             {
-               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">0 × 0 = 0<br/>0 × 1 = 0<br/>0 × 2 = 0<br/>0 × 3 = 0<br/>0 × 4 = 0<br/>0 × 5 = 0</div><div style=\"text-align: center;\">0 × 6 = 0<br/>0 × 7 = 0<br/>0 × 8 = 0<br/>0 × 9 = 0<br/>0 × 10 = 0</div></div>",
+               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">0 Ã— 0 = 0<br/>0 Ã— 1 = 0<br/>0 Ã— 2 = 0<br/>0 Ã— 3 = 0<br/>0 Ã— 4 = 0<br/>0 Ã— 5 = 0</div><div style=\"text-align: center;\">0 Ã— 6 = 0<br/>0 Ã— 7 = 0<br/>0 Ã— 8 = 0<br/>0 Ã— 9 = 0<br/>0 Ã— 10 = 0</div></div>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -255,7 +255,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let us Think.\n\nAll the dots of the table of zero are on the same horizontal line—at the value zero.\nIf we connect the neighboring dots with straight strokes, will our drawing be a **straight, flat line**?",
+               "text": "#### Let us Think.\n\nAll the dots of the table of zero are on the same horizontal lineâ€”at the value zero.\nIf we connect the neighboring dots with straight strokes, will our drawing be a **straight, flat line**?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -304,7 +304,7 @@
          ],
          "text": [
             {
-               "text": "#### A Straight, Flat Line\n\nExactly. When we connect all the dots with straight strokes, our drawing becomes a **straight line** that is perfectly **flat**—since every result is zero, the line never goes up or down: it stays exactly on the horizontal line:",
+               "text": "#### A Straight, Flat Line\n\nExactly. When we connect all the dots with straight strokes, our drawing becomes a **straight line** that is perfectly **flat**â€”since every result is zero, the line never goes up or down: it stays exactly on the horizontal line:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -359,7 +359,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nNow we understand the reason: multiplying any number by zero always gives zero, that is, **0 × N = 0**. Since all the results are the same, all the dots are on the same horizontal line—at the value zero.\n\nThat is why, when we connect them, our drawing is a **straight, flat line** lying exactly on the horizontal line—the first shape we draw with multiplication.\n\nIn the next classes, we will draw other multiplication tables (by 1, by 2, ...) and discover new shapes: rising lines and even triangles. The multiplication table of one will draw a different shape.",
+               "text": "#### Conclusion\n\nNow we understand the reason: multiplying any number by zero always gives zero, that is, **0 Ã— N = 0**. Since all the results are the same, all the dots are on the same horizontal lineâ€”at the value zero.\n\nThat is why, when we connect them, our drawing is a **straight, flat line** lying exactly on the horizontal lineâ€”the first shape we draw with multiplication.\n\nIn the next classes, we will draw other multiplication tables (by 1, by 2, ...) and discover new shapes: rising lines and even triangles. The multiplication table of one will draw a different shape.",
                "source": [],
                "date_time": null,
                "isTable": false,
