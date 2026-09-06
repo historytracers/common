@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### A Life with Slopes\n\nIn the previous class we learned a recipe with three steps to draw a multiplication: create the formula, plot the points, and connect them. With the table of zero every result was zero, so all the points stayed at the same height and our drawing was a flat, straight line.\n\nBut life is not always a straight line! When we walk on a mountain trail or ride a bicycle uphill, we face slopes: paths that go up little by little. Multiplication can also show us scenarios like this.\n\nIn this class we will draw the multiplication table of one (R = 1 × N) and discover the shape that appears when the results are not all the same. What do you think it will be?",
+               "text": "#### A Life with Slopes\n\nIn the previous class we learned a recipe with three steps to draw a multiplication: create the formula, plot the points, and connect them. With the table of zero every result was zero, so all the points stayed at the same height and our drawing was a flat, straight line.\n\nBut life is not always a straight line. When we walk on a mountain trail or ride a bicycle uphill, we face slopes: paths that go up little by little. Multiplication can also show us scenarios like this.\n\nIn this class we will draw the multiplication table of one (R = 1 × N) and discover the shape that appears when the results are not all the same. It will be a different shape.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -115,7 +115,7 @@
                "PostMention": ""
             },
             {
-               "text": "Did you notice? This time the results are **not** all the same: multiplying one by **N** gives **N** itself (1 × N = N). So, as **N** grows, the result grows too.",
+               "text": "Notice how this time the results are **not** all the same: multiplying one by **N** gives **N** itself (1 × N = N). So, as **N** grows, the result grows too.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -152,7 +152,7 @@
          ],
          "text": [
             {
-               "text": "#### Drawing the Results\n\nA table gives us numbers, but numbers alone do not show the drawing of a multiplication. To see the drawing, we must **draw**!\n\nWith the table of zero every result was zero, so we could place all the points on the same straight line. But in the table of one the results are not all the same: 1 × N = N, so each result is different from the previous one.\n\nBecause the values are not the same, we cannot stay on a straight line. We will need another axis to draw the results: the horizontal axis shows **N** and the vertical axis shows the result **R**. Let us plot the points of the table of one:",
+               "text": "#### Drawing the Results\n\nA table gives us numbers, but numbers alone do not show the drawing of a multiplication. To see the drawing, we must **draw**.\n\nWith the table of zero every result was zero, so we could place all the points on the same straight line. But in the table of one the results are not all the same: 1 × N = N, so each result is different from the previous one.\n\nBecause the values are not the same, we cannot stay on a straight line. We will need another axis to draw the results: the horizontal axis shows **N** and the vertical axis shows the result **R**. Let us plot the points of the table of one:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -170,7 +170,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Chart 1: points of the multiplication table of one.*\n\nLook! The points climb one step at a time, like a slope.",
+               "text": "*Chart 1: points of the multiplication table of one.*\n\nNotice how the points climb one step at a time, like a slope.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -194,7 +194,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let's Think!\n\nIn the table of one each result is different: the points climb one step at a time, always higher than the previous one.\n\nIs the previous chart showing repetition of the same value?",
+               "text": "#### Let us Think.\n\nIn the table of one each result is different: the points climb one step at a time, always higher than the previous one.\n\nIs the previous chart showing repetition of the same value?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -231,7 +231,7 @@
          ],
          "text": [
             {
-               "text": "#### Boxes of the Same Size\n\nNo! The chart does not repeat the same value: each point is higher than the previous one. But we can still draw each result in another way.\n\nLet us add, below each value, **boxes of the same size**. Under the value 1 we place one box, under the value 2 two boxes, and so on. Each column of boxes represents a result of the table of one:",
+               "text": "#### Boxes of the Same Size\n\nNo. The chart does not repeat the same value: each point is higher than the previous one. But we can still draw each result in another way.\n\nLet us add, below each value, **boxes of the same size**. Under the value 1 we place one box, under the value 2 two boxes, and so on. Each column of boxes represents a result of the table of one:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class we confirmed that multiplication **repeats the same value**: multiplying one by **N** means repeating the number one **N** times, which gives the result **N** itself (1 × N = N).\n\nWe also observed something beautiful: when we connect the results of the multiplications greater than 0, we obtain **slopes** that, together with the axes, form **triangles**.\n\nIn the next classes we will draw other multiplication tables (by 2, by 3, ...) and discover new shapes and slopes. What do you think the table of two will draw?",
+               "text": "#### Conclusion\n\nIn this class we confirmed that multiplication **repeats the same value**: multiplying one by **N** means repeating the number one **N** times, which gives the result **N** itself (1 × N = N).\n\nWe also observed something beautiful: when we connect the results of the multiplications greater than 0, we obtain **slopes** that, together with the axes, form **triangles**.\n\nIn the next classes we will draw other multiplication tables (by 2, by 3, ...) and discover new shapes and slopes. The table of two will draw a different shape.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Uma Vida com Inclinações\n\nNa aula anterior aprendemos uma receita com três passos para desenhar uma multiplicação: criar a fórmula, marcar os pontos e uni-los. Com a tabuada do zero todo resultado era zero, então todos os pontos ficavam na mesma altura e o nosso desenho era uma linha reta e plana.\n\nMas a vida nem sempre é uma linha reta! Quando caminhamos por uma trilha na montanha ou subimos uma ladeira de bicicleta, enfrentamos inclinações: caminhos que sobem aos poucos. A multiplicação também pode nos mostrar cenários assim.\n\nNesta aula, vamos desenhar a tabuada do um (R = 1 × N) e descobrir a forma que aparece quando os resultados não são todos iguais. O que você acha que será?",
+               "text": "#### Uma Vida com Inclinações\n\nNa aula anterior aprendemos uma receita com três passos para desenhar uma multiplicação: criar a fórmula, marcar os pontos e uni-los. Com a tabuada do zero todo resultado era zero, então todos os pontos ficavam na mesma altura e o nosso desenho era uma linha reta e plana.\n\nMas a vida nem sempre é uma linha reta. Quando caminhamos por uma trilha na montanha ou subimos uma ladeira de bicicleta, enfrentamos inclinações: caminhos que sobem aos poucos. A multiplicação também pode nos mostrar cenários assim.\n\nNesta aula, vamos desenhar a tabuada do um (R = 1 × N) e descobrir a forma que aparece quando os resultados não são todos iguais. Será uma forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -115,7 +115,7 @@
                "PostMention": ""
             },
             {
-               "text": "Você notou? Desta vez os resultados **não** são todos iguais: multiplicar um por **N** dá o próprio **N** (1 × N = N). Então, à medida que **N** cresce, o resultado também cresce.",
+               "text": "Observe como desta vez os resultados **não** são todos iguais: multiplicar um por **N** dá o próprio **N** (1 × N = N). Então, à medida que **N** cresce, o resultado também cresce.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -152,7 +152,7 @@
          ],
          "text": [
             {
-               "text": "#### Desenhando os Resultados\n\nUma tabela nos dá números, mas os números sozinhos não mostram o desenho de uma multiplicação. Para ver o desenho, precisamos **desenhar**!\n\nCom a tabuada do zero todo resultado era zero, então podíamos colocar todos os pontos sobre a mesma linha reta. Mas na tabuada do um os resultados não são todos iguais: 1 × N = N, então cada resultado é diferente do anterior.\n\nComo os valores não são os mesmos, não podemos ficar em uma linha reta. Vamos precisar de outro eixo para desenhar os resultados: o eixo horizontal mostra **N** e o eixo vertical mostra o resultado **R**. Vamos marcar os pontos da tabuada do um:",
+               "text": "#### Desenhando os Resultados\n\nUma tabela nos dá números, mas os números sozinhos não mostram o desenho de uma multiplicação. Para ver o desenho, precisamos **desenhar**.\n\nCom a tabuada do zero todo resultado era zero, então podíamos colocar todos os pontos sobre a mesma linha reta. Mas na tabuada do um os resultados não são todos iguais: 1 × N = N, então cada resultado é diferente do anterior.\n\nComo os valores não são os mesmos, não podemos ficar em uma linha reta. Vamos precisar de outro eixo para desenhar os resultados: o eixo horizontal mostra **N** e o eixo vertical mostra o resultado **R**. Vamos marcar os pontos da tabuada do um:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -170,7 +170,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Gráfico 1: pontos da tabuada do um.*\n\nVeja! Os pontos sobem um degrau de cada vez, como uma inclinação.",
+               "text": "*Gráfico 1: pontos da tabuada do um.*\n\nObserve como os pontos sobem um degrau de cada vez, como uma inclinação.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -194,7 +194,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nNa tabuada do um cada resultado é diferente: os pontos sobem um degrau de cada vez, sempre mais altos que o anterior.\n\nO gráfico anterior está mostrando a repetição do mesmo valor?",
+               "text": "#### Pensando.\n\nNa tabuada do um cada resultado é diferente: os pontos sobem um degrau de cada vez, sempre mais altos que o anterior.\n\nO gráfico anterior está mostrando a repetição do mesmo valor?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -231,7 +231,7 @@
          ],
          "text": [
             {
-               "text": "#### Caixas do Mesmo Tamanho\n\nNão! O gráfico não repete o mesmo valor: cada ponto é mais alto que o anterior. Mas ainda podemos desenhar cada resultado de outra maneira.\n\nVamos colocar, abaixo de cada valor, **caixas do mesmo tamanho**. Sob o valor 1 colocamos uma caixa, sob o valor 2 duas caixas, e assim por diante. Cada coluna de caixas representa um resultado da tabuada do um:",
+               "text": "#### Caixas do Mesmo Tamanho\n\nNão. O gráfico não repete o mesmo valor: cada ponto é mais alto que o anterior. Mas ainda podemos desenhar cada resultado de outra maneira.\n\nVamos colocar, abaixo de cada valor, **caixas do mesmo tamanho**. Sob o valor 1 colocamos uma caixa, sob o valor 2 duas caixas, e assim por diante. Cada coluna de caixas representa um resultado da tabuada do um:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula confirmamos que a multiplicação **repete o mesmo valor**: multiplicar um por **N** significa repetir o número um **N** vezes, o que dá o resultado **N** (1 × N = N).\n\nTambém observamos algo bonito: quando unimos os resultados das multiplicações maiores que 0, obtemos **inclinações** que, junto com os eixos, formam **triângulos**.\n\nNas próximas aulas vamos desenhar outras tabuadas (por 2, por 3, ...) e descobrir novas formas e inclinações. O que você acha que a tabuada do dois vai desenhar?",
+               "text": "#### Conclusão\n\nNesta aula confirmamos que a multiplicação **repete o mesmo valor**: multiplicar um por **N** significa repetir o número um **N** vezes, o que dá o resultado **N** (1 × N = N).\n\nTambém observamos algo bonito: quando unimos os resultados das multiplicações maiores que 0, obtemos **inclinações** que, junto com os eixos, formam **triângulos**.\n\nNas próximas aulas vamos desenhar outras tabuadas (por 2, por 3, ...) e descobrir novas formas e inclinações. A tabuada do dois vai desenhar uma forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Vida con Pendientes\n\nEn la clase anterior aprendimos una receta con tres pasos para dibujar una multiplicación: crear la fórmula, marcar los puntos y unirlos. Con la tabla del cero todo resultado era cero, así que todos los puntos quedaban a la misma altura y nuestro dibujo era una línea recta y plana.\n\n¡Pero la vida no siempre es una línea recta! Cuando caminamos por un sendero de montaña o subimos una cuesta en bicicleta, nos encontramos con pendientes: caminos que suben poco a poco. La multiplicación también puede mostrarnos escenarios como este.\n\nEn esta clase dibujaremos la tabla de multiplicar del uno (R = 1 × N) y descubriremos la forma que aparece cuando los resultados no son todos iguales. ¿Qué crees que será?",
+               "text": "#### Una Vida con Pendientes\n\nEn la clase anterior aprendimos una receta con tres pasos para dibujar una multiplicación: crear la fórmula, marcar los puntos y unirlos. Con la tabla del cero todo resultado era cero, así que todos los puntos quedaban a la misma altura y nuestro dibujo era una línea recta y plana.\n\nPero la vida no siempre es una línea recta. Cuando caminamos por un sendero de montaña o subimos una cuesta en bicicleta, nos encontramos con pendientes: caminos que suben poco a poco. La multiplicación también puede mostrarnos escenarios como este.\n\nEn esta clase dibujaremos la tabla de multiplicar del uno (R = 1 × N) y descubriremos la forma que aparece cuando los resultados no son todos iguales. Será una forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -115,7 +115,7 @@
                "PostMention": ""
             },
             {
-               "text": "¿Te diste cuenta? Esta vez los resultados **no** son todos iguales: multiplicar uno por **N** da el propio **N** (1 × N = N). Así, a medida que **N** crece, el resultado también crece.",
+               "text": "Observa cómo esta vez los resultados **no** son todos iguales: multiplicar uno por **N** da el propio **N** (1 × N = N). Así, a medida que **N** crece, el resultado también crece.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -152,7 +152,7 @@
          ],
          "text": [
             {
-               "text": "#### Dibujando los Resultados\n\nUna tabla nos da números, pero los números por sí solos no muestran el dibujo de una multiplicación. ¡Para ver el dibujo, tenemos que **dibujar**!\n\nCon la tabla del cero todo resultado era cero, así que podíamos colocar todos los puntos sobre la misma línea recta. Pero en la tabla del uno los resultados no son todos iguales: 1 × N = N, así que cada resultado es diferente del anterior.\n\nComo los valores no son los mismos, no podemos quedarnos en una línea recta. Necesitaremos otro eje para dibujar los resultados: el eje horizontal muestra **N** y el eje vertical muestra el resultado **R**. Marquemos los puntos de la tabla del uno:",
+               "text": "#### Dibujando los Resultados\n\nUna tabla nos da números, pero los números por sí solos no muestran el dibujo de una multiplicación. Para ver el dibujo, tenemos que **dibujar**.\n\nCon la tabla del cero todo resultado era cero, así que podíamos colocar todos los puntos sobre la misma línea recta. Pero en la tabla del uno los resultados no son todos iguales: 1 × N = N, así que cada resultado es diferente del anterior.\n\nComo los valores no son los mismos, no podemos quedarnos en una línea recta. Necesitaremos otro eje para dibujar los resultados: el eje horizontal muestra **N** y el eje vertical muestra el resultado **R**. Marquemos los puntos de la tabla del uno:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -170,7 +170,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Gráfico 1: puntos de la tabla de multiplicar del uno.*\n\n¡Mira! Los puntos suben un paso a la vez, como una pendiente.",
+               "text": "*Gráfico 1: puntos de la tabla de multiplicar del uno.*\n\nObserva cómo los puntos suben un paso a la vez, como una pendiente.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -194,7 +194,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### ¡Pensemos!\n\nEn la tabla del uno cada resultado es diferente: los puntos suben un paso a la vez, siempre más altos que el anterior.\n\n¿El gráfico anterior está mostrando la repetición del mismo valor?",
+               "text": "#### Pensemos.\n\nEn la tabla del uno cada resultado es diferente: los puntos suben un paso a la vez, siempre más altos que el anterior.\n\n¿El gráfico anterior está mostrando la repetición del mismo valor?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -231,7 +231,7 @@
          ],
          "text": [
             {
-               "text": "#### Cajas del Mismo Tamaño\n\n¡No! El gráfico no repite el mismo valor: cada punto es más alto que el anterior. Pero todavía podemos dibujar cada resultado de otra manera.\n\nAgreguemos, debajo de cada valor, **cajas del mismo tamaño**. Debajo del valor 1 colocamos una caja, debajo del valor 2 dos cajas, y así sucesivamente. Cada columna de cajas representa un resultado de la tabla del uno:",
+               "text": "#### Cajas del Mismo Tamaño\n\nNo. El gráfico no repite el mismo valor: cada punto es más alto que el anterior. Pero todavía podemos dibujar cada resultado de otra manera.\n\nAgreguemos, debajo de cada valor, **cajas del mismo tamaño**. Debajo del valor 1 colocamos una caja, debajo del valor 2 dos cajas, y así sucesivamente. Cada columna de cajas representa un resultado de la tabla del uno:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase confirmamos que la multiplicación **repite el mismo valor**: multiplicar uno por **N** significa repetir el número uno **N** veces, lo que da el resultado **N** (1 × N = N).\n\nTambién observamos algo hermoso: cuando unimos los resultados de las multiplicaciones mayores que 0, obtenemos **pendientes** que, junto con los ejes, forman **triángulos**.\n\nEn las próximas clases dibujaremos otras tablas de multiplicar (por 2, por 3, ...) y descubriremos nuevas formas y pendientes. ¿Qué crees que dibujará la tabla del dos?",
+               "text": "#### Conclusión\n\nEn esta clase confirmamos que la multiplicación **repite el mismo valor**: multiplicar uno por **N** significa repetir el número uno **N** veces, lo que da el resultado **N** (1 × N = N).\n\nTambién observamos algo hermoso: cuando unimos los resultados de las multiplicaciones mayores que 0, obtenemos **pendientes** que, junto con los ejes, forman **triángulos**.\n\nEn las próximas clases dibujaremos otras tablas de multiplicar (por 2, por 3, ...) y descubriremos nuevas formas y pendientes. La tabla del dos dibujará una forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,

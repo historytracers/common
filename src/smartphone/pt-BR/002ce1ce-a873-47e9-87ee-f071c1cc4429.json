@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Desenhando com a Multiplicação\n\nA multiplicação não serve apenas para lidar com números: ela está em toda parte no mundo real! Quando contamos os azulejos do piso, as janelas de um prédio ou as batidas de uma música, estamos repetindo a mesma quantidade muitas vezes—estamos multiplicando.\n\nMas há um segredo ainda mais bonito: podemos **desenhar** com os resultados de uma multiplicação! Quando marcamos os números no papel e os unimos, retas e outras formas aparecem.\n\nNesta aula, vamos começar a desenhar usando os resultados da tabuada do zero. Vamos descobrir qual forma está escondida nela!",
+               "text": "#### Desenhando com a Multiplicação\n\nA multiplicação não serve apenas para lidar com números: ela está em toda parte no mundo real. Quando contamos os azulejos do piso, as janelas de um prédio ou as batidas de uma música, estamos repetindo a mesma quantidade muitas vezes—estamos multiplicando.\n\nMas há um segredo ainda mais bonito: podemos **desenhar** com os resultados de uma multiplicação. Quando marcamos os números no papel e os unimos, retas e outras formas aparecem.\n\nNesta aula, vamos começar a desenhar usando os resultados da tabuada do zero. Vamos descobrir qual forma está escondida nela.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### Uma Regra para a Multiplicação\n\nQuando temos situações em que uma ação se repete muitas vezes, como na multiplicação, podemos escrever uma **regra** (uma lei) para ela. A regra da multiplicação é:\n\n**R = a × N**\n\nEm que:\n- **R** é o **Resultado** da multiplicação.\n- **a** é o número que estamos multiplicando (o número que se repete).\n- **N** é o **Número de vezes** que o repetimos.\n\nVamos usar essa regra para construir a tabuada do zero!",
+               "text": "#### Uma Regra para a Multiplicação\n\nQuando temos situações em que uma ação se repete muitas vezes, como na multiplicação, podemos escrever uma **regra** (uma lei) para ela. A regra da multiplicação é:\n\n**R = a × N**\n\nEm que:\n- **R** é o **Resultado** da multiplicação.\n- **a** é o número que estamos multiplicando (o número que se repete).\n- **N** é o **Número de vezes** que o repetimos.\n\nVamos usar essa regra para construir a tabuada do zero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -164,7 +164,7 @@
                "PostMention": ""
             },
             {
-               "text": "Você notou? O resultado **R** nunca muda! Não importa qual número **N** usemos: multiplicar por zero sempre dá **0**.",
+               "text": "Observe como o resultado **R** nunca muda. Não importa qual número **N** usemos: multiplicar por zero sempre dá **0**.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -213,7 +213,7 @@
          ],
          "text": [
             {
-               "text": "#### Desenhando os Resultados\n\nUma tabela nos dá números, mas os números sozinhos não mostram o desenho de uma multiplicação. Para ver o desenho, precisamos **desenhar**!\n\nNesta aula, trabalhamos somente com valores **horizontais**. Então vamos desenhar uma linha horizontal e marcar nela os números **N** (0, 1, 2, ...).\n\nPara cada valor de **N**, a nossa tabela dá um resultado, e nós o marcamos com um ponto nessa linha, um após o outro. Mas todo resultado é zero! Então todo ponto fica exatamente sobre a linha, no valor zero.",
+               "text": "#### Desenhando os Resultados\n\nUma tabela nos dá números, mas os números sozinhos não mostram o desenho de uma multiplicação. Para ver o desenho, precisamos **desenhar**.\n\nNesta aula, trabalhamos somente com valores **horizontais**. Então vamos desenhar uma linha horizontal e marcar nela os números **N** (0, 1, 2, ...).\n\nPara cada valor de **N**, a nossa tabela dá um resultado, e nós o marcamos com um ponto nessa linha, um após o outro. Mas todo resultado é zero. Então todo ponto fica exatamente sobre a linha, no valor zero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -231,7 +231,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Gráfico 1: pontos da tabuada do zero.*\n\nQue surpresa, não é? Todos os pontos ficam exatamente sobre a linha horizontal, porque todo resultado é zero.",
+               "text": "*Gráfico 1: pontos da tabuada do zero.*\n\nQue surpresa. Todos os pontos ficam exatamente sobre a linha horizontal, porque todo resultado é zero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -255,7 +255,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nTodos os pontos da tabuada do zero estão sobre a mesma linha horizontal—no valor zero.\nSe unirmos os pontos vizinhos com traços retos, o nosso desenho será uma **linha reta e plana**?",
+               "text": "#### Pensando.\n\nTodos os pontos da tabuada do zero estão sobre a mesma linha horizontal—no valor zero.\nSe unirmos os pontos vizinhos com traços retos, o nosso desenho será uma **linha reta e plana**?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -304,7 +304,7 @@
          ],
          "text": [
             {
-               "text": "#### Sim! Uma Linha Reta e Plana\n\nExatamente! Quando unimos todos os pontos com traços retos, o nosso desenho vira uma **linha reta** totalmente **plana**—como todo resultado é zero, a linha nunca sobe nem desce: ela fica exatamente sobre a linha horizontal:",
+               "text": "#### Uma Linha Reta e Plana\n\nExatamente. Quando unimos todos os pontos com traços retos, o nosso desenho vira uma **linha reta** totalmente **plana**—como todo resultado é zero, a linha nunca sobe nem desce: ela fica exatamente sobre a linha horizontal:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -359,7 +359,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nAgora entendemos o motivo: multiplicar qualquer número por zero sempre dá zero, ou seja, **0 × N = 0**. Como todos os resultados são iguais, todos os pontos estão sobre a mesma linha horizontal—no valor zero.\n\nPor isso, quando os unimos, o nosso desenho é uma **linha reta e plana** apoiada exatamente na linha horizontal—a primeira forma que desenhamos com a multiplicação!\n\nNas próximas aulas, vamos desenhar outras tabuadas (por 1, por 2, ...) e descobrir novas formas: linhas ascendentes e até triângulos! O que você acha que a tabuada do um vai desenhar?",
+               "text": "#### Conclusão\n\nAgora entendemos o motivo: multiplicar qualquer número por zero sempre dá zero, ou seja, **0 × N = 0**. Como todos os resultados são iguais, todos os pontos estão sobre a mesma linha horizontal—no valor zero.\n\nPor isso, quando os unimos, o nosso desenho é uma **linha reta e plana** apoiada exatamente na linha horizontal—a primeira forma que desenhamos com a multiplicação.\\n\\nNas próximas aulas, vamos desenhar outras tabuadas (por 1, por 2, ...) e descobrir novas formas: linhas ascendentes e até triângulos. A tabuada do um vai desenhar uma forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,
