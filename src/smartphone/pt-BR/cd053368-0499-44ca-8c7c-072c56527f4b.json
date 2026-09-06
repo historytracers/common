@@ -106,7 +106,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p style=\"font-family: monospace; font-size: 1.05em; text-align: center; line-height: 1.75; margin: 0.2em auto;\">1 × 0 = 0<br/>1 × 1 = 1<br/>1 × 2 = 2<br/>1 × 3 = 3<br/>1 × 4 = 4<br/>1 × 5 = 5<br/>1 × 6 = 6<br/>1 × 7 = 7<br/>1 × 8 = 8<br/>1 × 9 = 9<br/>1 × 10 = 10</p>",
+               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">1 × 0 = 0<br/>1 × 1 = 1<br/>1 × 2 = 2<br/>1 × 3 = 3<br/>1 × 4 = 4<br/>1 × 5 = 5</div><div style=\"text-align: center;\">1 × 6 = 6<br/>1 × 7 = 7<br/>1 × 8 = 8<br/>1 × 9 = 9<br/>1 × 10 = 10</div></div>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -152,7 +152,7 @@
          ],
          "text": [
             {
-               "text": "#### Desenhando os Resultados\n\nUma tabela nos dá números, mas os números sozinhos não mostram o desenho de uma multiplicação. Para ver o desenho, precisamos **desenhar**.\n\nCom a tabuada do zero todo resultado era zero, então podíamos colocar todos os pontos sobre a mesma linha reta. Mas na tabuada do um os resultados não são todos iguais: 1 × N = N, então cada resultado é diferente do anterior.\n\nComo os valores não são os mesmos, não podemos ficar em uma linha reta. Vamos precisar de outro eixo para desenhar os resultados: o eixo horizontal mostra **N** e o eixo vertical mostra o resultado **R**. Vamos marcar os pontos da tabuada do um:",
+               "text": "#### Desenhando os Resultados\n\nCom a tabuada do zero todo resultado era zero, então podíamos colocar todos os pontos sobre a mesma linha reta. Mas na tabuada do um os resultados não são todos iguais: 1 × N = N, então cada resultado é diferente do anterior.\n\nComo os valores não são os mesmos, não podemos ficar em uma linha reta. Vamos precisar de outro eixo para desenhar os resultados: o eixo horizontal mostra **N** e o eixo vertical mostra o resultado **R**. Vamos marcar os pontos da tabuada do um:",
                "source": [],
                "date_time": null,
                "isTable": false,
