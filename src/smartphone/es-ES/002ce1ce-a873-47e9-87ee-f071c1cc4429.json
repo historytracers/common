@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Dibujando con la MultiplicaciÃ³n\n\nLa multiplicaciÃ³n no solo sirve para trabajar con nÃºmeros: estÃ¡ en todas partes del mundo real. Cuando contamos los azulejos del piso, las ventanas de un edificio o los golpes de una canciÃ³n, estamos repitiendo la misma cantidad muchas vecesâ€”estamos multiplicando.\n\nPero hay un secreto aÃºn mÃ¡s bonito: podemos **dibujar** con los resultados de una multiplicaciÃ³n. Cuando marcamos los nÃºmeros en el papel y los unimos, aparecen lÃ­neas rectas y otras formas.\n\nEn esta clase, comenzaremos a dibujar usando los resultados de la tabla de multiplicar del cero. Descubramos quÃ© forma estÃ¡ escondida en ella.",
+               "text": "#### Dibujando con la Multiplicación\n\nLa multiplicación no solo sirve para trabajar con números: está en todas partes del mundo real. Cuando contamos los azulejos del piso, las ventanas de un edificio o los golpes de una canción, estamos repitiendo la misma cantidad muchas vecesâ€”estamos multiplicando.\n\nPero hay un secreto aún más bonito: podemos **dibujar** con los resultados de una multiplicación. Cuando marcamos los números en el papel y los unimos, aparecen líneas rectas y otras formas.\n\nEn esta clase, comenzaremos a dibujar usando los resultados de la tabla de multiplicar del cero. Descubramos qué forma está escondida en ella.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Regla para la MultiplicaciÃ³n\n\nCuando tenemos situaciones en las que una acciÃ³n se repite muchas veces, como en la multiplicaciÃ³n, podemos escribir una **regla** (una ley) para ella. La regla de la multiplicaciÃ³n es:\n\n**R = a Ã— N**\n\nDonde:\n- **R** es el **Resultado** de la multiplicaciÃ³n.\n- **a** es el nÃºmero que estamos multiplicando (el nÃºmero que se repite).\n- **N** es el **NÃºmero de veces** que lo repetimos.\n\nUsemos esta regla para construir la tabla de multiplicar del cero.",
+               "text": "#### Una Regla para la Multiplicación\n\nCuando tenemos situaciones en las que una acción se repite muchas veces, como en la multiplicación, podemos escribir una **regla** (una ley) para ella. La regla de la multiplicación es:\n\n**R = a × N**\n\nDonde:\n- **R** es el **Resultado** de la multiplicación.\n- **a** es el número que estamos multiplicando (el número que se repite).\n- **N** es el **Número de veces** que lo repetimos.\n\nUsemos esta regla para construir la tabla de multiplicar del cero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -146,7 +146,7 @@
          ],
          "text": [
             {
-               "text": "#### La Tabla del Cero\n\nUsemos nuestra regla con **a = 0** (repitiendo el nÃºmero cero): no importa cuÃ¡ntas veces sumemos cero, el resultado siempre es cero. CompruÃ©balo con tus propios ojos:",
+               "text": "#### La Tabla del Cero\n\nUsemos nuestra regla con **a = 0** (repitiendo el número cero): no importa cuántas veces sumemos cero, el resultado siempre es cero. Compruébalo con tus propios ojos:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -155,7 +155,7 @@
                "PostMention": ""
             },
             {
-               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">0 Ã— 0 = 0<br/>0 Ã— 1 = 0<br/>0 Ã— 2 = 0<br/>0 Ã— 3 = 0<br/>0 Ã— 4 = 0<br/>0 Ã— 5 = 0</div><div style=\"text-align: center;\">0 Ã— 6 = 0<br/>0 Ã— 7 = 0<br/>0 Ã— 8 = 0<br/>0 Ã— 9 = 0<br/>0 Ã— 10 = 0</div></div>",
+               "text": "<div style=\"display: flex; justify-content: center; gap: 2em; font-family: monospace; font-size: 1.05em; line-height: 1.75; margin: 0.2em auto;\"><div style=\"text-align: center;\">0 × 0 = 0<br/>0 × 1 = 0<br/>0 × 2 = 0<br/>0 × 3 = 0<br/>0 × 4 = 0<br/>0 × 5 = 0</div><div style=\"text-align: center;\">0 × 6 = 0<br/>0 × 7 = 0<br/>0 × 8 = 0<br/>0 × 9 = 0<br/>0 × 10 = 0</div></div>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -164,7 +164,7 @@
                "PostMention": ""
             },
             {
-               "text": "Observa cÃ³mo el resultado **R** nunca cambia. No importa quÃ© nÃºmero **N** usemos: multiplicar por cero siempre da **0**.",
+               "text": "Observa cómo el resultado **R** nunca cambia. No importa qué número **N** usemos: multiplicar por cero siempre da **0**.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -213,7 +213,7 @@
          ],
          "text": [
             {
-               "text": "#### Dibujando los Resultados\n\nUna tabla nos da nÃºmeros, pero los nÃºmeros por sÃ­ solos no muestran el dibujo de una multiplicaciÃ³n. Para ver el dibujo, necesitamos **dibujar**.\n\nEn esta clase, trabajamos solamente con valores **horizontales**. Dibujemos una lÃ­nea horizontal y marquemos en ella los nÃºmeros **N** (0, 1, 2, ...).\n\nPara cada valor de **N**, nuestra tabla da un resultado, y lo marcamos con un punto sobre esa lÃ­nea, uno tras otro. Pero todo resultado es cero. Entonces cada punto queda exactamente sobre la lÃ­nea, en el valor cero.",
+               "text": "#### Dibujando los Resultados\n\nUna tabla nos da números, pero los números por sí solos no muestran el dibujo de una multiplicación. Para ver el dibujo, necesitamos **dibujar**.\n\nEn esta clase, trabajamos solamente con valores **horizontales**. Dibujemos una línea horizontal y marquemos en ella los números **N** (0, 1, 2, ...).\n\nPara cada valor de **N**, nuestra tabla da un resultado, y lo marcamos con un punto sobre esa línea, uno tras otro. Pero todo resultado es cero. Entonces cada punto queda exactamente sobre la línea, en el valor cero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -231,7 +231,7 @@
                "PostMention": ""
             },
             {
-               "text": "*GrÃ¡fico 1: puntos de la tabla de multiplicar del cero.*\n\nEs sorprendente que todos los puntos queden exactamente sobre la lÃ­nea horizontal, porque todo resultado es cero.",
+               "text": "*Gráfico 1: puntos de la tabla de multiplicar del cero.*\n\nEs sorprendente que todos los puntos queden exactamente sobre la línea horizontal, porque todo resultado es cero.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -255,7 +255,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Pensemos.\n\nTodos los puntos de la tabla del cero estÃ¡n sobre la misma lÃ­nea horizontalâ€”en el valor cero.\nSi unimos los puntos vecinos con trazos rectos, Â¿nuestro dibujo serÃ¡ una **lÃ­nea recta y plana**?",
+               "text": "#### Pensemos.\n\nTodos los puntos de la tabla del cero están sobre la misma línea horizontalâ€”en el valor cero.\nSi unimos los puntos vecinos con trazos rectos, Â¿nuestro dibujo será una **línea recta y plana**?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -304,7 +304,7 @@
          ],
          "text": [
             {
-               "text": "#### Una LÃ­nea Recta y Plana\n\nExacto. Cuando unimos todos los puntos con trazos rectos, nuestro dibujo se convierte en una **lÃ­nea recta** completamente **plana**â€”como todo resultado es cero, la lÃ­nea nunca sube ni baja: queda exactamente sobre la lÃ­nea horizontal:",
+               "text": "#### Una Línea Recta y Plana\n\nExacto. Cuando unimos todos los puntos con trazos rectos, nuestro dibujo se convierte en una **línea recta** completamente **plana**â€”como todo resultado es cero, la línea nunca sube ni baja: queda exactamente sobre la línea horizontal:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -322,7 +322,7 @@
                "PostMention": ""
             },
             {
-               "text": "*GrÃ¡fico 2: puntos conectados de la tabla de multiplicar del cero, formando una lÃ­nea recta y plana.*",
+               "text": "*Gráfico 2: puntos conectados de la tabla de multiplicar del cero, formando una línea recta y plana.*",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -359,7 +359,7 @@
          ],
          "text": [
             {
-               "text": "#### ConclusiÃ³n\n\nAhora entendemos el motivo: multiplicar cualquier nÃºmero por cero siempre da cero, es decir, **0 Ã— N = 0**. Como todos los resultados son iguales, todos los puntos estÃ¡n sobre la misma lÃ­nea horizontalâ€”en el valor cero.\n\nPor eso, cuando los unimos, nuestro dibujo es una **lÃ­nea recta y plana** apoyada exactamente sobre la lÃ­nea horizontalâ€”la primera forma que dibujamos con la multiplicaciÃ³n.\n\nEn las prÃ³ximas clases, dibujaremos otras tablas de multiplicar (por 1, por 2, ...) y descubriremos nuevas formas: lÃ­neas ascendentes e incluso triÃ¡ngulos. La tabla de multiplicar del uno dibujarÃ¡ una forma diferente.",
+               "text": "#### Conclusión\n\nAhora entendemos el motivo: multiplicar cualquier número por cero siempre da cero, es decir, **0 × N = 0**. Como todos los resultados son iguales, todos los puntos están sobre la misma línea horizontalâ€”en el valor cero.\n\nPor eso, cuando los unimos, nuestro dibujo es una **línea recta y plana** apoyada exactamente sobre la línea horizontalâ€”la primera forma que dibujamos con la multiplicación.\n\nEn las próximas clases, dibujaremos otras tablas de multiplicar (por 1, por 2, ...) y descubriremos nuevas formas: líneas ascendentes e incluso triángulos. La tabla de multiplicar del uno dibujará una forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,
