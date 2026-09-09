@@ -1,0 +1,419 @@
+{
+   "title": "Origen Compartido - Materia y Energía",
+   "index": "first_steps",
+   "sources": [
+      "7cc05340-732f-4c3d-b260-5437670fbc99"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788718903"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b8a78e11-ba35-4946-adfd-febfbaf6fb77",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nMira a tu alrededor. Todo lo que ves tiene una forma: una roca es **sólida**, el agua en un vaso es **líquida**, y el aire que respiras es un **gas**. Estos son los tres estados de la materia más comunes que experimentamos cada día.\n\nPero, ¿son estos los únicos estados que existen? ¿Y qué sucedía en el universo antes de que pudiéramos detectar su primera luz, la **Radiación de Fondo Cósmico de Microondas (CMB)**?\n\nEn esta clase, exploraremos cómo la materia cambia, cómo se relaciona con la energía, y qué nos dice esto sobre el comienzo de todo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "18600a45-e48e-4bff-8eeb-2c15742cf743",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "18600a45-e48e-4bff-8eeb-2c15742cf743",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "490bc885-d393-4e26-a2c2-1ae2474b25f1",
+               "text": "U.S. Geological Survey",
+               "page": "https://www.usgs.gov/media/images/water-cycle-png",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "12",
+                  "day": "30"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Materia en Transformación\n\nLa materia está en constante cambio en la naturaleza. El mejor ejemplo es el **ciclo del agua**:\n\n- El agua en ríos y océanos es **líquida**;\n- Cuando el Sol la calienta, el agua **evapora** y se convierte en **gas** (vapor de agua);\n- En regiones frías o montañas altas, el agua **se congela** y se convierte en **hielo**, un **sólido**.\n\nEstas transformaciones ocurren todo el tiempo, en todas partes de la Tierra. La materia simplemente cambia de un estado a otro.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 300\" style=\"width:100%;max-width:600px;display:block;margin:0 auto;\">\n  <!-- Solid (Hielo) -->\n  <rect x=\"30\" y=\"120\" width=\"140\" height=\"120\" rx=\"8\" fill=\"#b3e5fc\" stroke=\"#0288d1\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#01579b\">SÓLIDO</text>\n  <text x=\"100\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#01579b\">(Hielo)</text>\n  <text x=\"100\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Forma fija</text>\n  <text x=\"100\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Volumen fijo</text>\n\n  <!-- Arrow Solid to Liquid -->\n  <line x1=\"175\" y1=\"180\" x2=\"215\" y2=\"180\" stroke=\"#546e7a\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\"/>\n  <text x=\"195\" y=\"170\" text-anchor=\"middle\" font-size=\"10\" fill=\"#546e7a\">Calor</text>\n\n  <!-- Liquid (Agua) -->\n  <rect x=\"220\" y=\"120\" width=\"160\" height=\"120\" rx=\"8\" fill=\"#bbdefb\" stroke=\"#1565c0\" stroke-width=\"2\"/>\n  <text x=\"300\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0d47a1\">LÍQUIDO</text>\n  <text x=\"300\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0d47a1\">(Agua)</text>\n  <text x=\"300\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Sin forma fija</text>\n  <text x=\"300\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Volumen fijo</text>\n\n  <!-- Arrow Liquid to Gas -->\n  <line x1=\"385\" y1=\"180\" x2=\"425\" y2=\"180\" stroke=\"#546e7a\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\"/>\n  <text x=\"405\" y=\"170\" text-anchor=\"middle\" font-size=\"10\" fill=\"#546e7a\">Evaporar</text>\n\n  <!-- Gas (Vapor) -->\n  <rect x=\"430\" y=\"120\" width=\"140\" height=\"120\" rx=\"8\" fill=\"#e1f5fe\" stroke=\"#0277bd\" stroke-width=\"2\"/>\n  <text x=\"500\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#01579b\">GAS</text>\n  <text x=\"500\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#01579b\">(Vapor)</text>\n  <text x=\"500\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Sin forma fija</text>\n  <text x=\"500\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Sin volumen fijo</text>\n\n  <!-- Arrow Gas back to Liquid (Condensation) -->\n  <path d=\"M 500 245 Q 500 280 300 280 Q 100 280 100 245\" fill=\"none\" stroke=\"#78909c\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" marker-end=\"url(#arrowhead2)\"/>\n  <text x=\"300\" y=\"275\" text-anchor=\"middle\" font-size=\"10\" fill=\"#78909c\">Enfriamiento / Congelación</text>\n\n  <!-- Arrowhead markers -->\n  <defs>\n    <marker id=\"arrowhead\" markerWidth=\"10\" markerHeight=\"7\" refX=\"9\" refY=\"3.5\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#546e7a\"/>\n    </marker>\n    <marker id=\"arrowhead2\" markerWidth=\"10\" markerHeight=\"7\" refX=\"9\" refY=\"3.5\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#78909c\"/>\n    </marker>\n  </defs>\n\n  <!-- Title -->\n  <text x=\"300\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#263238\">Estados de la Materia: Ciclo del Agua</text>\n  <text x=\"300\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" fill=\"#546e7a\">La materia cambia de estado pero nunca se destruye</text>\n</svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Diagrama que muestra los tres estados de la materia usando el agua como ejemplo: sólido (hielo), líquido (agua) y gas (vapor de agua), con flechas que indican cómo la materia se transforma entre estados mediante calentamiento, evaporación y enfriamiento.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9a89bb0f-673b-48eb-8b69-de31466f6845",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9a89bb0f-673b-48eb-8b69-de31466f6845",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1dbe96e9-c7fa-4683-bdda-731e3e3f91ef",
+               "text": "Sterner, R. W., Small, G. E. & Hood, J. M.",
+               "page": "https://www.nature.com/scitable/knowledge/library/the-conservation-of-mass-17395478/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2011",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### Una Ley de la Naturaleza\n\nLos científicos han estudiado estas transformaciones durante siglos. Uno de los descubrimientos más importantes fue realizado por **Antoine Lavoisier** en <htdate0>: la **ley de conservación de la materia**.\n\nEsta ley establece que, en la naturaleza, **la materia ni se crea ni se destruye** durante ningún proceso. Cuando el agua se evapora, la misma cantidad de agua existe -- simplemente cambió de forma.\n\nEsta comprensión nos ayuda a entender que todo lo necesario para construir lo que vemos hoy ya estaba disponible al comienzo del universo. Nada se añadió ni se eliminó en el camino.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "1789",
+                      "month": "-1",
+                      "day": "-1"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fce5a39f-1a27-477f-b1ff-6e88e11f455a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fce5a39f-1a27-477f-b1ff-6e88e11f455a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡A Pensar!\n\nHemos visto que la materia puede ser sólida, líquida o gaseosa, y que se transforma sin ser destruida.\n\n**¿Son estos tres estados suficientes para explicar todo en el universo?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "616fa90d-bc12-41be-954f-fbee4efa2b9d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "616fa90d-bc12-41be-954f-fbee4efa2b9d",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c315085d-d6ae-4a6c-9b51-85ff5b083e29",
+               "text": "Einstein, A.",
+               "page": "https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1905",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6dfe4b3b-8338-46ab-8149-2e073414907e",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/universe/overview/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### Hay Algo Más\n\nLa respuesta es **no**. Los tres estados de la materia por sí solos no son suficientes.\n\nTodos los estados que estudiamos -- sólido, líquido, gas -- tienen **masa**. Pero la naturaleza tiene otra cantidad fundamental: **energía**. Necesitamos energía para movernos, para pensar, para vivir.\n\nMuchos científicos han estudiado la relación entre materia y energía. Una de las obras más famosas fue publicada el <htdate0>, por **Albert Einstein**. En este artículo, Einstein demostró que la materia y la energía son dos formas de la misma cosa: **es posible transformar materia en energía y energía en materia**.\n\nEsto significa que en el comienzo del universo, antes de que existiera algo visible, había **energía** -- y de esa energía nació la materia.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "1905",
+                      "month": "9",
+                      "day": "27"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "846328fb-8f9b-41ff-8017-d2ee06a67c7c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "846328fb-8f9b-41ff-8017-d2ee06a67c7c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+               "text": "Penzias, A. A., & Wilson, R. W.",
+               "page": "https://doi.org/10.1086/148307",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1965",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6f0f9c87-0185-4958-93d0-507787c4e7a3",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "07",
+                  "day": "21"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+               "text": "NASA",
+               "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### Uniéndolo Todo\n\nAhora podemos construir una imagen más clara del comienzo del universo:\n\n1. Hace aproximadamente <htdate0>, todo en el universo estaba concentrado en un espacio extremadamente pequeño.\n2. En ese momento, la materia y la energía estaban **unificadas** -- juntas, inseparables.\n3. A medida que el universo se expandía, la energía comenzó a transformarse en materia, creando las primeras partículas y eventualmente todo lo que vemos hoy.\n4. La primera \"imagen\" que tenemos de este proceso es la **Radiación de Fondo Cósmico de Microondas (CMB)**, detectada en <htdate1> por Arno Penzias y Robert Wilson.\n\nAntes del CMB, todo estaba junto y concentrado. Después, ocurrió una separación que permitió la formación de estrellas, planetas, galaxias y, en última instancia, la vida.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "2013",
+                      "month": "-1",
+                      "day": "-1"
+                   },
+                   {
+                      "type": "gregory",
+                      "year": "1965",
+                      "month": "-1",
+                      "day": "-1"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e11930af-8ce0-46de-b217-58c00367e531",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e11930af-8ce0-46de-b217-58c00367e531",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "09",
+                  "day": "17"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos que la materia existe en diferentes estados -- sólido, líquido y gas -- y que estos estados pueden transformarse unos en otros sin destruir nada, como nos dice la ley de Lavoisier.\n\nTambién descubrimos que la materia no está sola en la naturaleza: **la energía** juega un papel fundamental. Einstein nos mostró que materia y energía son dos caras de la misma moneda.\n\nAntes del CMB, todo en el universo estaba concentrado junto. Hoy, la materia y la energía están esparcidas por la Tierra, las estrellas, las galaxias y todo el universo.\n\nEn las próximas clases, continuaremos explorando cómo la materia y la energía se comparten a lo largo del cosmos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" class=\"imgcenter\"/><b>Figura 2</b>: Historia del Universo según Planck. ESA - C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
