@@ -1,0 +1,672 @@
+{
+   "title": "Origen Compartido",
+   "index": "first_steps",
+   "sources": [
+      "7cc05340-732f-4c3d-b260-5437670fbc99"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788718922"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn las últimas décadas, los científicos han realizado mediciones increíbles que han cambiado la forma en que vemos el universo. El descubrimiento más sorprendente es que **nuestro universo se está expandiendo** -- está creciendo en todas las direcciones.\n\nEsto significa que cada estrella, cada planeta y cada galaxia que observamos hoy no estaba en la misma posición hace miles de millones de años. ¡Todo se aleja de todo!\n\nPero esta no es la única conclusión que podemos sacar. Si el universo se está expandiendo ahora, debió haber sido más pequeño en el pasado. En esta clase, exploraremos esta idea fascinante y comprenderemos por qué necesitamos una nueva operación matemática -- la **división** -- para describir cómo todo en el cosmos se comparte.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1af85131-52aa-49ee-8f9b-2409eb806900",
+               "text": "Hubble, Edwin",
+               "page": "https://www.pnas.org/doi/pdf/10.1073/pnas.15.3.168",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1929",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e0357e3c-be37-45cc-b9d9-47fcd2eb985c",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿Cómo Se Está Expandiendo?\n\nPara entender lo que significa que el universo se esté expandiendo, hagamos un experimento sencillo.\n\nColoca tu dedo sobre el círculo de abajo. Obsérvalo con atención -- verás que **crece en diferentes direcciones**.\n\nEsto es exactamente lo que está sucediendo con el universo ahora: todo se aleja, igual que los puntos en la superficie de un globo que se está inflando.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<center><div class=\"htCircle\" style=\"height: 10vh; width: 10vh; background-color: white; border:1px solid black;\" name=\"fig1\"></div></center><p class=\"desc\"><b>Figura 1</b>: Círculo que representa la expansión del universo. Coloca tu dedo o el ratón sobre él para verlo crecer.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nSi el universo se está expandiendo **ahora**, y lleva así miles de millones de años, entonces era más pequeño en el pasado.\n\n**¿El universo estaba comprimido antes?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f80",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f80",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6f0f9c87-0185-4958-93d0-507787c4e7a3",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "07",
+                  "day": "21"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "69cab2e5-5a40-4d13-a3dd-9baabe23be3a",
+               "text": "Gohd, Chelsea",
+               "page": "https://science.nasa.gov/dark-energy/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+               "text": "NASA",
+               "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "2b9b65e6-4683-45ea-936a-35d6a5342a23",
+               "text": "Sandage, A.",
+               "page": "https://doi.org/10.1086/146483",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1958",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+               "text": "Penzias, A. A., & Wilson, R. W.",
+               "page": "https://doi.org/10.1086/148307",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1965",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "2a2f2904-55ef-4cf9-8a8b-9d03ed7ee6ce",
+               "text": "Burbidge, G.",
+               "page": "https://adsabs.harvard.edu/full/1999ApJ...525C.569B",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1999",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1af85131-52aa-49ee-8f9b-2409eb806900",
+               "text": "Hubble, Edwin",
+               "page": "https://www.pnas.org/doi/pdf/10.1073/pnas.15.3.168",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1929",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Historia del Universo\n\nSi el universo se está expandiendo hoy, debe haber sido mucho más pequeño en el pasado. Los científicos lo han confirmado mediante muchas observaciones y mediciones a lo largo del último siglo.\n\nLa Tabla 1 muestra algunos de los descubrimientos más importantes que nos ayudaron a comprender la historia de nuestro universo. Hace aproximadamente **13,82 mil millones de años**, todo lo que vemos hoy estaba concentrado en un espacio extremadamente pequeño.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "|Descubrimiento|Descripción|Fuente|\n|---|---|---|\n|Edad del Universo (<htdate0>)|Actualizado a 13,82 mil millones de años|<htcite0>|\n|Tamaño del Universo (<htdate1>)|Actualizado a 94 mil millones de años luz|<htcite1>|\n|Tamaño del Universo (<htdate2>)|Actualizado a 30 mil millones de años luz|<htcite2>|\n|Tamaño del Universo (<htdate3>)|Actualizado a 25 mil millones de años luz|<htcite3>; <htcite4>|\n|CMB (<htdate4>)|Confirmación de las primeras radiaciones del universo|<htcite5>|\n|Tamaño del Universo (<htdate5>)|Actualizado a 4 mil millones de años luz|<htcite6>; <htcite7>|\n|Universo en expansión (<htdate6>)|Evidencia de que el universo no es estático|<htcite8>|\n|Tamaño del Universo (<htdate7>)|Actualizado a 280 millones de años luz|<htcite9>|\n|Tamaño del Universo (<htdate8>)|Actualizado a 300.000 años luz|<htcite10>|",
+               "source": [
+                  {
+                     "type": 1,
+                     "uuid": "6f0f9c87-0185-4958-93d0-507787c4e7a3",
+                     "text": "ESA",
+                     "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2013",
+                        "month": "09",
+                        "day": "17"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "2b9b65e6-4683-45ea-936a-35d6a5342a23",
+                     "text": "Sandage, A.",
+                     "page": "https://doi.org/10.1086/146483",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "1958",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+                     "text": "Penzias, A. A., & Wilson, R. W.",
+                     "page": "https://doi.org/10.1086/148307",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "1965",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "2a2f2904-55ef-4cf9-8a8b-9d03ed7ee6ce",
+                     "text": "Burbidge, G.",
+                     "page": "https://adsabs.harvard.edu/full/1999ApJ...525C.569B",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "1999",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "1af85131-52aa-49ee-8f9b-2409eb806900",
+                     "text": "Hubble, Edwin",
+                     "page": "https://www.pnas.org/doi/pdf/10.1073/pnas.15.3.168",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "1929",
+                        "month": "01",
+                        "day": "14"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  },
+                  {
+                     "type": 1,
+                     "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+                     "text": "NASA",
+                     "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "2024",
+                        "month": "12",
+                        "day": "27"
+                     }
+                  }
+               ],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2013",
+                     "month": "3",
+                     "day": "21"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "2006",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1993",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1965",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1955",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1955",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1929",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1929",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1919",
+                     "month": "-1",
+                     "day": "-1"
+                  }
+               ],
+               "isTable": true,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><b>Tabla 1</b>: La Evolución del Conocimiento Humano sobre el Universo.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8091",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8091",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6f0f9c87-0185-4958-93d0-507787c4e7a3",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "07",
+                  "day": "21"
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "6006cb3a-9409-4d2a-999c-e4c74249f563",
+               "text": "ESA",
+               "page": "https://www.esa.int/ESA_Multimedia/Images/2018/07/Planck_s_view_of_the_cosmic_microwave_background2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "09",
+                  "day": "17"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Radiación Cósmica de Fondo (CMB)\n\nUna de las mediciones más importantes de la historia de la ciencia es la **Radiación Cósmica de Fondo**, o simplemente **CMB** (Cosmic Microwave Background).\n\nEl CMB es la luz más antigua del universo -- radiación creada solo unos cientos de miles de años después del Big Bang, cuando el universo se volvió transparente por primera vez. Antes de eso, el universo estaba tan caliente y denso que la luz no podía viajar libremente.\n\nEn <htdate0>, Arno Penzias y Robert Wilson descubrieron esta radiación por casualidad (<htcite0>), confirmando una predicción fundamental de la teoría del Big Bang. Más tarde, el satélite Planck de la ESA mapeó esta radiación en detalle, dándonos una imagen hermosa del universo bebé.",
+                "source": [
+                   {
+                      "type": 1,
+                      "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+                      "text": "Penzias, A. A., & Wilson, R. W.",
+                      "page": "https://doi.org/10.1086/148307",
+                      "date_time": {
+                         "type": "gregory",
+                         "year": "1965",
+                         "month": "",
+                         "day": ""
+                      }
+                   }
+                ],
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "1965",
+                      "month": "-1",
+                      "day": "-1"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_s_view_of_the_cosmic_microwave_background.jpg\" class=\"imgcenter\"/><b>Figura 2</b>: Visión de la Radiación Cósmica de Fondo (CMB) a través de la misión Planck de la ESA. ©ESA/Planck Collaboration.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8091a2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8091a2",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¡Contrae!\n\nAhora que sabemos que el universo alguna vez fue mucho más pequeño, intentemos experimentar qué significa la contracción.\n\nColoca tu dedo sobre el círculo de abajo y obsérvalo **encogerse**. Imagina todo en el universo comprimiéndose en un punto diminuto -- esto es lo que los científicos creen que sucedió al principio de todo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<center><div class=\"htCircle\" style=\"height: 40vh; width: 40vh; background-color: white; border:1px solid black;\" name=\"fig2\"></div></center><p class=\"desc\"><b>Figura 3</b>: Círculo que representa la contracción del universo. Coloca tu dedo o el ratón sobre él para verlo encogerse.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8091a2b3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8091a2b3",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "09",
+                  "day": "17"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos que mediciones recientes nos han mostrado que el **universo está creciendo** -- expandiéndose en todas las direcciones.\n\nComo consecuencia, en el pasado muy lejano, todo lo que vemos hoy estaba **comprimido en un espacio extremadamente pequeño**. Hace aproximadamente 13,82 mil millones de años, el universo comenzó a expandirse, creando todo lo que observamos.\n\nEn la siguiente clase, continuaremos estudiando cómo todo podría estar confinado en un espacio pequeño y, miles de millones de años después, convertirse en nosotros y en todo lo que nos rodea.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img id=\"imgESA2\" onclick=\"htImageZoom('imgESA2', '0%')\" class=\"imgcenter\"/><b>Figura 4</b>: Planck, la historia del Universo. ©ESA – C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

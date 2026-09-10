@@ -59,6 +59,7 @@ Each screen object in `content`:
 2. **Questions**: Include at least one Yes/No question screen per lesson. Set `"answer"` to `"yes"` or `"no"`, and `"score"` to `2`. Question screens have empty `"source_menu": []`.
 3. **Navigation**: The `"next"` field of each screen points to the `"id"` of the following screen. The last screen has `"next": ""`.
 4. **Multiple text entries**: A screen may have more than one entry in `"text"` (e.g. a markdown description followed by an HTML image or SVG). Each entry has `"format": "markdown"` or `"format": "html"`.
+5. **No praise or exclamations**: Never add congratulatory messages, exclamations, or praise (e.g. "Your thinking is correct!", "Great job!", "Excellent!"). Users may have answered incorrectly in a previous question. Keep text neutral and factual.
 
 ### Source Menu Rules
 
@@ -67,6 +68,13 @@ Each screen object in `content`:
 - **The `"page"` field must always be a URL.** Look up the `src_url` from the `sources` table in `historytracers/lang/sources/history_tracers.db` using the source UUID as `src_id`. Never use page numbers, volume labels, or other non-URL text in this field.
 - Always include an "Original Text" entry pointing to the lesson UUID with its historytracers.org URL.
 - **Translate `"text"` labels** for each language (e.g. "Texto Original" for pt-BR and es-ES, not "Original Text").
+
+### Date References
+
+- **Never hardcode years in text.** Do not write `(2013)`, `(1965)`, etc. directly in the content strings.
+- Use `<htdate0>`, `<htdate1>`, ... to reference dates from the `"date_time"` array of the text entry. The index in `<htdateN>` corresponds to the N-th element in the `"date_time"` array.
+- Similarly, use `<htcite0>`, `<htcite1>`, ... to reference sources from the `"source"` array.
+- Example: a table row `"|Age (<htdate0>)|...|<htcite0>|"` with `"date_time": [{"year": "2013", ...}]` and `"source": [{"uuid": "...", ...}]` will render the year from the date_time and link to the source.
 
 ### Encoding
 

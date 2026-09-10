@@ -1,0 +1,419 @@
+{
+   "title": "Shared Origin - Matter and Energy",
+   "index": "first_steps",
+   "sources": [
+      "7cc05340-732f-4c3d-b260-5437670fbc99"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788718903"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b8a78e11-ba35-4946-adfd-febfbaf6fb77",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nLook around you. Everything you see has a form: a rock is **solid**, water in a glass is **liquid**, and the air you breathe is a **gas**. These are the three most common states of matter we experience every day.\n\nBut are these the only states that exist? And what was happening in the universe before we could detect its very first light, the **Cosmic Microwave Background (CMB)**?\n\nIn this class, we will explore how matter changes, how it relates to energy, and what this tells us about the beginning of everything.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "18600a45-e48e-4bff-8eeb-2c15742cf743",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "18600a45-e48e-4bff-8eeb-2c15742cf743",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "490bc885-d393-4e26-a2c2-1ae2474b25f1",
+               "text": "U.S. Geological Survey",
+               "page": "https://www.usgs.gov/media/images/water-cycle-png",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "12",
+                  "day": "30"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Matter in Transformation\n\nMatter is constantly changing in nature. The best example is the **water cycle**:\n\n- Water in rivers and oceans is **liquid**;\n- When the Sun heats it, water **evaporates** and becomes a **gas** (water vapor);\n- In cold regions or high mountains, water **freezes** and becomes **ice**, a **solid**.\n\nThese transformations happen all the time, everywhere on Earth. Matter simply changes from one state to another.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 300\" style=\"width:100%;max-width:600px;display:block;margin:0 auto;\">\n  <!-- Solid (Ice) -->\n  <rect x=\"30\" y=\"120\" width=\"140\" height=\"120\" rx=\"8\" fill=\"#b3e5fc\" stroke=\"#0288d1\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#01579b\">SOLID</text>\n  <text x=\"100\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#01579b\">(Ice)</text>\n  <text x=\"100\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Fixed shape</text>\n  <text x=\"100\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Fixed volume</text>\n\n  <!-- Arrow Solid to Liquid -->\n  <line x1=\"175\" y1=\"180\" x2=\"215\" y2=\"180\" stroke=\"#546e7a\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\"/>\n  <text x=\"195\" y=\"170\" text-anchor=\"middle\" font-size=\"10\" fill=\"#546e7a\">Heat</text>\n\n  <!-- Liquid (Water) -->\n  <rect x=\"220\" y=\"120\" width=\"160\" height=\"120\" rx=\"8\" fill=\"#bbdefb\" stroke=\"#1565c0\" stroke-width=\"2\"/>\n  <text x=\"300\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0d47a1\">LIQUID</text>\n  <text x=\"300\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#0d47a1\">(Water)</text>\n  <text x=\"300\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">No fixed shape</text>\n  <text x=\"300\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">Fixed volume</text>\n\n  <!-- Arrow Liquid to Gas -->\n  <line x1=\"385\" y1=\"180\" x2=\"425\" y2=\"180\" stroke=\"#546e7a\" stroke-width=\"2\" marker-end=\"url(#arrowhead)\"/>\n  <text x=\"405\" y=\"170\" text-anchor=\"middle\" font-size=\"10\" fill=\"#546e7a\">Evaporate</text>\n\n  <!-- Gas (Water Vapor) -->\n  <rect x=\"430\" y=\"120\" width=\"140\" height=\"120\" rx=\"8\" fill=\"#e1f5fe\" stroke=\"#0277bd\" stroke-width=\"2\"/>\n  <text x=\"500\" y=\"165\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#01579b\">GAS</text>\n  <text x=\"500\" y=\"185\" text-anchor=\"middle\" font-size=\"12\" fill=\"#01579b\">(Vapor)</text>\n  <text x=\"500\" y=\"210\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">No fixed shape</text>\n  <text x=\"500\" y=\"225\" text-anchor=\"middle\" font-size=\"11\" fill=\"#37474f\">No fixed volume</text>\n\n  <!-- Arrow Gas back to Liquid (Condensation) -->\n  <path d=\"M 500 245 Q 500 280 300 280 Q 100 280 100 245\" fill=\"none\" stroke=\"#78909c\" stroke-width=\"1.5\" stroke-dasharray=\"5,3\" marker-end=\"url(#arrowhead2)\"/>\n  <text x=\"300\" y=\"275\" text-anchor=\"middle\" font-size=\"10\" fill=\"#78909c\">Cooling / Freezing</text>\n\n  <!-- Arrowhead markers -->\n  <defs>\n    <marker id=\"arrowhead\" markerWidth=\"10\" markerHeight=\"7\" refX=\"9\" refY=\"3.5\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#546e7a\"/>\n    </marker>\n    <marker id=\"arrowhead2\" markerWidth=\"10\" markerHeight=\"7\" refX=\"9\" refY=\"3.5\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3.5, 0 7\" fill=\"#78909c\"/>\n    </marker>\n  </defs>\n\n  <!-- Title -->\n  <text x=\"300\" y=\"40\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#263238\">States of Matter: Water Cycle</text>\n  <text x=\"300\" y=\"60\" text-anchor=\"middle\" font-size=\"12\" fill=\"#546e7a\">Matter changes state but is never destroyed</text>\n</svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Diagram showing the three states of matter using water as an example: solid (ice), liquid (water), and gas (water vapor), with arrows indicating how matter transforms between states through heating, evaporating, and cooling.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9a89bb0f-673b-48eb-8b69-de31466f6845",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9a89bb0f-673b-48eb-8b69-de31466f6845",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1dbe96e9-c7fa-4683-bdda-731e3e3f91ef",
+               "text": "Sterner, R. W., Small, G. E. & Hood, J. M.",
+               "page": "https://www.nature.com/scitable/knowledge/library/the-conservation-of-mass-17395478/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2011",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### A Law of Nature\n\nScientists have studied these transformations for centuries. One of the most important discoveries was made by **Antoine Lavoisier** in <htdate0>: the **law of conservation of matter**.\n\nThis law states that, in nature, **matter is neither created nor destroyed** in any process. When water evaporates, the same amount of water exists -- it simply changed its form.\n\nThis understanding helps us realize that everything needed to build what we see today was already available at the very beginning of the universe. Nothing was added or removed along the way.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "1789",
+                      "month": "-1",
+                      "day": "-1"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fce5a39f-1a27-477f-b1ff-6e88e11f455a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fce5a39f-1a27-477f-b1ff-6e88e11f455a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nWe have seen that matter can be solid, liquid, or gas, and that it transforms without being destroyed.\n\n**Are these three states enough to explain everything in the universe?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "616fa90d-bc12-41be-954f-fbee4efa2b9d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "616fa90d-bc12-41be-954f-fbee4efa2b9d",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c315085d-d6ae-4a6c-9b51-85ff5b083e29",
+               "text": "Einstein, A.",
+               "page": "https://www.fourmilab.ch/etexts/einstein/E_mc2/e_mc2.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1905",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6dfe4b3b-8338-46ab-8149-2e073414907e",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/universe/overview/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### There Is Something More\n\nThe answer is **no**. The three states of matter alone are not enough.\n\nEvery state we studied -- solid, liquid, gas -- has **mass**. But nature has another fundamental quantity: **energy**. We need energy to move, to think, to live.\n\nMany scientists have studied the relationship between matter and energy. One of the most famous works was published on <htdate0>, by **Albert Einstein**. In this paper, Einstein showed that matter and energy are two forms of the same thing: **it is possible to transform matter into energy and energy into matter**.\n\nThis means that in the very beginning of the universe, before anything visible existed, there was **energy** -- and from that energy, matter was born.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "1905",
+                      "month": "9",
+                      "day": "27"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "846328fb-8f9b-41ff-8017-d2ee06a67c7c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "846328fb-8f9b-41ff-8017-d2ee06a67c7c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+               "text": "Penzias, A. A., & Wilson, R. W.",
+               "page": "https://doi.org/10.1086/148307",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1965",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6f0f9c87-0185-4958-93d0-507787c4e7a3",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "07",
+                  "day": "21"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "066ad64b-5a6b-4715-b2bd-b34a90164422",
+               "text": "NASA",
+               "page": "https://imagine.gsfc.nasa.gov/educators/programs/cosmictimes/educators/guide/age_size.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+                "text": "#### Putting It All Together\n\nNow we can build a clearer picture of the universe's beginning:\n\n1. About <htdate0>, everything in the universe was concentrated in an extremely small space.\n2. At that moment, matter and energy were **unified** -- together, inseparable.\n3. As the universe expanded, energy began to transform into matter, creating the first particles and eventually everything we see today.\n4. The first \"picture\" we have of this process is the **Cosmic Microwave Background (CMB)**, detected in <htdate1> by Arno Penzias and Robert Wilson.\n\nBefore the CMB, everything was together and concentrated. After that, a separation occurred that allowed stars, planets, galaxies, and ultimately life to form.",
+                "source": null,
+                "date_time": [
+                   {
+                      "type": "gregory",
+                      "year": "2013",
+                      "month": "-1",
+                      "day": "-1"
+                   },
+                   {
+                      "type": "gregory",
+                      "year": "1965",
+                      "month": "-1",
+                      "day": "-1"
+                   }
+                ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e11930af-8ce0-46de-b217-58c00367e531",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e11930af-8ce0-46de-b217-58c00367e531",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "09",
+                  "day": "17"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned that matter exists in different states -- solid, liquid, and gas -- and that these states can transform into one another without destroying anything, as Lavoisier's law tells us.\n\nWe also discovered that matter is not alone in nature: **energy** plays a fundamental role. Einstein showed us that matter and energy are two sides of the same coin.\n\nBefore the CMB, everything in the universe was concentrated together. Today, matter and energy are spread across Earth, stars, galaxies, and the entire universe.\n\nIn the next classes, we will continue exploring how matter and energy are shared throughout the cosmos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" class=\"imgcenter\"/><b>Figure 2</b>: Planck history of the Universe. ESA - C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
