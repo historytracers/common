@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nIn recent decades, scientists have made incredible measurements that changed the way we see the universe. The most surprising discovery is that **our universe is expanding** -- it is growing in every direction.\n\nThis means that every star, every planet, and every galaxy we observe today was not in the same position billions of years ago. Everything is moving away from everything else!\n\nBut this is not the only conclusion we can draw. If the universe is expanding now, it must have been smaller in the past. In this class, we will explore this fascinating idea and understand why we need a new mathematical operation -- **division** -- to describe how everything in the cosmos is shared.",
+               "text": "#### Introduction\n\nIn recent decades, scientists have made incredible measurements that have changed the way we see the universe. The most surprising discovery is that **our universe is expanding** -- it is growing in every direction.\n\nThis means that every star, every planet, and every galaxy we observe today occupied a different position billions of years ago. Everything is moving away from everything else!\n\nBut this is not the only conclusion we can draw. If the universe is expanding now, it must have been smaller in the past. In this class, we will explore this fascinating idea and understand why we need a new mathematical operation -- **division** -- to describe how everything in the cosmos is shared.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -130,7 +130,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nIf the universe is expanding **now**, and it has been expanding for billions of years, then it was smaller in the past.\n\n**Was the universe contracted before?**",
+               "text": "#### Let Us Think!\n\nIf the universe is expanding **now**, and it has been expanding for billions of years, then it was smaller in the past.\n\n**Was the universe more compact before?**",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -251,7 +251,7 @@
          ],
          "text": [
             {
-               "text": "#### Universe History\n\nIf the universe is expanding today, it must have been much smaller in the past. Scientists have confirmed this through many experiments over the last century.\n\nTable 1 shows some of the most important discoveries that helped us understand the history of our universe. About **13.82 billion years ago**, everything we see today was concentrated in an extremely tiny space.",
+               "text": "#### Universe History\n\nIf the universe is expanding today, it must have been much smaller in the past. Scientists have confirmed this through many observations and experiments over the last century.\n\nTable 1 shows some of the most important discoveries that helped us understand the history of our universe. About **13.82 billion years ago**, everything we see today was concentrated in an extremely tiny space.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -518,7 +518,7 @@
          ],
          "text": [
             {
-               "text": "#### The Cosmic Microwave Background (CMB)\n\nOne of the most important measurements in the history of science is the **Cosmic Microwave Background**, or simply **CMB**.\n\nThe CMB is the oldest light in the universe -- radiation created just a few hundred thousand years after the Big Bang, when the universe first became transparent. Before that, the universe was so hot and dense that light could not travel freely.\n\nIn <htdate0>, Arno Penzias and Robert Wilson accidentally discovered this radiation (<htcite0>), confirming a key prediction of the Big Bang theory. Later, the ESA Planck satellite mapped this radiation in detail, giving us a beautiful picture of the baby universe.",
+               "text": "#### The Cosmic Microwave Background (CMB)\n\nOne of the most important measurements in the history of science is the **Cosmic Microwave Background**, or simply **CMB**.\n\nThe CMB is the oldest light in the universe -- radiation created just a few hundred thousand years after the Big Bang, when the universe first became transparent. Before that, the universe was so hot and dense that light could not travel freely.\n\nIn <htdate0>, Arno Penzias and Robert Wilson accidentally discovered this radiation (<htcite0>), confirming a key prediction of the Big Bang theory. Later, the ESA Planck satellite mapped this radiation in detail, giving us a beautiful picture of the early universe.",
                 "source": [
                    {
                       "type": 1,
@@ -584,7 +584,7 @@
          ],
          "text": [
             {
-               "text": "#### Contract Yourself!\n\nNow that we know the universe was once much smaller, let us try to feel what contraction means.\n\nPlace your finger on the circle below and watch it **shrink**. Imagine everything in the universe compressing into a tiny point -- this is what scientists believe happened at the very beginning.",
+               "text": "#### Contract Yourself!\n\nNow that we know the universe was once much smaller, let us try to experience what contraction means.\n\nPlace your finger on the circle below and watch it **shrink**. Imagine everything in the universe compressing into a tiny point -- this is what scientists believe happened at the very beginning.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -642,7 +642,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned that recent measurements have shown us the **universe is growing** -- expanding in every direction.\n\nAs a consequence, in the very distant past, everything we see today was **contracted into an extremely small space**. About 13.82 billion years ago, the universe began expanding, creating everything we observe.\n\nIn the next class, we are going to continue studying how everything could be confined in a small space and, billions of years later, become us and everything we see around us.",
+               "text": "#### Conclusion\n\nIn this class, we learned that recent measurements have shown us the **universe is growing** -- expanding in every direction.\n\nAs a consequence, in the very distant past, everything we see today was **compressed into an extremely small space**. About 13.82 billion years ago, the universe began expanding, creating everything we observe.\n\nIn the next class, we are going to continue studying how everything could be confined in a small space and, billions of years later, become us and everything we see around us.",
                "source": null,
                "date_time": null,
                "isTable": false,

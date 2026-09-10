@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nMira a tu alrededor. Todo lo que ves tiene una forma: una roca es **sólida**, el agua en un vaso es **líquida**, y el aire que respiras es un **gas**. Estos son los tres estados de la materia más comunes que experimentamos cada día.\n\nPero, ¿son estos los únicos estados que existen? ¿Y qué sucedía en el universo antes de que pudiéramos detectar su primera luz, la **Radiación de Fondo Cósmico de Microondas (CMB)**?\n\nEn esta clase, exploraremos cómo la materia cambia, cómo se relaciona con la energía, y qué nos dice esto sobre el comienzo de todo.",
+               "text": "#### Introducción\n\nMira a tu alrededor. Todo lo que ves tiene una forma: una roca es **sólida**, el agua en un vaso es **líquida**, y el aire que respiras es un **gas**. Estos son los tres estados de la materia más comunes que experimentamos cada día.\n\nPero, ¿son estos los únicos estados que existen? ¿Y qué sucedía en el universo antes de que pudiéramos detectar su primera luz, la **Radiación Cósmica de Fondo (CMB)**?\n\nEn esta clase, exploraremos cómo la materia cambia, cómo se relaciona con la energía, y qué nos dice esto sobre el comienzo de todo.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -155,7 +155,7 @@
          ],
          "text": [
             {
-                "text": "#### Una Ley de la Naturaleza\n\nLos científicos han estudiado estas transformaciones durante siglos. Uno de los descubrimientos más importantes fue realizado por **Antoine Lavoisier** en <htdate0>: la **ley de conservación de la materia**.\n\nEsta ley establece que, en la naturaleza, **la materia ni se crea ni se destruye** durante ningún proceso. Cuando el agua se evapora, la misma cantidad de agua existe -- simplemente cambió de forma.\n\nEsta comprensión nos ayuda a entender que todo lo necesario para construir lo que vemos hoy ya estaba disponible al comienzo del universo. Nada se añadió ni se eliminó en el camino.",
+                "text": "#### Una Ley de la Naturaleza\n\nLos científicos han estudiado estas transformaciones durante siglos. Uno de los descubrimientos más importantes fue hecha por **Antoine Lavoisier** en <htdate0>: la **ley de conservación de la materia**.\n\nEsta ley establece que, en la naturaleza, **la materia ni se crea ni se destruye** durante ningún proceso. Cuando el agua se evapora, la misma cantidad de agua existe -- simplemente cambió de forma.\n\nEsta comprensión nos ayuda a entender que todo lo necesario para construir lo que vemos hoy ya estaba disponible al comienzo del universo. Nada se añadió ni se eliminó en el camino.",
                 "source": null,
                 "date_time": [
                    {
@@ -327,7 +327,7 @@
          ],
          "text": [
             {
-                "text": "#### Uniéndolo Todo\n\nAhora podemos construir una imagen más clara del comienzo del universo:\n\n1. Hace aproximadamente <htdate0>, todo en el universo estaba concentrado en un espacio extremadamente pequeño.\n2. En ese momento, la materia y la energía estaban **unificadas** -- juntas, inseparables.\n3. A medida que el universo se expandía, la energía comenzó a transformarse en materia, creando las primeras partículas y eventualmente todo lo que vemos hoy.\n4. La primera \"imagen\" que tenemos de este proceso es la **Radiación de Fondo Cósmico de Microondas (CMB)**, detectada en <htdate1> por Arno Penzias y Robert Wilson.\n\nAntes del CMB, todo estaba junto y concentrado. Después, ocurrió una separación que permitió la formación de estrellas, planetas, galaxias y, en última instancia, la vida.",
+                "text": "#### Uniéndolo Todo\n\nAhora podemos construir una imagen más clara del comienzo del universo:\n\n1. Hace aproximadamente <htdate0>, todo en el universo estaba concentrado en un espacio extremadamente pequeño.\n2. En ese momento, la materia y la energía estaban **unificadas** -- juntas, inseparables.\n3. A medida que el universo se expandía, la energía comenzó a transformarse en materia, creando las primeras partículas y eventualmente todo lo que vemos hoy.\n4. La primera \"imagen\" que tenemos de este proceso es la **Radiación Cósmica de Fondo (CMB)**, detectada en <htdate1> por Arno Penzias y Robert Wilson.\n\nAntes del CMB, todo estaba junto y concentrado. Después, ocurrió una separación que permitió la formación de estrellas, planetas, galaxias y, en última instancia, la vida.",
                 "source": null,
                 "date_time": [
                    {

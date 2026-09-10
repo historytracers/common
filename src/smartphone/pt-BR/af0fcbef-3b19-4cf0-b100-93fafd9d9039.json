@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nOlhe ao seu redor. Tudo o que você vê tem uma forma: uma rocha é **sólida**, a água em um copo é **líquida**, e o ar que você respira é um **gás**. Esses são os três estados da matéria mais comuns que experimentamos todos os dias.\n\nMas, esses são os únicos estados que existem? E o que estava acontecendo no universo antes que pudéssemos detectar sua primeira luz, a **Radiação de Fundo Cósmico de Microondas (CMB)**?\n\nNesta aula, vamos explorar como a matéria muda, como se relaciona com a energia, e o que isso nos diz sobre o começo de tudo.",
+               "text": "#### Introdução\n\nOlhe ao seu redor. Tudo o que você vê tem uma forma: uma rocha é **sólida**, a água em um copo é **líquida**, e o ar que você respira é um **gás**. Esses são os três estados da matéria mais comuns que experimentamos todos os dias.\n\nMas, esses são os únicos estados que existem? E o que estava acontecendo no universo antes que pudéssemos detectar sua primeira luz, a **Radiação Cósmica de Fundo (CMB)**?\n\nNesta aula, vamos explorar como a matéria muda, como se relaciona com a energia, e o que isso nos diz sobre o começo de tudo.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -327,7 +327,7 @@
          ],
          "text": [
             {
-                "text": "#### Juntando Tudo\n\nAgora podemos construir uma imagem mais clara do começo do universo:\n\n1. Há aproximadamente <htdate0>, tudo no universo estava concentrado em um espaço extremamente pequeno.\n2. Naquele momento, a matéria e a energia estavam **unificadas** -- juntas, inseparáveis.\n3. À medida que o universo se expandia, a energia começou a se transformar em matéria, criando as primeiras partículas e, eventualmente, tudo o que vemos hoje.\n4. A primeira \"imagem\" que temos desse processo é a **Radiação de Fundo Cósmico de Microondas (CMB)**, detectada em <htdate1> por Arno Penzias e Robert Wilson.\n\nAntes do CMB, tudo estava junto e concentrado. Depois, ocorreu uma separação que permitiu a formação de estrelas, planetas, galáxias e, em última instância, a vida.",
+                "text": "#### Juntando Tudo\n\nAgora podemos construir uma imagem mais clara do começo do universo:\n\n1. Há aproximadamente <htdate0>, tudo no universo estava concentrado em um espaço extremamente pequeno.\n2. Naquele momento, a matéria e a energia estavam **unificadas** -- juntas, inseparáveis.\n3. À medida que o universo se expandia, a energia começou a se transformar em matéria, criando as primeiras partículas e, eventualmente, tudo o que vemos hoje.\n4. A primeira \"imagem\" que temos desse processo é a **Radiação Cósmica de Fundo (CMB)**, detectada em <htdate1> por Arno Penzias e Robert Wilson.\n\nAntes do CMB, tudo estava junto e concentrado. Depois, ocorreu uma separação que permitiu a formação de estrelas, planetas, galáxias e, em última instância, a vida.",
                 "source": null,
                 "date_time": [
                    {
