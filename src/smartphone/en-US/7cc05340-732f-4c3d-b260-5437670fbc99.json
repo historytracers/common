@@ -251,7 +251,7 @@
          ],
          "text": [
             {
-               "text": "#### Universe History\n\nIf the universe is expanding today, it must have been much smaller in the past. Scientists have confirmed this through many observations and experiments over the last century.\n\nTable 1 shows some of the most important discoveries that helped us understand the history of our universe. About **13.82 billion years ago**, everything we see today was concentrated in an extremely tiny space.",
+               "text": "#### Universe History\n\nIf the universe is expanding today, it must have been much smaller in the past. Scientists have confirmed this through many observations and experiments over the last century. As you can see in next Table.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -518,7 +518,7 @@
          ],
          "text": [
             {
-               "text": "#### The Cosmic Microwave Background (CMB)\n\nOne of the most important measurements in the history of science is the **Cosmic Microwave Background**, or simply **CMB**.\n\nThe CMB is the oldest light in the universe -- radiation created just a few hundred thousand years after the Big Bang, when the universe first became transparent. Before that, the universe was so hot and dense that light could not travel freely.\n\nIn <htdate0>, Arno Penzias and Robert Wilson accidentally discovered this radiation (<htcite0>), confirming a key prediction of the Big Bang theory. Later, the ESA Planck satellite mapped this radiation in detail, giving us a beautiful picture of the early universe.",
+               "text": "#### The Cosmic Microwave Background (CMB)\n\nOne of the most important measurements in the history of science is the **Cosmic Microwave Background**, or simply **CMB**.\n\nThe CMB is the oldest light in the universe -- radiation created just a few hundred thousand years after the Big Bang, when the universe first became transparent. Before that, the universe was so hot and dense that light could not travel freely.",
                 "source": [
                    {
                       "type": 1,

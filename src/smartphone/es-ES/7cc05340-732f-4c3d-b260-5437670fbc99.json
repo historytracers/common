@@ -251,7 +251,7 @@
          ],
          "text": [
             {
-               "text": "#### Historia del Universo\n\nSi el universo se está expandiendo hoy, debe haber sido mucho más pequeño en el pasado. Los científicos lo han confirmado mediante muchas observaciones y mediciones a lo largo del último siglo.\n\nLa Tabla 1 muestra algunos de los descubrimientos más importantes que nos ayudaron a comprender la historia de nuestro universo. Hace aproximadamente **13,82 mil millones de años**, todo lo que vemos hoy estaba concentrado en un espacio extremadamente pequeño.",
+               "text": "#### Historia del Universo\n\nSi el universo se está expandiendo hoy, debe haber sido mucho más pequeño en el pasado. Los científicos lo han confirmado mediante muchas observaciones y mediciones a lo largo del último siglo. Como puedes ver en la siguiente Tabla.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -518,7 +518,7 @@
          ],
          "text": [
             {
-               "text": "#### La Radiación Cósmica de Fondo (CMB)\n\nUna de las mediciones más importantes de la historia de la ciencia es la **Radiación Cósmica de Fondo**, o simplemente **CMB** (Cosmic Microwave Background).\n\nEl CMB es la luz más antigua del universo -- radiación creada solo unos cientos de miles de años después del Big Bang, cuando el universo se volvió transparente por primera vez. Antes de eso, el universo estaba tan caliente y denso que la luz no podía viajar libremente.\n\nEn <htdate0>, Arno Penzias y Robert Wilson descubrieron esta radiación por casualidad (<htcite0>), confirmando una predicción fundamental de la teoría del Big Bang. Más tarde, el satélite Planck de la ESA mapeó esta radiación en detalle, dándonos una imagen hermosa del universo bebé.",
+               "text": "#### La Radiación Cósmica de Fondo (CMB)\n\nUna de las mediciones más importantes de la historia de la ciencia es la **Radiación Cósmica de Fondo**, o simplemente **CMB** (Cosmic Microwave Background).\n\nEl CMB es la luz más antigua del universo -- radiación creada solo unos cientos de miles de años después del Big Bang, cuando el universo se volvió transparente por primera vez. Antes de eso, el universo estaba tan caliente y denso que la luz no podía viajar libremente.",
                 "source": [
                    {
                       "type": 1,

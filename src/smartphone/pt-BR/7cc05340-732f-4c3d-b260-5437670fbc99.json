@@ -251,7 +251,7 @@
          ],
          "text": [
             {
-               "text": "#### História do Universo\n\nSe o universo está em expansão hoje, ele deve ter sido muito menor no passado. Os cientistas confirmaram isso por meio de muitas observações e medições ao longo do último século.\n\nA Tabela 1 mostra algumas das descobertas mais importantes que nos ajudaram a entender a história do nosso universo. Há cerca de **13,82 bilhões de anos**, tudo o que vemos hoje estava concentrado em um espaço extremamente pequeno.",
+               "text": "#### História do Universo\n\nSe o universo está em expansão hoje, ele deve ter sido muito menor no passado. Os cientistas confirmaram isso por meio de muitas observações e medições ao longo do último século. Como você pode ver na próxima Tabela.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -518,7 +518,7 @@
          ],
          "text": [
             {
-               "text": "#### A Radiação Cósmica de Fundo (CMB)\n\nUma das medições mais importantes da história da ciência é a **Radiação Cósmica de Fundo**, ou simplesmente **CMB** (Cosmic Microwave Background).\n\nO CMB é a luz mais antiga do universo -- radiação criada apenas algumas centenas de milhares de anos após o Big Bang, quando o universo se tornou transparente pela primeira vez. Antes disso, o universo estava tão quente e denso que a luz não conseguia viajar livremente.\n\nEm <htdate0>, Arno Penzias e Robert Wilson descobriram essa radiação por acaso (<htcite0>), confirmando uma previsão fundamental da teoria do Big Bang. Mais tarde, o satélite Planck da ESA mapeou essa radiação em detalhes, nos dando uma imagem linda do universo bebê.",
+               "text": "#### A Radiação Cósmica de Fundo (CMB)\n\nUma das medições mais importantes da história da ciência é a **Radiação Cósmica de Fundo**, ou simplesmente **CMB** (Cosmic Microwave Background).\n\nO CMB é a luz mais antiga do universo -- radiação criada apenas algumas centenas de milhares de anos após o Big Bang, quando o universo se tornou transparente pela primeira vez. Antes disso, o universo estava tão quente e denso que a luz não conseguia viajar livremente.",
                 "source": [
                    {
                       "type": 1,
