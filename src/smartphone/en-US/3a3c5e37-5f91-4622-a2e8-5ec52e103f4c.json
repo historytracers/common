@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "We saw that numbers grow when we add digits to the left. Is there any law that prevents us from placing even more digits to the left?",
+               "text": "#### Is There a Limit?\n\nWe saw that numbers grow when we add digits to the left. Is there any law that prevents us from placing even more digits to the left?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -151,7 +151,7 @@
          ],
          "text": [
             {
-               "text": "When humans first began to think abstractly, they moved from a situation without counting to markers that helped them count. In other words, they moved from a spoken and imagined world to something they could touch.\n\nWould it be possible to do the reverse with numbers and imagine something so large that we need a single symbol to represent it?",
+               "text": "#### Imagining the Infinite\n\nWhen humans first began to think abstractly, they moved from a situation without counting to markers that helped them count. In other words, they moved from a spoken and imagined world to something they could touch.\n\nWould it be possible to do the reverse with numbers and imagine something so large that we need a single symbol to represent it?",
                "source": [],
                "date_time": null,
                "isTable": false,

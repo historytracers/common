@@ -200,7 +200,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Por causa do Axioma da Comutatividade, 3 + 2 dá o mesmo resultado que 2 + 3?",
+               "text": "#### O Axioma da Comutatividade\n\nPor causa do Axioma da Comutatividade, 3 + 2 dá o mesmo resultado que 2 + 3?",
                "source": [],
                "date_time": null,
                "isTable": false,

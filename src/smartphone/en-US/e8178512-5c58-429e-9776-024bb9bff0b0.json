@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Is there a sign to show that two things are really equal?",
+               "text": "#### A Sign for Equality\n\nIs there a sign to show that two things are really equal?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -138,7 +138,7 @@
          ],
          "text": [
             {
-               "text": "Let's see an exercise with numbers and hands, using arrows. Notice that as we change one side, the other side changes too.",
+               "text": "#### Exercise with Arrows\n\nLet's see an exercise with numbers and hands, using arrows. Notice that as we change one side, the other side changes too.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -200,7 +200,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Because of the Commutative Axiom, does 3 + 2 give the same result as 2 + 3?",
+               "text": "#### The Commutative Axiom\n\nBecause of the Commutative Axiom, does 3 + 2 give the same result as 2 + 3?",
                "source": [],
                "date_time": null,
                "isTable": false,

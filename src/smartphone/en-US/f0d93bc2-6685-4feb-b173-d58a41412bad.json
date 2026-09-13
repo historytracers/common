@@ -158,7 +158,7 @@
         "source_menu": [],
         "text": [
             {
-                "text": "When we add 9 + 1 and get 10, does the extra value move to the next column on the left?",
+                "text": "#### The Extra Value\n\nWhen we add 9 + 1 and get 10, does the extra value move to the next column on the left?",
                 "source": [],
                 "date_time": null,
                 "isTable": false,
