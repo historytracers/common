@@ -158,7 +158,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Quando somamos 9 + 1 e obtemos 10, o valor extra vai para a próxima coluna à esquerda?",
+               "text": "#### O Valor Extra\n\nQuando somamos 9 + 1 e obtemos 10, o valor extra vai para a próxima coluna à esquerda?",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -121,7 +121,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "There are different ways to count the fingers on your two hands. Some count one by one, others count by groups. Think about it before continuing.",
+               "text": "#### Different Ways to Count\n\nThere are different ways to count the fingers on your two hands. Some count one by one, others count by groups. Think about it before continuing.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -249,7 +249,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "Do we reach the same total when we count our ten fingers one by one (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) and when we add them hand by hand (5 + 5)?",
+               "text": "#### One by One or Hand by Hand\n\nDo we reach the same total when we count our ten fingers one by one (1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1) and when we add them hand by hand (5 + 5)?",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "¿Existe alguna señal para mostrar que dos cosas son realmente iguales?",
+               "text": "#### Un Signo de Igualdad\n\n¿Existe alguna señal para mostrar que dos cosas son realmente iguales?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -138,7 +138,7 @@
          ],
          "text": [
             {
-               "text": "Veamos un ejercicio con números y manos, usando flechas. Observa que, a medida que cambiamos un lado, el otro también cambia.",
+               "text": "#### Ejercicio con Flechas\n\nVeamos un ejercicio con números y manos, usando flechas. Observa que, a medida que cambiamos un lado, el otro también cambia.",
                "source": [],
                "date_time": null,
                "isTable": false,

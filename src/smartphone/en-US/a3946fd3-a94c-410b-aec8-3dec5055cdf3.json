@@ -72,7 +72,7 @@
          ],
          "text": [
             {
-               "text": "In the previous lesson, we learned that numbers grow forever. Because of this, when we want to say that a number is very large, we say that it tends to infinity (∞), which is not a number.\n\nCould we think this way about small numbers too?",
+               "text": "#### Limits of the Small\n\nIn the previous lesson, we learned that numbers grow forever. Because of this, when we want to say that a number is very large, we say that it tends to infinity (∞), which is not a number.\n\nCould we think this way about small numbers too?",
                "source": [],
                "date_time": null,
                "isTable": false,

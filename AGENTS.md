@@ -55,11 +55,12 @@ Each screen object in `content`:
 
 ### Screen Creation Rules
 
-1. **Smiley emojis**: Each screen must have a `"smile"` field. Follow the progression pattern used by existing files: `nerd` (intro) -> `inlove` / `happy` (explanations) -> `shocking` (surprising content) -> `thinking` (questions) -> `party` (conclusion).
-2. **Questions**: Include at least one Yes/No question screen per lesson. Set `"answer"` to `"yes"` or `"no"`, and `"score"` to `2`. Question screens have empty `"source_menu": []`.
-3. **Navigation**: The `"next"` field of each screen points to the `"id"` of the following screen. The last screen has `"next": ""`.
-4. **Multiple text entries**: A screen may have more than one entry in `"text"` (e.g. a markdown description followed by an HTML image or SVG). Each entry has `"format": "markdown"` or `"format": "html"`.
-5. **No praise or exclamations**: Never add congratulatory messages, exclamations, or praise (e.g. "Your thinking is correct!", "Great job!", "Excellent!"). Users may have answered incorrectly in a previous question. Keep text neutral and factual.
+1. **Title**: Every screen must start with a title. The first markdown entry in `"text"` must begin with a `#### <Title>` heading followed by a blank line, then the body/question text (e.g. `"#### Let Us Think!\n\n<question>"`). Use a contextual title derived from the screen's subject. This is mandatory for **all** screens, especially question screens (`"answer"` non-null). Never leave a screen without a `####` heading.
+2. **Smiley emojis**: Each screen must have a `"smile"` field. Follow the progression pattern used by existing files: `nerd` (intro) -> `inlove` / `happy` (explanations) -> `shocking` (surprising content) -> `thinking` (questions) -> `party` (conclusion).
+3. **Questions**: Include at least one Yes/No question screen per lesson. Set `"answer"` to `"yes"` or `"no"`, and `"score"` to `2`. Question screens have empty `"source_menu": []`.
+4. **Navigation**: The `"next"` field of each screen points to the `"id"` of the following screen. The last screen has `"next": ""`.
+5. **Multiple text entries**: A screen may have more than one entry in `"text"` (e.g. a markdown description followed by an HTML image or SVG). Each entry has `"format": "markdown"` or `"format": "html"`.
+6. **No praise or exclamations**: Never add congratulatory messages, exclamations, or praise (e.g. "Your thinking is correct!", "Great job!", "Excellent!"). Users may have answered incorrectly in a previous question. Keep text neutral and factual.
 
 ### Source Menu Rules
 
