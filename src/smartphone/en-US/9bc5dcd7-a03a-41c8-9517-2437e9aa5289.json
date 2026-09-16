@@ -1,0 +1,361 @@
+{
+   "title": "Everything Was Together",
+   "index": "first_steps",
+   "sources": [
+      "57091b10-84a4-468c-b81a-56bccfa2cd4a"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789585070"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7b3c8d70-777d-4311-9ff0-b49d6e3136fa",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA — Planck history of the Universe",
+               "page": "https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 13.82 Billion Years — The Universe Today\n\nThis is the universe as we see it today: clusters of galaxies, our own galaxy the Milky Way, and our solar system around an ordinary star.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" class=\"imgcenter\"/><b>Figure 2</b>: Planck history of the Universe. ESA - C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ff84681d-e583-4624-a5fc-65ca8f241a7a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ff84681d-e583-4624-a5fc-65ca8f241a7a",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 1 to 13.82 Billion Years — Galaxy Evolution\n\nGalaxies grow and merge into larger systems. Along the filaments of dark matter, clusters of galaxies and superclusters form the cosmic web.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5bd0b0d6-d6f9-4619-94af-3ad7a8030f76",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5bd0b0d6-d6f9-4619-94af-3ad7a8030f76",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 200 Million to 1 Billion Years — The First Stars and Galaxies\n\nThe first stars ignite, ending the dark ages. Their light ionizes the surrounding gas, and the first galaxies begin to take shape.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6897df7b-0cc1-47a4-9c23-5b758b907bab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6897df7b-0cc1-47a4-9c23-5b758b907bab",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 380,000 Years to 200 Million Years — Recombination, the CMB and the Dark Ages\n\nThe universe cools enough for electrons and nuclei to join into atoms: matter decouples from light and the Cosmic Microwave Background is released — the oldest light we can still observe. With no free electrons the universe becomes transparent and dark, and matter falls into the structures formed by dark matter, slowly building the scaffolding of the galaxies to come.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ff4bd802-a308-40de-9606-67e074c9e505",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ff4bd802-a308-40de-9606-67e074c9e505",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 100 Seconds to 380,000 Years — Matter and Light Are Coupled\n\nOrdinary matter particles are coupled to light, forming a hot, opaque plasma. Dark matter particles begin to build structures, gently pulling matter together through gravity.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "14337605-d4f2-40c9-bb89-1e7a6e8613d0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "14337605-d4f2-40c9-bb89-1e7a6e8613d0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 1 to 100 Seconds — Particles Form\n\nAs the universe cools, energy turns into the first particles: protons, neutrons and electrons, together with their antiparticles. Matter and antimatter mostly annihilate, leaving a small surplus of matter that will build everything we see.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5326a200-2fbf-46b0-bade-1c8a2fac6dc6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5326a200-2fbf-46b0-bade-1c8a2fac6dc6",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 0 to 1 Second — Big Bang and Cosmic Inflation\n\nEverything that exists begins in an extremely hot and dense point. In a fraction of a second, cosmic inflation stretches space faster than light, smoothing it out and creating the tiny seeds of all the structures to come.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4c841296-8872-4d62-8443-2f6992a57c67",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4c841296-8872-4d62-8443-2f6992a57c67",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nThe image we observed in this class shows us that the information we obtain from the universe indicates that everything was concentrated at the beginning.\n\n**Do these measurements agree with the understanding of Lavoisier that we studied in previous classes?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd03aca4-1609-4f24-92f6-a6d19579f604",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "fd03aca4-1609-4f24-92f6-a6d19579f604",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn the beginning, everything in the universe was one. Matter and energy were united in a single, extremely hot and dense point. The measurements we observe today, together with what Lavoisier taught us — nothing is lost, nothing is created, everything is transformed — show us that we and all things around us share the same origin.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

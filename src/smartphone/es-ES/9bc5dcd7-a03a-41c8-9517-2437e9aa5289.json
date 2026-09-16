@@ -1,0 +1,361 @@
+{
+   "title": "Todo Estaba Junto",
+   "index": "first_steps",
+   "sources": [
+      "57091b10-84a4-468c-b81a-56bccfa2cd4a"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789585070"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7b3c8d70-777d-4311-9ff0-b49d6e3136fa",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA — Historia del Universo según Planck",
+               "page": "https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 13,82 Mil Millones de Años — El Universo Hoy\n\nEste es el universo tal como lo vemos hoy: cúmulos de galaxias, nuestra propia galaxia, la Vía Láctea, y nuestro sistema solar alrededor de una estrella común.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" class=\"imgcenter\"/><b>Figura 2</b>: Historia del Universo según Planck. ESA - C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ff84681d-e583-4624-a5fc-65ca8f241a7a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ff84681d-e583-4624-a5fc-65ca8f241a7a",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 1 a 13,82 Mil Millones de Años — Evolución de las Galaxias\n\nLas galaxias crecen y se fusionan en sistemas mayores. A lo largo de los filamentos de materia oscura, se forman cúmulos y supercúmulos de galaxias: la red cósmica.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5bd0b0d6-d6f9-4619-94af-3ad7a8030f76",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5bd0b0d6-d6f9-4619-94af-3ad7a8030f76",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 200 Millones a 1 000 Millones de Años — Las Primeras Estrellas y Galaxias\n\nLas primeras estrellas se encienden, poniendo fin a las edades oscuras. Su luz ioniza el gas circundante y las primeras galaxias empiezan a formarse.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6897df7b-0cc1-47a4-9c23-5b758b907bab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6897df7b-0cc1-47a4-9c23-5b758b907bab",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 380 000 Años a 200 Millones de Años — Recombinación, la CMB y las Edades Oscuras\n\nEl universo se enfría lo suficiente para que electrones y núcleos se unan en átomos: la materia se desacopla de la luz y se libera la Radiación Cósmica de Fondo de Microondas (CMB) — la luz más antigua que aún podemos observar. Sin electrones libres, el universo se vuelve transparente y oscuro, y la materia cae en las estructuras formadas por la materia oscura, construyendo lentamente el andamiaje de las futuras galaxias.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ff4bd802-a308-40de-9606-67e074c9e505",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ff4bd802-a308-40de-9606-67e074c9e505",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 100 Segundos a 380 000 Años — Materia y Luz Acopladas\n\nLas partículas de materia común están acopladas a la luz, formando un plasma caliente y opaco. Las partículas de materia oscura empiezan a construir estructuras, atrayendo la materia por la gravedad.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "14337605-d4f2-40c9-bb89-1e7a6e8613d0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "14337605-d4f2-40c9-bb89-1e7a6e8613d0",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 1 a 100 Segundos — Se Forman las Partículas\n\nA medida que el universo se enfría, la energía se transforma en las primeras partículas: protones, neutrones y electrones, junto con sus antipartículas. Materia y antimateria se aniquilan en su mayoría, dejando un pequeño excedente de materia que construirá todo lo que vemos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5326a200-2fbf-46b0-bade-1c8a2fac6dc6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5326a200-2fbf-46b0-bade-1c8a2fac6dc6",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### 0 a 1 Segundo — Big Bang e Inflación Cósmica\n\nTodo lo que existe comienza en un punto extremadamente caliente y denso. En una fracción de segundo, la inflación cósmica estira el espacio más rápido que la luz, alisándolo y creando las pequeñas semillas de todas las estructuras futuras.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4c841296-8872-4d62-8443-2f6992a57c67",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4c841296-8872-4d62-8443-2f6992a57c67",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nLa imagen que observamos en esta clase nos muestra que la información que obtenemos del universo indica que todo estaba concentrado en el principio.\n\n**¿Estas mediciones concuerdan con el entendimiento de Lavoisier que estudiamos en clases anteriores?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd03aca4-1609-4f24-92f6-a6d19579f604",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "fd03aca4-1609-4f24-92f6-a6d19579f604",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=57091b10-84a4-468c-b81a-56bccfa2cd4a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn el principio, todo lo que existe en el universo era uno solo. Materia y energía estaban unidas en un único punto extremadamente caliente y denso. Las mediciones que observamos hoy, junto con lo que nos enseñó Lavoisier — nada se pierde, nada se crea, todo se transforma — muestran que nosotros y todas las cosas a nuestro alrededor compartimos el mismo origen.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
