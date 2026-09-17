@@ -1,0 +1,410 @@
+{
+   "title": "Quipus",
+   "index": "another_way_to_count",
+   "sources": [
+      "7aec6487-c20c-490d-a9af-21e0b8bcc7f7"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789657200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4516d87d-088e-4517-9e9b-18f2d777fef9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nAté agora, sempre usamos o mesmo grupo de números. Por isso, podemos pensar que a nossa forma de contar é a única que existe e que a humanidade nunca criou outro tipo de sistema numérico.\n\nNesta aula, vamos começar a estudar outros sistemas de contagem criados pela humanidade que já não são usados hoje.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5a528bf9-dc12-4c11-b4ed-34f7c2cc1aaf",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5a528bf9-dc12-4c11-b4ed-34f7c2cc1aaf",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "720f6dfd-4b86-4e07-a887-1010e1041a4d",
+               "text": "Ruta Caral",
+               "page": "https://www.zonacaral.gob.pe/ruta-caral/ciudad-sagrada-de-caral.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "11",
+                  "day": "02"
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b74bf294-c758-4a48-88c9-399ca4f021f6",
+               "text": "Cartwright, M.",
+               "page": "https://www.worldhistory.org/Quipu/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "05",
+                  "day": "08"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Um dos Primeiros\n\nAo escavar o sítio arqueológico de Caral, no Peru, os pesquisadores encontraram o que pode ser um dos mais antigos sistemas de contagem criados pela humanidade: os quipus.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/Caral/QuipuPanel.png\" class=\"imgcenter\"/><b>Figura 1</b>: Painel no sítio arqueológico de Caral mostrando uma pessoa segurando um quipu e uma prancha de Yupana.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "57858d79-e806-4a14-9bf2-611e800d78ab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "57858d79-e806-4a14-9bf2-611e800d78ab",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b74bf294-c758-4a48-88c9-399ca4f021f6",
+               "text": "Cartwright, M.",
+               "page": "https://www.worldhistory.org/Quipu/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "05",
+                  "day": "08"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Funciona?\n\nUm quipu tem um cordão horizontal principal. Dele pendem cordões verticais com nós que representam números.\n\nAlém dos números, os quipus também usavam cores. Isso permitia que os quipucamayocs registrassem informações ainda mais precisas.\n\nEm nossas aulas, vamos representar os nós dos quipus com círculos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 320 230\" width=\"320\" height=\"230\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"24\" x2=\"300\" y2=\"24\" stroke=\"#8B6914\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"120\" y1=\"24\" x2=\"120\" y2=\"180\" stroke=\"#C49A6C\" stroke-width=\"4\"/><line x1=\"200\" y1=\"24\" x2=\"200\" y2=\"180\" stroke=\"#C49A6C\" stroke-width=\"4\"/><circle cx=\"120\" cy=\"70\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"200\" cy=\"70\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"200\" cy=\"110\" r=\"10\" fill=\"#8B6914\"/><text x=\"120\" y=\"212\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">1</text><text x=\"200\" y=\"212\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">2</text></svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3504ef38-21da-4c29-b24c-61ac9d173b9f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3504ef38-21da-4c29-b24c-61ac9d173b9f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Números Pequenos\n\nPara números entre 1 e 9, basta contar quantos nós há no cordão. Cada nó representa uma unidade.\n\nQuando um cordão não tem nós, ele representa o número zero.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 320 320\" width=\"320\" height=\"320\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"20\" y1=\"24\" x2=\"300\" y2=\"24\" stroke=\"#8B6914\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"100\" y1=\"24\" x2=\"100\" y2=\"270\" stroke=\"#C49A6C\" stroke-width=\"4\"/><line x1=\"180\" y1=\"24\" x2=\"180\" y2=\"270\" stroke=\"#C49A6C\" stroke-width=\"4\"/><line x1=\"260\" y1=\"24\" x2=\"260\" y2=\"270\" stroke=\"#C49A6C\" stroke-width=\"4\"/><circle cx=\"180\" cy=\"70\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"180\" cy=\"100\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"180\" cy=\"130\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"180\" cy=\"160\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"180\" cy=\"190\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"55\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"80\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"105\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"130\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"155\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"180\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"205\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"230\" r=\"9\" fill=\"#8B6914\"/><circle cx=\"260\" cy=\"255\" r=\"9\" fill=\"#8B6914\"/><text x=\"100\" y=\"305\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">0</text><text x=\"180\" y=\"305\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">5</text><text x=\"260\" y=\"305\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">9</text></svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "adb8c46f-41e5-4539-a67e-be32f7b20839",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "adb8c46f-41e5-4539-a67e-be32f7b20839",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6e9bef8c-6ec5-4c04-b583-aea8e6bbec5b",
+               "text": "Quesada, Eugenio de",
+               "page": "https://www.rahf.es/wp-content/uploads/2017/12/EL-ECO_articulo-LOS-CHASQUIS-II_Eugenio-de-Quesada.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2016",
+                  "month": "08",
+                  "day": "04"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Números Grandes\n\nPara números maiores, os quipucamayocs usavam níveis de nós. Nos dois quipus abaixo, representamos os números 12 e 21.\n\nObserve que os quipus estão alinhados: as unidades são sempre os nós de baixo, e as dezenas são o próximo grupo acima.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 320 320\" width=\"320\" height=\"320\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"50\" y1=\"30\" x2=\"170\" y2=\"30\" stroke=\"#8B6914\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"110\" y1=\"30\" x2=\"110\" y2=\"270\" stroke=\"#C49A6C\" stroke-width=\"4\"/><circle cx=\"110\" cy=\"120\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"110\" cy=\"205\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"110\" cy=\"175\" r=\"10\" fill=\"#8B6914\"/><line x1=\"190\" y1=\"30\" x2=\"310\" y2=\"30\" stroke=\"#8B6914\" stroke-width=\"6\" stroke-linecap=\"round\"/><line x1=\"250\" y1=\"30\" x2=\"250\" y2=\"270\" stroke=\"#C49A6C\" stroke-width=\"4\"/><circle cx=\"250\" cy=\"120\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"250\" cy=\"90\" r=\"10\" fill=\"#8B6914\"/><circle cx=\"250\" cy=\"205\" r=\"10\" fill=\"#8B6914\"/><text x=\"110\" y=\"305\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">12</text><text x=\"250\" y=\"305\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#2C3E50\">21</text></svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7d19f039-627e-4940-a17f-f898ff9c9591",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7d19f039-627e-4940-a17f-f898ff9c9591",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nUm quipu registra números usando nós colocados em ordens diferentes.\n\n**Um quipu pode representar qualquer número?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5e52ae38-07b9-4c41-b50c-d9313c8f3388",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "5e52ae38-07b9-4c41-b50c-d9313c8f3388",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Texto Original",
+               "page": "index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b74bf294-c758-4a48-88c9-399ca4f021f6",
+               "text": "Cartwright, M.",
+               "page": "https://www.worldhistory.org/Quipu/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "05",
+                  "day": "08"
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos sobre o quipu, um sistema numérico decimal que foi usado nos Andes, possivelmente por milhares de anos.\n\nAssim como os números que usamos todos os dias, um quipu pode representar qualquer número. Mas, em vez de acrescentar dígitos à esquerda, os quipucamayocs continuavam acrescentando nós para cima.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
