@@ -1,0 +1,379 @@
+{
+   "title": "¿Compartir con quién?",
+   "index": "first_steps",
+   "sources": [
+      "58da6d75-ce8a-45f5-b57f-1f0763ee3568"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789657200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e61483cb-3fe5-48e9-ae23-1d64a2a5d149",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b5efc8f9-c268-430f-9681-7a43848ee48e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=first_steps",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn las clases anteriores estudiamos el modelo del universo que tenemos hoy, a partir de las mediciones realizadas durante los últimos siglos.\n\nEn esta clase, y en las próximas, vamos a mirar el universo en la dirección opuesta: partiendo de los primeros momentos después del Big Bang y avanzando hacia el presente. En el camino aprenderemos otra operación matemática: la **división**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d49ef0a0-49b6-465d-a7f8-fd6d8a563c6b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d49ef0a0-49b6-465d-a7f8-fd6d8a563c6b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "a1a7c478-9061-4160-ba43-301c081733e9",
+               "text": "ESA — Historia del universo según Planck",
+               "page": "https://www.esa.int/Science_Exploration/Space_Science/Planck/History_of_cosmic_structure_formation",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6dfe4b3b-8338-46ab-8149-2e073414907e",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/universe/overview/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "587cdba4-cefb-4df9-8514-2e50ccf88739",
+               "text": "Penzias, A. A., & Wilson, R. W.",
+               "page": "https://doi.org/10.1086/148307",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1965",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Compartir con nadie\n\nEn los primeros momentos del universo, todo estaba junto, pero nada tenía la forma que observamos hoy. No había estrellas, ni planetas, ni galaxias: era un único estado extremadamente caliente y denso.\n\nComo no había nadie que recibiera y nada separado que compartir, observemos la imagen de abajo para recordar aquel primer estado.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><img src=\"https://www.historytracers.org/images/ESA/Planck_history_of_Universe.jpg\" class=\"imgcenter\"/><b>Figura 1</b>: Historia del universo según Planck. ESA - C. Carreau.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "070951b5-5b4c-4622-9380-ad81313f6564",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "070951b5-5b4c-4622-9380-ad81313f6564",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nEn los primeros momentos del universo, todo estaba concentrado en un solo punto, y no había nadie ni nada más que lo recibiera.\n\n**¿Es posible compartir (dividir) algo cuando no hay nadie ni nada que lo reciba?**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9163665b-ce43-486d-a897-0f7222aecbf2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "9163665b-ce43-486d-a897-0f7222aecbf2",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc6c2a04-8a51-4ea5-847d-9b71912828ea",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/DivisionbyZero.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6dfe4b3b-8338-46ab-8149-2e073414907e",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/universe/overview/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Un Escenario Más Complejo\n\nEl universo inicial es aún más complejo. Como todavía no se había creado nada y nada estaba separado, el universo no podía compartir nada en aquel momento.\n\nEn la próxima pantalla, observaremos que, incluso hoy, también tenemos situaciones en las que no es posible compartir.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f2c64edb-48ba-4c2b-8ec3-34bc421eae27",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f2c64edb-48ba-4c2b-8ec3-34bc421eae27",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc6c2a04-8a51-4ea5-847d-9b71912828ea",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/DivisionbyZero.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Región Vacía\n\nObserva la tabla de abajo. En su lado izquierdo hay dos círculos. Imagina que queremos compartir (dividir) un círculo con una persona del lado derecho. Sin embargo, no hay nadie en el lado derecho: es una región vacía.\n\nNo importa cuántos círculos coloquemos a la izquierda: no hay nadie que los reciba a la derecha. Sin quien reciba, el compartir no puede ocurrir.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><table class=\"book_navigation\"><tr><td>Lado izquierdo</td><td>Lado derecho</td></tr><tr><td><span style=\"display:inline-block;width:3em;height:3em;border-radius:50%;background-color:#1B4F72;margin-right:0.5em;\"></span><span style=\"display:inline-block;width:3em;height:3em;border-radius:50%;background-color:#1B4F72;margin-right:0.5em;\"></span></td><td style=\"min-width:6em;border:1px dashed #999999;\">&nbsp;</td></tr><tr><td colspan=\"2\"><b>Tabla 1</b>: Dos círculos a la izquierda y una región vacía a la derecha. No hay nadie para recibir el círculo compartido.</td></tr></table></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7774dba9-d4ae-4f34-ae97-c3e35bf5b92e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7774dba9-d4ae-4f34-ae97-c3e35bf5b92e",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc6c2a04-8a51-4ea5-847d-9b71912828ea",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/DivisionbyZero.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6dfe4b3b-8338-46ab-8149-2e073414907e",
+               "text": "NASA",
+               "page": "https://science.nasa.gov/universe/overview/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase recordamos que el estado inicial del universo tenía todo concentrado, sin nada separado todavía.\n\nTambién observamos que no podemos compartir (dividir) algo con otros cuando no hay otra persona que lo reciba: compartir siempre necesita al menos a quien recibe.\n\nPor lo tanto, no podemos definir una división por cero. La división por cero es **indefinida**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
