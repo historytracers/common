@@ -1,0 +1,330 @@
+{
+   "title": "Los Símbolos Mesoamericanos",
+   "index": "Another Way to Count",
+   "sources": [
+      "5a3ab520-1c8c-4f40-94d7-96c109ad9ba3"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789732918"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "69153ca6-2591-472d-b884-bb575a4c86a1",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn **Primeros Pasos (Contando)**, vimos que en Mesoamérica los pueblos indígenas usaron su propio cuerpo —especialmente las manos— para crear un sistema numérico que se utilizó durante más de mil años.\n\nPero esa no es la única característica notable de estos números. En esta clase, descubriremos más sobre ellos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5b8aceeb-416e-4ce4-9a5d-90bc05c52aa7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5b8aceeb-416e-4ce4-9a5d-90bc05c52aa7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Sistema Numérico\n\nLos pueblos que vivieron en Mesoamérica crearon símbolos para contar, principalmente para registrar el tiempo, como muestran las estelas que se han descubierto.\n\nUna característica importante de estos símbolos es que **no son decimales** como los números indoarábigos que usamos hoy: son **vigesimales**, es decir, tienen 20 números diferentes que representan valores entre 0 y 19.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "106f8c27-b834-4f16-be29-57f5a0e58fcf",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "106f8c27-b834-4f16-be29-57f5a0e58fcf",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿19 o 3 Símbolos?\n\nPara construir los números que usaban para contar, combinaban solo **tres símbolos diferentes** para formar los primeros 20 números: cero, uno y cinco.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-symbols-0-1-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b8d4fb5b-ce64-42cb-b8e9-aceba1312aa4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b8d4fb5b-ce64-42cb-b8e9-aceba1312aa4",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿Descubrieron el Cero?\n\nComo explicamos en otra clase de **Primeros Pasos (Contando)** — *Nosotros Tenemos Cero* — existen diferentes conceptos de cero. No hay duda de que los mayas tenían un símbolo para el cero; sin embargo, hasta hoy no hemos podido encontrar un uso del cero como el de nuestros sistemas numéricos actuales.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93df3ab3-5e2c-4546-8e1d-c15905ab0738",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "93df3ab3-5e2c-4546-8e1d-c15905ab0738",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿Cómo Escribir los Números?\n\nCuando escribimos los números del 0 al 5, usamos siempre un símbolo por línea:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-0-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nPara valores entre 0 y 5 usamos solo una línea: los mismos valores que podemos representar con una mano.\n\nPara escribir números entre 6 y 10, ¿vamos a colocar otros valores a la izquierda?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f2c8655a-9342-41e3-bcf9-77155b884bef",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "f2c8655a-9342-41e3-bcf9-77155b884bef",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Vertical, No Horizontal\n\nPara aumentar los números mesoamericanos, escribimos valores en otra línea, y no a la izquierda. Abajo, escribimos los números del 6 al 10.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-6-10\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "987602e9-2387-44d7-a161-4d6b07fd6194",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "987602e9-2387-44d7-a161-4d6b07fd6194",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos a escribir los primeros números mesoamericanos con los tres símbolos que ellos crearon.\n\nTambién aprendimos que estos no son los únicos números usados en Mesoamérica. En la próxima clase, seguiremos aprendiendo sobre los números mesoamericanos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
