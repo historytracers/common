@@ -1,0 +1,283 @@
+{
+   "title": "Números Grandes",
+   "index": "Yupana",
+   "sources": [
+      "2a1fc4cb-1047-48d0-be47-aa9c5d586430"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789732918"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d3a26877-2ff4-4f8f-8ef8-ae39ee1de758",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNa Yupana, os números são representados como nos quipus: eles crescem **para cima**, linha por linha, em vez de se espalharem para a esquerda conforme acrescentamos mais algarismos.\n\nNesta aula, vamos ver como representar números grandes com a Yupana.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "861e3e84-c579-451b-8621-b3550378f913",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "861e3e84-c579-451b-8621-b3550378f913",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Recordando o Quipu\n\nO quipu abaixo mostra o número 45. Observe que ele tem uma linha específica para as unidades e outra para as dezenas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"quipu-45\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d1b2a423-eba1-4e55-93fc-48a15142d23f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d1b2a423-eba1-4e55-93fc-48a15142d23f",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Crescendo\n\nEm nossa vida, crescemos na direção vertical. Os quipus também crescem seus números na direção vertical.\n\nA Yupana segue o mesmo padrão?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d3fbc16b-dd85-42b2-8f62-dacf76c584aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "d3fbc16b-dd85-42b2-8f62-dacf76c584aa",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "f5b74f18-0bc4-46d2-8a5c-64dd80b74dd1",
+               "text": "Poma de Ayala, Felipe Guaman",
+               "page": "https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1615",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mantendo o Padrão\n\nAssim como nós e como os quipus, a Yupana também cresce os números na direção vertical.\n\nNesta aula, usamos o método **Yupana Inka Tawa Pukllay**, desenvolvido e publicado por Dhavit Prem, para preencher a Yupana.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd9bdaab-7b41-4237-8e9d-baf459c4ced4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fd9bdaab-7b41-4237-8e9d-baf459c4ced4",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Aplicativo da Yupana\n\nAgora você pode experimentar. Use as setas para mudar o número e observe como a Yupana se preenche da linha de baixo para a de cima.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"yupana-app\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b4862c32-8691-471c-98d6-bedb4705c1cb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b4862c32-8691-471c-98d6-bedb4705c1cb",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=87b260d5-4992-4ec2-8ba2-96a8dfa16c89",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNão precisamos parar em duas linhas. Poderíamos continuar acrescentando mais linhas e representar números ainda maiores com a Yupana — mas, por enquanto, vamos parar aqui.\n\nNesta aula, aprendemos a escrever números com a Yupana e como essa forma de contar está ligada ao nosso corpo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
