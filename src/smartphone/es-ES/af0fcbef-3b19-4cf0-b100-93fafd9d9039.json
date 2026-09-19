@@ -155,16 +155,16 @@
          ],
          "text": [
             {
-                "text": "#### Una Ley de la Naturaleza\n\nLos científicos han estudiado estas transformaciones durante siglos. Uno de los descubrimientos más importantes fue hecha por **Antoine Lavoisier** en <htdate0>: la **ley de conservación de la materia**.\n\nEsta ley establece que, en la naturaleza, **la materia ni se crea ni se destruye** durante ningún proceso. Cuando el agua se evapora, la misma cantidad de agua existe -- simplemente cambió de forma.\n\nEsta comprensión nos ayuda a entender que todo lo necesario para construir lo que vemos hoy ya estaba disponible al comienzo del universo. Nada se añadió ni se eliminó en el camino.",
-                "source": null,
-                "date_time": [
-                   {
-                      "type": "gregory",
-                      "year": "1789",
-                      "month": "-1",
-                      "day": "-1"
-                   }
-                ],
+               "text": "#### Una Ley de la Naturaleza\n\nLos científicos han estudiado estas transformaciones durante siglos. Uno de los descubrimientos más importantes fue hecho por **Antoine Lavoisier** en <htdate0>: la **ley de conservación de la materia**.\n\nEsta ley establece que, en la naturaleza, **la materia ni se crea ni se destruye** durante ningún proceso. Cuando el agua se evapora, la misma cantidad de agua existe -- simplemente cambió de forma.\n\nEsta comprensión nos ayuda a entender que todo lo necesario para construir lo que vemos hoy ya estaba disponible al comienzo del universo. Nada se añadió ni se eliminó en el camino.",
+               "source": null,
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "1789",
+                     "month": "-1",
+                     "day": "-1"
+                  }
+               ],
                "isTable": false,
                "imgdesc": "",
                "format": "markdown",
@@ -247,16 +247,16 @@
          ],
          "text": [
             {
-                "text": "#### Hay Algo Más\n\nLa respuesta es **no**. Los tres estados de la materia por sí solos no son suficientes.\n\nTodos los estados que estudiamos -- sólido, líquido, gas -- tienen **masa**. Pero la naturaleza tiene otra cantidad fundamental: **energía**. Necesitamos energía para movernos, para pensar, para vivir.\n\nMuchos científicos han estudiado la relación entre materia y energía. Una de las obras más famosas fue publicada el <htdate0>, por **Albert Einstein**. En este artículo, Einstein demostró que la materia y la energía son dos formas de la misma cosa: **es posible transformar materia en energía y energía en materia**.\n\nEsto significa que en el comienzo del universo, antes de que existiera algo visible, había **energía** -- y de esa energía nació la materia.",
-                "source": null,
-                "date_time": [
-                   {
-                      "type": "gregory",
-                      "year": "1905",
-                      "month": "9",
-                      "day": "27"
-                   }
-                ],
+               "text": "#### Hay Algo Más\n\nLa respuesta es **no**. Los tres estados de la materia por sí solos no son suficientes.\n\nTodos los estados que estudiamos -- sólido, líquido, gas -- tienen **masa**. Pero la naturaleza tiene otra cantidad fundamental: **energía**. Necesitamos energía para movernos, para pensar, para vivir.\n\nMuchos científicos han estudiado la relación entre materia y energía. Una de las obras más famosas fue publicada el <htdate0>, por **Albert Einstein**. En este artículo, Einstein demostró que la materia y la energía son dos formas de la misma cosa: **es posible transformar materia en energía y energía en materia**.\n\nEsto significa que en el comienzo del universo, antes de que existiera algo visible, había **energía** -- y de esa energía nació la materia.",
+               "source": null,
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "1905",
+                     "month": "9",
+                     "day": "27"
+                  }
+               ],
                "isTable": false,
                "imgdesc": "",
                "format": "markdown",
@@ -327,22 +327,22 @@
          ],
          "text": [
             {
-                "text": "#### Uniéndolo Todo\n\nAhora podemos construir una imagen más clara del comienzo del universo:\n\n1. Hace más de 13,82 mil millones de años, todo en el universo estaba concentrado en un espacio extremadamente pequeño.\n2. En ese momento, la materia y la energía estaban **unificadas** -- juntas, inseparables.\n3. A medida que el universo se expandía, la energía comenzó a transformarse en materia, creando las primeras partículas y eventualmente todo lo que vemos hoy.\n4. La primera \"imagen\" que tenemos de este proceso es la **Radiación Cósmica de Fondo (CMB)**, detectada en <htdate1> por Arno Penzias y Robert Wilson.\n\nAntes del CMB, todo estaba junto y concentrado. Después, ocurrió una separación que permitió la formación de estrellas, planetas, galaxias y, en última instancia, la vida.",
-                "source": null,
-                "date_time": [
-                   {
-                      "type": "gregory",
-                      "year": "2013",
-                      "month": "-1",
-                      "day": "-1"
-                   },
-                   {
-                      "type": "gregory",
-                      "year": "1965",
-                      "month": "-1",
-                      "day": "-1"
-                   }
-                ],
+               "text": "#### Uniéndolo Todo\n\nAhora podemos construir una imagen más clara del comienzo del universo:\n\n1. Hace más de 13,82 mil millones de años, todo en el universo estaba concentrado en un espacio extremadamente pequeño.\n2. En ese momento, la materia y la energía estaban **unificadas** -- juntas, inseparables.\n3. A medida que el universo se expandía, la energía comenzó a transformarse en materia, creando las primeras partículas y eventualmente todo lo que vemos hoy.\n4. La primera \"imagen\" que tenemos de este proceso es la **Radiación Cósmica de Fondo (CMB)**, detectada en <htdate1> por Arno Penzias y Robert Wilson.\n\nAntes del CMB, todo estaba junto y concentrado. Después, ocurrió una separación que permitió la formación de estrellas, planetas, galaxias y, en última instancia, la vida.",
+               "source": null,
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "2013",
+                     "month": "-1",
+                     "day": "-1"
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "1965",
+                     "month": "-1",
+                     "day": "-1"
+                  }
+               ],
                "isTable": false,
                "imgdesc": "",
                "format": "markdown",

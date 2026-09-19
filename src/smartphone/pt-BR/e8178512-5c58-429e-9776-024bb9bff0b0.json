@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-                "text": "#### Totalmente iguais\n\nNa aula anterior vimos que objetos podem ser iguais, mesmo com algumas diferenças.\n\nAgora vamos aprender o que são objetos totalmente iguais e como eles permanecem iguais ao longo do tempo.",
+               "text": "#### Totalmente iguais\n\nNa aula anterior vimos que objetos podem ser iguais, mesmo com algumas diferenças.\n\nAgora vamos aprender o que são objetos totalmente iguais e como eles permanecem iguais ao longo do tempo.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -46,7 +46,7 @@
          "source_menu": [],
          "text": [
             {
-                "text": "#### Um Sinal de Igualdade\n\nExiste algum sinal para mostrar que duas coisas são realmente iguais?",
+               "text": "#### Um Sinal de Igualdade\n\nExiste algum sinal para mostrar que duas coisas são realmente iguais?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -83,7 +83,7 @@
          ],
          "text": [
             {
-                "text": "#### Um sinal, uma mensagem\n\nPara dizer que algo é igual, usamos o símbolo \"=\". Veja um exemplo com dois números:",
+               "text": "#### Um sinal, uma mensagem\n\nPara dizer que algo é igual, usamos o símbolo \"=\". Veja um exemplo com dois números:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -101,7 +101,7 @@
                "PostMention": ""
             },
             {
-                "text": "Importante: quando uma igualdade é definida, ela deve ser mantida. Se mudarmos algo de um lado, o outro lado também precisa mudar da mesma forma.",
+               "text": "Importante: quando uma igualdade é definida, ela deve ser mantida. Se mudarmos algo de um lado, o outro lado também precisa mudar da mesma forma.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -138,7 +138,7 @@
          ],
          "text": [
             {
-                "text": "#### Exercício com Setas\n\nVamos ver um exercício com números e mãos, usando setas. Observe que, à medida que mudamos um lado, o outro também muda.",
+               "text": "#### Exercício com Setas\n\nVamos ver um exercício com números e mãos, usando setas. Observe que, à medida que mudamos um lado, o outro também muda.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -171,7 +171,7 @@
          "source_menu": [],
          "text": [
             {
-                "text": "### Conclusão\n\nAprendemos que existe um sinal de igualdade (=). Quando ele está presente, qualquer mudança em um lado deve ser repetida no outro para manter a igualdade.",
+               "text": "#### Conclusão\n\nAprendemos que existe um sinal de igualdade (=). Quando ele está presente, qualquer mudança em um lado deve ser repetida no outro para manter a igualdade.",
                "source": [],
                "date_time": null,
                "isTable": false,

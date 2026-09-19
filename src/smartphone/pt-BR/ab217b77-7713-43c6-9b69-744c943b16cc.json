@@ -131,7 +131,7 @@
                "type": 1,
                "uuid": "f3cee656-d0ed-4885-a059-91ce6e50b17a",
                "text": "Weisstein, Eric W.",
-               "page": "Círculo",
+               "page": "https://mathworld.wolfram.com/Circle.html",
                "date_time": {
                   "type": "gregory",
                   "year": "2024",
@@ -214,28 +214,28 @@
          "position": ""
       },
       {
-        "id": "cc52d0e4-4c80-473a-910a-33ccbb5e202c",
-        "audio": "",
-        "smile": "party",
-        "source_menu": [],
-        "text": [
-          {
-            "text": "#### Conclusão\n\nNesta aula, vimos que comparar não é apenas dizer se algo é igual ou diferente. Muitas vezes, precisamos olhar características específicas em vez do todo.\n\nIsso nos leva a definir melhor o que significa ser igual — assunto da próxima aula.",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown/html/text",
-            "PostMention": ""
-          }
-        ],
-        "desc": null,
-        "next": "",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         "id": "cc52d0e4-4c80-473a-910a-33ccbb5e202c",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, vimos que comparar não é apenas dizer se algo é igual ou diferente. Muitas vezes, precisamos olhar características específicas em vez do todo.\n\nIsso nos leva a definir melhor o que significa ser igual — assunto da próxima aula.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       }
    ]
 }

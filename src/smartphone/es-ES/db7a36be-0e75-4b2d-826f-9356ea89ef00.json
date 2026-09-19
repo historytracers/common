@@ -23,7 +23,7 @@
             {
                "type": 1,
                "uuid": "648fb7b4-ba73-452e-980b-6d68d57d16b9",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
                "date_time": {
                   "type": "gregory",
@@ -40,7 +40,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -71,7 +71,7 @@
             {
                "type": 1,
                "uuid": "648fb7b4-ba73-452e-980b-6d68d57d16b9",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
                "date_time": {
                   "type": "gregory",
@@ -88,7 +88,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -119,7 +119,7 @@
             {
                "type": 1,
                "uuid": "648fb7b4-ba73-452e-980b-6d68d57d16b9",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
                "date_time": {
                   "type": "gregory",
@@ -136,7 +136,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -167,7 +167,7 @@
             {
                "type": 1,
                "uuid": "648fb7b4-ba73-452e-980b-6d68d57d16b9",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
                "date_time": {
                   "type": "gregory",
@@ -184,7 +184,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -225,7 +225,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -243,12 +243,12 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta lección, aprendimos sobre el número cero. Vimos que existe más de un tipo de cero. También vimos que la idea del cero existía antes de que diferentes pueblos crearan un símbolo para él.\n\nAdemás, vimos que el cero tiene la idea de \"no tener algo\". Por eso, será el primer número que usaremos.",
+               "text": "#### Conclusión\n\nEn esta lección, aprendimos sobre el número cero. Vimos que existe más de un tipo de cero. También vimos que la idea del cero existía antes de que diferentes pueblos crearan un símbolo para él.\n\nAdemás, vimos que el cero tiene la idea de \"no tener algo\". Por eso, tiene sentido que el cero sea el primer número que usamos.",
                "source": [],
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],

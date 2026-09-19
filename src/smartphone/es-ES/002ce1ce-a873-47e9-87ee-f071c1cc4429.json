@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Dibujando con la Multiplicación\n\nLa multiplicación no solo sirve para trabajar con números: está en todas partes del mundo real. Cuando contamos los azulejos del piso, las ventanas de un edificio o los golpes de una canción, estamos repitiendo la misma cantidad muchas vecesâ€”estamos multiplicando.\n\nPero hay un secreto aún más bonito: podemos **dibujar** con los resultados de una multiplicación. Cuando marcamos los números en el papel y los unimos, aparecen líneas rectas y otras formas.\n\nEn esta clase, comenzaremos a dibujar usando los resultados de la tabla de multiplicar del cero. Descubramos qué forma está escondida en ella.",
+               "text": "#### Dibujando con la Multiplicación\n\nLa multiplicación no solo sirve para trabajar con números: está en todas partes del mundo real. Cuando contamos los azulejos del piso, las ventanas de un edificio o los golpes de una canción, estamos repitiendo la misma cantidad muchas veces—estamos multiplicando.\n\nPero hay un secreto aún más bonito: podemos **dibujar** con los resultados de una multiplicación. Cuando marcamos los números en el papel y los unimos, aparecen líneas rectas y otras formas.\n\nEn esta clase, comenzaremos a dibujar usando los resultados de la tabla de multiplicar del cero. Descubramos qué forma está escondida en ella.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -255,7 +255,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Pensemos.\n\nTodos los puntos de la tabla del cero están sobre la misma línea horizontalâ€”en el valor cero.\nSi unimos los puntos vecinos con trazos rectos, Â¿nuestro dibujo será una **línea recta y plana**?",
+               "text": "#### Pensemos.\n\nTodos los puntos de la tabla del cero están sobre la misma línea horizontal—en el valor cero.\nSi unimos los puntos vecinos con trazos rectos, ¿nuestro dibujo será una **línea recta y plana**?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -304,7 +304,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Línea Recta y Plana\n\nExacto. Cuando unimos todos los puntos con trazos rectos, nuestro dibujo se convierte en una **línea recta** completamente **plana**â€”como todo resultado es cero, la línea nunca sube ni baja: queda exactamente sobre la línea horizontal:",
+               "text": "#### Una Línea Recta y Plana\n\nExacto. Cuando unimos todos los puntos con trazos rectos, nuestro dibujo se convierte en una **línea recta** completamente **plana**—como todo resultado es cero, la línea nunca sube ni baja: queda exactamente sobre la línea horizontal:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -359,7 +359,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nAhora entendemos el motivo: multiplicar cualquier número por cero siempre da cero, es decir, **0 × N = 0**. Como todos los resultados son iguales, todos los puntos están sobre la misma línea horizontalâ€”en el valor cero.\n\nPor eso, cuando los unimos, nuestro dibujo es una **línea recta y plana** apoyada exactamente sobre la línea horizontalâ€”la primera forma que dibujamos con la multiplicación.\n\nEn las próximas clases, dibujaremos otras tablas de multiplicar (por 1, por 2, ...) y descubriremos nuevas formas: líneas ascendentes e incluso triángulos. La tabla de multiplicar del uno dibujará una forma diferente.",
+               "text": "#### Conclusión\n\nAhora entendemos el motivo: multiplicar cualquier número por cero siempre da cero, es decir, **0 × N = 0**. Como todos los resultados son iguales, todos los puntos están sobre la misma línea horizontal—en el valor cero.\n\nPor eso, cuando los unimos, nuestro dibujo es una **línea recta y plana** apoyada exactamente sobre la línea horizontal—la primera forma que dibujamos con la multiplicación.\n\nEn las próximas clases, dibujaremos otras tablas de multiplicar (por 1, por 2, ...) y descubriremos nuevas formas: líneas ascendentes e incluso triángulos. La tabla de multiplicar del uno dibujará una forma diferente.",
                "source": [],
                "date_time": null,
                "isTable": false,

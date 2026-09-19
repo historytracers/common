@@ -51,7 +51,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -121,7 +121,6 @@
                "format": "markdown",
                "PostMention": ""
             }
-
          ],
          "desc": null,
          "next": "aad23fe2-76a0-45af-bf8c-c13ffe7e536c",
@@ -198,7 +197,7 @@
             }
          ],
          "desc": null,
-         "next": "609397d1-d852-4926-b5e3-0f123503bed6",
+         "next": "00da5320-730e-43a6-976c-46494ad02a66",
          "prev": "",
          "jumpTo": "",
          "answer": null,

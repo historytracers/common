@@ -107,7 +107,7 @@
             },
             {
                "text": "<p class=\"desc\"><img id=\"imgCopanTemple\" src=\"https://historytracers.org/images/Copan/Temple16Copan.png\" class=\"imgcenter\"/></p>",
-               "source": [ ],
+               "source": [],
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
@@ -116,7 +116,8 @@
             },
             {
                "text": "* Sign at the Archaeological Site of Copán (<htcite0>). Photo taken on <htdate0> during a visit to the site.*",
-               "source": [                  {
+               "source": [
+                  {
                      "type": 1,
                      "uuid": "1e007481-9bd3-4a09-ad4d-6e812fe79641",
                      "text": "Instituto Hondureño de Antropologia e Historia",
@@ -128,14 +129,15 @@
                         "day": "01"
                      }
                   }
-],
-               "date_time": [                  {
+               ],
+               "date_time": [
+                  {
                      "type": "gregory",
                      "year": "2015",
                      "month": "-1",
                      "day": "-1"
                   }
-],
+               ],
                "isTable": false,
                "imgdesc": "",
                "format": "html",
@@ -276,7 +278,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let's Check Our Understanding\n\nWhen we add two numbers column by column, if a column sum is greater than 9, do we write the unit digit in the result and carry 1 to the next column?",
+               "text": "#### Let Us Check Our Understanding\n\nWhen we add two numbers column by column, if a column sum is greater than 9, do we write the unit digit in the result and carry 1 to the next column?",
                "source": [],
                "date_time": null,
                "isTable": false,

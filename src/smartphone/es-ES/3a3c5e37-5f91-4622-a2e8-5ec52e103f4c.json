@@ -51,7 +51,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -121,7 +121,6 @@
                "format": "markdown",
                "PostMention": ""
             }
-
          ],
          "desc": null,
          "next": "aad23fe2-76a0-45af-bf8c-c13ffe7e536c",
@@ -188,7 +187,7 @@
          ],
          "text": [
             {
-               "text": "#### Caminando en una dirección\n\nNada nos impide continuar añadiendo números. Ante este hecho, una persona podría pasar toda su vida nombrando números y todavía habría números por nombrar. Por lo tanto, también necesitamos hacer algo con ellos, tal como hicimos al crear símbolos para darles nombres.\n\nComo sabemos que los números crecen a medida que colocamos más valores a la izquierda, podemos decir que van en una dirección. O incluso, que tienden a un lugar.\n\nCon esto, a medida que los números van creciendo mucho, ya no nombraremos un número; diremos que los números tienden al infinito, y lo representamos como ∞.",
+               "text": "#### Caminando en una dirección\n\nNada nos impide continuar añadiendo números. Ante este hecho, una persona podría pasar toda su vida nombrando números y todavía habría números por nombrar. Por lo tanto, también necesitamos hacer algo con ellos, tal como hicimos al crear símbolos para darles nombres.\n\nComo sabemos que los números crecen a medida que colocamos más valores a la izquierda, podemos decir que van en una dirección. O incluso, que tienden al infinito.\n\nCon esto, a medida que los números van creciendo mucho, ya no nombraremos un número; diremos que los números tienden al infinito, y lo representamos como ∞.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -198,7 +197,7 @@
             }
          ],
          "desc": null,
-         "next": "609397d1-d852-4926-b5e3-0f123503bed6",
+         "next": "00da5320-730e-43a6-976c-46494ad02a66",
          "prev": "",
          "jumpTo": "",
          "answer": null,

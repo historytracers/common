@@ -23,7 +23,7 @@
             {
                "type": 1,
                "uuid": "c4c2c00d-7878-42da-9cc4-060cd7f8d225",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
                "date_time": {
                   "type": "gregory",
@@ -59,7 +59,7 @@
             {
                "type": 1,
                "uuid": "c4c2c00d-7878-42da-9cc4-060cd7f8d225",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
                "date_time": {
                   "type": "gregory",
@@ -95,7 +95,7 @@
             {
                "type": 1,
                "uuid": "c4c2c00d-7878-42da-9cc4-060cd7f8d225",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
                "date_time": {
                   "type": "gregory",
@@ -149,7 +149,7 @@
             {
                "type": 1,
                "uuid": "c4c2c00d-7878-42da-9cc4-060cd7f8d225",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
                "date_time": {
                   "type": "gregory",
@@ -203,7 +203,7 @@
             {
                "type": 1,
                "uuid": "c4c2c00d-7878-42da-9cc4-060cd7f8d225",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
                "date_time": {
                   "type": "gregory",
@@ -220,7 +220,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],

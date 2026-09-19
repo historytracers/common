@@ -59,7 +59,7 @@
                "type": 1,
                "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content\u0026arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -125,7 +125,7 @@
                "type": 1,
                "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content\u0026arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -198,7 +198,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Parece, mas não é\n\nMuitas vezes simplificamos as definições, para comparar com algo que já conhecemos e fazemos aquilo ser o que não é.\n\nSe simplificarmos muito o conceito de pirâmides, deixando os lados em forma de triângulos e que os lados precisam se encontrar no topo, talvez pudessemos chamar o Witz de Xunantunich pirâmides.\n\nMas, como não é possível extrair estas características dela, o melhor seria mantê-la como uma montanha sagrada.",
+               "text": "#### Parece, mas não é\n\nMuitas vezes simplificamos as definições, para comparar com algo que já conhecemos e fazemos aquilo ser o que não é.\n\nSe simplificarmos muito o conceito de pirâmides, deixando os lados em forma de triângulos e que os lados precisam se encontrar no topo, talvez pudéssemos chamar o Witz de Xunantunich de pirâmide.\n\nMas, como não é possível extrair estas características dela, o melhor seria mantê-la como uma montanha sagrada.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -219,23 +219,23 @@
          "audio": "",
          "smile": "thinking",
          "source_menu": [
-                  {
-                     "type": 1,
-                     "uuid": "160fb48c-1711-491e-a1aa-e1257e7889af",
-                     "text": "Porto-Gonçalves, Carlos Walter",
-                     "page": "https://www.ceapedi.com.ar/Imagenes/Biblioteca/libreria/298.pdf",
-                     "date_time": {
-                        "type": "gregory",
-                        "year": "2011",
-                        "month": "",
-                        "day": ""
-                     }
-                  },
+            {
+               "type": 1,
+               "uuid": "160fb48c-1711-491e-a1aa-e1257e7889af",
+               "text": "Porto-Gonçalves, Carlos Walter",
+               "page": "https://www.ceapedi.com.ar/Imagenes/Biblioteca/libreria/298.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2011",
+                  "month": "",
+                  "day": ""
+               }
+            },
             {
                "type": 1,
                "uuid": "ffffd208-eb09-4da3-b516-f8bc695758dd",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content\u0026arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ffffd208-eb09-4da3-b516-f8bc695758dd",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -246,7 +246,7 @@
          ],
          "text": [
             {
-               "text": "#### Sobre precisão\n\nQuando trabalhamos com definições precisas, além de simplificarmos o entendimento das coisas, podemos evitar erros como fazer as pirâmides que foram construídas no Egito serem as mesmas que foram feitas na América (*Abya Yala*).\n\nMas, isso não é uma barreira definitiva. Se falassemos de construções que lembram pirâmides, talvez seria possível colocá-las em um mesmo grupo, mas mesmo assim, não poderíamos falar das mesmas origens.",
+               "text": "#### Sobre precisão\n\nQuando trabalhamos com definições precisas, além de melhorarmos o entendimento das coisas, podemos evitar erros como fazer as pirâmides que foram construídas no Egito serem as mesmas que foram feitas na América (*Abya Yala*).\n\nMas, isso não é uma barreira definitiva. Se falassemos de construções que lembram pirâmides, talvez seria possível colocá-las em um mesmo grupo, mas mesmo assim, não poderíamos falar das mesmas origens.",
                "source": [],
                "date_time": null,
                "isTable": false,
