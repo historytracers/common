@@ -46,7 +46,7 @@
             {
                "type": 1,
                "uuid": "9618a83e-f232-49db-84f6-fc3455a3f1d1",
-               "text": "Original text",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
                "date_time": {
                   "type": "gregory",
@@ -91,7 +91,7 @@
             {
                "type": 1,
                "uuid": "9618a83e-f232-49db-84f6-fc3455a3f1d1",
-               "text": "Original text",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
                "date_time": {
                   "type": "gregory",
@@ -108,7 +108,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -172,7 +172,7 @@
             {
                "type": 1,
                "uuid": "9618a83e-f232-49db-84f6-fc3455a3f1d1",
-               "text": "Original text",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
                "date_time": {
                   "type": "gregory",
@@ -189,7 +189,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -225,12 +225,12 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Remember\n\nLet's remember what we learned.\n\nBased on what we have seen so far: does a dot count as one object, and does a rectangle count as five objects?",
+               "text": "#### Let Us Remember\n\nLet us remember what we learned.\n\nBased on what we have seen so far: does a dot count as one object, and does a rectangle count as five objects?",
                "source": [],
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -266,7 +266,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -307,7 +307,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],

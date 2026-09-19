@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### And what about numbers?\n\nIn the previous lesson, we saw how some indigenous peoples solved their need to count. We also saw how their number system is connected to our bodies.\n\nTheir number system is not the only one that does this. The numbers used by much of the world today also do something similar. We will see this in this lesson.",
+               "text": "#### And What About Numbers?\n\nIn the previous lesson, we saw how some indigenous peoples solved their need to count. We also saw how their number system is connected to our bodies.\n\nTheir number system is not the only one that does this. The numbers used by much of the world today also do something similar. We will see this in this lesson.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -169,7 +169,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -210,7 +210,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],

@@ -23,7 +23,7 @@
             {
                "type": 1,
                "uuid": "81e9393b-d5b6-4b04-91bd-417e943d3e97",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=2a2cbd69-7f09-4a58-aff1-6fbff8c5bda5",
                "date_time": {
                   "type": "gregory",
@@ -59,7 +59,7 @@
             {
                "type": 1,
                "uuid": "81e9393b-d5b6-4b04-91bd-417e943d3e97",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=2a2cbd69-7f09-4a58-aff1-6fbff8c5bda5",
                "date_time": {
                   "type": "gregory",
@@ -130,7 +130,7 @@
             {
                "type": 1,
                "uuid": "81e9393b-d5b6-4b04-91bd-417e943d3e97",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=2a2cbd69-7f09-4a58-aff1-6fbff8c5bda5",
                "date_time": {
                   "type": "gregory",
@@ -178,7 +178,7 @@
             {
                "type": 1,
                "uuid": "81e9393b-d5b6-4b04-91bd-417e943d3e97",
-               "text": "Texto original",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=2a2cbd69-7f09-4a58-aff1-6fbff8c5bda5",
                "date_time": {
                   "type": "gregory",
@@ -218,7 +218,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown or html",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -241,7 +241,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown or html",
+               "format": "markdown",
                "PostMention": ""
             }
          ],

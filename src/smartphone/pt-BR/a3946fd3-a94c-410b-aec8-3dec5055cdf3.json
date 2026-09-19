@@ -60,7 +60,7 @@
             {
                "type": 1,
                "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
                "date_time": {
                   "type": "gregory",
@@ -90,14 +90,14 @@
          "position": ""
       },
       {
-        "id": "3574b650-a3c7-4b6f-a50e-5a500a32040e",
-        "audio": "",
-        "smile": "shocking",
+         "id": "3574b650-a3c7-4b6f-a50e-5a500a32040e",
+         "audio": "",
+         "smile": "shocking",
          "source_menu": [
             {
                "type": 1,
                "uuid": "18a901e4-3da3-45d8-a239-fb551e78698e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=7a462cd1-cfd1-4ac6-bde8-e8a64092388f",
                "date_time": {
                   "type": "gregory",
@@ -106,41 +106,41 @@
                   "day": ""
                }
             }
-        ],
-        "text": [
-          {
-            "text": "##### Tendendo para os outros números\n\nA ideia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que os dígitos em cada ordem numérica vão apenas de zero (0) a nove (9) (unidades, dezenas...). Por isso, quando nos aproximamos do 9, sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, à medida que os números diminuem, tendemos a zero, que é o mínimo.",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown",
-            "PostMention": ""
-          }
-        ],
-        "desc": null,
-        "next": "cf776dbb-ab51-4a8c-9984-749e367c34bf",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         ],
+         "text": [
+            {
+               "text": "##### Tendendo para os outros números\n\nA ideia de ir em direção a um número também ocorre para números pequenos, e nós já usamos isso. Por exemplo, sabemos que os dígitos em cada ordem numérica vão apenas de zero (0) a nove (9) (unidades, dezenas...). Por isso, quando nos aproximamos do 9, sabemos que tendemos a um valor máximo, o 9.\n\nPor outro lado, se contarmos na ordem inversa, à medida que os números diminuem, tendemos a zero, que é o mínimo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cf776dbb-ab51-4a8c-9984-749e367c34bf",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       },
       {
-        "id": "cf776dbb-ab51-4a8c-9984-749e367c34bf",
-        "audio": "",
-        "smile": "happy",
-        "source_menu": [],
-        "text": [
-          {
-            "text": "#### Tendências na prática\n\nPodemos ver estas tendências utilizando nossas próprias mãos.\n\nUse as setas de controle para visualizar os números.",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown",
-            "PostMention": ""
-          },
+         "id": "cf776dbb-ab51-4a8c-9984-749e367c34bf",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Tendências na prática\n\nPodemos ver estas tendências utilizando nossas próprias mãos.\n\nUse as setas de controle para visualizar os números.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
             {
                "text": "<style>#leftHand{ transform:translateX(-140px); transform-origin:center; } #rightHand{  transform:translateX(140px);  transform-origin:center;}</style>",
                "source": null,
@@ -159,38 +159,38 @@
                "format": "html",
                "PostMention": ""
             }
-        ],
-        "desc": null,
-        "next": "08f1f8a2-4b40-44a9-974d-64a3e2e7b75c",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         ],
+         "desc": null,
+         "next": "08f1f8a2-4b40-44a9-974d-64a3e2e7b75c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       },
       {
-        "id": "08f1f8a2-4b40-44a9-974d-64a3e2e7b75c",
-        "audio": "",
-        "smile": "party",
-        "source_menu": [],
-        "text": [
-          {
-            "text": "#### Conclusão\n\nNesta aula, aprendemos que também podemos usar a ideia de limites como se fossem valores que desejamos atingir. Para isso, utilizamos os valores máximos e mínimos dos sistemas decimais.\n\nMas ainda falta uma pergunta para ser respondida: como a humanidade utiliza todos os números que vimos? A resposta para essa pergunta será dada na próxima aula.",
-            "source": [],
-            "date_time": null,
-            "isTable": false,
-            "imgdesc": "",
-            "format": "markdown",
-            "PostMention": ""
-          }
-        ],
-        "desc": null,
-        "next": "",
-        "prev": "",
-        "jumpTo": "",
-        "answer": null,
-        "score": 1,
-        "position": ""
+         "id": "08f1f8a2-4b40-44a9-974d-64a3e2e7b75c",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que também podemos usar a ideia de limites como se fossem valores que desejamos atingir. Para isso, utilizamos os valores máximos e mínimos dos sistemas decimais.\n\nMas ainda falta uma pergunta para ser respondida: como a humanidade utiliza todos os números que vimos? A resposta para essa pergunta será dada na próxima aula.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
       }
    ]
 }

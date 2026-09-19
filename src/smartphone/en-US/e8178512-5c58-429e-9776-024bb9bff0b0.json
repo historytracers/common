@@ -22,7 +22,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Totally Equal\n\nIn the previous lesson, we saw that objects can be equal even with some differences.\n\nNow let's learn what totally equal objects are and how they stay equal over time.",
+               "text": "#### Totally Equal\n\nIn the previous lesson, we saw that objects can be equal even with some differences.\n\nNow let us learn what totally equal objects are and how they stay equal over time.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -138,7 +138,7 @@
          ],
          "text": [
             {
-               "text": "#### Exercise with Arrows\n\nLet's see an exercise with numbers and hands, using arrows. Notice that as we change one side, the other side changes too.",
+               "text": "#### Exercise with Arrows\n\nLet us see an exercise with numbers and hands, using arrows. Notice that as we change one side, the other side changes too.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -171,7 +171,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "### Conclusion\n\nWe learned that there is an equality sign (=). When it is present, any change on one side must be repeated on the other side to maintain equality.",
+               "text": "#### Conclusion\n\nWe learned that there is an equality sign (=). When it is present, any change on one side must be repeated on the other side to maintain equality.",
                "source": [],
                "date_time": null,
                "isTable": false,

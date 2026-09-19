@@ -51,7 +51,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -143,7 +143,7 @@
             {
                "type": 1,
                "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
-               "text": "Original text",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
                "date_time": {
                   "type": "gregory",
@@ -160,7 +160,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             },
             {
@@ -198,7 +198,7 @@
             {
                "type": 1,
                "uuid": "b1a262fc-0148-489b-8b70-5266a85c1e67",
-               "text": "Original text",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=0efc56a7-9597-40a7-b805-2a44e4d5590d",
                "date_time": {
                   "type": "gregory",
@@ -248,7 +248,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
@@ -272,7 +272,7 @@
                "date_time": null,
                "isTable": false,
                "imgdesc": "",
-               "format": "markdown/html/text",
+               "format": "markdown",
                "PostMention": ""
             }
          ],
