@@ -212,35 +212,11 @@
             }
          ],
          "desc": null,
-         "next": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
+         "next": "f2c8655a-9342-41e3-bcf9-77155b884bef",
          "prev": "",
          "jumpTo": "",
          "answer": null,
          "score": 1,
-         "position": ""
-      },
-      {
-         "id": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
-         "audio": "",
-         "smile": "thinking",
-         "source_menu": [],
-         "text": [
-            {
-               "text": "#### Thinking\n\nFor values between 0 and 5, we use only one line — the same values we can represent with one hand.\n\nTo write numbers between 6 and 10, will we put other values to the left?",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            }
-         ],
-         "desc": null,
-         "next": "f2c8655a-9342-41e3-bcf9-77155b884bef",
-         "prev": "",
-         "jumpTo": "",
-         "answer": "no",
-         "score": 2,
          "position": ""
       },
       {
@@ -282,11 +258,35 @@
             }
          ],
          "desc": null,
-         "next": "987602e9-2387-44d7-a161-4d6b07fd6194",
+         "next": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
          "prev": "",
          "jumpTo": "",
          "answer": null,
          "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f358fdc7-8239-4795-a1ce-4d8090dee40e",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nWe have already written the numbers from 0 to 10. For values between 0 and 5, we used only one line — the same values we can represent with one hand.\n\nTo write numbers between 6 and 10, did we put other values to the left?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "987602e9-2387-44d7-a161-4d6b07fd6194",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
          "position": ""
       },
       {
