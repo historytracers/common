@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nWhen we study decimal systems such as the quipus and the Hindu-Arabic numbers, we learn that the next family of numbers has values between 10 and 99; after that come the numbers from 100 to 999, and so on.\n\nWith Mesoamerican numbers, the situation is different: we are not working with a purely vigesimal system, but with a calendar system.",
+               "text": "#### Introduction\n\nIn decimal systems, numbers go from 10 to 99, then 100 to 999, and so on.\n\nMesoamerican numbers are different: they do not follow a pure vigesimal system but a calendar system.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -119,7 +119,7 @@
          ],
          "text": [
             {
-               "text": "#### The Last Value\n\nNow, when we reach the last value of an order, we do not increase it up to 19. If we did, we would obtain a counting number larger than 360. To achieve the calendar representation, the maximum value of this order is 359 (17 in the current order and 19 in the previous order).",
+               "text": "#### The Last Value\n\nWe do not increase the second order up to 19. If we did, the count would exceed 360.\n\nTo match the calendar, the maximum value is 359: 17 in the current order and 19 in the previous one.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -165,7 +165,7 @@
          ],
          "text": [
             {
-               "text": "#### Ancient Calendar\n\nThe peoples of Mesoamerica built different calendar systems on top of their numbers:\n\n- The Tzolkin had a length of 260 days.\n- The Haab had 365 days, like our calendar year.\n- If both calendars started on the same day, they would begin together again only 52 years later.\n- They also had the Long Count, which uses a linear counting of days.",
+               "text": "#### Ancient Calendar\n\nMesoamerican peoples built calendar systems using their numbers:\n\n- The Tzolkin lasted 260 days.\n- The Haab lasted 365 days, like our year.\n- Both calendars aligned only every 52 years.\n- The Long Count tracked days in a continuous line.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -202,7 +202,7 @@
          ],
          "text": [
             {
-               "text": "#### Different Is Not Wrong\n\nThe fact that the Maya calendar numerical system differs from the others we have seen so far makes it different, but that does not make it wrong.\n\nIt is a precise calendar system, and we will discover more details in other classes.",
+               "text": "#### Different Is Not Wrong\n\nThe Maya calendar system works differently from others we have seen, but different does not mean wrong.\n\nIt is a precise system, and we will explore more details in other classes.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -239,7 +239,7 @@
          ],
          "text": [
             {
-               "text": "#### Next Orders\n\nTo highlight the difference between the numerical systems, we will write a small table below comparing Hindu-Arabic numbers with Mesoamerican numbers.",
+               "text": "#### Next Orders\n\nHere is a table comparing Hindu-Arabic and Mesoamerican numbers.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -272,7 +272,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nBecause the orders of Hindu-Arabic numbers have different values from the Mesoamerican orders, does this mean we can represent larger numbers with Mesoamerican numbers?",
+               "text": "#### Let Us Think!\n\nHindu-Arabic orders have different values than Mesoamerican orders. Does that mean Mesoamerican numbers can represent larger numbers?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -309,7 +309,7 @@
          ],
          "text": [
             {
-               "text": "#### It Is Not Like That\n\nThe fact that Mesoamerican orders support more values before we change order only means that, to reach the same value with Hindu-Arabic numbers, we sometimes need more orders. In the end, however, we obtain exactly the same numbers.",
+               "text": "#### Not Exactly\n\nMesoamerican orders hold more values before changing. This only means Hindu-Arabic numbers sometimes need more orders to reach the same value.\n\nIn the end, both systems represent exactly the same numbers.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -346,7 +346,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned that the Mesoamerican system is a calendar system and not a vigesimal one.\n\nWe also learned that this system is related to the culture that used different calendars together.\n\nMost importantly, we learned that their numbers are equivalent to the Hindu-Arabic numbers and, of course, to the decimal numbers used in the South of the continent.",
+               "text": "#### Conclusion\n\nWe learned that the Mesoamerican system is a calendar system, not a vigesimal one. It comes from a culture that used several calendars together.\n\nMost importantly, these numbers are equivalent to Hindu-Arabic and decimal numbers.",
                "source": null,
                "date_time": null,
                "isTable": false,

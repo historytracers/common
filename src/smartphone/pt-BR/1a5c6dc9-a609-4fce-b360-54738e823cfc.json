@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nQuando estudamos sistemas decimais como os quipus e os números indo-arábicos, aprendemos que a próxima família de números tem valores entre 10 e 99; depois vêm os números de 100 a 999, e assim por diante.\n\nCom os números mesoamericanos, a situação é diferente: não estamos trabalhando com um sistema puramente vigesimal, mas com um sistema de calendário.",
+               "text": "#### Introdução\n\nNos sistemas decimais, os números vão de 10 a 99, depois de 100 a 999, e assim por diante.\n\nOs números mesoamericanos são diferentes: não seguem um sistema puramente vigesimal, mas um sistema de calendário.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -119,7 +119,7 @@
          ],
          "text": [
             {
-               "text": "#### O Último Valor\n\nAgora, ao chegar ao último valor de uma ordem, não o aumentamos até 19. Se isso acontecesse, obteríamos um número de contagem maior que 360. Para obter a representação de calendário, o valor máximo desta ordem é 359 (17 na ordem atual e 19 na ordem anterior).",
+               "text": "#### O Último Valor\n\nNão aumentamos a segunda ordem até 19. Se fizessemos isso, a contagem ultrapassaria 360.\n\nPara coincidir com o calendário, o valor máximo é 359: 17 na ordem atual e 19 na anterior.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -165,7 +165,7 @@
          ],
          "text": [
             {
-               "text": "#### Calendário Antigo\n\nOs povos da Mesoamérica construíram diferentes sistemas de calendário sobre os seus números:\n\n- O Tzolkin tinha 260 dias de duração.\n- O Haab tinha 365 dias, como o nosso ano civil.\n- Se os dois calendários começassem no mesmo dia, voltariam a coincidir apenas 52 anos depois.\n- Eles também tinham a Contagem Longa, que usa uma contagem linear de dias.",
+               "text": "#### Calendário Antigo\n\nOs povos mesoamericanos criaram calendários com os seus números:\n\n- O Tzolkin durava 260 dias.\n- O Haab durava 365 dias, como o nosso ano.\n- Os dois calendários coincidiam apenas a cada 52 anos.\n- A Contagem Longa contava os dias em linha contínua.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -202,7 +202,7 @@
          ],
          "text": [
             {
-               "text": "#### Diferente Não É Errado\n\nO fato de o sistema numérico do calendário maia ser diferente dos outros que vimos até agora o torna diferente, mas isso não significa que esteja errado.\n\nÉ um sistema de calendário preciso, e descobriremos mais detalhes em outras aulas.",
+               "text": "#### Diferente Não É Errado\n\nO sistema numérico do calendário maia funciona de forma diferente, mas diferente não significa errado.\n\nÉ um sistema preciso, e exploraremos mais detalhes em outras aulas.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -239,7 +239,7 @@
          ],
          "text": [
             {
-               "text": "#### Próximas Ordens\n\nPara destacar a diferença entre os sistemas numéricos, escreveremos abaixo uma pequena tabela comparando os números indo-arábicos com os números mesoamericanos.",
+               "text": "#### Próximas Ordens\n\nAqui está uma tabela comparando os números indo-arábicos com os mesoamericanos.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -272,7 +272,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nComo as ordens dos números indo-arábicos têm valores diferentes das ordens mesoamericanas, isso significa que podemos representar números maiores com os números mesoamericanos?",
+               "text": "#### Vamos Pensar!\n\nAs ordens indo-arábicas têm valores diferentes das mesoamericanas. Isso significa que os números mesoamericanos podem representar números maiores?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -309,7 +309,7 @@
          ],
          "text": [
             {
-               "text": "#### Não É Assim\n\nO fato de as ordens mesoamericanas suportarem mais valores antes de mudarmos de ordem significa apenas que, para alcançar o mesmo valor com os números indo-arábicos, às vezes precisamos de mais ordens. No final, porém, obtemos exatamente os mesmos números.",
+               "text": "#### Não É Assim\n\nAs ordens mesoamericanas aceitam mais valores antes de mudar. Isso só significa que os números indo-arábicos às vezes precisam de mais ordens para chegar ao mesmo valor.\n\nNo final, ambos os sistemas representam exatamente os mesmos números.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -346,7 +346,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que o sistema mesoamericano é um sistema de calendário e não um sistema vigesimal.\n\nTambém aprendemos que esse sistema tem relação com a cultura que usava diferentes calendários ao mesmo tempo.\n\nE, o mais importante, aprendemos que os seus números são equivalentes aos números indo-arábicos e, claro, aos números decimais usados no Sul do continente.",
+               "text": "#### Conclusão\n\nAprendemos que o sistema mesoamericano é um sistema de calendário, não vigesimal. Vem de uma cultura que usava vários calendários ao mesmo tempo.\n\nO mais importante: seus números são equivalentes aos indo-arábicos e aos decimais.",
                "source": null,
                "date_time": null,
                "isTable": false,
