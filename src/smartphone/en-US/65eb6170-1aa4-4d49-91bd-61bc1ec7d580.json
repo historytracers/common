@@ -1,0 +1,247 @@
+{
+   "title": "Overcoming Limits",
+   "index": "Another Way to Count",
+   "sources": [
+      "65eb6170-1aa4-4d49-91bd-61bc1ec7d580"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789837186"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f4441df7-c991-4f65-bf53-7022b9f23164",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWe have seen different counting systems based on our fingers. But we also have toes on our feet, and they can be used to create another numerical system.\n\nIt is possible that the Indigenous peoples who lived in Mesoamerica took inspiration from the toes to create their numerical system.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "eff64c64-93e1-411e-9fc1-bf146a9ab1d7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "eff64c64-93e1-411e-9fc1-bf146a9ab1d7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Previous Numbers\n\nIn the previous class, we learned to count up to 10 using the Mesoamerican numbers. In that class, we observed:\n\n- Zero is an independent symbol.\n- For the numbers from 1 to 4, we used circles on the same line.\n- The symbol for five is a bar, also on the first line.\n- From 6 to 10, we used circles once again. This time, we kept the bar (5) on the first line and added another line with symbols.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "971672db-38fc-4f44-be97-06fe95e04552",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "971672db-38fc-4f44-be97-06fe95e04552",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Next Five Numbers\n\nNow we want to represent the numbers from 11 to 15.\n\nShould we also add another line to represent them?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "144043e5-8766-484d-9e5f-ae4f1720a19c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "144043e5-8766-484d-9e5f-ae4f1720a19c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Logic Is Kept\n\nConsidering that we have two hands and two feet, we continue to use circles, bars, and lines to represent the next numbers. For example, to write the numbers from 11 to 15, we do this:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-11-15\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "dbc66e9b-a530-4739-b809-e56f502c7f23",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "dbc66e9b-a530-4739-b809-e56f502c7f23",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Last Foot\n\nWe are almost there! To finish the first numbers, we are going to represent the numbers from 16 to 19:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-16-19\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "448bb514-3fe1-428b-a4a6-d5985aa1a58b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "448bb514-3fe1-428b-a4a6-d5985aa1a58b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned the missing Mesoamerican numbers, from 10 to 19. We observed that there is only one logic for creating the numbers, and that it can be associated with our body.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
