@@ -1,0 +1,437 @@
+{
+   "title": "Eu Prefiro Este",
+   "index": "Another Way to Count",
+   "sources": [
+      "13923c68-811e-4ad3-93c1-bcb65d611093"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "65b7b393-c390-4b86-a591-b2d180a6f037",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nCada pessoa tem a sua forma de escrever. Impor uma única forma para todos tiraria a criatividade de cada um.\n\nAo escrever números etrusco-romanos e mesoamericanos, os escritores tinham liberdade de escolher a forma que achassem mais significativa — ou mais bela.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "12e7f6cd-a644-4d46-b12d-cc2a66838db9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "12e7f6cd-a644-4d46-b12d-cc2a66838db9",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Número Antes\n\nAté agora, aprendemos que os números etrusco-romanos aumentam quando acrescentamos mais símbolos à direita de um símbolo anterior específico. Mas alguns números também podem ser representados se, em vez de acrescentarmos um símbolo depois de outro, o colocarmos antes dele.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "54baa90a-860c-42e1-9206-4d08a076db9f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "54baa90a-860c-42e1-9206-4d08a076db9f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Número 4\n\nO número 4, por exemplo, pode ser representado de duas formas diferentes. Pode escrever quatro unidades (IIII) ou escrever uma unidade antes da representação de cinco (IV).",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"i-prefer-four\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c701f4f3-8284-41c2-a8a6-196b669a3686",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c701f4f3-8284-41c2-a8a6-196b669a3686",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O 9 Também\n\nO mesmo princípio se aplica ao número 9: colocamos a unidade antes do 10 (X):",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"i-prefer-nine\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d290216a-209a-4752-a7e7-1ed19f5c1c80",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d290216a-209a-4752-a7e7-1ed19f5c1c80",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nOs números mesoamericanos tinham uma ideia semelhante para os números de 1 a 10. Posso também colocar um símbolo antes do 5 e do 10 para representar 4 e 9?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8829d904-5057-4221-b457-282dde62813b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8829d904-5057-4221-b457-282dde62813b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Tudo Para Cima ou Para Baixo\n\nOs números mesoamericanos são diferentes: as barras e os círculos podem ser escritos na horizontal ou na vertical.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"i-prefer-orientation\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1f4089df-12e0-42a3-aff6-85c7deb40c69",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1f4089df-12e0-42a3-aff6-85c7deb40c69",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que os povos etrusco-romanos e mesoamericanos tinham liberdade para escrever números, mas o grau de liberdade era diferente — o que reforça que chegaram aos números por caminhos independentes.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

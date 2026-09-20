@@ -1,0 +1,429 @@
+{
+   "title": "Os Números Que Faltam",
+   "index": "Another Way to Count",
+   "sources": [
+      "d603e3a0-cf2a-497d-9fc3-cfed73743515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "50acf0cf-dbe3-4bef-bae8-0e77834d6dde",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nOs números etrusco-romanos têm 7 símbolos para representar os seus números, mas esses símbolos não são consecutivos.\n\nNesta aula, vamos continuar a estudar os números etrusco-romanos, aprendendo como os números mesoamericanos que já estudamos seguem uma lógica análoga.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ae87710b-08a2-42a9-a796-2dc74e2befe0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ae87710b-08a2-42a9-a796-2dc74e2befe0",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Um a Um\n\nOs números etrusco-romanos, tal como os números mesoamericanos, também têm um valor para identificar as unidades (I). Podemos usar a mesma lógica para escrever os quatro primeiros números:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"missing-numbers-table-1\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Tabela 1: Comparação entre os números etrusco-romanos, indo-árabes e mesoamericanos de 1 a 4.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "26ca7465-708f-4ec0-b56d-e04ec5a1ca04",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "26ca7465-708f-4ec0-b56d-e04ec5a1ca04",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Símbolos Diferentes, o Mesmo Número\n\nAo chegar ao número 5, ambos os povos tinham um símbolo próprio. Os etrusco-romanos usavam metade do símbolo do número 10 (X); os mesoamericanos usavam uma barra que supomos representar os dedos unidos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"missing-numbers-five\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2ea7e2aa-4103-4334-8323-0026216f106b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2ea7e2aa-4103-4334-8323-0026216f106b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Os Números Seguintes\n\nQuando estudamos os números mesoamericanos, vimos que mantinham a barra (5) e adicionavam mais unidades por cima para formar os próximos quatro. A mesma lógica aparece nos números etrusco-romanos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"missing-numbers-table-2\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Tabela 2: Comparação entre os números etrusco-romanos, indo-árabes e mesoamericanos de 5 a 9.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f403c4d1-e1f0-40a7-a19f-d0cabf2d7313",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f403c4d1-e1f0-40a7-a19f-d0cabf2d7313",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nA lógica por trás dos primeiros números é a mesma entre os números etrusco-romanos e os mesoamericanos. Isso significa que um povo tomou emprestada a ideia do outro?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4d2971d9-d6d6-4e7f-9f49-d2ee220d6d2e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "4d2971d9-d6d6-4e7f-9f49-d2ee220d6d2e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Falta de Evidências\n\nEsta pergunta levanta a ideia de conexões entre povos, algo que já descartamos numa aula anterior.\n\nO facto de os números se construírem da mesma forma não significa que os povos tivessem contacto entre si.\n\nAlém disso, a lógica dos numerais etrusco-romanos muda para números grandes.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4d9543db-8997-4f15-bf3e-4ceafe3ee925",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4d9543db-8997-4f15-bf3e-4ceafe3ee925",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Número 10\n\nComo vimos antes, o número 10 (X) já servia de base para o número 5 (V). Os números mesoamericanos, por outro lado, continuam com a mesma lógica de 1 a 5.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"missing-numbers-ten\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "27d5eb4b-f9a9-4816-b211-ab7c94aaecfc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "27d5eb4b-f9a9-4816-b211-ab7c94aaecfc",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que os números etrusco-romanos tinham uma lógica semelhante à dos povos mesoamericanos, mas não há evidência de que tenham aprendido uns com os outros, apesar de terem sido contemporâneos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
