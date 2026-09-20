@@ -1,0 +1,247 @@
+{
+   "title": "Superando os Limites",
+   "index": "Another Way to Count",
+   "sources": [
+      "65eb6170-1aa4-4d49-91bd-61bc1ec7d580"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789837186"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f4441df7-c991-4f65-bf53-7022b9f23164",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nJá vimos sistemas de contagem baseados nos dedos das mãos. Mas também temos dedos nos pés, que podem ajudar a criar outro sistema numérico.\n\nOs povos indígenas da Mesoamérica talvez se inspiraram nos dedos dos pés para criar o deles.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "eff64c64-93e1-411e-9fc1-bf146a9ab1d7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "eff64c64-93e1-411e-9fc1-bf146a9ab1d7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Números Anteriores\n\nNa aula anterior, contamos até 10 com números mesoamericanos. Observamos:\n\n- O zero é um símbolo independente.\n- Os números de 1 a 4 usam círculos em uma linha.\n- O cinco é uma barra na primeira linha.\n- Os números de 6 a 10 mantêm a barra e adicionam uma segunda linha com círculos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "971672db-38fc-4f44-be97-06fe95e04552",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "971672db-38fc-4f44-be97-06fe95e04552",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Próximos Cinco Números\n\nAgora queremos representar os números de 11 a 15.\n\nDevemos também adicionar outra linha para representá-los?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "144043e5-8766-484d-9e5f-ae4f1720a19c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "144043e5-8766-484d-9e5f-ae4f1720a19c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Lógica Continua\n\nCom duas mãos e dois pés, continuamos usando círculos, barras e linhas. Veja como escrevemos os números de 11 a 15:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-11-15\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "dbc66e9b-a530-4739-b809-e56f502c7f23",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "dbc66e9b-a530-4739-b809-e56f502c7f23",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Último Pé\n\nQuase lá! Aqui estão os números de 16 a 19:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-table-16-19\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "448bb514-3fe1-428b-a4a6-d5985aa1a58b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "448bb514-3fe1-428b-a4a6-d5985aa1a58b",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "590d1c30-1e72-4975-bc00-2011905b3dba",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=590d1c30-1e72-4975-bc00-2011905b3dba",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nCompletamos os números mesoamericanos de 10 a 19. Uma única lógica os constrói, e está ligada ao corpo humano: mãos e pés.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

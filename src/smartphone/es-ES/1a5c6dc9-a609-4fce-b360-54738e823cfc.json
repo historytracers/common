@@ -1,0 +1,367 @@
+{
+   "title": "Órdenes Mesoamericanos",
+   "index": "Another Way to Count",
+   "sources": [
+      "1a5c6dc9-a609-4fce-b360-54738e823cfc"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fd8f0583-8c83-4a8a-8c85-1cc9c2f678f7",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn los sistemas decimales, los números van del 10 al 99, luego del 100 al 999, y así sucesivamente.\n\nLos números mesoamericanos son diferentes: no siguen un sistema puramente vigesimal, sino un sistema de calendario.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fbca5819-1091-45e8-a52f-444143d991ec",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fbca5819-1091-45e8-a52f-444143d991ec",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Primer Valor\n\nComo nos detuvimos en el símbolo 19 en el primer orden, el siguiente número, el 20, inicia un nuevo orden en lugar de una nueva línea. Esto ocurre porque los números mesoamericanos siempre crecen hacia arriba.\n\nPara lograrlo, reiniciamos el primer orden a 0 y escribimos un 1 en el orden siguiente.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-20\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea4c0c93-f9a5-4278-bdbd-901b69454731",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea4c0c93-f9a5-4278-bdbd-901b69454731",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Último Valor\n\nNo aumentamos el segundo orden hasta 19. Si lo hiciéramos, el conteo superaría 360.\n\nPara coincidir con el calendario, el valor máximo es 359: 17 en el orden actual y 19 en el anterior.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-359\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a142150e-aaf9-42fd-899d-195df4952cf4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a142150e-aaf9-42fd-899d-195df4952cf4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Calendario Antiguo\n\nLos pueblos mesoamericanos crearon calendarios con sus números:\n\n- El Tzolkin duraba 260 días.\n- El Haab duraba 365 días, como nuestro año.\n- Ambos calendarios coincidían solo cada 52 años.\n- La Cuenta Larga contaba los días en una línea continua.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "195b484f-a787-4698-a1f9-364c159ed45b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "195b484f-a787-4698-a1f9-364c159ed45b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Diferente No Es Incorrecto\n\nEl sistema numérico del calendario maya funciona de forma distinta a los demás, pero diferente no significa incorrecto.\n\nEs un sistema preciso, y exploraremos más detalles en otras clases.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9d3215fc-dbe3-4bc4-9211-f2b66d887396",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9d3215fc-dbe3-4bc4-9211-f2b66d887396",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Próximos Órdenes\n\nAquí tienes una tabla que compara los números indoárabes con los mesoamericanos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-table\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e0033a5d-d2a9-4c7e-9ee0-50ae2a13c512",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e0033a5d-d2a9-4c7e-9ee0-50ae2a13c512",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nLos órdenes indoárabes tienen valores distintos a los mesoamericanos. ¿Significa esto que los números mesoamericanos pueden representar números más grandes?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "41901a66-53a2-42e0-b6bf-2a250e0f5e1e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "41901a66-53a2-42e0-b6bf-2a250e0f5e1e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### No Es Así\n\nLos órdenes mesoamericanos admiten más valores antes de cambiar. Esto solo significa que los números indoárabes a veces necesitan más órdenes para alcanzar el mismo valor.\n\nAl final, ambos sistemas representan exactamente los mismos números.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e705ab48-d22e-4070-a5fe-7ab739a8acd1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e705ab48-d22e-4070-a5fe-7ab739a8acd1",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nAprendimos que el sistema mesoamericano es un sistema de calendario, no vigesimal. Proviene de una cultura que usaba varios calendarios a la vez.\n\nLo más importante: sus números son equivalentes a los indoárabes y a los decimales.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
