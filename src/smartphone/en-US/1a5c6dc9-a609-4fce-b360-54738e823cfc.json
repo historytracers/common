@@ -1,0 +1,367 @@
+{
+   "title": "Mesoamerican Orders",
+   "index": "Another Way to Count",
+   "sources": [
+      "1a5c6dc9-a609-4fce-b360-54738e823cfc"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fd8f0583-8c83-4a8a-8c85-1cc9c2f678f7",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWhen we study decimal systems such as the quipus and the Hindu-Arabic numbers, we learn that the next family of numbers has values between 10 and 99; after that come the numbers from 100 to 999, and so on.\n\nWith Mesoamerican numbers, the situation is different: we are not working with a purely vigesimal system, but with a calendar system.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fbca5819-1091-45e8-a52f-444143d991ec",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fbca5819-1091-45e8-a52f-444143d991ec",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The First Value\n\nSince we stopped at the symbol 19 in the first order, the next number, 20, begins a new order instead of a new line. This happens because Mesoamerican numbers always grow upwards.\n\nTo do this, we reset the first order to 0 and write a 1 in the next order.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-20\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea4c0c93-f9a5-4278-bdbd-901b69454731",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea4c0c93-f9a5-4278-bdbd-901b69454731",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Last Value\n\nNow, when we reach the last value of an order, we do not increase it up to 19. If we did, we would obtain a counting number larger than 360. To achieve the calendar representation, the maximum value of this order is 359 (17 in the current order and 19 in the previous order).",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-359\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a142150e-aaf9-42fd-899d-195df4952cf4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a142150e-aaf9-42fd-899d-195df4952cf4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ancient Calendar\n\nThe peoples of Mesoamerica built different calendar systems on top of their numbers:\n\n- The Tzolkin had a length of 260 days.\n- The Haab had 365 days, like our calendar year.\n- If both calendars started on the same day, they would begin together again only 52 years later.\n- They also had the Long Count, which uses a linear counting of days.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "195b484f-a787-4698-a1f9-364c159ed45b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "195b484f-a787-4698-a1f9-364c159ed45b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Different Is Not Wrong\n\nThe fact that the Maya calendar numerical system differs from the others we have seen so far makes it different, but that does not make it wrong.\n\nIt is a precise calendar system, and we will discover more details in other classes.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9d3215fc-dbe3-4bc4-9211-f2b66d887396",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9d3215fc-dbe3-4bc4-9211-f2b66d887396",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Next Orders\n\nTo highlight the difference between the numerical systems, we will write a small table below comparing Hindu-Arabic numbers with Mesoamerican numbers.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"maya-orders-table\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e0033a5d-d2a9-4c7e-9ee0-50ae2a13c512",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e0033a5d-d2a9-4c7e-9ee0-50ae2a13c512",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nBecause the orders of Hindu-Arabic numbers have different values from the Mesoamerican orders, does this mean we can represent larger numbers with Mesoamerican numbers?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "41901a66-53a2-42e0-b6bf-2a250e0f5e1e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "41901a66-53a2-42e0-b6bf-2a250e0f5e1e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### It Is Not Like That\n\nThe fact that Mesoamerican orders support more values before we change order only means that, to reach the same value with Hindu-Arabic numbers, we sometimes need more orders. In the end, however, we obtain exactly the same numbers.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e705ab48-d22e-4070-a5fe-7ab739a8acd1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e705ab48-d22e-4070-a5fe-7ab739a8acd1",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1a5c6dc9-a609-4fce-b360-54738e823cfc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned that the Mesoamerican system is a calendar system and not a vigesimal one.\n\nWe also learned that this system is related to the culture that used different calendars together.\n\nMost importantly, we learned that their numbers are equivalent to the Hindu-Arabic numbers and, of course, to the decimal numbers used in the South of the continent.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
