@@ -1,0 +1,429 @@
+{
+   "title": "Texto ou Número",
+   "index": "Another Way to Count",
+   "sources": [
+      "fe5132a9-fd92-4978-977d-198a9eb12bd5"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "ba1c5028-1b84-43b7-ac3d-02f14ab60320",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nQuando comparamos o que já sabemos com algo novo, chegamos a conclusões. Mas, para realmente entender o que estamos a ver, é necessário ir mais fundo e verificar se as nossas conclusões estavam certas.\n\nNesta aula, vamos aprender que os numerais etrusco-romanos não eram letras, embora pudessem parecer letras.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "38cb1945-fd17-4fa6-bd5a-68a49ea27ba0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "38cb1945-fd17-4fa6-bd5a-68a49ea27ba0",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "82ee781f-4d3f-4e98-8c05-47b28e3d3137",
+               "text": "Nadel, L. et al. (2012)",
+               "page": "https://www.academia.edu/download/94846432/Nadel-etal_202012.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2012",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Minha Memória Diz Que Isto É...\n\nDurante muito tempo, pensava-se que as memórias se formavam de forma linear: visualizar, reforçar e armazenar.\n\nHoje, sabemos que diferentes áreas do cérebro trabalham juntas quando aprendemos algo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"text-number-memory-flow\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7a7ac221-6927-43de-9f17-020fec31f1f7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7a7ac221-6927-43de-9f17-020fec31f1f7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c6f861ac-7b52-4dd4-8e64-e5fb5bc87ad5",
+               "text": "Gregersen, E. (2026)",
+               "page": "https://www.britannica.com/topic/Roman-numeral",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Os Números de Hoje\n\nEsta primeira compreensão da memória ajuda-nos a entender porque as pessoas chegaram a conclusões sobre os números etrusco-romanos que vemos hoje:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"text-number-table-1\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Tabela 1: Comparação entre os números etrusco-romanos e indo-árabes.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f756d757-e974-4dee-a922-536bfabec380",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f756d757-e974-4dee-a922-536bfabec380",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Verdadeira Origem\n\nAo estudarmos a fundo a época em que o Império Romano nascia, e os textos etruscos que sobreviveram até hoje, podemos traçar a possível origem dos números romanos. Veja a comparação:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"text-number-table-2\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Tabela 2: Comparação entre os números etrusco-romanos, indo-árabes e etruscos.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "**Nota:** não mostramos o número etrusco 500 porque o formato de texto que usamos não inclui esse símbolo. No entanto, ele existe e é representado pela metade inferior do número etrusco 1000.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "098c03bc-9b3f-4510-8dc4-bda3545eb40f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "098c03bc-9b3f-4510-8dc4-bda3545eb40f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7be50fd2-2ce2-4d2d-b123-22d6bae50e23",
+               "text": "Keyser, P. (1988)",
+               "page": "https://www.researchgate.net/publication/263273727_The_Origin_of_the_Latin_Numerals_1_to_1000",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1988",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Que Vemos\n\nObservando a comparação, podemos ver que:\n\n- A origem dos numerais romanos está em modificações dos números etruscos originais;\n- O número 1 (I) representa uma marca unitária;\n- O número 10 (𐌢) é o mesmo número usado pelos etruscos;\n- Os números 5 (𐌡) e 50 (𐌣) são a parte inferior dos números 10 e 100, respetivamente. Quando os romanos começaram a usá-los, teriam invertido ambos os símbolos, e o 50 teria sofrido uma transformação adicional, tal como o 100;\n- Para o número 1000, Paul defende que a transformação também seria possível, mas é necessário um estudo mais aprofundado do latim para entender as etapas da transformação;\n- Quanto ao número 500, seria equivalente ao etrusco, mas, em vez de usarmos a parte inferior do número como os etruscos faziam, usaríamos o lado direito do número 1000.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "564357b0-7d3b-43c5-93ca-e76e22685734",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "564357b0-7d3b-43c5-93ca-e76e22685734",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nOs etrusco-romanos viviam na mesma região e, como consequência disso, existe uma enorme possibilidade de os romanos terem tomado emprestados os números dos etruscos.\n\nIsto é algo comum em todo o mundo?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4aad852f-c847-483a-b4c1-9a8baca7bf6b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "4aad852f-c847-483a-b4c1-9a8baca7bf6b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Tomar Emprestado É Uma Ferramenta de Aprendizagem\n\nIsso é bastante comum. Por isso mencionamos os números mesoamericanos, em vez de zapotecas, maias ou olmecas.\n\nNão tomamos emprestados apenas números. Também adotamos literatura e crenças, ajustando-as à nossa realidade, como os romanos fizeram com os etruscos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c33f3357-e165-4ee5-ae71-0a038f94d64a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c33f3357-e165-4ee5-ae71-0a038f94d64a",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que a nossa memória não se forma apenas pela repetição, e que é necessário ir além das memórias atuais para entender os povos antigos.\n\nAlém disso, aprendemos que os números romanos tinham 7 símbolos diferentes para criar os seus próprios números. Nas próximas aulas, vamos aprender a escrevê-los.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
