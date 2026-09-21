@@ -37,9 +37,20 @@ case "$(uname -s)" in
             fi
         fi
 
-        # Set GOROOT if not set and Go is in a known location
-        if [ -z "$GOROOT" ]; then
-            for cand in "/ucrt64/lib/go" "/c/Program Files/Go" "/c/Go" "/mingw64/lib/go"; do
+        # Pin GOROOT to the Go installation that will actually run. When the
+        # UCRT64 environment (and therefore its Go) is selected, its GOROOT is
+        # forced even if another value was inherited from a different MSYS2
+        # environment. Otherwise an inherited GOROOT is kept, since it matches
+        # the Go still in use, and a known location is used only when GOROOT is
+        # unset.
+        if [ "$MSYS2_ENV" = "UCRT64" ] && { [ -x /ucrt64/bin/go.exe ] || [ -x /ucrt64/bin/go ]; }; then
+            if [ -d /ucrt64/lib/go ]; then
+                export GOROOT="/ucrt64/lib/go"
+            else
+                unset GOROOT
+            fi
+        elif [ -z "${GOROOT:-}" ]; then
+            for cand in "/c/Program Files/Go" "/c/Go" "/mingw64/lib/go"; do
                 if [ -x "$cand/bin/go.exe" ] || [ -x "$cand/bin/go" ]; then
                     export GOROOT="$cand"
                     break
