@@ -1,0 +1,645 @@
+{
+   "title": "Etruscan-Roman Tens",
+   "index": "Another Way to Count",
+   "sources": [
+      "23404456-5202-4933-928e-e07cbeea282b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789838000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "91555fec-a2df-41bd-8681-4a1b4912a0b8",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn previous classes, we learned how to count up to 10 using three symbols created by the Etruscan-Romans: I, V and X. But these are not their only numerical symbols.\n\nIn this class, we will learn how to use the symbols for 50 (L) and 100 (C), and how to write the numbers between them.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "66075b87-4bc1-486b-9806-a60ad666891e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "66075b87-4bc1-486b-9806-a60ad666891e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Like Before\n\nWhen we studied the Etruscan-Roman numbers between 1 (I) and 10 (X), we learned that, in the middle of the way, there was the number 5 (V).\n\nNow we will do something similar with the numbers between 10 (X) and 100 (C): in the middle of the way, there is the number 50 (L).\n\nLook at the two lines below. The first shows the path from 1 to 10, and the second shows the path from 10 to 100:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"etruscan-roman-tens-path\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figure 1: The symbol in the middle of each path: V between I and X, and L between X and C.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "47de1b22-6adf-41dc-af34-7a2984aabcdb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "47de1b22-6adf-41dc-af34-7a2984aabcdb",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Between X and XX\n\nThe logic we used between 1 (I) and 10 (X) also works between 10 (X) and 20 (XX). The main difference is that now we keep X ahead of the other symbols to show that we are counting tens.\n\nSee the numbers from 10 to 20:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"etruscan-roman-tens-table-10-20\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 1: The numbers from 10 to 20.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5d1d8648-932a-467e-9929-49f31643ae1a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5d1d8648-932a-467e-9929-49f31643ae1a",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nothing Changes, Except...\n\nWe use the same logic for the numbers between the other tens, but we must pay attention to one detail. First, look at the table below:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"etruscan-roman-tens-table-30-40-50\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 2: The tens 10, 20 and 30, followed by 40 and 50.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "83d6ca90-1ae4-4c89-aa5a-4485673f9d2a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "83d6ca90-1ae4-4c89-aa5a-4485673f9d2a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nOn the previous screen, we wrote 40 as XL instead of IL.\n\nIs this the correct way to represent 40?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "09fe0c29-2dce-4cf8-9732-620a230fa70f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "09fe0c29-2dce-4cf8-9732-620a230fa70f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### It Is 10, Not 1\n\nTo write 40 as XL, we must use X (10) instead of I (1), because it is 10 units before 50 (L). The symbol placed before always has the same value as the group we are counting: in the tens, that value is 10, not 1.\n\nSee the numbers between 40 (XL) and 50 (L):",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"etruscan-roman-tens-table-40-50\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 3: The numbers from 40 to 50.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7d73642d-d579-4820-a026-a470bbd8d5e9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7d73642d-d579-4820-a026-a470bbd8d5e9",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### And Now...\n\nWith everything we have learned so far, we can complete the table of the tens. Look at the numbers from 50 (L) to 100 (C):",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"etruscan-roman-tens-table-50-100\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 4: The tens from 50 to 100.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a45bb65-dcc5-4896-aedd-4143d5822518",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a45bb65-dcc5-4896-aedd-4143d5822518",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned how to write the numbers between 10 and 99 — the tens. We saw that the way we fill the space between two tens (X...XX, XX...XXX, ..., XC...C) follows the same idea we learned in another class, but this time we must use more symbols.\n\nWhen a symbol is placed before a larger one, we subtract 10; otherwise, we add 10.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
