@@ -145,7 +145,7 @@
          ],
          "text": [
             {
-               "text": "#### Like Before\n\nWhen we studied the Etruscan-Roman numbers between 1 (I) and 10 (X), we learned that, in the middle of the way, there was the number 5 (V).\n\nNow we will do something similar with the numbers between 10 (X) and 100 (C): in the middle of the way, there is the number 50 (L).\n\nLook at the two lines below. The first shows the path from 1 to 10, and the second shows the path from 10 to 100:",
+               "text": "#### Like Before\n\nWhen we studied the numbers between 1 (I) and 10 (X), we learned that halfway along there was the number 5 (V).\n\nNow we do something similar with the numbers between 10 (X) and 100 (C): halfway along is the number 50 (L).\n\nLook at the two lines below. The first shows the path from 1 to 10; the second shows the path from 10 to 100:",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -236,7 +236,7 @@
          ],
          "text": [
             {
-               "text": "#### Between X and XX\n\nThe logic we used between 1 (I) and 10 (X) also works between 10 (X) and 20 (XX). The main difference is that now we keep X ahead of the other symbols to show that we are counting tens.\n\nSee the numbers from 10 to 20:",
+               "text": "#### Between X and XX\n\nThe logic we used between 1 (I) and 10 (X) also works between 10 (X) and 20 (XX). The main difference is that we now keep X in front of the other symbols, to show that we are counting in tens.\n\nSee the numbers from 10 to 20:",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -442,7 +442,7 @@
          ],
          "text": [
             {
-               "text": "#### It Is 10, Not 1\n\nTo write 40 as XL, we must use X (10) instead of I (1), because it is 10 units before 50 (L). The symbol placed before always has the same value as the group we are counting: in the tens, that value is 10, not 1.\n\nSee the numbers between 40 (XL) and 50 (L):",
+               "text": "#### It Is 10, Not 1\n\nTo write 40 as XL, we must use X (10), not I (1): 40 is 10 units before 50 (L). The symbol placed before always has the same value as what we are counting by — in the tens, that value is 10, not 1.\n\nSee the numbers from 40 (XL) to 50 (L):",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -624,7 +624,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned how to write the numbers between 10 and 99 — the tens. We saw that the way we fill the space between two tens (X...XX, XX...XXX, ..., XC...C) follows the same idea we learned in another class, but this time we must use more symbols.\n\nWhen a symbol is placed before a larger one, we subtract 10; otherwise, we add 10.",
+               "text": "#### Conclusion\n\nIn this class, we learned how to write the numbers from 10 to 99. We saw that filling the space between two tens (X...XX, XX...XXX, ..., XC...C) follows the same idea we learned in another class, but uses more symbols.\n\nWhen a symbol is placed before a larger one, we subtract 10; otherwise, we add 10.",
                "source": null,
                "date_time": null,
                "isTable": false,

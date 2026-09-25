@@ -1,0 +1,303 @@
+{
+   "title": "History of the Abacus",
+   "index": "AbacusScreen",
+   "sources": [
+      "716d6fe5-78cc-4fef-85da-11daff12399d",
+      "e434ae19-4f25-4880-8227-0970cd27ccb6",
+      "1aad8822-1ace-45fd-954e-833799836d1a",
+      "1aacf33a-fb94-4535-a66f-3997087fa404"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790360378"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d3a0ba4e-9989-45f3-abea-a02bd8192064",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Introduction\n\nSome tools are created by one people and then adapted by another. When we compare them, the relationship becomes clear.\n\nOther tools look very much alike, but we cannot be sure that one inspired the other.\n\nStill others may be independent inventions: people far apart reaching the same solution.\n\nAll these scenarios appear in the abacuses we start studying in this class.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7c9787e3-717a-4b6c-8bec-226b8714f316",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7c9787e3-717a-4b6c-8bec-226b8714f316",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "716d6fe5-78cc-4fef-85da-11daff12399d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Suanpan (算盤)\n\nFrom China (Zhōngguó, 中國) comes the first abacus we are going to study: the Suanpan (算盤). It has two markers on top that represent the value 5. This region of the abacus is also known as Heaven.\n\nBelow, five more markers represent the value 1, in a region named Earth.\n\nWe show a number on this abacus by moving the markers toward the bar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div data-custom=\"abacus-suanpan\"></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cb350f74-f3e4-4a32-91dc-fa1f35aeedb7",
+         "prev": "d3a0ba4e-9989-45f3-abea-a02bd8192064",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cb350f74-f3e4-4a32-91dc-fa1f35aeedb7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Soroban (算盤)\n\nFrom Japan (Nippon-koku or Nihon-koku, 日本国) comes the Soroban (算盤), which arrived there from China (Zhōngguó, 中國).\n\nIt differs slightly from the Suanpan (算盤): only one marker on top and four below. Still, we represent numbers in the same way — by moving the markers toward the bar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div data-custom=\"abacus-soroban\"></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ad646132-7831-49ba-b512-2518d2b3654d",
+         "prev": "7c9787e3-717a-4b6c-8bec-226b8714f316",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ad646132-7831-49ba-b512-2518d2b3654d",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Do They Use the Same Characters?\n\nDo the Suanpan (算盤) and the Soroban (算盤) use the same characters with different sounds?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0132b702-2976-47c3-8f08-d219c4a77c48",
+         "prev": "cb350f74-f3e4-4a32-91dc-fa1f35aeedb7",
+         "jumpTo": "",
+         "answer": "Yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0132b702-2976-47c3-8f08-d219c4a77c48",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Same Idea, Different Markers\n\nBoth tools share the same idea behind the movements, and both use the same characters (算盤). Their basic difference is the markers.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "98eb71ca-3dff-4495-a5a1-50dd40cc1b11",
+         "prev": "ad646132-7831-49ba-b512-2518d2b3654d",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "98eb71ca-3dff-4495-a5a1-50dd40cc1b11",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aad8822-1ace-45fd-954e-833799836d1a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Schyoty (счёты)\n\nA third kind of abacus in Asia was developed in Russia. Its name is Schyoty (счёты).\n\nIt follows the same logic as the others for movements: a number is shown by moving the beads. But nothing separates the beads, and every bead has the value of one. It may have been inspired by its neighbors, but we cannot say for sure.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div data-custom=\"abacus-schyoty\"></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d1d2ec7a-36d2-4590-b3d8-0e6467e04cd3",
+         "prev": "0132b702-2976-47c3-8f08-d219c4a77c48",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d1d2ec7a-36d2-4590-b3d8-0e6467e04cd3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aacf33a-fb94-4535-a66f-3997087fa404",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aacf33a-fb94-4535-a66f-3997087fa404",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### And Europe?\n\nIn Europe — probably independent of Asia — first the Greeks and then the Romans used a tool we know today as Calculi. It strongly resembles the Soroban (算盤) we learned about in Japan (Nippon-koku or Nihon-koku, 日本国).\n\nWorking with the Calculi is analogous to the Soroban (算盤), but we represent numbers in a different way:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div data-custom=\"abacus-calculi\"></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "46a3664d-3f9e-4026-a8aa-0d5f7ebb4b81",
+         "prev": "98eb71ca-3dff-4495-a5a1-50dd40cc1b11",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "46a3664d-3f9e-4026-a8aa-0d5f7ebb4b81",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned about numerical tools created in Europe and Asia. Other continents created their own tools too; we left them out because they are not abacuses like the ones we studied.\n\nIn the next classes, we are going to learn how to use these abacuses.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "d1d2ec7a-36d2-4590-b3d8-0e6467e04cd3",
+         "jumpTo": "",
+         "answer": null,
+         "score": 0,
+         "position": ""
+      }
+   ]
+}

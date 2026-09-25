@@ -1,15 +1,15 @@
 {
-   "title": "Etruscan-Roman Tens",
+   "title": "Hundreds and Thousands",
    "index": "Another Way to Count",
    "sources": [
-      "23404456-5202-4933-928e-e07cbeea282b"
+      "cd411dd3-4895-4292-8c7f-3cd646dc5236"
    ],
    "license": [
       "SPDX-License-Identifier: GPL-3.0-or-later",
       "CC BY-NC 4.0 DEED"
    ],
    "last_update": [
-      "1789838000"
+      "1789838400"
    ],
    "authors": "",
    "reviewers": "",
@@ -17,14 +17,14 @@
    "type": "sm_game",
    "content": [
       {
-         "id": "91555fec-a2df-41bd-8681-4a1b4912a0b8",
+         "id": "88961261-993e-41cb-adab-a87aa836d46b",
          "audio": "",
          "smile": "nerd",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -48,7 +48,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -60,7 +60,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -72,7 +72,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nEm aulas anteriores, aprendemos a contar até 10 com três símbolos etrusco-romanos: I, V e X. Mas esses não são os únicos símbolos numéricos que eles usam.\n\nNesta aula, vamos aprender a usar os símbolos do 50 (L) e do 100 (C) e a escrever os números entre eles.",
+               "text": "#### Introduction\n\nWe still have two Etruscan-Roman symbols to study: the symbol for 500 (D) and the symbol for 1000 (M).\n\nBut we already know the logic behind the symbols we have. So let us apply what we learned before to write even more numbers.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -82,7 +82,7 @@
             }
          ],
          "desc": null,
-         "next": "66075b87-4bc1-486b-9806-a60ad666891e",
+         "next": "cd403f12-8905-4441-8b6e-e04c23ba8b62",
          "prev": "",
          "jumpTo": "",
          "answer": null,
@@ -90,14 +90,14 @@
          "position": ""
       },
       {
-         "id": "66075b87-4bc1-486b-9806-a60ad666891e",
+         "id": "cd403f12-8905-4441-8b6e-e04c23ba8b62",
          "audio": "",
          "smile": "happy",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -121,7 +121,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -133,7 +133,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -145,25 +145,7 @@
          ],
          "text": [
             {
-               "text": "#### Como Antes\n\nQuando estudamos os números etrusco-romanos entre 1 (I) e 10 (X), vimos que, no meio do caminho, havia o número 5 (V).\n\nAgora faremos o mesmo com os números entre 10 (X) e 100 (C): no meio do caminho está o número 50 (L).\n\nObserve as duas linhas abaixo. A primeira mostra o caminho de 1 a 10; a segunda mostra o de 10 a 100:",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            },
-            {
-               "text": "<p data-custom=\"etruscan-roman-tens-path\"></p>",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "html",
-               "PostMention": ""
-            },
-            {
-               "text": "*Figura 1: O símbolo do meio em cada caminho: V entre I e X, e L entre X e C.*",
+               "text": "#### Let Us Append\n\nAs with Hindu-Arabic numbers, when we move to the hundreds in Etruscan-Roman numbers, we add symbols in front of the tens and the units. Everything we learned before still applies.\n\nThe difference is that we are going to use a new group of symbols (C, D and M), instead of only reusing the previous symbols (I, V, X and L) in different positions.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -173,7 +155,7 @@
             }
          ],
          "desc": null,
-         "next": "47de1b22-6adf-41dc-af34-7a2984aabcdb",
+         "next": "15d56b7c-e358-47c3-aef8-ee1de5602fae",
          "prev": "",
          "jumpTo": "",
          "answer": null,
@@ -181,14 +163,14 @@
          "position": ""
       },
       {
-         "id": "47de1b22-6adf-41dc-af34-7a2984aabcdb",
+         "id": "15d56b7c-e358-47c3-aef8-ee1de5602fae",
          "audio": "",
          "smile": "happy",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -212,7 +194,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -224,7 +206,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -236,7 +218,7 @@
          ],
          "text": [
             {
-               "text": "#### Entre X e XX\n\nA lógica que usamos entre 1 (I) e 10 (X) também funciona entre 10 (X) e 20 (XX). A principal diferença é que agora mantemos o X à frente dos outros símbolos para mostrar que estamos contando dezenas.\n\nVeja os números de 10 a 20:",
+               "text": "#### The New Orders\n\nThe first five values of the hundreds use the symbol for 100 (C) and the symbol for 500 (D), in the same way we wrote the values between 10 (X) and 50 (L).\n\nThe table below shows the tens on top and the hundreds below. Note: this table shows only the values between 100 and 500.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -245,7 +227,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p data-custom=\"etruscan-roman-tens-table-10-20\"></p>",
+               "text": "<p data-custom=\"hundreds-and-thousands-table-100-500\"></p>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -254,7 +236,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Tabela 1: Os números de 10 a 20.*",
+               "text": "*Table 1: The first five hundreds (100 to 500), compared with the first five tens (10 to 50).*",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -264,7 +246,7 @@
             }
          ],
          "desc": null,
-         "next": "5d1d8648-932a-467e-9929-49f31643ae1a",
+         "next": "3a606d7e-6c08-4d5c-891c-77f835a7e7db",
          "prev": "",
          "jumpTo": "",
          "answer": null,
@@ -272,104 +254,13 @@
          "position": ""
       },
       {
-         "id": "5d1d8648-932a-467e-9929-49f31643ae1a",
-         "audio": "",
-         "smile": "shocking",
-         "source_menu": [
-            {
-               "type": 1,
-               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2026",
-                  "month": "",
-                  "day": ""
-               }
-            },
-            {
-               "type": 1,
-               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
-               "text": "Wheelock, F. (ed. R. LaFleur)",
-               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2005",
-                  "month": "",
-                  "day": ""
-               }
-            },
-            {
-               "type": 1,
-               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2026",
-                  "month": "",
-                  "day": ""
-               }
-            },
-            {
-               "type": 1,
-               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
-               "date_time": {
-                  "type": "gregory",
-                  "year": "2026",
-                  "month": "",
-                  "day": ""
-               }
-            }
-         ],
-         "text": [
-            {
-               "text": "#### Nada Muda, Exceto...\n\nUsamos a mesma lógica para os números entre as outras dezenas, mas precisamos prestar atenção a um detalhe. Primeiro, veja a tabela abaixo:",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            },
-            {
-               "text": "<p data-custom=\"etruscan-roman-tens-table-30-40-50\"></p>",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "html",
-               "PostMention": ""
-            },
-            {
-               "text": "*Tabela 2: As dezenas 10, 20 e 30, seguidas de 40 e 50.*",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            }
-         ],
-         "desc": null,
-         "next": "83d6ca90-1ae4-4c89-aa5a-4485673f9d2a",
-         "prev": "",
-         "jumpTo": "",
-         "answer": null,
-         "score": 1,
-         "position": ""
-      },
-      {
-         "id": "83d6ca90-1ae4-4c89-aa5a-4485673f9d2a",
+         "id": "3a606d7e-6c08-4d5c-891c-77f835a7e7db",
          "audio": "",
          "smile": "thinking",
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nNa tela anterior, escrevemos 40 como XL em vez de IL.\n\nEssa é a forma correta de representar 40?",
+               "text": "#### Let Us Think!\n\nWe wrote the first five hundreds by changing only the symbols we used for the first five tens: X, XX, XXX, XL and L became C, CC, CCC, CD and D.\n\nCan we continue using the same logic with the remaining groups (600 to 1000)?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -379,7 +270,7 @@
             }
          ],
          "desc": null,
-         "next": "09fe0c29-2dce-4cf8-9732-620a230fa70f",
+         "next": "26f9dfa0-dd4e-4bf3-86bc-bbe61c9a4196",
          "prev": "",
          "jumpTo": "",
          "answer": "yes",
@@ -387,14 +278,14 @@
          "position": ""
       },
       {
-         "id": "09fe0c29-2dce-4cf8-9732-620a230fa70f",
+         "id": "26f9dfa0-dd4e-4bf3-86bc-bbe61c9a4196",
          "audio": "",
          "smile": "happy",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -418,7 +309,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -430,7 +321,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -442,7 +333,7 @@
          ],
          "text": [
             {
-               "text": "#### É 10, Não 1\n\nPara escrever 40 como XL, devemos usar X (10) em vez de I (1), porque o X fica 10 unidades antes do 50 (L).\n\nO símbolo colocado antes sempre representa a categoria que estamos contando: nas dezenas, ele vale 10, e não 1.\n\nVeja os números entre 40 (XL) e 50 (L):",
+               "text": "#### Let Us Continue\n\nThe logic is exactly the same. We are going to continue the table of the hundreds together with the tens, to reinforce our knowledge.\n\nThe table below shows the tens on top and the hundreds below. Note: this table shows only the values between 600 and 1000.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -451,7 +342,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p data-custom=\"etruscan-roman-tens-table-40-50\"></p>",
+               "text": "<p data-custom=\"hundreds-and-thousands-table-600-1000\"></p>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -460,7 +351,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Tabela 3: Os números de 40 a 50.*",
+               "text": "*Table 2: The last hundreds (600 to 1000), compared with the last tens (60 to 100).*",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -470,7 +361,7 @@
             }
          ],
          "desc": null,
-         "next": "7d73642d-d579-4820-a026-a470bbd8d5e9",
+         "next": "6ad7d2da-4635-4433-8acb-389621278a72",
          "prev": "",
          "jumpTo": "",
          "answer": null,
@@ -478,14 +369,14 @@
          "position": ""
       },
       {
-         "id": "7d73642d-d579-4820-a026-a470bbd8d5e9",
+         "id": "6ad7d2da-4635-4433-8acb-389621278a72",
          "audio": "",
-         "smile": "inlove",
+         "smile": "shocking",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -509,7 +400,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -521,7 +412,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -533,25 +424,7 @@
          ],
          "text": [
             {
-               "text": "#### E Agora...\n\nCom tudo o que aprendemos até aqui, podemos completar a tabela das dezenas. Veja os números de 50 (L) a 100 (C):",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            },
-            {
-               "text": "<p data-custom=\"etruscan-roman-tens-table-50-100\"></p>",
-               "source": null,
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "html",
-               "PostMention": ""
-            },
-            {
-               "text": "*Tabela 4: As dezenas de 50 a 100.*",
+               "text": "#### Modifying the Logic\n\nFor the thousands, we could keep writing the symbol M — but then we would have to write very long numbers.\n\nLook, for example, at the number 3456: MMMCDLVI.\n\nSo we use another way to represent these numbers: a bar drawn on top of the symbols.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -561,7 +434,7 @@
             }
          ],
          "desc": null,
-         "next": "1a45bb65-dcc5-4896-aedd-4143d5822518",
+         "next": "59328ead-4e55-4289-a28c-7d415157af85",
          "prev": "",
          "jumpTo": "",
          "answer": null,
@@ -569,14 +442,105 @@
          "position": ""
       },
       {
-         "id": "1a45bb65-dcc5-4896-aedd-4143d5822518",
+         "id": "59328ead-4e55-4289-a28c-7d415157af85",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "07666919-8290-4aee-a9fd-af148508f754",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a372974f-4cea-4702-852d-40e70e155583",
+               "text": "Wheelock, F. (ed. R. LaFleur)",
+               "page": "https://www.csun.edu/~hcfll004/latin-numbers.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2005",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
+               "text": "Text or Number",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
+               "text": "The Missing Numbers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Welcome, New Old Logic\n\nTo use the bar, we take the numbers we have already learned and draw a bar on top of them. The bar shows that they represent thousands.\n\nThe table below repeats the Etruscan-Roman and Hindu-Arabic numbers, with four columns per line.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"hundreds-and-thousands-table-thousands-bars\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 3: Numbers with a bar on top are read in thousands: 1000 to 9000.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "be797bde-93c0-4630-9167-f709b8f36747",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "be797bde-93c0-4630-9167-f709b8f36747",
          "audio": "",
          "smile": "party",
          "source_menu": [
             {
                "type": 1,
                "uuid": "07666919-8290-4aee-a9fd-af148508f754",
-               "text": "Texto Original",
+               "text": "Original Text",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=07666919-8290-4aee-a9fd-af148508f754",
                "date_time": {
                   "type": "gregory",
@@ -600,7 +564,7 @@
             {
                "type": 1,
                "uuid": "886ccce8-3be8-4aba-bc86-94864e96b355",
-               "text": "Texto ou Número",
+               "text": "Text or Number",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=fe5132a9-fd92-4978-977d-198a9eb12bd5",
                "date_time": {
                   "type": "gregory",
@@ -612,7 +576,7 @@
             {
                "type": 1,
                "uuid": "5fc193f7-7226-4852-82d1-706a44de71ec",
-               "text": "Os Números Que Faltam",
+               "text": "The Missing Numbers",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=d603e3a0-cf2a-497d-9fc3-cfed73743515",
                "date_time": {
                   "type": "gregory",
@@ -624,7 +588,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos a escrever os números entre 10 e 99 — as dezenas. Preencher o espaço entre duas dezenas (X...XX, XX...XXX, ..., XC...C) segue a mesma ideia de uma aula anterior. A diferença é que agora usamos mais símbolos.\n\nQuando um símbolo fica antes de outro maior, subtraímos 10; caso contrário, somamos 10.",
+               "text": "#### Conclusion\n\nIn this class, we learned how to represent hundreds and thousands. The logic for the hundreds is exactly the same as for the tens — only the symbols change.\n\nFor the thousands, we could use the same logic too, but the numbers would become very long. So we draw a bar on top of the symbols to keep them short.",
                "source": null,
                "date_time": null,
                "isTable": false,

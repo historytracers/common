@@ -121,7 +121,7 @@
          ],
          "text": [
             {
-               "text": "#### O Número Antes\n\nAté agora, aprendemos que os números etrusco-romanos aumentam quando acrescentamos mais símbolos à direita de um símbolo anterior específico. Mas alguns números também podem ser representados se, em vez de acrescentarmos um símbolo depois de outro, o colocarmos antes dele.",
+               "text": "#### O Número Antes\n\nAté agora, vimos que os números etrusco-romanos crescem quando acrescentamos mais símbolos à direita de um símbolo já conhecido.\n\nMas alguns números também podem ser escritos de outro jeito: em vez de pôr um símbolo depois de outro, colocamos o símbolo antes dele.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -182,7 +182,7 @@
          ],
          "text": [
             {
-               "text": "#### O Número 4\n\nO número 4, por exemplo, pode ser representado de duas formas diferentes. Pode escrever quatro unidades (IIII) ou escrever uma unidade antes da representação de cinco (IV).",
+               "text": "#### O Número 4\n\nO número 4, por exemplo, pode ser representado de duas maneiras. Podemos escrever quatro unidades (IIII) ou uma unidade antes do 5 (IV).",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -252,7 +252,7 @@
          ],
          "text": [
             {
-               "text": "#### O 9 Também\n\nO mesmo princípio se aplica ao número 9: colocamos a unidade antes do 10 (X):",
+               "text": "#### O 9 Também\n\nO mesmo princípio vale para o número 9: colocamos uma unidade antes do 10 (X):",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -285,7 +285,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nOs números mesoamericanos tinham uma ideia semelhante para os números de 1 a 10. Posso também colocar um símbolo antes do 5 e do 10 para representar 4 e 9?",
+               "text": "#### Vamos Pensar!\n\nOs números mesoamericanos tinham uma lógica parecida para os números de 1 a 10. Posso também colocar um símbolo antes do 5 e do 10 para escrever 4 e 9?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -416,7 +416,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que os povos etrusco-romanos e mesoamericanos tinham liberdade para escrever números, mas o grau de liberdade era diferente — o que reforça que chegaram aos números por caminhos independentes.",
+               "text": "#### Conclusão\n\nNesta aula, vimos que os povos etrusco-romanos e mesoamericanos tinham liberdade para escrever números, mas em graus diferentes.\n\nIsso reforça a ideia de que cada um chegou aos seus números por caminhos independentes.",
                "source": null,
                "date_time": null,
                "isTable": false,

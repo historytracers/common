@@ -442,7 +442,7 @@
          ],
          "text": [
             {
-               "text": "#### Es 10, No 1\n\nPara escribir 40 como XL, debemos usar X (10) en lugar de I (1), porque está 10 unidades antes del 50 (L). El símbolo colocado antes siempre tiene el mismo valor del grupo que estamos contando: en las decenas, ese valor es 10, y no 1.\n\nMira los números entre 40 (XL) y 50 (L):",
+               "text": "#### Es 10, No 1\n\nPara escribir 40 como XL, debemos usar X (10) en lugar de I (1), porque está 10 unidades antes del 50 (L). El símbolo colocado antes siempre tiene el mismo valor que el grupo que estamos contando: en las decenas, ese valor es 10, y no 1.\n\nMira los números entre 40 (XL) y 50 (L):",
                "source": null,
                "date_time": null,
                "isTable": false,
