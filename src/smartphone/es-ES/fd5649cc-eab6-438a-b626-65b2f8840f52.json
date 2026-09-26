@@ -1,0 +1,492 @@
+{
+   "title": "Movimientos Inversos",
+   "index": "Yupana",
+   "sources": [
+      "f17ec53f-af65-4708-bcc1-a140287d4dd9"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790438798"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a7bb2faa-228f-4ccd-a198-ac570e92ab86",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nYa aprendimos que la resta es un proceso de retorno. En la Yupana, esto significa invertir los movimientos que usamos para sumar.\n\nEn esta clase, revisaremos los movimientos del método *Yupana Inka Tawa Pukllay* y aprenderemos a realizarlos en la dirección opuesta. La resta en la Yupana se conoce como *T'aqay*, o resta paralela.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "256dd146-84e1-498f-bef3-aeea246f2d83",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "256dd146-84e1-498f-bef3-aeea246f2d83",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Adición)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ISKAY (inverso)\n\nEn la suma, el movimiento *ISKAY* separa dos marcadores en la casilla 2 en casillas 1 y 3. En la resta, invertimos esto: cuando un marcador está en la casilla 3 (valor 3) y necesitamos restar 1, el movimiento inverso divide el 3 en casillas 1 y 2 y, luego, elimina el 1. Esto representa:\n\n3 \u2212 1 = 2",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-iskay\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "452c772c-e5ee-4e64-b187-b4f90de106aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "452c772c-e5ee-4e64-b187-b4f90de106aa",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Adición)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### KIMSA (inverso)\n\nEn la suma, el movimiento *KIMSA* separa dos marcadores en la casilla 3 en casillas 1 y 5. En la resta, invertimos esto: cuando un marcador está en la casilla 5 (valor 5) y necesitamos restar 1, el movimiento inverso divide el 5 en casillas 1 y 3 y, luego, elimina el 1 extra. Esto representa:\n\n5 \u2212 1 = 4",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-kimsa\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fcaffdc7-d56e-4e9e-b015-3e25a5561efe",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fcaffdc7-d56e-4e9e-b015-3e25a5561efe",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Adición)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### PISQA (inverso)\n\nEl movimiento *PISQA* inverso se usa cuando tenemos un marcador en la línea superior (valor 10) y necesitamos restar 5. El marcador baja como un único marcador en la casilla 5 de la línea actual. Esto representa:\n\n10 \u2212 5 = 5",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-pisqa\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "afae4ac0-b0e1-4d09-b0cc-d7f0b0dd392c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "afae4ac0-b0e1-4d09-b0cc-d7f0b0dd392c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Adición)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### PICHANA (inverso)\n\nEn la suma, el movimiento *PICHANA* barre marcadores de las casillas 1 y 2 hacia la casilla 3. En la resta, invertimos esto: cuando un marcador está en la casilla 3 (valor 3) y necesitamos restar 2, o en la casilla 2 (valor 2) y necesitamos restar 1, el movimiento inverso divide el marcador y, luego, elimina la parte extra. Esto representa:\n\n3 \u2212 2 = 1\n\n2 \u2212 1 = 1",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-pichana\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "584f9b39-9879-4e40-bf17-9f6393e4f130",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "584f9b39-9879-4e40-bf17-9f6393e4f130",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Adición)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cancelación\n\nUn concepto importante en la resta con la Yupana es la **cancelación**. Cuando dos marcadores del mismo valor se encuentran, uno representando un valor a sumar y el otro un valor a restar, se cancelan mutuamente, pues cualquier número restado por sí mismo es igual a cero.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-cancellation\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9ffe0bb7-4fe6-4b14-88f5-a8c52fda831a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9ffe0bb7-4fe6-4b14-88f5-a8c52fda831a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nEn la Yupana, ¿la resta se realiza usando los mismos movimientos de la suma, pero en orden inverso?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1793892a-0bef-4cf5-87a4-750f9c1ed379",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "1793892a-0bef-4cf5-87a4-750f9c1ed379",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos que la resta se puede realizar en la Yupana usando los movimientos de la suma en orden inverso. Por eso, no usamos la Yupana de la misma forma que los otros ábacos, pero obtenemos el mismo resultado final: a pesar de las diferencias entre las herramientas, la idea central es la misma.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

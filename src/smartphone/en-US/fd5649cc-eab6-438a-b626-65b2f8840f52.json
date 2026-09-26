@@ -1,0 +1,492 @@
+{
+   "title": "Reverse Movements",
+   "index": "Yupana",
+   "sources": [
+      "f17ec53f-af65-4708-bcc1-a140287d4dd9"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790438798"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a7bb2faa-228f-4ccd-a198-ac570e92ab86",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWe have already learned that subtraction is a process of returning. On the Yupana, this means reversing the movements we use to add.\n\nIn this class, we will review the movements of the *Yupana Inka Tawa Pukllay* method and learn how to perform them in the opposite direction. Subtraction on the Yupana is called *T'aqay*, or parallel subtraction.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "256dd146-84e1-498f-bef3-aeea246f2d83",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "256dd146-84e1-498f-bef3-aeea246f2d83",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Addition)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Inverse ISKAY\n\nIn addition, the *ISKAY* movement splits two markers in square 2 into squares 1 and 3. In subtraction, we reverse it: when a marker is in square 3 (value 3) and we need to subtract 1, the inverse movement splits the 3 into squares 1 and 2 and then removes the 1. This represents:\n\n3 \u2212 1 = 2",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-iskay\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "452c772c-e5ee-4e64-b187-b4f90de106aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "452c772c-e5ee-4e64-b187-b4f90de106aa",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Addition)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Inverse KIMSA\n\nIn addition, the *KIMSA* movement splits two markers in square 3 into squares 1 and 5. In subtraction, we reverse it: when a marker is in square 5 (value 5) and we need to subtract 1, the inverse movement splits the 5 into squares 1 and 3 and then removes the extra 1. This represents:\n\n5 \u2212 1 = 4",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-kimsa\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fcaffdc7-d56e-4e9e-b015-3e25a5561efe",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fcaffdc7-d56e-4e9e-b015-3e25a5561efe",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Addition)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Inverse PISQA\n\nThe inverse *PISQA* movement is used when we have a marker in the upper line (value 10) and we need to subtract 5. The marker is brought down as a single marker in square 5 of the current line. This represents:\n\n10 \u2212 5 = 5",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-pisqa\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "afae4ac0-b0e1-4d09-b0cc-d7f0b0dd392c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "afae4ac0-b0e1-4d09-b0cc-d7f0b0dd392c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Addition)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Inverse PICHANA\n\nIn addition, the *PICHANA* movement sweeps markers together from squares 1 and 2 into square 3. In subtraction, we reverse it: when a marker is in square 3 (value 3) and we need to subtract 2, or in square 2 (value 2) and we need to subtract 1, the inverse movement splits the marker and then removes the extra part. This represents:\n\n3 \u2212 2 = 1\n\n2 \u2212 1 = 1",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-pichana\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "584f9b39-9879-4e40-bf17-9f6393e4f130",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "584f9b39-9879-4e40-bf17-9f6393e4f130",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team. Yupana (Addition)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cancellation\n\nAn important concept in subtraction with the Yupana is **cancellation**. When two markers of the same value meet, one representing a value to add and the other a value to subtract, they cancel each other out, because any number subtracted from itself equals zero.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"reverse-cancellation\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9ffe0bb7-4fe6-4b14-88f5-a8c52fda831a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9ffe0bb7-4fe6-4b14-88f5-a8c52fda831a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nOn the Yupana, is subtraction performed using the same movements as addition, but in reverse?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1793892a-0bef-4cf5-87a4-750f9c1ed379",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "1793892a-0bef-4cf5-87a4-750f9c1ed379",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f17ec53f-af65-4708-bcc1-a140287d4dd9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned that subtraction can be performed on the Yupana by using the addition movements in reverse. As a result, we do not use the Yupana in the same way as other abacuses, but we reach the same final result: despite the differences between the tools, the central idea is the same.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

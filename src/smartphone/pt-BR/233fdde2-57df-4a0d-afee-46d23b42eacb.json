@@ -1,0 +1,377 @@
+{
+   "title": "Multiplicando com a Yupana",
+   "index": "Yupana",
+   "sources": [
+      "9a7a978b-3fac-422c-8e41-3ef1a24e88f3"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790438798"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b8eaffac-70a4-48f9-aec8-0a1c1b3bdef8",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nJá aprendemos em aulas anteriores que a multiplicação pode ser entendida como uma soma de valores repetidos. Essa ideia não surgiu em apenas uma parte do mundo.\n\nQuando Dhavit Prem fazia sua pesquisa para descobrir o método *Yupana Inka Tawa Pukllay*, ele também concluiu que os incas haviam chegado a esse entendimento. Nesta aula, vamos aprender como eles provavelmente usavam a Yupana para multiplicar.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "343ed072-18f1-45c5-8e3b-6212478b2c84",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "343ed072-18f1-45c5-8e3b-6212478b2c84",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Os Primeiros Valores\n\nPara entender a conclusão de Dhavit Prem, vamos multiplicar 3 por 2 com a Yupana, usando uma única linha da Yupana.\n\nO primeiro passo é colocar um marcador sobre o 3, como mostra a imagem abaixo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"yupana-one-row-red-3\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ae84a77-c6a1-4ddd-9d81-6197bcf312b4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ae84a77-c6a1-4ddd-9d81-6197bcf312b4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Próximo Passo\n\nJá temos três. Como queremos escrever o 3 duas vezes, agora adicionamos outro marcador sobre o três, como mostra a imagem abaixo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"yupana-one-row-red-blue-3\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "028c56c2-c65f-48a0-9616-4fcd238f448e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "028c56c2-c65f-48a0-9616-4fcd238f448e",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Organizando\n\nComo aprendemos antes, não podemos deixar dois marcadores no mesmo lugar da Yupana. Isso significa que agora precisamos \"abrir para grande\": movemos um marcador para o número 1 e outro para o número 5. Isso representa o cálculo: 3 + 3 = 5 + 1 = 6.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"yupana-one-row-moved-6\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c1bc5194-424d-47aa-88fe-645a12a2ffa8",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c1bc5194-424d-47aa-88fe-645a12a2ffa8",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nNo *Tawantinsuyu*, a região do Império Inca, quando multiplicamos, fazemos isso de forma completamente diferente da adição?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "647f9e8b-4c42-46d8-92b3-e77ac1c1d4e3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "647f9e8b-4c42-46d8-92b3-e77ac1c1d4e3",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Processo de Aprendizagem\n\nA multiplicação com o método *Yupana Inka Tawa Pukllay* é uma continuação da adição. Por isso, realizamos adições repetidas preservando todo o conhecimento que adquirimos com a adição.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7e0d6d27-1fd7-43db-805a-bc6ab9283b6a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7e0d6d27-1fd7-43db-805a-bc6ab9283b6a",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a62b520a-f443-4d83-ab51-b99c9a46dab8",
+               "text": "Prem, Dhavit",
+               "page": "https://www.researchgate.net/publication/334520917_TAWA_PUKLLAY_-_LA_ARITMETICA_INCA_DE_RECONOCIMIENTO_DE_FORMAS_Y_MOVIMIENTOS_OPERABLE_EN_PARALELO_Y_QUE_NO_REQUIERE_CALCULOS_NUMERICOS_MENTALES",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "f5b74f18-0bc4-46d2-8a5c-64dd80b74dd1",
+               "text": "Poma de Ayala, Felipe Guaman",
+               "page": "https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1615",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9a7a978b-3fac-422c-8e41-3ef1a24e88f3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que a multiplicação com a Yupana segue a mesma lógica que aprendemos em outras partes do mundo.\n\nTambém reforçamos os movimentos que aprendemos em aulas anteriores, construindo novos conhecimentos sobre os anteriores.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
