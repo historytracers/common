@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nYa aprendimos en clases anteriores que la multiplicación puede entenderse como una suma de valores repetidos. Esta idea no surgió en una sola parte del mundo.\n\nCuando Dhavit Prem realizaba su investigación para descubrir el método *Yupana Inka Tawa Pukllay*, también concluyó que los incas habían llegado a este entendimiento. En esta clase, aprenderemos cómo probablemente usaban la Yupana para multiplicar.",
+               "text": "#### Introducción\n\nEn clases anteriores aprendimos que la multiplicación es una suma repetida. Esta idea surgió en muchas partes del mundo.\n\nMientras investigaba el método *Yupana Inka Tawa Pukllay*, Dhavit Prem concluyó que los incas habían llegado a la misma idea. En esta clase, veremos cómo probablemente usaban la Yupana para multiplicar.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### Los Primeros Valores\n\nPara entender la conclusión de Dhavit Prem, vamos a multiplicar 3 por 2 con la Yupana, usando una sola fila de la Yupana.\n\nEl primer paso es colocar un marcador sobre el 3, como se muestra a continuación.",
+               "text": "#### Los Primeros Valores\n\nPara comprobar la conclusión de Dhavit Prem, vamos a multiplicar 3 por 2 en una sola fila de la Yupana.\n\nPaso 1: colocar un marcador sobre el 3, como se muestra a continuación.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -155,7 +155,7 @@
          ],
          "text": [
             {
-               "text": "#### Siguiente Paso\n\nYa tenemos tres. Como queremos escribir el 3 dos veces, ahora agregamos otro marcador sobre el tres, como se muestra a continuación.",
+               "text": "#### Siguiente Paso\n\nYa tenemos un 3. Como 3 × 2 significa sumar 3 dos veces, ahora agregamos otro marcador sobre el 3, como se muestra a continuación.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -213,7 +213,7 @@
          ],
          "text": [
             {
-               "text": "#### Organizando\n\nComo aprendimos antes, no podemos dejar dos marcadores en el mismo lugar de la Yupana. Esto significa que ahora debemos \"abrir a lo grande\": movemos un marcador al número 1 y otro al número 5. Esto representa el cálculo: 3 + 3 = 5 + 1 = 6.",
+               "text": "#### Organizando\n\nComo aprendimos antes, dos marcadores no pueden quedarse en la misma casilla. Los reemplazamos sin cambiar el total: un marcador en el 5 y otro en el 1.\n\nAsí se ve el cálculo: 3 + 3 = 5 + 1 = 6.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -246,7 +246,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### ¡Pensemos!\n\nEn el *Tawantinsuyu*, la región del Imperio Inca, cuando multiplicamos, ¿lo hacemos de forma completamente diferente a la adición?",
+               "text": "#### ¡Pensemos!\n\nEn el *Tawantinsuyu*, la región del Imperio Inca, ¿la multiplicación se hace de forma muy diferente a la adición?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -295,7 +295,7 @@
          ],
          "text": [
             {
-               "text": "#### Proceso de Aprendizaje\n\nLa multiplicación con el método *Yupana Inka Tawa Pukllay* es una continuación de la adición. Por eso, realizamos sumas repetidas conservando todo el conocimiento que adquirimos con la adición.",
+               "text": "#### Proceso de Aprendizaje\n\nLa multiplicación con el método *Yupana Inka Tawa Pukllay* continúa la adición. Repetimos sumas y usamos todas las reglas que ya conocemos.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -356,7 +356,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase, aprendimos que la multiplicación con la Yupana sigue la misma lógica que aprendimos en otras partes del mundo.\n\nTambién reforzamos los movimientos que aprendimos en clases anteriores, construyendo nuevos conocimientos sobre los anteriores.",
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que la multiplicación con la Yupana sigue la misma lógica presente en otras culturas.\n\nTambién reforzamos los movimientos de las clases anteriores y construimos nuevo conocimiento sobre ellos.",
                "source": null,
                "date_time": null,
                "isTable": false,

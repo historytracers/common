@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nYa aprendimos que la resta es un proceso de retorno. En la Yupana, esto significa invertir los movimientos que usamos para sumar.\n\nEn esta clase, revisaremos los movimientos del método *Yupana Inka Tawa Pukllay* y aprenderemos a realizarlos en la dirección opuesta. La resta en la Yupana se conoce como *T'aqay*, o resta paralela.",
+               "text": "#### Introducción\n\nYa aprendimos que la resta es un proceso de retorno: deshace lo que hizo la suma. En la Yupana, esto significa invertir los movimientos que usamos para sumar.\n\nEn esta clase, revisaremos los movimientos del método *Yupana Inka Tawa Pukllay* y los haremos en la dirección opuesta. La resta en la Yupana se conoce como *T'aqay*, o resta paralela.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -109,7 +109,7 @@
          ],
          "text": [
             {
-               "text": "#### ISKAY (inverso)\n\nEn la suma, el movimiento *ISKAY* separa dos marcadores en la casilla 2 en casillas 1 y 3. En la resta, invertimos esto: cuando un marcador está en la casilla 3 (valor 3) y necesitamos restar 1, el movimiento inverso divide el 3 en casillas 1 y 2 y, luego, elimina el 1. Esto representa:\n\n3 \u2212 1 = 2",
+               "text": "#### ISKAY (inverso)\n\nEn la suma, el movimiento *ISKAY* separa los dos marcadores de la casilla 2 y los lleva a las casillas 1 y 3. En la resta invertimos el movimiento: con un marcador en la casilla 3 (valor 3), para restar 1 el movimiento inverso divide el 3 en las casillas 1 y 2 y elimina el 1. Esto representa:\n\n3 − 1 = 2",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -179,7 +179,7 @@
          ],
          "text": [
             {
-               "text": "#### KIMSA (inverso)\n\nEn la suma, el movimiento *KIMSA* separa dos marcadores en la casilla 3 en casillas 1 y 5. En la resta, invertimos esto: cuando un marcador está en la casilla 5 (valor 5) y necesitamos restar 1, el movimiento inverso divide el 5 en casillas 1 y 3 y, luego, elimina el 1 extra. Esto representa:\n\n5 \u2212 1 = 4",
+               "text": "#### KIMSA (inverso)\n\nEn la suma, el movimiento *KIMSA* separa los dos marcadores de la casilla 3 y los lleva a las casillas 1 y 5. En la resta invertimos el movimiento: con un marcador en la casilla 5 (valor 5), para restar 1 el movimiento inverso divide el 5 en las casillas 1 y 3 y elimina el 1 extra. Esto representa:\n\n5 − 1 = 4",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -249,7 +249,7 @@
          ],
          "text": [
             {
-               "text": "#### PISQA (inverso)\n\nEl movimiento *PISQA* inverso se usa cuando tenemos un marcador en la línea superior (valor 10) y necesitamos restar 5. El marcador baja como un único marcador en la casilla 5 de la línea actual. Esto representa:\n\n10 \u2212 5 = 5",
+               "text": "#### PISQA (inverso)\n\nUsamos el movimiento *PISQA* inverso cuando hay un marcador en la línea superior (valor 10) y necesitamos restar 5. El marcador baja como un solo marcador a la casilla 5 de la línea actual. Esto representa:\n\n10 − 5 = 5",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -319,7 +319,7 @@
          ],
          "text": [
             {
-               "text": "#### PICHANA (inverso)\n\nEn la suma, el movimiento *PICHANA* barre marcadores de las casillas 1 y 2 hacia la casilla 3. En la resta, invertimos esto: cuando un marcador está en la casilla 3 (valor 3) y necesitamos restar 2, o en la casilla 2 (valor 2) y necesitamos restar 1, el movimiento inverso divide el marcador y, luego, elimina la parte extra. Esto representa:\n\n3 \u2212 2 = 1\n\n2 \u2212 1 = 1",
+               "text": "#### PICHANA (inverso)\n\nEn la suma, el movimiento *PICHANA* barre marcadores de las casillas 1 y 2 hacia la casilla 3. En la resta invertimos el movimiento: con un marcador en la casilla 3, restamos 2; con un marcador en la casilla 2, restamos 1. El movimiento inverso divide el marcador y elimina la parte extra. Esto representa:\n\n3 − 2 = 1\n\n2 − 1 = 1",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -389,7 +389,7 @@
          ],
          "text": [
             {
-               "text": "#### Cancelación\n\nUn concepto importante en la resta con la Yupana es la **cancelación**. Cuando dos marcadores del mismo valor se encuentran, uno representando un valor a sumar y el otro un valor a restar, se cancelan mutuamente, pues cualquier número restado por sí mismo es igual a cero.",
+               "text": "#### Cancelación\n\nUn concepto importante en la resta con la Yupana es la **cancelación**. Cuando dos marcadores del mismo valor se encuentran —uno para sumar y otro para restar— se cancelan entre sí: cualquier número restado de sí mismo da cero.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -471,7 +471,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase, aprendimos que la resta se puede realizar en la Yupana usando los movimientos de la suma en orden inverso. Por eso, no usamos la Yupana de la misma forma que los otros ábacos, pero obtenemos el mismo resultado final: a pesar de las diferencias entre las herramientas, la idea central es la misma.",
+               "text": "#### Conclusión\n\nEn esta clase aprendimos a restar en la Yupana invirtiendo los movimientos de la suma.\n\nUsamos la Yupana de forma distinta a los otros ábacos, pero obtenemos el mismo resultado: las herramientas cambian, la idea central es la misma.",
                "source": null,
                "date_time": null,
                "isTable": false,

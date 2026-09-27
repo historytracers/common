@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nJá aprendemos que a subtração é um processo de retorno. Na Yupana, isso significa inverter os movimentos que usamos para somar.\n\nNesta aula, vamos revisar os movimentos do método *Yupana Inka Tawa Pukllay* e aprender a realizá-los na direção oposta. A subtração na Yupana é conhecida como *T'aqay*, ou subtração paralela.",
+               "text": "#### Introdução\n\nJá aprendemos que a subtração é um processo de retorno: ela desfaz o que a adição fez. Na Yupana, isso significa inverter os movimentos que usamos para somar.\n\nNesta aula, vamos revisar os movimentos do método *Yupana Inka Tawa Pukllay* e realizá-los na direção oposta. A subtração na Yupana é conhecida como *T'aqay*, ou subtração paralela.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -109,7 +109,7 @@
          ],
          "text": [
             {
-               "text": "#### ISKAY (inverso)\n\nNa adição, o movimento *ISKAY* separa dois marcadores na casa 2 em casas 1 e 3. Na subtração, invertemos isso: quando um marcador está na casa 3 (valor 3) e precisamos subtrair 1, o movimento inverso divide o 3 em casas 1 e 2 e, em seguida, remove o 1. Isso representa:\n\n3 \u2212 1 = 2",
+               "text": "#### ISKAY (inverso)\n\nNa adição, o movimento *ISKAY* separa os dois marcadores da casa 2 e os leva às casas 1 e 3. Na subtração invertemos o movimento: com um marcador na casa 3 (valor 3), para subtrair 1 o movimento inverso divide o 3 nas casas 1 e 2 e remove o 1. Isso representa:\n\n3 − 1 = 2",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -179,7 +179,7 @@
          ],
          "text": [
             {
-               "text": "#### KIMSA (inverso)\n\nNa adição, o movimento *KIMSA* separa dois marcadores na casa 3 em casas 1 e 5. Na subtração, invertemos isso: quando um marcador está na casa 5 (valor 5) e precisamos subtrair 1, o movimento inverso divide o 5 em casas 1 e 3 e, em seguida, remove o 1 extra. Isso representa:\n\n5 \u2212 1 = 4",
+               "text": "#### KIMSA (inverso)\n\nNa adição, o movimento *KIMSA* separa os dois marcadores da casa 3 e os leva às casas 1 e 5. Na subtração invertemos o movimento: com um marcador na casa 5 (valor 5), para subtrair 1 o movimento inverso divide o 5 nas casas 1 e 3 e remove o 1 extra. Isso representa:\n\n5 − 1 = 4",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -249,7 +249,7 @@
          ],
          "text": [
             {
-               "text": "#### PISQA (inverso)\n\nO movimento *PISQA* inverso é usado quando temos um marcador na linha superior (valor 10) e precisamos subtrair 5. O marcador é trazido para baixo como um único marcador na casa 5 da linha atual. Isso representa:\n\n10 \u2212 5 = 5",
+               "text": "#### PISQA (inverso)\n\nUsamos o movimento *PISQA* inverso quando há um marcador na linha superior (valor 10) e precisamos subtrair 5. O marcador desce como um único marcador para a casa 5 da linha atual. Isso representa:\n\n10 − 5 = 5",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -319,7 +319,7 @@
          ],
          "text": [
             {
-               "text": "#### PICHANA (inverso)\n\nNa adição, o movimento *PICHANA* varre marcadores das casas 1 e 2 para a casa 3. Na subtração, invertemos isso: quando um marcador está na casa 3 (valor 3) e precisamos subtrair 2, ou na casa 2 (valor 2) e precisamos subtrair 1, o movimento inverso divide o marcador e, em seguida, remove a parte extra. Isso representa:\n\n3 \u2212 2 = 1\n\n2 \u2212 1 = 1",
+               "text": "#### PICHANA (inverso)\n\nNa adição, o movimento *PICHANA* varre marcadores das casas 1 e 2 para a casa 3. Na subtração invertemos o movimento: com um marcador na casa 3, subtraímos 2; com um marcador na casa 2, subtraímos 1. O movimento inverso divide o marcador e remove a parte extra. Isso representa:\n\n3 − 2 = 1\n\n2 − 1 = 1",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -389,7 +389,7 @@
          ],
          "text": [
             {
-               "text": "#### Cancelamento\n\nUm conceito importante na subtração com a Yupana é o **cancelamento**. Quando dois marcadores do mesmo valor se encontram, um representando um valor a somar e o outro um valor a subtrair, eles se cancelam, pois qualquer número subtraído por ele mesmo é igual a zero.",
+               "text": "#### Cancelamento\n\nUm conceito importante na subtração com a Yupana é o **cancelamento**. Quando dois marcadores do mesmo valor se encontram —um para somar e outro para subtrair— eles se cancelam entre si: qualquer número subtraído de si mesmo dá zero.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -471,7 +471,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que a subtração pode ser realizada na Yupana usando os movimentos da adição em ordem inversa. Por isso, não usamos a Yupana da mesma forma que os outros ábacos, mas obtemos o mesmo resultado final: apesar das diferenças entre as ferramentas, a ideia central é a mesma.",
+               "text": "#### Conclusão\n\nNesta aula, aprendemos a subtrair na Yupana invertendo os movimentos da adição.\n\nUsamos a Yupana de forma diferente dos outros ábacos, mas chegamos ao mesmo resultado: as ferramentas mudam, a ideia central continua a mesma.",
                "source": null,
                "date_time": null,
                "isTable": false,
