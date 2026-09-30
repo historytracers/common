@@ -1,0 +1,57 @@
+{
+   "title": "Ejercitando Multiplicación",
+   "index": "Workout",
+   "sources": [
+      "59648475-3d23-45fe-8d6e-f3def1a2729b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a50253c2-c8ad-4374-95e9-47661834102f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercitando Multiplicación\n\nPara reforzar la multiplicación, vamos a hacer un ejercicio relacionando números con movimientos corporales. Sigue el ejercicio y observa cómo los números están conectados con nosotros.\n\nEl selector de arriba te permite elegir qué tabla de multiplicar practicar, y el control de velocidad ajusta el ritmo de los movimientos. Intenta hacer los movimientos con tu propio cuerpo si puedes — también es una excelente manera de cuidar tu salud.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

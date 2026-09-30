@@ -1,0 +1,57 @@
+{
+   "title": "The Result Is",
+   "index": "Multiplication",
+   "sources": [
+      "71a07afa-964d-4e43-93c1-b2e0ed330acb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d78fac94-376f-4a06-9f55-df7caf5eab2b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "71a07afa-964d-4e43-93c1-b2e0ed330acb",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=71a07afa-964d-4e43-93c1-b2e0ed330acb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Result Is\n\nThis game helps you practice the connection between addition and multiplication: multiplying is adding the same number many times.\n\nFor each calculation below, first try to find the result in your head. Then use the side arrows (▲ ▼) to reach the answer — each press of the upper arrow adds the repeated number. When you finish the three calculations, the complete times table of that number is revealed.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

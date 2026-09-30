@@ -1,0 +1,94 @@
+{
+   "title": "Hands on Yupana",
+   "index": "Another Way to Count",
+   "sources": [
+      "c742c649-bf12-4d3f-ba8c-52f91455fc95"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "608cbcf1-69e2-4a78-bd30-0353d08ffe61",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Hands on Yupana\n\nIn the Tawantinsuyu region highlighted on the map, the Incas created a system that represents numerical growth in relation to our hands, and clicking on \"Draw to Count\" will teach you how the Incas represented numbers.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e4e8f0a4-a108-4234-ba05-f2d3265ddb94",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e4e8f0a4-a108-4234-ba05-f2d3265ddb94",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Draw to Count\n\nOn this screen, we will learn how numbers are represented on the Yupana. Using the arrows below, observe how numbers grow from right to left. Also, observe that the dots on the screen can be compared with the tips of our fingers. Finally, observe that on each Yupana line, it is not possible to represent numbers greater than 9.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

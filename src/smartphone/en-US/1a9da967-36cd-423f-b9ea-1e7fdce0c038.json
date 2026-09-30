@@ -1,0 +1,57 @@
+{
+   "title": "Practicing the Axioms of Addition",
+   "index": "Addition",
+   "sources": [
+      "462b1750-2d39-454d-a780-f22d4bd154c3"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4c38955f-4273-4f6c-b895-bf0a62cae066",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "462b1750-2d39-454d-a780-f22d4bd154c3",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=462b1750-2d39-454d-a780-f22d4bd154c3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing the Axioms of Addition\n\nIn this game, you will complete the missing values to understand an axiom of addition.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

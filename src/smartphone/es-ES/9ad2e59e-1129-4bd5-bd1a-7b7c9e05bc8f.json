@@ -1,0 +1,57 @@
+{
+   "title": "Ejercitando con la Yupana (Adición)",
+   "index": "Yupana",
+   "sources": [
+      "b0bb8da3-ca00-453e-9060-9dfa767c80e2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777406"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9cf94a42-fb5d-4f71-8f95-4d6775a37108",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b0bb8da3-ca00-453e-9060-9dfa767c80e2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b0bb8da3-ca00-453e-9060-9dfa767c80e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercitando con la Yupana (Adición)\n\nPara comprender mejor el método Yupana Inka Tawa Pukllay, utilizaremos una Yupana con 4 filas para sumar dos números. Con esta configuración, podemos representar valores de hasta 4.999. Sin embargo, es posible agregar más filas para sumar números mayores, sin limitaciones.\n\nEn el siguiente ejemplo, demostramos inicialmente la suma de 512 + 513. Te invitamos a alternar entre las tres opciones para comprender mejor el método Yupana Inka Tawa Pukllay. Cada opción presenta lo siguiente:\n- Valores: muestra cómo se escriben los números en la Yupana;\n- Calcular: muestra el resultado final de la operación de suma;\n- Paso a Paso: ejecuta la suma fila por fila.\n\nTambién puedes modificar los valores del ejemplo para reforzar tu aprendizaje. Después de cambiarlos, haz clic primero en el botón Valores para mostrar los números y, a continuación, observa cómo se representan en la Yupana.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

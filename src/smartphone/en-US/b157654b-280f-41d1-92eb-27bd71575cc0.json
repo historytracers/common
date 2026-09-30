@@ -1,0 +1,57 @@
+{
+   "title": "Exercising Hands",
+   "index": "Workout",
+   "sources": [
+      "f6587eb2-c0db-4ce0-bed7-901835116466"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d26e70c5-7501-4fbd-8981-d09c4a14ed3c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f6587eb2-c0db-4ce0-bed7-901835116466",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f6587eb2-c0db-4ce0-bed7-901835116466",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercising Hands\n\nTo reinforce counting, we are going to do an exercise with our hands. Follow the next instructions and see how numbers are connected to us.\n\nChoose the number of times the hands will clap. Then, choose the speed of the claps. Do it yourself with the app.\n\nAlso, if you wish, you can change the skin color of the hands to match your own by going to Menu → Options.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

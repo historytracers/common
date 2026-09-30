@@ -1,0 +1,57 @@
+{
+   "title": "Complement to 10",
+   "index": "AbacusScreen",
+   "sources": [
+      "6d9857d3-a1af-4411-b358-b97a7ea02515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "44b5143d-ed9c-4bec-b0ba-946f70f4b0f4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Complement to 10\n\nWhen we add two numbers and the result is 10, each number is the complement of the other. In this table, the values Y and X always add up to 10.\n\nThis is the first step to understand how numbers are carried when adding with the abacus.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

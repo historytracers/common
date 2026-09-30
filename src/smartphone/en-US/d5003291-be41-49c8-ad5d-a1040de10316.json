@@ -1,0 +1,57 @@
+{
+   "title": "Sequence Game",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "fb9dca2c-cd76-4951-b7d0-4b2c694e8056"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "20c2fa99-517c-4ac7-b4ec-ccf447dcd929",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fb9dca2c-cd76-4951-b7d0-4b2c694e8056",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fb9dca2c-cd76-4951-b7d0-4b2c694e8056",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sequence Game\n\nComplete the sequence by finding the missing number. Use the arrows to increase or decrease the value until it matches.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

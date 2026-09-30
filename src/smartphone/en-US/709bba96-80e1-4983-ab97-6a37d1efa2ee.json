@@ -1,0 +1,57 @@
+{
+   "title": "Writing to \"Schyoty\"",
+   "index": "Another Way to Count",
+   "sources": [
+      "1aad8822-1ace-45fd-954e-833799836d1a"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "17ecb7d5-a726-4d73-8b6a-4b5a46781a51",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aad8822-1ace-45fd-954e-833799836d1a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Writing to \"Schyoty\"\n\nIn Schyoty (счёты), all beads have the same value. When all beads are on the right, the value is zero. Move beads to the left to represent numbers. Beads 5 and 6 (from the left) are colored gray. The Schyoty has 9 rows, each representing a decimal place, with units at the bottom and higher orders above.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

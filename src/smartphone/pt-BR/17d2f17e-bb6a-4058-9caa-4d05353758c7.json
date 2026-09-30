@@ -1,0 +1,57 @@
+{
+   "title": "Exercitando adição",
+   "index": "Workout",
+   "sources": [
+      "48f8f1cd-5036-4140-aafc-697963fe5dfb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "223d60dc-f520-46fb-bba1-8479e95bc9c5",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "48f8f1cd-5036-4140-aafc-697963fe5dfb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=48f8f1cd-5036-4140-aafc-697963fe5dfb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercitando adição\n\nVamos somar números com o nosso corpo. Primeiro, bata palmas para o número superior. Depois, bata palmas para o número inferior. Por fim, dê passos para o resultado. Se o resultado for maior que 9, dê um pulo ao chegar em 10.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

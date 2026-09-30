@@ -1,0 +1,57 @@
+{
+   "title": "Llevando 1",
+   "index": "AbacusScreen",
+   "sources": [
+      "6d9857d3-a1af-4411-b358-b97a7ea02515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "bb153ff8-b76d-44c8-8b82-b9de4bcb5f98",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Llevando 1\n\nCuando sumamos números, a veces necesitamos llevar 1 a otro orden. Esto siempre sucede cuando el valor es mayor que el complemento de un número, como veremos en este ejercicio.\n\nEn este ejercicio, el valor Y es fijo y X se controla con las flechas. El resultado Z = Y + X siempre se muestra. Cuando X llegue a 9, el valor más grande del orden de las unidades, el ejercicio está completo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

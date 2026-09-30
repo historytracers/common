@@ -1,0 +1,57 @@
+{
+   "title": "Levando 1",
+   "index": "AbacusScreen",
+   "sources": [
+      "6d9857d3-a1af-4411-b358-b97a7ea02515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d9895f5d-7b91-4faf-b5d8-e416694f647d",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Levando 1\n\nQuando somamos números, às vezes precisamos levar 1 para outra ordem. Isso sempre acontece quando o valor é maior que o complemento de um número, como veremos neste exercício.\n\nNeste exercício, o valor Y é fixo e X é controlado pelas setas. O resultado Z = Y + X é sempre mostrado. Quando X chegar a 9, o maior valor da ordem das unidades, o exercício está completo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

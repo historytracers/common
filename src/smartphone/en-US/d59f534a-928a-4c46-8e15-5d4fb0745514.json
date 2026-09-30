@@ -1,0 +1,57 @@
+{
+   "title": "Practicing with Quipus",
+   "index": "Another Way to Count",
+   "sources": [
+      "7aec6487-c20c-490d-a9af-21e0b8bcc7f7"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "c4305281-d35a-45d8-b5cb-62d41cacb665",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing with Quipus\n\nAdd knots to build the number shown above each string. When an order is complete, the game jumps to the next order.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Sequence Game (Orders)",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "570ee074-46dd-46cb-8b19-9f5dbd57c02d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "db8faa53-9a7f-4aee-947b-3c5348b3c6e5",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "570ee074-46dd-46cb-8b19-9f5dbd57c02d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=570ee074-46dd-46cb-8b19-9f5dbd57c02d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sequence Game (Orders)\n\nConnect each number on the left with its order name on the right. Select a number, then select its name to pair them.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

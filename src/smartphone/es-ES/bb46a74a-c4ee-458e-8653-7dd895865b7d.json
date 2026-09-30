@@ -1,0 +1,57 @@
+{
+   "title": "Multiplicando con Ábaco (Nivel 2)",
+   "index": "AbacusScreen",
+   "sources": [
+      "078f3c4e-08fc-454c-8510-1a98a7e45a40"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e208ae08-cf16-40f2-a45f-d2e7f4e26a9d",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "078f3c4e-08fc-454c-8510-1a98a7e45a40",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=078f3c4e-08fc-454c-8510-1a98a7e45a40",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplicando con Ábaco (Nivel 2)\n\nConfigura el ábaco para mostrar cada resultado intermedio de la multiplicación tocando las cuentas, siguiendo las instrucciones paso a paso a continuación. Completa todos los pasos para finalizar la multiplicación.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Construindo Como Etrusco-Romanos",
+   "index": "Another Way to Count",
+   "sources": [
+      "c3e52c44-c7f9-40ca-b2ca-840d18c10946"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "97ad0a92-c354-410e-a654-cff57c7ca627",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c3e52c44-c7f9-40ca-b2ca-840d18c10946",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c3e52c44-c7f9-40ca-b2ca-840d18c10946",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Construindo Como Etrusco-Romanos\n\nToque nos pontos de interrogação para revelar os números etrusco-romanos ocultos. Revele todos para completar o nível.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

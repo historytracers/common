@@ -1,0 +1,57 @@
+{
+   "title": "El resultado es",
+   "index": "Multiplication",
+   "sources": [
+      "71a07afa-964d-4e43-93c1-b2e0ed330acb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d78fac94-376f-4a06-9f55-df7caf5eab2b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "71a07afa-964d-4e43-93c1-b2e0ed330acb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=71a07afa-964d-4e43-93c1-b2e0ed330acb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El resultado es\n\nEste juego te ayuda a practicar la conexión entre la suma y la multiplicación: multiplicar es sumar el mismo número muchas veces.\n\nPara cada cálculo de abajo, intenta primero encontrar el resultado mentalmente. Luego usa las flechas laterales (▲ ▼) para llegar a la respuesta — cada pulsación de la flecha superior suma el número repetido. Cuando termines los tres cálculos, se revela la tabla de multiplicar completa de ese número.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

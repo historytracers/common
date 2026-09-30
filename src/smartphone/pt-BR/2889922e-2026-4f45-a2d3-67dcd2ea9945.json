@@ -1,0 +1,57 @@
+{
+   "title": "Exercitando Multiplicação (L2)",
+   "index": "Workout",
+   "sources": [
+      "c4b96e7c-627b-46d0-820c-409a1e9f47b8"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a1bf621b-99a0-48b1-9cb3-16feb8b70237",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c4b96e7c-627b-46d0-820c-409a1e9f47b8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c4b96e7c-627b-46d0-820c-409a1e9f47b8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercitando Multiplicação (L2)\n\nNeste exercício, a tabuada do 4 significa que ambas as mãos sobem e descem. A tabuada do 5 adiciona uma palma após as mãos subirem e descerem.\n\nO movimento de subir e descer de ambas as mãos também mostra que 4 é um múltiplo de 2, já que os 2 movimentos (subir e descer) resultam em 4 movimentos no total.\n\nSelecione a tabuada acima, ajuste a velocidade e clique em \"Fazer Exercício\" para começar. Tente fazer os movimentos com seu próprio corpo também!",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

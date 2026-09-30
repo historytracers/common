@@ -1,0 +1,57 @@
+{
+   "title": "Ejercitando Multiplicación (L2)",
+   "index": "Workout",
+   "sources": [
+      "c4b96e7c-627b-46d0-820c-409a1e9f47b8"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a1bf621b-99a0-48b1-9cb3-16feb8b70237",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c4b96e7c-627b-46d0-820c-409a1e9f47b8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c4b96e7c-627b-46d0-820c-409a1e9f47b8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercitando Multiplicación (L2)\n\nEn este ejercicio, la tabla del 4 significa que ambas manos suben y bajan. La tabla del 5 añade un aplauso después de que las manos suban y bajen.\n\nEl movimiento de subir y bajar de ambas manos también muestra que 4 es un múltiplo de 2, ya que los 2 movimientos (subir y bajar) resultan en 4 movimientos en total.\n\nSelecciona la tabla arriba, ajusta la velocidad y haz clic en \"Hacer Ejercicio\" para comenzar. ¡Intenta hacer los movimientos con tu propio cuerpo también!",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
