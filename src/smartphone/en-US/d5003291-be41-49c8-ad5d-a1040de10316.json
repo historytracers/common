@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Sequence Game\n\nComplete the sequence by finding the missing number. Use the arrows to increase or decrease the value until it matches.",
+               "text": "#### Sequence Game\n\nFirst, find the missing number that completes the sequence. Then use the arrows to increase or decrease the value until it matches.",
                "source": null,
                "date_time": null,
                "isTable": false,

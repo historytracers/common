@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### ISKAY\n\nISKAY, meaning \"two\" in Quechua, occurs when two circles occupy the square labeled with the number 2. In this movement, one circle is shifted to the square with a value of 1, and the other is moved to the square with a value of 3.\n\n2 + 2 = 1 + 3\n\nThis transformation is also known as the \"short open\" method because the circles are moved to adjacent squares.\n\nUse the green arrow to move the circles and update the fingers, and the blue arrow to return to the original position.",
+               "text": "#### ISKAY\n\nISKAY means \"two\" in Quechua. This movement applies when two circles occupy the square labeled with the number 2. One circle is shifted to the square with value 1, and the other to the square with value 3.\n\n2 + 2 = 1 + 3\n\nThis transformation is also known as the \"short open\" method because the circles move to adjacent squares.\n\nUse the green arrow to perform this movement and update the fingers. Use the blue arrow to return to the original position.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### KIMSA\n\nKIMSA, meaning \"three\" in Quechua, occurs when two circles occupy the square labeled with the number 3. In this case, one circle is moved to the square with the number 1, while the other is placed in the square with the number 5.\n\n3 + 3 = 1 + 5\n\nThis transformation is known as the \"large open\" method because the circles are moved to squares at the line's extremes.\n\nUse the green arrow to move the circles and update the fingers, and the blue arrow to return to the original position.",
+               "text": "#### KIMSA\n\nKIMSA means \"three\" in Quechua. This movement applies when two circles occupy the square labeled with the number 3. One circle moves to the square labeled 1, and the other to the square labeled 5.\n\n3 + 3 = 1 + 5\n\nThis transformation is known as the \"large open\" method because the circles move to the two ends of the line.\n\nUse the green arrow to perform this movement and update the fingers. Use the blue arrow to return to the original position.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### PISQA\n\nPISQA, meaning \"five\" in Quechua, occurs when two circles are stacked in the square labeled with the number 5. One circle is moved to the top line in the square labeled with the number 1, while the other is removed.\n\n5 + 5 = 10 + 0\n\nUse the green arrow to move the circles and update the fingers, and the blue arrow to return to the original position.",
+               "text": "#### PISQA\n\nPISQA means \"five\" in Quechua. This movement applies when two circles are stacked in the square labeled with the number 5. One circle moves to the square labeled 1 on the top line, and the other is removed, so the stack passes to the top line.\n\n5 + 5 = 10 + 0\n\nUse the green arrow to perform this movement and update the fingers. Use the blue arrow to return to the original position.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -147,7 +147,7 @@
          ],
          "text": [
             {
-               "text": "#### PICHANA\n\nPICHANA, meaning \"broom\" in Quechua, occurs when two circles occupy squares where their sum equals the value of another square.\n\n1 + 2 = 3 + 0\n2 + 3 = 5 + 0\n\nUse the green arrow to move the circles and update the fingers, and the blue arrow to return to the original position.",
+               "text": "#### PICHANA\n\nPICHANA means \"broom\" in Quechua. This movement applies when two circles sit in squares whose sum equals the value of another square, so the two values merge into one square.\n\n1 + 2 = 3 + 0\n2 + 3 = 5 + 0\n\nUse the green arrow to perform this movement and update the fingers. Use the blue arrow to return to the original position.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -184,7 +184,7 @@
          ],
          "text": [
             {
-               "text": "#### KINKIN\n\nKINKIN, the \"equivalence movement,\" happens when multiple circles are placed in the first square, and their sum equals another square in the same line.\n\n1 + 1 = 2 + 0\n\nUse the green arrow to move the circles and update the fingers, and the blue arrow to return to the original position.",
+               "text": "#### KINKIN\n\nKINKIN is the \"equivalence movement.\" It applies when multiple circles sit in the first square and their sum equals another square in the same line, so the circles merge into that square.\n\n1 + 1 = 2 + 0\n\nUse the green arrow to perform this movement and update the fingers. Use the blue arrow to return to the original position.",
                "source": null,
                "date_time": null,
                "isTable": false,

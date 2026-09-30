@@ -1,5 +1,5 @@
 {
-   "title": "Escribiendo a \"Schyoty\"",
+   "title": "Escribiendo en \"Schyoty\"",
    "index": "Another Way to Count",
    "sources": [
       "1aad8822-1ace-45fd-954e-833799836d1a"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-                               "text": "#### Escribiendo a \"Schyoty\"\n\nEn Schyoty (счёты), todas las cuentas tienen el mismo valor. Cuando todas las cuentas están a la derecha, el valor es cero. Mueve las cuentas hacia la izquierda para representar números. Las cuentas 5 y 6 (desde la izquierda) son grises. El Schyoty tiene 9 filas, cada una representa un lugar decimal, con las unidades en la parte inferior y los órdenes superiores arriba.",
+               "text": "#### Escribiendo en \"Schyoty\"\n\nEn el Schyoty (счёты), todas las cuentas valen lo mismo. Cuando todas están a la derecha, el valor es cero. Mueve las cuentas hacia la izquierda para representar números. Las cuentas 5 y 6 (contando desde la izquierda) son grises. El Schyoty tiene 9 filas; cada una es un lugar decimal, con las unidades abajo y los órdenes superiores arriba.",
                "source": null,
                "date_time": null,
                "isTable": false,

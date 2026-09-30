@@ -1,5 +1,5 @@
 {
-   "title": "Juego de secuencia (Familias)",
+   "title": "Juego de secuencia (familias)",
    "index": "FirstStepsScreen",
    "sources": [
       "9d4c7f85-0e69-4795-a738-0acb54f2011d"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Juego de secuencia (Familias)\n\nCompleta la secuencia descubriendo el número que falta. Usa las flechas para ajustar el valor hasta que coincida.",
+               "text": "#### Juego de secuencia (familias)\n\nPrimero, descubre el número que falta en la secuencia. Luego, usa las flechas para ajustar el valor hasta que coincida.",
                "source": null,
                "date_time": null,
                "isTable": false,

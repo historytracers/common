@@ -21,7 +21,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Multiplication Table\n\nSelect a number, then tap Auto to watch the abacus display each multiplication step, or tap Next Step to advance manually. Complete all 10 steps to finish.",
+               "text": "#### Multiplication Table\n\nFirst, select a number. Then tap Auto to watch the abacus show each multiplication step, or tap Next Step to advance manually. Complete all 10 steps to finish.",
                "source": null,
                "date_time": null,
                "isTable": false,

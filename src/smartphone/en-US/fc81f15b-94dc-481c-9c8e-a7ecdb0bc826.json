@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Adding Large Numbers\n\nWe will add two numbers from 1 to 49 using only the first two columns of the abacus: the tens column and the units column. First, set the first number; then, add the second number. When the sum of a column exceeds 9, we use the complement to carry 1 to the next column.",
+               "text": "#### Adding Large Numbers\n\nIn this game you will add two numbers from 1 to 49 using only the first two columns of the abacus: the tens column and the units column. First, set the first number. Then add the second number. When the sum of a column exceeds 9, use the complement to carry 1 to the next column.",
                "source": null,
                "date_time": null,
                "isTable": false,

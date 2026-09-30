@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Calculi\n\nRepresent the proposed number on the Calculi abacus.\n\nMarkers below the bar have value 1 and markers above the bar have value 5. Move the markers toward the bar to represent the numbers.",
+               "text": "#### Calculi\n\nFirst, read the proposed number. Markers below the bar have value 1, and markers above the bar have value 5. Then move the markers toward the bar to represent the number on the Calculi abacus.",
                "source": null,
                "date_time": null,
                "isTable": false,

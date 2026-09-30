@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Complemento de 10\n\nCuando sumamos dos números y el resultado es 10, cada número es el complemento del otro. En esta tabla, los valores Y y X siempre suman 10.\n\nEste es el primer paso para entender cómo se llevan los números al sumar con el ábaco.",
+               "text": "#### Complemento de 10\n\nCuando la suma de dos números da 10, cada número es el complemento del otro. En esta tabla, los valores Y y X siempre suman 10.\n\nEste es el primer paso para entender cuándo se lleva 1 al sumar: el complemento indica cuánto falta para 10.",
                "source": null,
                "date_time": null,
                "isTable": false,

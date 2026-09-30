@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Llevando 1\n\nCuando sumamos números, a veces necesitamos llevar 1 a otro orden. Esto siempre sucede cuando el valor es mayor que el complemento de un número, como veremos en este ejercicio.\n\nEn este ejercicio, el valor Y es fijo y X se controla con las flechas. El resultado Z = Y + X siempre se muestra. Cuando X llegue a 9, el valor más grande del orden de las unidades, el ejercicio está completo.",
+               "text": "#### Llevando 1\n\nCuando sumamos, a veces llevamos 1 al orden siguiente. Esto ocurre cuando la suma de una columna pasa de 9; en este ejercicio lo verás con el complemento de 10.\n\nEn este ejercicio, el valor Y es fijo y controlas X con las flechas. Siempre se muestra el resultado Z = Y + X. Cuando X llegue a 9 —el valor máximo del orden de las unidades—, el ejercicio estará completo.",
                "source": null,
                "date_time": null,
                "isTable": false,

@@ -1,5 +1,5 @@
 {
-   "title": "Practicando la Resta",
+   "title": "Practicando la resta",
    "index": "AbacusScreen",
    "sources": [
       "954d7638-3994-4c9b-a075-b2f9b343a098"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Practicando la Resta\n\nColoca el ábaco para mostrar el número inicial y resta cada dígito del sustraendo tocando las cuentas. Completa todos los pasos para finalizar la resta.",
+               "text": "#### Practicando la resta\n\nPrimero, coloca en el ábaco el número inicial. Luego, resta cada dígito del sustraendo tocando las cuentas. Completa todos los pasos para finalizar.",
                "source": null,
                "date_time": null,
                "isTable": false,

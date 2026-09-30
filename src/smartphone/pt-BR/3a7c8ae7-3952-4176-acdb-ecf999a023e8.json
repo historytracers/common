@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### O resultado é\n\nEste jogo ajuda você a praticar a conexão entre adição e multiplicação: multiplicar é somar o mesmo número muitas vezes.\n\nPara cada cálculo abaixo, tente primeiro encontrar o resultado mentalmente. Depois use as setas laterais (▲ ▼) para chegar à resposta — cada toque na seta superior soma o número repetido. Ao terminar os três cálculos, a tabuada completa desse número é revelada.",
+               "text": "#### O resultado é\n\nEste jogo ajuda você a praticar a conexão entre adição e multiplicação: multiplicar é somar o mesmo número muitas vezes.\n\nPara cada cálculo abaixo, tente primeiro encontrar o resultado mentalmente. Depois, use as setas laterais (▲ ▼) para chegar à resposta: cada toque na seta superior soma mais uma vez o número. Ao terminar os três cálculos, a tabuada completa desse número aparece.",
                "source": null,
                "date_time": null,
                "isTable": false,

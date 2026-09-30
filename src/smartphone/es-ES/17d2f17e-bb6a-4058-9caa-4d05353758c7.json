@@ -1,5 +1,5 @@
 {
-   "title": "Ejercitando suma",
+   "title": "Ejercitando la suma",
    "index": "Workout",
    "sources": [
       "48f8f1cd-5036-4140-aafc-697963fe5dfb"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Ejercitando suma\n\nVamos a sumar números con nuestro cuerpo. Primero, aplaude el número superior. Luego, aplaude el número inferior. Finalmente, da pasos para el resultado. Si el resultado es mayor que 9, da un salto al llegar a 10.",
+               "text": "#### Ejercitando la suma\n\nVamos a sumar números con el cuerpo. Primero, aplaude el número superior. Luego, aplaude el número inferior. Por ultúltimo, da pasos hasta el resultado. Si el resultado es mayor que 9, da un salto al llegar a 10.",
                "source": null,
                "date_time": null,
                "isTable": false,

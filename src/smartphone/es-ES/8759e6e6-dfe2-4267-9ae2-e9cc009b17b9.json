@@ -1,5 +1,5 @@
 {
-   "title": "Juego de secuencia (Órdenes)",
+   "title": "Juego de secuencia (órdenes)",
    "index": "FirstStepsScreen",
    "sources": [
       "570ee074-46dd-46cb-8b19-9f5dbd57c02d"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Juego de secuencia (Órdenes)\n\nConecta cada número de la izquierda con el nombre de su orden de la derecha. Selecciona un número y luego selecciona su nombre para formar la pareja.",
+               "text": "#### Juego de secuencia (órdenes)\n\nPrimero, selecciona un número de la izquierda. Luego, selecciona a la derecha el nombre de su orden. Así conectas cada número con su pareja.",
                "source": null,
                "date_time": null,
                "isTable": false,

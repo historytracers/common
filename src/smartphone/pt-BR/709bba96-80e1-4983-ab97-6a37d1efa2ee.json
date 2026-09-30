@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-                               "text": "#### Escrevendo para \"Schyoty\"\n\nNo Schyoty (счёты), todas as contas têm o mesmo valor. Quando todas as contas estão à direita, o valor é zero. Mova as contas para a esquerda para representar números. As contas 5 e 6 (da esquerda) são cinzas. O Schyoty tem 9 linhas, cada uma representando uma casa decimal, com as unidades na parte inferior e ordens superiores acima.",
+               "text": "#### Escrevendo para \"Schyoty\"\n\nNo Schyoty (счёты), todas as contas têm o mesmo valor: quando estão todas à direita, o valor é zero. Para representar números, mova as contas para a esquerda. As contas 5 e 6, contadas da esquerda, são cinzas. O Schyoty tem 9 linhas; cada uma representa uma casa decimal, com as unidades embaixo e as ordens superiores acima.",
                "source": null,
                "date_time": null,
                "isTable": false,

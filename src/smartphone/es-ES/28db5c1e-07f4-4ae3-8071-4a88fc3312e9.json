@@ -1,5 +1,5 @@
 {
-   "title": "Sumando Dos Números",
+   "title": "Sumando dos números",
    "index": "AbacusScreen",
    "sources": [
       "ba340a77-cf71-4471-8e4c-43afa358833b"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Sumando Dos Números\n\nVamos a sumar dos números menores que 5 usando solo la primera columna del ábaco. Primero, representa el primer número; luego, suma el segundo número moviendo los marcadores. Completa todos los pasos para finalizar la suma.\n\nAhora los resultados llegan a 5 o más. Cuando 5 marcadores inferiores estén juntos, cámbialos por un marcador superior (valor 5). Completa todos los pasos para finalizar la suma.",
+               "text": "#### Sumando dos números\n\nVamos a sumar dos números menores que 5 usando solo la primera columna del ábaco. Primero, representa el primer número. Luego, suma el segundo número moviendo los marcadores. Completa todos los pasos para finalizar la suma.\n\nEn este nivel, las sumas dan 5 o más. Cuando cinco marcadores inferiores estén juntos, cámbialos por un marcador superior (valor 5) y repite hasta completar todos los pasos.",
                "source": null,
                "date_time": null,
                "isTable": false,

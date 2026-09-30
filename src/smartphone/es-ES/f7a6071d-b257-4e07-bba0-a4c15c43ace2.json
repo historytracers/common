@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### ISKAY\n\nISKAY, en Quechua, significa \"dos\". Este movimiento ocurre cuando dos círculos ocupan la posición número 2. Movemos uno de ellos al número 1 y el otro al número 3.\n\n2 + 2 = 1 + 3\n\nEsta transformación también es conocida como método \"abrir corto\", ya que desplazamos los círculos a los cuadrados adyacentes.\n\nUsa la flecha verde para mover los círculos y actualizar los dedos de las manos, y la flecha azul para volver a la posición original.",
+               "text": "#### ISKAY\n\nISKAY, en quechua, significa \"dos\". El movimiento ocurre cuando dos círculos ocupan la posición 2. Mueve uno de ellos al número 1 y el otro al número 3.\n\n2 + 2 = 1 + 3\n\nEsta transformación también se conoce como método \"abrir corto\", porque desplaza los círculos a los cuadrados adyacentes.\n\nUsa la flecha verde para mover los círculos y actualizar los dedos; usa la flecha azul para volver a la posición original.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### KIMSA\n\nKIMSA, en Quechua, significa \"tres\". Este movimiento ocurre cuando dos círculos ocupan la posición número 3. Movemos uno de ellos al número 1 y el otro al número 5.\n\n3 + 3 = 1 + 5\n\nEsta transformación es conocida como método \"abrir largo\", pues los círculos se desplazan hacia los extremos de la línea.\n\nUsa la flecha verde para mover los círculos y actualizar los dedos de las manos, y la flecha azul para volver a la posición original.",
+               "text": "#### KIMSA\n\nKIMSA, en quechua, significa \"tres\". El movimiento ocurre cuando dos círculos ocupan la posición 3. Mueve uno de ellos al número 1 y el otro al número 5.\n\n3 + 3 = 1 + 5\n\nEsta transformación se conoce como método \"abrir largo\", pues los círculos se desplazan hacia los extremos de la línea.\n\nUsa la flecha verde para mover los círculos y actualizar los dedos; usa la flecha azul para volver a la posición original.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### PISQA\n\nPISQA, en Quechua, significa \"cinco\". Este movimiento ocurre cuando dos círculos ocupan la posición número 5. Movemos uno de ellos al número 1 en la línea superior y eliminamos el otro de la línea actual.\n\n5 + 5 = 10 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos de las manos, y la flecha azul para volver a la posición original.",
+               "text": "#### PISQA\n\nPISQA, en quechua, significa \"cinco\". El movimiento ocurre cuando dos círculos ocupan la posición 5. Mueve uno de ellos al número 1 en la línea superior y elimina el otro de la línea actual.\n\n5 + 5 = 10 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos; usa la flecha azul para volver a la posición original.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -147,7 +147,7 @@
          ],
          "text": [
             {
-               "text": "#### PICHANA\n\nPICHANA, en Quechua, significa \"escoba\". Este movimiento ocurre cuando los círculos están posicionados en dos cuadrantes cuya suma equivale al valor de otro cuadrante.\n\n1 + 2 = 3 + 0\n2 + 3 = 5 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos de las manos, y la flecha azul para volver a la posición original.",
+               "text": "#### PICHANA\n\nPICHANA, en quechua, significa \"escoba\". El movimiento ocurre cuando dos círculos están en dos cuadrantes cuyos valores suman el de otro cuadrante.\n\n1 + 2 = 3 + 0\n2 + 3 = 5 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos; usa la flecha azul para volver a la posición original.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -184,7 +184,7 @@
          ],
          "text": [
             {
-               "text": "#### KINKIN\n\nKINKIN es el movimiento de los equivalentes. Ocurre cuando hay más de un círculo posicionado en el primer cuadrante y su suma equivale a otro cuadrante existente.\n\n1 + 1 = 2 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos de las manos, y la flecha azul para volver a la posición original.",
+               "text": "#### KINKIN\n\nKINKIN es el movimiento de los equivalentes. Ocurre cuando hay más de un círculo en el primer cuadrante y la suma de ellos equivale al valor de otro cuadrante.\n\n1 + 1 = 2 + 0\n\nUsa la flecha verde para mover los círculos y actualizar los dedos; usa la flecha azul para volver a la posición original.",
                "source": null,
                "date_time": null,
                "isTable": false,

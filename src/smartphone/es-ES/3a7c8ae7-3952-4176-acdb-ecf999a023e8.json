@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### El resultado es\n\nEste juego te ayuda a practicar la conexión entre la suma y la multiplicación: multiplicar es sumar el mismo número muchas veces.\n\nPara cada cálculo de abajo, intenta primero encontrar el resultado mentalmente. Luego usa las flechas laterales (▲ ▼) para llegar a la respuesta — cada pulsación de la flecha superior suma el número repetido. Cuando termines los tres cálculos, se revela la tabla de multiplicar completa de ese número.",
+               "text": "#### El resultado es\n\nEn este juego vas a practicar la conexión entre la suma y la multiplicación: multiplicar es sumar el mismo número muchas veces.\n\nPara cada cálculo de abajo, primero intenta encontrar el resultado mentalmente. Luego usa las flechas laterales (▲ ▼) para comprobarlo: cada pulsación de la flecha superior suma el número repetido. Cuando termines los tres cálculos, se revela la tabla de multiplicar de ese número.",
                "source": null,
                "date_time": null,
                "isTable": false,

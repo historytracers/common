@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Quipu en la Yupana\n\nEn este juego, harás como los antiguos contadores incas: leerás el valor registrado en el quipu y lo representarás en la Yupana. Así, practicas la lectura de un número en un sistema y su escritura en otro.\n\nObserva la cuerda resaltada y cuenta sus nudos: ese es el número que debes leer. Usa la fila de abajo de la Yupana para las unidades, la siguiente para las decenas, y la de arriba para las centenas. Toca un cuadrado para añadir una marca; tócalo de nuevo para quitarla. Una fila sin marcas significa cero. Cuando el número de la Yupana coincida con el de la cuerda, el juego marcará la cuerda como completada.",
+               "text": "#### Quipu en la Yupana\n\nEn este juego harás lo que hacían los contadores incas: leerás el valor del quipu y lo escribirás en la Yupana. Así practicas leer un número en un sistema y escribirlo en otro.\n\nPrimero, observa la cuerda resaltada y cuenta sus nudos: ese es el número que debes leer. Luego, usa las filas de la Yupana: la de abajo para las unidades, la siguiente para las decenas y la de arriba para las centenas. Toca un cuadrado para añadir una marca; tócalo de nuevo para quitarla. Una fila sin marcas vale cero. Cuando el número de la Yupana coincida con el de la cuerda, el juego marca la cuerda como completada.",
                "source": null,
                "date_time": null,
                "isTable": false,

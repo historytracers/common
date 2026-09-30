@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Jogo da sequência\n\nComplete a sequência descobrindo o número que falta. Use as setas para aumentar ou diminuir o valor até que ele corresponda.",
+               "text": "#### Jogo da sequência\n\nComplete a sequência encontrando o número que falta. Para isso, aumente ou diminua o valor com as setas até acertar.",
                "source": null,
                "date_time": null,
                "isTable": false,

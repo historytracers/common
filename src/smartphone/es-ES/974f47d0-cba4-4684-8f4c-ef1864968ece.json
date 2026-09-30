@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Calculi\n\nRepresenta el número propuesto en el ábaco Calculi.\n\nLos marcadores debajo de la barra valen 1 y los marcadores encima de la barra valen 5. Mueve los marcadores hacia la barra para representar los números.",
+               "text": "#### Calculi\n\nEn este ejercicio, representa el número propuesto en el ábaco Calculi.\n\nLos marcadores debajo de la barra valen 1 y los marcadores encima de la barra valen 5. Mueve los marcadores hacia la barra para representar los números.",
                "source": null,
                "date_time": null,
                "isTable": false,

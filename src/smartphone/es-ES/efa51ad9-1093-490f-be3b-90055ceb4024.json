@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### ¿Iguales, mismo grupo o diferentes?\n\nEl juego muestra dos elementos: números, figuras (círculos y cuadrados) o imágenes. Debes decidir cómo se relacionan eligiendo uno de los tres botones:\n\n- **Iguales** (botón verde claro): ambos elementos son exactamente iguales.\n- **Mismo grupo** (botón amarillo claro): ambos elementos no son exactamente iguales, pero pertenecen al mismo grupo.\n- **Diferentes** (botón rojo claro): ambos elementos no son iguales ni del mismo grupo.\n\nEl juego tiene siete niveles. En los tres primeros niveles, comparas números y solo dos respuestas son posibles: **Iguales** o **Diferentes**. A partir del cuarto nivel, aparecen figuras e imágenes, y se usan las tres respuestas.",
+               "text": "#### ¿Iguales, mismo grupo o diferentes?\n\nEl juego muestra dos elementos: números, figuras (círculos y cuadrados) o imágenes. Decide cómo se relacionan y elige uno de los tres botones:\n\n- **Iguales** (botón verde claro): ambos elementos son exactamente iguales.\n- **Mismo grupo** (botón amarillo claro): ambos elementos no son exactamente iguales, pero pertenecen al mismo grupo.\n- **Diferentes** (botón rojo claro): ambos elementos no son iguales ni del mismo grupo.\n\nEl juego tiene siete niveles. En los tres primeros comparas números: solo hay dos respuestas posibles, **Iguales** o **Diferentes**. A partir del cuarto nivel aparecen figuras e imágenes y se usan las tres respuestas.",
                "source": null,
                "date_time": null,
                "isTable": false,

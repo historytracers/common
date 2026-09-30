@@ -1,5 +1,5 @@
 {
-   "title": "Tabla de Multiplicar",
+   "title": "Tabla de multiplicar",
    "index": "AbacusScreen",
    "sources": [],
    "license": [
@@ -21,7 +21,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Tabla de Multiplicar\n\nSelecciona un número, luego toca Automático para ver el ábaco mostrar cada paso de la multiplicación, o toca Siguiente Paso para avanzar manualmente. Completa los 10 pasos para finalizar.",
+               "text": "#### Tabla de multiplicar\n\nSelecciona un número. Luego, toca Automático para ver en el ábaco cada paso de la multiplicación, o toca Siguiente Paso para avanzar manualmente. Completa los 10 pasos para finalizar.",
                "source": null,
                "date_time": null,
                "isTable": false,

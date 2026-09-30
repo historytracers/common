@@ -1,5 +1,5 @@
 {
-   "title": "Juego de Construcción",
+   "title": "Juego de construcción",
    "index": "FirstStepsScreen",
    "sources": [],
    "license": [
@@ -21,7 +21,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Juego de Construcción\n\nToca los signos de interrogación para revelar los números ocultos. Revélalos todos para completar el nivel.",
+               "text": "#### Juego de construcción\n\nToca los signos de interrogación para revelar los números ocultos. Revélalos todos para completar el nivel.",
                "source": null,
                "date_time": null,
                "isTable": false,

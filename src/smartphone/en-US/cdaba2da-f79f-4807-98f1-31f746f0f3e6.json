@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Writing to Suanpan\n\nThis is the first in a series of texts that teach how to use the Suanpan (算盤). In this text, we will focus on the representation of numbers between 0 and 9; in future texts, we will learn how to use it more broadly. For now, we will only work with the first column from the right.\n\nThe markers on top (red) have value 5 each, while the markers below (blue) have value 1 each. Set the values as requested in the yellow box near the 'Value' box.",
+               "text": "#### Writing to Suanpan\n\nThis is the first text in a series that teaches how to use the Suanpan (算盤). In this text you will represent numbers from 0 to 9. Work only with the first column from the right; later texts will use the whole abacus.\n\nThe markers on top (red) have value 5 each, and the markers below (blue) have value 1 each. Set the values requested in the yellow box near the 'Value' box.",
                "source": null,
                "date_time": null,
                "isTable": false,

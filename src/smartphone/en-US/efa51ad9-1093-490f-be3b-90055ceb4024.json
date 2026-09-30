@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Equal, Same Group, or Different?\n\nThe game shows two elements: numbers, figures (circles and squares), or images. You must decide how they relate by choosing one of the three buttons:\n\n- **Equal** (light green button): the two elements are exactly the same.\n- **Same group** (light yellow button): the two elements are not exactly the same, but they belong to the same group.\n- **Neither** (light red button): the two elements are neither equal nor in the same group.\n\nThe game has seven levels. In the first three levels, you compare numbers and only two answers are possible: **Equal** or **Neither**. From the fourth level onward, figures and images appear, and the three answers are used.",
+               "text": "#### Equal, Same Group, or Different?\n\nIn this game you will decide how two elements relate. The game shows two elements: numbers, figures (circles and squares), or images. Choose one of the three buttons:\n\n- **Equal** (light green button): the two elements are exactly the same.\n- **Same group** (light yellow button): the two elements are not exactly the same, but they belong to the same group.\n- **Neither** (light red button): the two elements are neither equal nor in the same group.\n\nThe game has seven levels. In the first three levels you compare numbers, so only two answers are possible: **Equal** or **Neither**. From the fourth level onward, figures and images appear, so all three answers are used.",
                "source": null,
                "date_time": null,
                "isTable": false,

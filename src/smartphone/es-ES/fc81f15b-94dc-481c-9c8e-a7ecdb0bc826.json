@@ -1,5 +1,5 @@
 {
-   "title": "Sumando Números Grandes",
+   "title": "Sumando números grandes",
    "index": "AbacusScreen",
    "sources": [
       "6d9857d3-a1af-4411-b358-b97a7ea02515"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Sumando Números Grandes\n\nVamos a sumar dos números del 1 al 49 usando solo las dos primeras columnas del ábaco: la columna de las decenas y la columna de las unidades. Primero, representa el primer número; luego, suma el segundo número. Cuando la suma de una columna supere 9, usamos el complemento para llevar 1 a la siguiente columna.",
+               "text": "#### Sumando números grandes\n\nVamos a sumar dos números del 1 al 49 usando solo las dos primeras columnas del ábaco: la de las decenas y la de las unidades. Primero, representa el primer número. Luego, suma el segundo número. Cuando la suma de una columna pase de 9, usa el complemento para llevar 1 a la columna siguiente.",
                "source": null,
                "date_time": null,
                "isTable": false,

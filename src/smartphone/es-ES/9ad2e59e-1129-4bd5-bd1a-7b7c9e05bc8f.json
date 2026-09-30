@@ -1,5 +1,5 @@
 {
-   "title": "Ejercitando con la Yupana (Adición)",
+   "title": "Ejercitando con la Yupana (adición)",
    "index": "Yupana",
    "sources": [
       "b0bb8da3-ca00-453e-9060-9dfa767c80e2"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Ejercitando con la Yupana (Adición)\n\nPara comprender mejor el método Yupana Inka Tawa Pukllay, utilizaremos una Yupana con 4 filas para sumar dos números. Con esta configuración, podemos representar valores de hasta 4.999. Sin embargo, es posible agregar más filas para sumar números mayores, sin limitaciones.\n\nEn el siguiente ejemplo, demostramos inicialmente la suma de 512 + 513. Te invitamos a alternar entre las tres opciones para comprender mejor el método Yupana Inka Tawa Pukllay. Cada opción presenta lo siguiente:\n- Valores: muestra cómo se escriben los números en la Yupana;\n- Calcular: muestra el resultado final de la operación de suma;\n- Paso a Paso: ejecuta la suma fila por fila.\n\nTambién puedes modificar los valores del ejemplo para reforzar tu aprendizaje. Después de cambiarlos, haz clic primero en el botón Valores para mostrar los números y, a continuación, observa cómo se representan en la Yupana.",
+               "text": "#### Ejercitando con la Yupana (adición)\n\nPara comprender el método Yupana Inka Tawa Pukllay, vamos a usar una Yupana con 4 filas para sumar dos números. Así se representan valores de hasta 4.999. Si añades más filas, puedes sumar números mayores, sin límite.\n\nEl ejemplo de abajo muestra primero la suma de 512 + 513. Alterna entre las tres opciones para ver el método en acción. Cada opción hace lo siguiente:\n- Valores: muestra cómo se escriben los números en la Yupana;\n- Calcular: muestra el resultado final de la operación de suma;\n- Paso a Paso: ejecuta la suma fila por fila.\n\nTambién puedes cambiar los valores del ejemplo para practicar. Después de cambiarlos, haz clic en el botón Valores para ver los números y observa cómo se representan en la Yupana.",
                "source": null,
                "date_time": null,
                "isTable": false,

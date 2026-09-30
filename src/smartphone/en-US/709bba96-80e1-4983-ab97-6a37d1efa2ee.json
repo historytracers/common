@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Writing to \"Schyoty\"\n\nIn Schyoty (счёты), all beads have the same value. When all beads are on the right, the value is zero. Move beads to the left to represent numbers. Beads 5 and 6 (from the left) are colored gray. The Schyoty has 9 rows, each representing a decimal place, with units at the bottom and higher orders above.",
+               "text": "#### Writing to \"Schyoty\"\n\nIn this exercise you will write numbers on the Schyoty (счёты). All beads have the same value. When all beads are on the right, the value is zero. Move beads to the left to represent numbers. Beads 5 and 6 from the left are gray. The Schyoty has 9 rows. Each row is one decimal place: units at the bottom, higher orders above.",
                "source": null,
                "date_time": null,
                "isTable": false,

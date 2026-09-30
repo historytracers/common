@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Escribiendo en el Suanpan\n\nEste es el primero de una serie de textos que enseñan cómo usar el Suanpan (算盤). En este texto, nos centraremos en la representación de números entre 0 y 9; en textos futuros, aprenderemos a usarlo de forma más amplia. Por ahora, solo trabajaremos con la primera columna de la derecha.\n\nLos marcadores superiores (rojo) tienen valor 5 cada uno, mientras que los marcadores inferiores (azul) tienen valor 1 cada uno. Establezca los valores según lo solicitado en el cuadro amarillo cerca del cuadro \"Valor\".",
+               "text": "#### Escribiendo en el Suanpan\n\nEste es el primero de una serie de textos sobre cómo usar el Suanpan (算盤). Aquí representaremos números del 0 al 9; en los próximos textos lo usaremos de forma más amplia. Por ahora, solo trabajamos con la primera columna de la derecha.\n\nLos marcadores superiores (rojo) valen 5 cada uno; los inferiores (azul) valen 1 cada uno. Coloca los valores que se piden en el cuadro amarillo, cerca del cuadro \"Valor\".",
                "source": null,
                "date_time": null,
                "isTable": false,

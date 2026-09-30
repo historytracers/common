@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Escribiendo en el Soroban\n\nEste es el primero de una serie de textos que enseñan cómo usar el Soroban (算盤). En este texto, nos centraremos en la representación de números entre 0 y 9; en textos futuros, aprenderemos a usarlo de forma más amplia. Por ahora, solo trabajaremos con la primera columna de la derecha.\n\nEl marcador superior (rojo) tiene valor 5, mientras que el marcador inferior (azul) tiene valor 1. Establezca los valores según lo solicitado en el cuadro amarillo cerca del cuadro \"Valor\".",
+               "text": "#### Escribiendo en el Soroban\n\nEste es el primero de una serie de textos sobre cómo usar el Soroban (算盤). Aquí representaremos números del 0 al 9; en los próximos textos lo usaremos de forma más amplia. Por ahora, solo trabajamos con la primera columna de la derecha.\n\nEl marcador superior (rojo) vale 5 y el inferior (azul) vale 1. Coloca los valores que se piden en el cuadro amarillo, cerca del cuadro \"Valor\".",
                "source": null,
                "date_time": null,
                "isTable": false,

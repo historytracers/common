@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Complement to 10\n\nWhen we add two numbers and the result is 10, each number is the complement of the other. In this table, the values Y and X always add up to 10.\n\nThis is the first step to understand how numbers are carried when adding with the abacus.",
+               "text": "#### Complement to 10\n\nIn this game you will practice complements to 10. When two numbers add up to 10, each is the complement of the other. In this table, the values Y and X always add up to 10.\n\nThis is the first step toward understanding how to carry when adding on the abacus.",
                "source": null,
                "date_time": null,
                "isTable": false,

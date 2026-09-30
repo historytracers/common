@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Adding Two Numbers\n\nWe will add two numbers smaller than 5 using only the first column of the abacus. First, set the first number; then, add the second number by moving the markers. Complete all steps to finish the sum.\n\nNow the results reach 5 or more. When 5 lower markers are together, exchange them for one upper marker (value 5). Complete all steps to finish the sum.",
+               "text": "#### Adding Two Numbers\n\nIn this game you will add two numbers smaller than 5 using only the first column of the abacus. First, set the first number. Then add the second number by moving the markers. Complete all steps to finish the sum.\n\nNow each sum reaches 5 or more. When 5 lower markers are together, exchange them for one upper marker (value 5). Complete all steps to finish the sum.",
                "source": null,
                "date_time": null,
                "isTable": false,

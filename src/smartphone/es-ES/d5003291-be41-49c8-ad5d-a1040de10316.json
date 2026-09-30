@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Juego de secuencia\n\nCompleta la secuencia descubriendo el número que falta. Usa las flechas para aumentar o disminuir el valor hasta que coincida.",
+               "text": "#### Juego de secuencia\n\nPrimero, descubre el número que falta en la secuencia. Luego, usa las flechas para aumentar o disminuir el valor hasta que coincida.",
                "source": null,
                "date_time": null,
                "isTable": false,

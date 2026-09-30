@@ -1,5 +1,5 @@
 {
-   "title": "Multiplicando sin Límites",
+   "title": "Multiplicando sin límites",
    "index": "AbacusScreen",
    "sources": [
       "052bd667-eb38-4e87-8c05-439cfd9c4178"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Multiplicando sin Límites\n\nConfigura el ábaco para mostrar cada producto intermedio tocando las cuentas. Primero multiplica por el dígito de las decenas, luego multiplica por el dígito de las unidades y suma al resultado.",
+               "text": "#### Multiplicando sin límites\n\nConfigura el ábaco para mostrar cada producto intermedio tocando las cuentas. Primero, multiplica por el dígito de las decenas. Luego, multiplica por el dígito de las unidades y súmalo al resultado.",
                "source": null,
                "date_time": null,
                "isTable": false,

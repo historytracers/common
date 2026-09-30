@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Calculi\n\nRepresente o número proposto no ábaco Calculi.\n\nOs marcadores abaixo da barra valem 1 e os marcadores acima da barra valem 5. Mova os marcadores em direção à barra para representar os números.",
+               "text": "#### Calculi\n\nPrimeiro, leia o número proposto. Os marcadores abaixo da barra valem 1 e os de acima valem 5. Depois, mova os marcadores em direção à barra para representar o número no ábaco Calculi.",
                "source": null,
                "date_time": null,
                "isTable": false,

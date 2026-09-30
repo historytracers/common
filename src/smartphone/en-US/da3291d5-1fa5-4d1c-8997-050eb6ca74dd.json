@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Carrying\n\nWhen adding numbers, sometimes we need to carry 1 to another order. This always happens when the value is bigger than the complement of a number, as we will see in this exercise.\n\nIn this exercise, the value Y is fixed and X is controlled by the arrows. The result Z = Y + X is always shown. When X reaches 9, the largest value of the units order, the exercise is complete.",
+               "text": "#### Carrying\n\nWhen adding numbers, sometimes we must carry 1 to the next order. This happens when a column reaches 10 or more: the value added is at least the complement of the current value to 10.\n\nIn this exercise, the value Y is fixed and X is controlled by the arrows. The result Z = Y + X is always shown. When X reaches 9, the largest value of the units order, the exercise is complete.",
                "source": null,
                "date_time": null,
                "isTable": false,

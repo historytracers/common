@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Quipu na Yupana\n\nNeste jogo, você fará como os antigos contadores incas: lerá o valor registrado no quipu e o representará na Yupana. Assim, você pratica a leitura de um número em um sistema e a escrita em outro.\n\nObserve a corda destacada e conte seus nós: esse é o número que você deve ler. Use a fileira de baixo da Yupana para as unidades, a seguinte para as dezenas, e a de cima para as centenas. Toque em um quadrado para adicionar uma marca; toque novamente para removê-la. Uma fileira sem marcas significa zero. Quando o número da Yupana coincidir com o da corda, o jogo marcará a corda como concluída.",
+               "text": "#### Quipu na Yupana\n\nNeste jogo, você fará como os antigos contadores incas: lerá o valor registrado no quipu e o representará na Yupana. Assim, você pratica a leitura de um número em um sistema e a escrita em outro.\n\nObserve a corda destacada e conte os nós: esse é o número que você deve ler. Depois, use a fileira de baixo da Yupana para as unidades, a seguinte para as dezenas e a de cima para as centenas. Toque em um quadrado para adicionar uma marca; toque novamente para removê-la. Uma fileira sem marcas significa zero. Quando o número da Yupana coincidir com o da corda, o jogo marca a corda como concluída.",
                "source": null,
                "date_time": null,
                "isTable": false,

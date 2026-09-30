@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Quipu on the Yupana\n\nIn this game, you will do what the ancient Inca counters did: read the value recorded on the quipu and set that same value on the Yupana. This way, you practice reading a number in one system and writing it in another.\n\nLook at the highlighted cord and count its knots: that is the number to read. Use the bottom row of the Yupana for the units, the next row for the tens, and the row above it for the hundreds. Tap a square to add a mark; tap it again to remove it. A row with no marks means zero. When the number on the Yupana matches the number on the cord, the game marks the cord as done.",
+               "text": "#### Quipu on the Yupana\n\nIn this game you will do what the ancient Inca counters did: read the value recorded on the quipu and set that same value on the Yupana. This way you practice reading a number in one system and writing it in another.\n\nFirst, look at the highlighted cord and count its knots; that is the number to read. Then set that number on the Yupana: the bottom row for units, the next row for tens, the row above for hundreds. Tap a square to add a mark; tap it again to remove it. A row with no marks means zero. When both numbers match, the game marks the cord as done.",
                "source": null,
                "date_time": null,
                "isTable": false,

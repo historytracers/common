@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Sequence Game (Orders)\n\nConnect each number on the left with its order name on the right. Select a number, then select its name to pair them.",
+               "text": "#### Sequence Game (Orders)\n\nIn this game you will connect each number to its order name. Select a number on the left, then its name on the right.",
                "source": null,
                "date_time": null,
                "isTable": false,

@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Writing Large Numbers\n\nPractice representing large numbers (1 to 99,999,999) on both the Soroban (算盤) and Suanpan (算盤) simultaneously. Both abacuses share the same values. Use the 9 columns to represent units, tens, hundreds, and so on. Set the requested value shown in the yellow box using either abacus.",
+               "text": "#### Writing Large Numbers\n\nIn this game you will practice writing large numbers (1 to 99,999,999) on the Soroban (算盤) and Suanpan (算盤) at the same time. Both abacuses share the same values. Use the 9 columns for units, tens, hundreds, and so on. Set the value shown in the yellow box using either abacus.",
                "source": null,
                "date_time": null,
                "isTable": false,

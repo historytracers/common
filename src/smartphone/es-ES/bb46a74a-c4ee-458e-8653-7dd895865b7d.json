@@ -1,5 +1,5 @@
 {
-   "title": "Multiplicando con Ábaco (Nivel 2)",
+   "title": "Multiplicando con ábaco (Nivel 2)",
    "index": "AbacusScreen",
    "sources": [
       "078f3c4e-08fc-454c-8510-1a98a7e45a40"
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Multiplicando con Ábaco (Nivel 2)\n\nConfigura el ábaco para mostrar cada resultado intermedio de la multiplicación tocando las cuentas, siguiendo las instrucciones paso a paso a continuación. Completa todos los pasos para finalizar la multiplicación.",
+               "text": "#### Multiplicando con ábaco (Nivel 2)\n\nConfigura el ábaco tocando las cuentas para mostrar cada resultado intermedio de la multiplicación. Sigue las instrucciones paso a paso. Completa todos los pasos para finalizar la multiplicación.",
                "source": null,
                "date_time": null,
                "isTable": false,
