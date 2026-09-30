@@ -1,0 +1,57 @@
+{
+   "title": "Carrying",
+   "index": "AbacusScreen",
+   "sources": [
+      "6d9857d3-a1af-4411-b358-b97a7ea02515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8b62af52-e23c-40fb-916e-5e50cbd3a35b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Carrying\n\nWhen adding numbers, sometimes we must carry 1 to the next order. This happens when a column reaches 10 or more: the value added is at least the complement of the current value to 10.\n\nIn this exercise, the value Y is fixed and X is controlled by the arrows. The result Z = Y + X is always shown. When X reaches 9, the largest value of the units order, the exercise is complete.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

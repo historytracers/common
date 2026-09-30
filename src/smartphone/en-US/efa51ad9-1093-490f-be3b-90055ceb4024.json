@@ -1,0 +1,57 @@
+{
+   "title": "Equal, Same Group, or Different?",
+   "index": "Equality",
+   "sources": [
+      "00513774-3f13-422c-8d4a-de9001df335f"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4aaa94e6-1118-44e4-9189-08871a3b83b3",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "00513774-3f13-422c-8d4a-de9001df335f",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=00513774-3f13-422c-8d4a-de9001df335f",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Equal, Same Group, or Different?\n\nIn this game you will decide how two elements relate. The game shows two elements: numbers, figures (circles and squares), or images. Choose one of the three buttons:\n\n- **Equal** (light green button): the two elements are exactly the same.\n- **Same group** (light yellow button): the two elements are not exactly the same, but they belong to the same group.\n- **Neither** (light red button): the two elements are neither equal nor in the same group.\n\nThe game has seven levels. In the first three levels you compare numbers, so only two answers are possible: **Equal** or **Neither**. From the fourth level onward, figures and images appear, so all three answers are used.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

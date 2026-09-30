@@ -1,0 +1,57 @@
+{
+   "title": "Sumando números grandes",
+   "index": "AbacusScreen",
+   "sources": [
+      "6d9857d3-a1af-4411-b358-b97a7ea02515"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "bb521ee8-7c95-4e8e-86ab-a4218c2fc506",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6d9857d3-a1af-4411-b358-b97a7ea02515",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando números grandes\n\nVamos a sumar dos números del 1 al 49 usando solo las dos primeras columnas del ábaco: la de las decenas y la de las unidades. Primero, representa el primer número. Luego, suma el segundo número. Cuando la suma de una columna pase de 9, usa el complemento para llevar 1 a la columna siguiente.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Exercising Multiplication",
+   "index": "Workout",
+   "sources": [
+      "59648475-3d23-45fe-8d6e-f3def1a2729b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a50253c2-c8ad-4374-95e9-47661834102f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercising Multiplication\n\nIn this game you will practice multiplication through body movements. Follow the exercise to see how numbers connect to your body.\n\nFirst, use the selector above to choose the multiplication table to practice. Then use the speed slider to set the pace of the movements. Try to do the movements with your own body if you can; it is also a way to take care of your health.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

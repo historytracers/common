@@ -1,0 +1,57 @@
+{
+   "title": "Multiplicando com Ábaco",
+   "index": "AbacusScreen",
+   "sources": [
+      "8bf96824-262d-4a55-bd39-2dbb887c1dc0"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "01c691a1-a81a-4112-b484-ff14221b3a8e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bf96824-262d-4a55-bd39-2dbb887c1dc0",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bf96824-262d-4a55-bd39-2dbb887c1dc0",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplicando com Ábaco\n\nConfigure o ábaco para mostrar cada resultado intermediário da multiplicação tocando nas contas, seguindo as instruções passo a passo abaixo. Complete todos os passos para finalizar a multiplicação.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

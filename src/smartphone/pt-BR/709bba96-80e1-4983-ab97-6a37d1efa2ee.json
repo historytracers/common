@@ -1,0 +1,57 @@
+{
+   "title": "Escrevendo para \"Schyoty\"",
+   "index": "Another Way to Count",
+   "sources": [
+      "1aad8822-1ace-45fd-954e-833799836d1a"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "17ecb7d5-a726-4d73-8b6a-4b5a46781a51",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aad8822-1ace-45fd-954e-833799836d1a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escrevendo para \"Schyoty\"\n\nNo Schyoty (счёты), todas as contas têm o mesmo valor: quando estão todas à direita, o valor é zero. Para representar números, mova as contas para a esquerda. As contas 5 e 6, contadas da esquerda, são cinzas. O Schyoty tem 9 linhas; cada uma representa uma casa decimal, com as unidades embaixo e as ordens superiores acima.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

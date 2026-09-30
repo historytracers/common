@@ -1,0 +1,57 @@
+{
+   "title": "Practicing Subtraction with Yupana",
+   "index": "Yupana",
+   "sources": [
+      "1cf1ad09-2122-48a8-bf33-420ba9579bf3"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777406"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "00970ee5-f4d9-4d23-821d-c4d3641988b3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1cf1ad09-2122-48a8-bf33-420ba9579bf3",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1cf1ad09-2122-48a8-bf33-420ba9579bf3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing Subtraction with Yupana\n\nFirst, tap the Yupana cells to place the markers for each digit. When the row is correct, click \"Next Step\". Finally, use \"New Exercise\" to restart or \"Next Level\" to advance.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

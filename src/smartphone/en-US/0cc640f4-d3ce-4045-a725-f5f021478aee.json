@@ -1,0 +1,131 @@
+{
+   "title": "Counting with Bones",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "7d2fd4de-5c10-4811-957c-8233bc8d21de"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f34a3844-258b-493c-b473-30a6c8ec4084",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Counting Like Ancient Humans\n\nLook at the marks on the bone. They look like our fingers. In this game you will do the reverse: look at hands with raised fingers, then place marks on the bone until the marks match the fingers.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fe3f48ce-81bb-44d9-a509-df960dc0f3bb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fe3f48ce-81bb-44d9-a509-df960dc0f3bb",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Counting with Bones\n\nFirst, count the raised fingers. Then place the same quantity of marks on the bone.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "032a8b5c-22d1-41c2-9cbe-0e30fbb8d716",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "032a8b5c-22d1-41c2-9cbe-0e30fbb8d716",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### What Are We Practicing?\n\nIn this game you practice turning a quantity into a sequence of marks, as some ancient peoples did on bones. You also practice counting on your fingers and, when the quantity grows, on a second pair of hands.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

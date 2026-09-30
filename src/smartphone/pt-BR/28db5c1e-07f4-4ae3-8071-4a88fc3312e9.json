@@ -1,0 +1,57 @@
+{
+   "title": "Adicionando Dois Números",
+   "index": "AbacusScreen",
+   "sources": [
+      "ba340a77-cf71-4471-8e4c-43afa358833b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "204e3062-77a1-4b9b-9fec-091dcb356f92",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ba340a77-cf71-4471-8e4c-43afa358833b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ba340a77-cf71-4471-8e4c-43afa358833b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adicionando Dois Números\n\nVamos somar dois números menores que 5 usando apenas a primeira coluna do ábaco. Primeiro, represente o primeiro número; depois, some o segundo número movendo os marcadores. Complete todos os passos para finalizar a soma.\n\nAgora os resultados chegam a 5 ou mais. Quando 5 marcadores inferiores estiverem juntos, troque-os por um marcador superior (valor 5). Complete todos os passos para finalizar a soma.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

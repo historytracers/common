@@ -1,0 +1,57 @@
+{
+   "title": "Escrevendo no Suanpan",
+   "index": "Another Way to Count",
+   "sources": [
+      "716d6fe5-78cc-4fef-85da-11daff12399d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9853cf4a-5da3-4ff8-b908-eaa61e441686",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "716d6fe5-78cc-4fef-85da-11daff12399d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escrevendo no Suanpan\n\nEste é o primeiro de uma série de textos sobre o uso do Suanpan (算盤). Neste, você aprende a representar os números de 0 a 9; os próximos ensinam usos mais amplos. Por enquanto, trabalhe apenas com a primeira coluna da direita.\n\nOs marcadores superiores (vermelhos) valem 5 cada; os inferiores (azuis) valem 1 cada. Defina os valores pedidos na caixa amarela perto da caixa \"Valor\".",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

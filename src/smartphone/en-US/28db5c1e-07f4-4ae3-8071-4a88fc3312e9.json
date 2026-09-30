@@ -1,0 +1,57 @@
+{
+   "title": "Adding Two Numbers",
+   "index": "AbacusScreen",
+   "sources": [
+      "ba340a77-cf71-4471-8e4c-43afa358833b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "ee57940b-5237-4cf0-94f7-9427d51f8535",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ba340a77-cf71-4471-8e4c-43afa358833b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ba340a77-cf71-4471-8e4c-43afa358833b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding Two Numbers\n\nIn this game you will add two numbers smaller than 5 using only the first column of the abacus. First, set the first number. Then add the second number by moving the markers. Complete all steps to finish the sum.\n\nNow each sum reaches 5 or more. When 5 lower markers are together, exchange them for one upper marker (value 5). Complete all steps to finish the sum.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

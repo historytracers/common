@@ -1,0 +1,57 @@
+{
+   "title": "Escrevendo números grandes",
+   "index": "Another Way to Count",
+   "sources": [
+      "4dc32200-392c-4d20-ae2d-0089b3c288bb"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "844670df-0f83-4ab0-826e-4e30889e03d1",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4dc32200-392c-4d20-ae2d-0089b3c288bb",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4dc32200-392c-4d20-ae2d-0089b3c288bb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escrevendo números grandes\n\nPratique representar números grandes (1 a 99.999.999) no Soroban (算盤) e no Suanpan (算盤) ao mesmo tempo. Ambos os ábacos têm os mesmos valores, por isso você pode usar qualquer um. Use as 9 colunas para unidades, dezenas, centenas e assim por diante. Depois, defina o valor pedido na caixa amarela.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

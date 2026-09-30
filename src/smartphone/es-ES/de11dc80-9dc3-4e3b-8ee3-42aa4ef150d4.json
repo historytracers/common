@@ -1,0 +1,42 @@
+{
+   "title": "Tabla de multiplicar",
+   "index": "AbacusScreen",
+   "sources": [],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7494a605-e145-4860-b105-f8d968de4659",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Tabla de multiplicar\n\nSelecciona un número. Luego, toca Automático para ver en el ábaco cada paso de la multiplicación, o toca Siguiente Paso para avanzar manualmente. Completa los 10 pasos para finalizar.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

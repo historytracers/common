@@ -1,0 +1,57 @@
+{
+   "title": "Exercitando Pés e Mãos",
+   "index": "Workout",
+   "sources": [
+      "ef299aac-2abd-4fac-9974-05e697639b20"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "96566e1b-3a04-44f8-b9cd-cf761d24b953",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ef299aac-2abd-4fac-9974-05e697639b20",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ef299aac-2abd-4fac-9974-05e697639b20",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercitando Pés e Mãos\n\nPara reforçar a contagem, faça este exercício com seus pés e suas mãos. Siga as instruções e veja como os números se conectam ao seu corpo.\n\nPrimeiro, escolha quantas vezes os pés vão pisar ou pular, e quantas as mãos vão bater palmas. Depois, escolha a velocidade. Por fim, faça os movimentos junto com o aplicativo.\n\nSe desejar, você também pode alterar a cor da pele das mãos e dos pés para combinar com a sua, em Menu → Opções.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

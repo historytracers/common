@@ -1,0 +1,57 @@
+{
+   "title": "Exercitando Multiplicação",
+   "index": "Workout",
+   "sources": [
+      "59648475-3d23-45fe-8d6e-f3def1a2729b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a50253c2-c8ad-4374-95e9-47661834102f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=59648475-3d23-45fe-8d6e-f3def1a2729b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercitando Multiplicação\n\nPara reforçar a multiplicação, faça este exercício relacionando números a movimentos corporais. Assim, você vê como os números se conectam ao seu corpo.\n\nPrimeiro, use o seletor acima para escolher qual tabuada praticar. Depois, ajuste o ritmo dos movimentos com o controle de velocidade. Se puder, faça os movimentos com o próprio corpo junto com o aplicativo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

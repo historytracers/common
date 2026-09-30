@@ -1,0 +1,57 @@
+{
+   "title": "Quipu on the Yupana",
+   "index": "Another Way to Count",
+   "sources": [
+      "0b6ac947-9ec3-4406-a329-54ca128b5e90"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e570c29b-f5da-4c77-83da-4107e5632e94",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0b6ac947-9ec3-4406-a329-54ca128b5e90",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0b6ac947-9ec3-4406-a329-54ca128b5e90",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Quipu on the Yupana\n\nIn this game you will do what the ancient Inca counters did: read the value recorded on the quipu and set that same value on the Yupana. This way you practice reading a number in one system and writing it in another.\n\nFirst, look at the highlighted cord and count its knots; that is the number to read. Then set that number on the Yupana: the bottom row for units, the next row for tens, the row above for hundreds. Tap a square to add a mark; tap it again to remove it. A row with no marks means zero. When both numbers match, the game marks the cord as done.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

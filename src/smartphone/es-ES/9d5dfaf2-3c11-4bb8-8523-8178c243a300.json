@@ -1,0 +1,57 @@
+{
+   "title": "Ejercitando pies y manos",
+   "index": "Workout",
+   "sources": [
+      "ef299aac-2abd-4fac-9974-05e697639b20"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777537"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "96566e1b-3a04-44f8-b9cd-cf761d24b953",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ef299aac-2abd-4fac-9974-05e697639b20",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ef299aac-2abd-4fac-9974-05e697639b20",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercitando pies y manos\n\nPara reforzar el conteo, vamos a ejercitar los pies y las manos. Sigue los pasos y observa cómo se conectan los números con el cuerpo.\n\nPrimero, elige cuántas veces pisarán o saltarán los pies, o cuántas veces aplaudirán las manos. Luego, elige la velocidad. Repite tú los movimientos con la aplicación.\n\nTambién puedes cambiar el color de piel de las manos y los pies en Menú → Opciones para que coincida con el tuyo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Building Like a Mesoamerican",
+   "index": "Another Way to Count",
+   "sources": [
+      "a3ff24e9-74d9-4fb8-8e9e-a041ebde903e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "59f14c5b-92e2-4a08-9380-88e0eb942f20",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a3ff24e9-74d9-4fb8-8e9e-a041ebde903e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a3ff24e9-74d9-4fb8-8e9e-a041ebde903e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Building Like a Mesoamerican\n\nFirst, tap the question marks to reveal the hidden Maya numbers. Reveal them all to complete the level.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Multiplicando sem Limites",
+   "index": "AbacusScreen",
+   "sources": [
+      "052bd667-eb38-4e87-8c05-439cfd9c4178"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "105ef2e4-25d3-4f04-8871-8707f8594fe2",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "052bd667-eb38-4e87-8c05-439cfd9c4178",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=052bd667-eb38-4e87-8c05-439cfd9c4178",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplicando sem Limites\n\nConfigure o ábaco para mostrar cada produto intermediário tocando nas contas. Primeiro multiplique pelo dígito das dezenas, depois multiplique pelo dígito das unidades e adicione ao resultado.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

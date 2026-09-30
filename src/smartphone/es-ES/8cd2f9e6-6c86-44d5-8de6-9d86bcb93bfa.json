@@ -1,0 +1,94 @@
+{
+   "title": "Manos en Yupana",
+   "index": "Another Way to Count",
+   "sources": [
+      "c742c649-bf12-4d3f-ba8c-52f91455fc95"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "608cbcf1-69e2-4a78-bd30-0353d08ffe61",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Manos en Yupana\n\nEn la región de Tawantinsuyu resaltada en el mapa, los Incas crearon un sistema numérico ligado a las manos. Haz clic en \"Dibujar para Contar\" para ver cómo representaban los números.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e4e8f0a4-a108-4234-ba05-f2d3265ddb94",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e4e8f0a4-a108-4234-ba05-f2d3265ddb94",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Dibujar para Contar\n\nEn esta pantalla vas a aprender cómo se representan los números en la Yupana. Primero, usa las flechas de abajo y observa cómo crecen los números de derecha a izquierda. Luego, observa que los puntos de la pantalla equivalen a las puntas de los dedos. Por ultúltimo, fíjate en que cada línea de la Yupana no admite números mayores que 9.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

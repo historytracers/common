@@ -1,0 +1,1276 @@
+{
+   "title": "Alrededor del Mundo (Conteo)",
+   "index": "Around the World",
+   "sources": [
+      "1071ad37-4ee3-477a-85bb-9cd3e40e3139"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1788618606"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7844d3a8-bc63-4f04-9b3a-731efdcd095d",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nLa humanidad se extendió por el mundo a lo largo de casi 2 millones de años. Sin embargo, si consideramos solo un grupo de *Homo* — nuestra propia especie, *Homo sapiens* —, este período de expansión se vuelve mucho más corto: menos de 300.000 años. El gráfico de abajo muestra la línea de tiempo de nuestros parientes más cercanos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%;height:auto\" viewBox=\"0 0 600 340\" class=\"circle-draw\" id=\"svgcirctri0\">  <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"3\" markerHeight=\"3\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs>  <line x1=\"130\" y1=\"19\" x2=\"130\" y2=\"369\" stroke=\"black\" stroke-width=\"3\" style=\"stroke: black;\" marker-start=\"url(#arrow)\" />  <text x=\"100\" y=\"57\" font-size=\"14\" font-weight=\"bold\">Hoy</text> <text x=\"120\" y=\"96\" font-size=\"14\" font-weight=\"bold\">1</text> <text x=\"120\" y=\"135\" font-size=\"14\" font-weight=\"bold\">2</text> <text x=\"120\" y=\"174\" font-size=\"14\" font-weight=\"bold\">3</text> <text x=\"120\" y=\"213\" font-size=\"14\" font-weight=\"bold\">4</text> <text x=\"120\" y=\"252\" font-size=\"14\" font-weight=\"bold\">5</text> <text x=\"120\" y=\"291\" font-size=\"14\" font-weight=\"bold\">6</text> <text x=\"120\" y=\"328\" font-size=\"14\" font-weight=\"bold\">7</text> <text x=\"2\" y=\"19\" font-size=\"18\" font-weight=\"bold\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tiempo</text> <text x=\"2\" y=\"33\" font-size=\"18\" font-weight=\"bold\">(millones de años)</text> <text x=\"242\" y=\"310\" font-size=\"14\" font-style=\"italic\">Sahelanthropus tchadensis</text> <text x=\"200\" y=\"280\" font-size=\"14\" font-style=\"italic\">Orrorin tugenensis</text> <text x=\"180\" y=\"260\" font-size=\"14\" font-style=\"italic\">Ardipithecus kadabba</text> <text x=\"320\" y=\"260\" font-size=\"14\" font-weight=\"bold\">PRIMEROS HOMÍNIDOS</text> <text x=\"180\" y=\"233\" font-size=\"14\" font-style=\"italic\">Ardipithecus ramidus</text> <text x=\"393\" y=\"219\" font-size=\"14\" font-style=\"italic\">Australopithecus anamensis</text> <text x=\"300\" y=\"194\" font-size=\"14\" font-style=\"italic\">Kenyanthropus platyops</text> <text x=\"460\" y=\"194\" font-size=\"14\" font-style=\"italic\">Australopithecus afarensis</text> <text x=\"225\" y=\"154\" font-size=\"14\" font-weight=\"bold\">HUMANOS</text> <text x=\"180\" y=\"130\" font-size=\"14\" font-style=\"italic\">Homo rudolfensis</text> <text x=\"280\" y=\"130\" font-size=\"14\" font-style=\"italic\">Homo habilis</text> <text x=\"230\" y=\"120\" font-size=\"14\" font-style=\"italic\">Homo erectus</text> <text x=\"300\" y=\"113\" font-size=\"14\" font-style=\"italic\">Homo naledi</text> <text x=\"250\" y=\"90\" font-size=\"14\" font-style=\"italic\">Homo antecessor</text> <text x=\"150\" y=\"76\" font-size=\"14\" font-style=\"italic\">Homo neanderthalensis</text> <text x=\"350\" y=\"80\" font-size=\"14\" font-style=\"italic\">Homo heidelbergensis</text> <text x=\"300\" y=\"70\" font-size=\"14\" font-style=\"italic\">Homo sapiens</text> <text x=\"140\" y=\"67\" font-size=\"14\">Denisovan</text> <text x=\"390\" y=\"67\" font-size=\"14\" font-style=\"italic\">Homo floresiensis</text> <rect x=\"132\" y=\"291\" width=\"460\" height=\"39\" fill=\"rgba(255,249,73,0.2)\" /> <rect x=\"132\" y=\"213\" width=\"460\" height=\"39\" fill=\"rgba(255,249,73,0.2)\" /> <rect x=\"132\" y=\"135\" width=\"460\" height=\"39\" fill=\"rgba(255,249,73,0.2)\" /> <rect x=\"132\" y=\"57\" width=\"460\" height=\"39\" fill=\"rgba(255,249,73,0.2)\" /> <line x1=\"300\" y1=\"332\" x2=\"240\" y2=\"314\" stroke=\"black\" /> <line x1=\"300\" y1=\"332\" x2=\"360\" y2=\"314\" stroke=\"black\" /> <line x1=\"460\" y1=\"248\" x2=\"360\" y2=\"213\" stroke=\"black\" /> <line x1=\"460\" y1=\"248\" x2=\"540\" y2=\"213\" stroke=\"black\" /> <line x1=\"250\" y1=\"174\" x2=\"160\" y2=\"135\" stroke=\"black\" /> <line x1=\"250\" y1=\"174\" x2=\"340\" y2=\"135\" stroke=\"black\" /></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Gráfico 1: Línea de tiempo de la evolución de los homininos.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6bd23cf5-8b30-470d-8e72-cc3d2e763a8a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6bd23cf5-8b30-470d-8e72-cc3d2e763a8a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Evolución de las Matemáticas\n\nEl conocimiento matemático se desarrolló de forma independiente en distintos lugares y solo fue unificado con el tiempo por nuestra especie — y ya estudiamos estas ideas en clases anteriores.\n\nEn esta clase, haremos un recorrido que destaca mapas y los períodos aproximados en que apareció cada sistema numérico, según nuestro entendimiento actual. El mapa de abajo muestra el viaje de nuestra especie por el mundo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/mapswire-world-political-white-equal_earth_journey.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura 1: El viaje de Homo sapiens por el mundo.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: El viaje de Homo sapiens por el mundo.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bead6121-9596-415c-9470-01fbb8936700",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "bead6121-9596-415c-9470-01fbb8936700",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "González Redondo, Francisco A., et al. (2010)",
+               "page": "https://doi.org/10.4321/S0211-95362010000100007",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En África: Contar con Huesos\n\nEl primer sistema de conteo que conocemos surgió en África hace unos 37.000 años. Se inspiró en nuestras manos y se registró con marcas hechas en huesos. Estudiosos como Francisco A. González Redondo estudian estas marcas para entender cuándo comenzó el conteo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_af-where-is-africa.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: África en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: África en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "07a61bbd-d75e-4d72-b163-dc1dd309d42f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "07a61bbd-d75e-4d72-b163-dc1dd309d42f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "González Redondo, Francisco A., et al. (2010)",
+               "page": "https://doi.org/10.4321/S0211-95362010000100007",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En África: Practicar con Huesos\n\nCada marca grabada en el hueso representa una cuenta. Usa los botones para añadir o quitar marcas hasta que el hueso muestre el número propuesto.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5f0d26b0-b463-4d1d-a643-d2bb53b7fa24",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "5f0d26b0-b463-4d1d-a643-d2bb53b7fa24",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Los Quipus\n\nEl segundo sistema de conteo que estudiamos no surgió cerca del primero. Las evidencias más antiguas datan de hace unos 5.000 años. Aunque algunos investigadores todavía dudan de la antigüedad de los quipus, aquí seguimos a los investigadores que sostienen que ya estaban presentes en Caral, Perú, a menos que nuevas investigaciones demuestren lo contrario.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_sa-where-is-south-america.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: América del Sur en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: América del Sur en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4cfea7ca-4581-4ce7-8b6b-7b0cb6c0ab4c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "4cfea7ca-4581-4ce7-8b6b-7b0cb6c0ab4c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Practicar con el Quipu\n\nEl quipu se lee en las cuerdas verticales que cuelgan de la cuerda horizontal principal, y cada nudo representa una cuenta. Añade nudos hasta que la cuerda muestre el número propuesto.\n\nRepresenta el número propuesto con el quipu.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9e1a6a43-6127-4773-96f8-b0c01afef69f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "9e1a6a43-6127-4773-96f8-b0c01afef69f",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Numbers and Bodies (La Blanca, Guatemala)",
+               "page": "https://www.researchgate.net/publication/404241806_Numbers_and_Bodies_Potential_Early_Numeration_on_a_Middle_Preclassic_Figurine_from_La_Blanca_Guatemala",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Los Números Mesoamericanos\n\nInvestigaciones recientes sugieren que un sistema numérico comenzó a desarrollarse en Mesoamérica alrededor de <htdate0>. Esto puede ampliar nuestro entendimiento anterior, que situaba su uso alrededor del 300 a. C.",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "-600",
+                     "month": "",
+                     "day": ""
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/mapswire-continent_na-printable-map-north-america-robinson-269_mesoamerica2.jpg\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Mesoamérica en el mapa de América del Norte.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Mesoamérica en el mapa de América del Norte.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "47e945fd-35eb-4df3-a887-ffb03d87df96",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "47e945fd-35eb-4df3-a887-ffb03d87df96",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Numbers and Bodies (La Blanca, Guatemala)",
+               "page": "https://www.researchgate.net/publication/404241806_Numbers_and_Bodies_Potential_Early_Numeration_on_a_Middle_Preclassic_Figurine_from_La_Blanca_Guatemala",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Practicar con los Números Mesoamericanos\n\nEn el sistema mesoamericano, un punto vale 1 y una barra vale 5. Usa los botones para construir el número propuesto con puntos y barras.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1fac8da7-30e7-4191-88d0-77aad9f537ae",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "1fac8da7-30e7-4191-88d0-77aad9f537ae",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aacf33a-fb94-4535-a66f-3997087fa404",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Europa: Los Calculi\n\nNo podemos estar seguros de que Caral, en Perú, fuera el primer lugar en hacer quipus, porque los quipus no se conservan bien con el tiempo. El mismo problema ocurre con el ábaco.\n\nPor esta razón, comenzamos nuestro recorrido con los *calculi*, cuyo uso los artículos que consultamos datan alrededor de <htdate0>.",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "-300",
+                     "month": "",
+                     "day": ""
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_eu-where-is-europe.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Europa en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Europa en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0204fa36-44ce-439a-95f4-506faf2071aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0204fa36-44ce-439a-95f4-506faf2071aa",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aacf33a-fb94-4535-a66f-3997087fa404",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Europa: Practicar con los Calculi\n\nEn los calculi, cada columna tiene un valor posicional distinto. Los marcadores debajo de la barra valen 1 y los marcadores encima de la barra valen 5. Mueve los marcadores hacia la barra para representar el número propuesto.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd121753-9c08-4aef-931c-a2e98ab0c827",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "fd121753-9c08-4aef-931c-a2e98ab0c827",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Smith, D. E., & Karpinski, L. C. (1911). The Hindu-Arabic Numerals.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=YEw6AAAAMAAJ",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (India): Los Números Indoarábigos\n\nNo podemos estar seguros de cuándo surgieron los números indoarábigos: los sistemas de escritura llegaron a la India hace apenas unos 2.300 años, aunque los números pueden haber existido antes.\n\nPor esta razón, incluimos aquí los números indios: aparecen en las inscripciones de Ashoka datadas de <htdate0> y <htdate1>.",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "-268",
+                     "month": "",
+                     "day": ""
+                  },
+                  {
+                     "type": "gregory",
+                     "year": "-232",
+                     "month": "",
+                     "day": ""
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_as-where-is-asia.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Asia en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Asia en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c2307e16-5510-47d3-a69d-cf3fc6bf4748",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "c2307e16-5510-47d3-a69d-cf3fc6bf4748",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Smith, D. E., & Karpinski, L. C. (1911). The Hindu-Arabic Numerals.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=YEw6AAAAMAAJ",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia: Practicar con los Números Indoarábigos\n\nEn una secuencia, cada número sigue al anterior por un paso fijo. Observa la secuencia y elige el número que falta.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f229d982-20c6-4e7f-8d88-e3440b45e356",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "f229d982-20c6-4e7f-8d88-e3440b45e356",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (China): El Suanpan\n\nAlrededor de <htdate0>, tenemos la primera información sobre el *suanpan* (算盤), el ábaco chino. Este ábaco se diferencia de los *calculi* porque tiene un número distinto de cuentas.",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "-190",
+                     "month": "",
+                     "day": ""
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_as-where-is-asia.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Asia en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Asia en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5bf9c904-3e80-4589-aabf-736e655e236a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "5bf9c904-3e80-4589-aabf-736e655e236a",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (China): Practicar con el Suanpan\n\nEscribe el número propuesto en el suanpan moviendo las cuentas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8b6f0933-069d-419b-aa69-586eac0110d8",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8b6f0933-069d-419b-aa69-586eac0110d8",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: La Yupana\n\nVolviendo a América (Abya Yala), sabemos que los incas — durante los siglos XV y XVI, según el calendario gregoriano — crearon una herramienta para hacer matemáticas. Más aún, tenemos evidencia de que la *yupana* se usaba junto con los *quipus*.\n\nEn esta aplicación, exploramos el método Yupana Inka Tawa Pukllay, desarrollado por Dhavit Prem, para aprender a usar esta herramienta ancestral.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/mapswire-continent_sa-printable-map-south-america-lambert-az-hemi-271_Tawantsuyu.jpg\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: América del Sur (Tawantinsuyu) en el mapa.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: América del Sur (Tawantinsuyu) en el mapa.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "baec6b37-e625-48b2-bbde-9ac643ed1962",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "baec6b37-e625-48b2-bbde-9ac643ed1962",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Dhavit Prem",
+               "page": "https://www.youtube.com/watch?v=qynAx9YBO1Y",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Practicar con la Yupana\n\nEn la yupana, cada fila representa un dígito, y las semillas se colocan en las celdas. Usa los botones para representar el número propuesto en la fila.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fbc0deff-4068-4126-8438-f689bd492740",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "fbc0deff-4068-4126-8438-f689bd492740",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Maričić, S., & Lazić, B. (2020). Abacus computing tool.",
+               "page": "https://scidar.kg.ac.rs/bitstream/123456789/14760/1/0352-23342001057M.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (Japón): El Soroban\n\nDurante el siglo XVI, según el calendario gregoriano, el *suanpan* (算盤) llegó a Japón, donde pasó a conocerse como *soroban* (算盤). Este soroban es la aproximación más cercana a los *calculi* romanos que vimos antes en esta clase.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_as-where-is-asia.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Asia en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Asia en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "013cfc0f-9320-400f-9cc4-11f6331514fe",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "013cfc0f-9320-400f-9cc4-11f6331514fe",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Maričić, S., & Lazić, B. (2020). Abacus computing tool.",
+               "page": "https://scidar.kg.ac.rs/bitstream/123456789/14760/1/0352-23342001057M.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (Japón): Practicar con el Soroban\n\nEscribe el número propuesto en el soroban moviendo las cuentas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b37b0581-8eea-4c39-a0c7-3db8b9541afa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "b37b0581-8eea-4c39-a0c7-3db8b9541afa",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Mapswire",
+               "page": "https://mapswire.com",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Rusia: El Schyoty\n\nAlrededor de <htdate0>, en Rusia, se desarrolló otra herramienta usada para representar números. Aunque algunas personas la llaman ábaco, no podemos evaluar posibles conexiones entre ella y los ábacos anteriores que estudiamos aquí.",
+               "source": [],
+               "date_time": [
+                  {
+                     "type": "gregory",
+                     "year": "1618",
+                     "month": "",
+                     "day": ""
+                  }
+               ],
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/Mapswire/continent_as-where-is-asia.png\">",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "*Figura: Asia en el mapamundi.*",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura: Asia en el mapamundi.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "97e8f1aa-6a33-484f-8fc1-03a40b033f67",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "97e8f1aa-6a33-484f-8fc1-03a40b033f67",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Rusia: Practicar con el Schyoty\n\nEscribe el número propuesto en el schyoty moviendo las cuentas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "82ccdca5-86a7-493b-b1d9-eab19b1fd555",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "82ccdca5-86a7-493b-b1d9-eab19b1fd555",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, revisamos diferentes sistemas numéricos y observamos que la época en que fueron creados no sigue el camino de la ocupación humana del mundo.\n\nComo resultado, podemos llegar a algunas conclusiones:\n- Todos somos humanos, y el conocimiento no surgió en un solo lugar para luego extenderse por el mundo.\n- La base de las matemáticas siempre estuvo en todas partes.\n- Podemos llegar a las mismas conclusiones representando los números de maneras distintas.\n\nEn las próximas clases, aprenderemos a trabajar con estos números.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

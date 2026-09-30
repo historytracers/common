@@ -1,0 +1,57 @@
+{
+   "title": "Jogo da sequência (Famílias)",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "9d4c7f85-0e69-4795-a738-0acb54f2011d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "1764f26a-ceb3-4a6b-89c2-858af385efa7",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9d4c7f85-0e69-4795-a738-0acb54f2011d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9d4c7f85-0e69-4795-a738-0acb54f2011d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Jogo da sequência (Famílias)\n\nComplete a sequência encontrando o número que falta. Para isso, use as setas e ajuste o valor até acertar.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

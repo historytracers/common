@@ -1,0 +1,57 @@
+{
+   "title": "Practicing with the Yupana (Addition)",
+   "index": "Yupana",
+   "sources": [
+      "b0bb8da3-ca00-453e-9060-9dfa767c80e2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777406"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9cf94a42-fb5d-4f71-8f95-4d6775a37108",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b0bb8da3-ca00-453e-9060-9dfa767c80e2",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b0bb8da3-ca00-453e-9060-9dfa767c80e2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing with the Yupana (Addition)\n\nIn this game you will practice addition with the Yupana Inka Tawa Pukllay method. The game uses a Yupana with 4 rows to add two numbers, so it represents values up to 4,999. You can add more rows to represent larger numbers without limits.\n\nThe first example shows the addition of 512 + 513. First, switch between the three options to understand the Yupana Inka Tawa Pukllay. Each option does the following:\n- Values: shows how the numbers are written on the Yupana;\n- Result: shows the final result of the addition operation;\n- Step by Step: performs the addition row by row.\n\nYou can also change the values in the example. After changing them, first click the Values button to display the numbers. Then see how they are represented on the Yupana.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

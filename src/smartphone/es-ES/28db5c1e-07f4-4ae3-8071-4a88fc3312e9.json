@@ -1,0 +1,57 @@
+{
+   "title": "Sumando dos números",
+   "index": "AbacusScreen",
+   "sources": [
+      "ba340a77-cf71-4471-8e4c-43afa358833b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a4567cff-bbfa-45b0-a9b7-5d491e1e2b23",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ba340a77-cf71-4471-8e4c-43afa358833b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ba340a77-cf71-4471-8e4c-43afa358833b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando dos números\n\nVamos a sumar dos números menores que 5 usando solo la primera columna del ábaco. Primero, representa el primer número. Luego, suma el segundo número moviendo los marcadores. Completa todos los pasos para finalizar la suma.\n\nEn este nivel, las sumas dan 5 o más. Cuando cinco marcadores inferiores estén juntos, cámbialos por un marcador superior (valor 5) y repite hasta completar todos los pasos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

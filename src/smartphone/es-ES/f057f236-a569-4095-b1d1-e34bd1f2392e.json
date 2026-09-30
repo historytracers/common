@@ -1,0 +1,57 @@
+{
+   "title": "Escribiendo en el Soroban",
+   "index": "Another Way to Count",
+   "sources": [
+      "e434ae19-4f25-4880-8227-0970cd27ccb6"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777628"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "831e51e8-c05e-48fa-a76c-1e28a42394fc",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escribiendo en el Soroban\n\nEste es el primero de una serie de textos sobre cómo usar el Soroban (算盤). Aquí representaremos números del 0 al 9; en los próximos textos lo usaremos de forma más amplia. Por ahora, solo trabajamos con la primera columna de la derecha.\n\nEl marcador superior (rojo) vale 5 y el inferior (azul) vale 1. Coloca los valores que se piden en el cuadro amarillo, cerca del cuadro \"Valor\".",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Multiplying without Limits",
+   "index": "AbacusScreen",
+   "sources": [
+      "052bd667-eb38-4e87-8c05-439cfd9c4178"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7bd66559-6319-47cc-9a34-a5a1c20a2eed",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "052bd667-eb38-4e87-8c05-439cfd9c4178",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=052bd667-eb38-4e87-8c05-439cfd9c4178",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplying without Limits\n\nFirst, set the abacus to show each intermediate product by tapping the beads. Multiply by the tens digit first, then by the ones digit, and add each result to the total.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

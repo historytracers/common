@@ -1,0 +1,131 @@
+{
+   "title": "Contando com Ossos",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "7d2fd4de-5c10-4811-957c-8233bc8d21de"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790777397"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f34a3844-258b-493c-b473-30a6c8ec4084",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Contando Como os Humanos Antigos\n\nObserve as marcas no osso: elas se parecem com nossos dedos. Neste jogo, você faz o contrário: observa mãos com dedos levantados e marca no osso a mesma quantidade, até que as marcas coincidam com eles.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fe3f48ce-81bb-44d9-a509-df960dc0f3bb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fe3f48ce-81bb-44d9-a509-df960dc0f3bb",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Contando com Ossos\n\nPrimeiro, conte os dedos levantados. Depois, coloque no osso a mesma quantidade de marcas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "032a8b5c-22d1-41c2-9cbe-0e30fbb8d716",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "032a8b5c-22d1-41c2-9cbe-0e30fbb8d716",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Que Praticamos?\n\nCom este jogo, você pratica transformar uma quantidade em uma sequência de marcas, como alguns povos antigos faziam nos ossos. Também pratica contar com os dedos das próprias mãos e, quando a quantidade cresce, com as mãos de outra pessoa.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

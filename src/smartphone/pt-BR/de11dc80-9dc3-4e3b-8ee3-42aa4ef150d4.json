@@ -1,0 +1,42 @@
+{
+   "title": "Tabela de Multiplicação",
+   "index": "AbacusScreen",
+   "sources": [],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1790553114"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "2340350d-8eb9-4d11-b0ec-82ca411b9508",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Tabela de Multiplicação\n\nSelecione um número, depois toque em Automático para ver o ábaco mostrar cada passo da multiplicação, ou toque em Próximo Passo para avançar manualmente. Complete todos os 10 passos para finalizar.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
