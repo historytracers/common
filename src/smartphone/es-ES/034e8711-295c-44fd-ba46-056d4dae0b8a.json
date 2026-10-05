@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nEn las clases anteriores, aprendimos que, cuando no hay nadie con quien compartir, todo permanece concentrado. Después, aprendimos que dividir entre 1 también significa mantener todo junto.\n\nPero ese no es el escenario completo. Si hoy estamos aquí, es porque la división — o el compartir — permitió que surgieran cosas diferentes. En esta clase veremos cómo.",
+               "text": "#### Introducción\n\nEn las clases anteriores aprendimos que, cuando no hay nadie con quien compartir, todo queda junto. Dividir entre 1 también mantiene todo en un solo lugar.\n\nPero no es solo eso: compartir es lo que permite que aparezcan cosas diferentes. En esta clase veremos cómo.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -109,7 +109,7 @@
          ],
          "text": [
             {
-               "text": "#### Nosotros Mismos\n\nEmpecemos una vez más con nuestras manos. En clases anteriores aprendimos que tenemos diez dedos, pero no es la única forma de agruparlos. También podemos decir que tenemos 5 dedos en cada mano, lo que significa dividir el total en dos grupos de 5 (10 dividido entre 5 es 2).",
+               "text": "#### Nosotros Mismos\n\nEmpecemos otra vez por nuestras manos. Tenemos diez dedos, pero no es la única forma de agruparlos. Cada mano tiene 5 dedos, así que los diez se dividen en dos grupos de 5 (10 dividido entre 5 da 2).",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -122,7 +122,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "Two open hands, with fingers spread.",
+               "imgdesc": "Dos manos abiertas con los dedos extendidos.",
                "format": "html",
                "PostMention": ""
             }
@@ -167,7 +167,7 @@
          ],
          "text": [
             {
-               "text": "#### El Papel\n\nAnteriormente también dividimos una hoja de papel en diez partes. Pero imagina que hacemos una división más corta y cortamos la hoja solo por la mitad. Entonces tenemos dos mitades de la hoja.",
+               "text": "#### El Papel\n\nAntes dividimos una hoja de papel en diez partes. Ahora hagamos una división más pequeña y cortemos la hoja solo por la mitad. Quedan dos mitades.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -180,7 +180,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "A sheet of paper divided into two equal halves.",
+               "imgdesc": "Una hoja de papel dividida en dos mitades iguales.",
                "format": "html",
                "PostMention": ""
             }
@@ -225,7 +225,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Nueva Representación\n\nEn las clases anteriores y en esta, hemos visto que las cosas pueden unificarse o unirse, y también hemos observado que pueden dividirse.\n\nPara presentar las dos ideas juntas, vamos a usar la idea de fracción. En una fracción, escribimos las partes arriba — el numerador — y el total abajo — el denominador. Una barra separa ambas.",
+               "text": "#### Una Nueva Representación\n\nHasta ahora hemos visto que las cosas pueden unirse — y también pueden dividirse.\n\nPara mostrar las dos ideas a la vez, usamos una fracción. Las partes van arriba (numerador), el total abajo (denominador) y una barra las separa.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -238,7 +238,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "A fraction with the numerator on top and the denominator below.",
+               "imgdesc": "Una fracción con el numerador arriba y el denominador abajo.",
                "format": "html",
                "PostMention": ""
             }
@@ -295,7 +295,7 @@
          ],
          "text": [
             {
-               "text": "#### Juntos\n\nVamos a usar nuestra representación en fracción para entender lo que vemos en esta página. Empecemos con las dos mitades del papel. Cuando las dos partes están unidas, podemos representarlas como 2 pedazos juntos en el numerador, divididos por el total de 2, que es igual a 1. Como vimos, cuando todo está junto, es solo 1.",
+               "text": "#### Juntos\n\nUsemos las fracciones para entender lo que vemos en esta página. Las dos mitades de la hoja, unidas, son 2 partes de un total de 2.\n\n2 sobre 2 es igual a 1. Cuando todo está junto, es solo 1.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -308,7 +308,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "Two over two equals one.",
+               "imgdesc": "Dos sobre dos es igual a uno.",
                "format": "html",
                "PostMention": ""
             }
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Dividido\n\nCuando cortamos una hoja de papel por la mitad, nos quedamos con dos partes, en lugar de la pieza única que teníamos antes.\n\nRepresentamos esta situación escribiendo uno sobre dos (1/2). Y volvemos a la situación anterior sumando las dos partes.",
+               "text": "#### Dividido\n\nCuando cortamos la hoja por la mitad, una pieza se convierte en dos partes.\n\nEscribimos eso como uno sobre dos (1/2). Si sumamos las dos partes, volvemos al punto de partida.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -366,7 +366,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "One half plus one half equals two over two.",
+               "imgdesc": "Un medio más un medio es igual a dos sobre dos.",
                "format": "html",
                "PostMention": ""
             }
@@ -386,7 +386,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### ¡Vamos a Pensar!\n\n¿Podemos representar también los dedos de ambas manos usando fracciones?",
+               "text": "#### ¡Vamos a Pensar!\n\n¿Podemos también escribir los dedos de ambas manos como fracciones?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -447,7 +447,7 @@
          ],
          "text": [
             {
-               "text": "#### Los Lados del Cuerpo\n\nNuestro cuerpo también puede entenderse, en principio, como si tuviera dos lados (por ahora, vamos a ignorar la tercera dimensión: la profundidad). Si queremos representar los dedos por lado, podríamos escribir los dedos como:",
+               "text": "#### Los Lados del Cuerpo\n\nPor ahora, veamos el cuerpo como si tuviera dos lados (ignoraremos la profundidad). Contando solo un lado, podemos escribir los dedos como:",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -460,7 +460,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "Five over two plus five over two equals ten over two equals five.",
+               "imgdesc": "Cinco sobre dos más cinco sobre dos es igual a diez sobre dos, que es igual a cinco.",
                "format": "html",
                "PostMention": ""
             }
@@ -505,7 +505,7 @@
          ],
          "text": [
             {
-               "text": "#### Otra Representación\n\nTambién podemos representar todos los dedos de las manos usando fracciones. En este escenario, representaríamos cada dedo como 1/10. Como consecuencia, si sumamos los diez dedos, tendríamos 10/10 y, por lo tanto, representaríamos el total de dedos como 1.",
+               "text": "#### Otra Representación\n\nTambién podemos contar los diez dedos con fracciones. Cada dedo es 1/10. Si sumamos los diez dedos, tenemos 10/10 — es decir, 1.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -518,7 +518,7 @@
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "Ten ones over ten equals ten over ten equals one.",
+               "imgdesc": "Diez unos sobre diez es igual a diez sobre diez, que es igual a uno.",
                "format": "html",
                "PostMention": ""
             }
@@ -563,7 +563,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase aprendimos el concepto de fracción. Aprendimos que podemos escribir arriba la parte de algo que estamos contando y abajo el total. Y, cuando sumamos todas las partes, volvemos a tener 1.\n\nLo evaluamos en dos escenarios diferentes — con nuestras manos y con un pedazo de papel —, pero esto es solo una introducción. Las fracciones también muestran la relación entre multiplicación y división, que exploraremos más en la próxima clase.",
+               "text": "#### Conclusión\n\nEn esta clase aprendimos qué es una fracción: la parte arriba, el total abajo — y que sumar todas las partes de nuevo da 1.\n\nLo probamos con nuestras manos y con un pedazo de papel. Esto es solo el comienzo: las fracciones también unen la multiplicación y la división, que veremos en la próxima clase.",
                "source": null,
                "date_time": null,
                "isTable": false,

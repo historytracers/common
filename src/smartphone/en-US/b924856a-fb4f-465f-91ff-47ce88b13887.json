@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nWhen we leave home to go to a park, a school, a market, or anywhere else, we usually return later.\n\nIn previous classes, we learned that we can represent the growth of numbers as a road where we always walk in the direction in which the numbers increase. In this class, we will learn how to go back to the same position.",
+               "text": "#### Introduction\n\nWhen we leave home for a park, a school or a market, we usually come back later.\n\nEarlier, we learned to picture numbers growing along a road, always walking where the numbers increase. In this class, we learn how to walk back.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Remembering the Axes\n\nLet us remember the scenario in which we build a road and mark some numbers on it. We called this road an **axis**.",
+               "text": "#### Remembering the Axes\n\nRemember the road we built with some numbers marked on it. We call this road an **axis**.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -131,7 +131,7 @@
          ],
          "text": [
             {
-               "text": "#### Walking Five Steps\n\nNow, starting from the initial position of the axis (0), if we take 5 steps to the right, we are performing two kinds of calculation that we have already learned:",
+               "text": "#### Walking Five Steps\n\nStarting at 0, five steps to the right require two calculations we already know:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -198,7 +198,7 @@
          ],
          "text": [
             {
-               "text": "#### A New Operation\n\nWhen we walk or run from an initial position, we move away from it, and we need a new mathematical operation to measure this distance properly, even though we can add or multiply the number of steps taken. To do this, we introduce **subtraction**, which measures the difference between two numbers.\n\nIn our example of 5 steps, we have:",
+               "text": "#### A New Operation\n\nWhen we walk away from a starting point, we need a way to measure that distance. We can already add or multiply the steps. Now we introduce **subtraction**, which measures the difference between two numbers.\n\nFor our 5 steps:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### Back to the Origin\n\nNow, let us imagine that we have finished everything we had to do at our destination, 5 steps from the origin, and we walk back the same number of steps. This means we return to the origin, and as a consequence, this event can also be represented with subtraction:",
+               "text": "#### Back to the Origin\n\nNow imagine we finish at our destination, 5 steps from the origin, and walk back the same number of steps. We reach the origin again — and we can show it with a subtraction:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -290,7 +290,7 @@
          ],
          "text": [
             {
-               "text": "#### From Another Starting Point\n\nNow, suppose we start walking and we reach position 1. When we stop walking, we observe that we are already at position 9. We can find the number of steps taken by subtracting 1 from 9:",
+               "text": "#### From Another Starting Point\n\nNow suppose we start at position 1 and stop at position 9. To count the steps, subtract 1 from 9:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -323,7 +323,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nCan we understand the subtraction sign as going back on an axis?",
+               "text": "#### Let Us Think!\n\nCan we read the minus sign as walking back along an axis?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### A Signal to Return\n\nObserving the two subtractions we did (5 − 5 = 0 and 9 − 1 = 8), the result was always smaller than the first value. As a consequence, we moved back along the axis.\n\nTherefore, we can also understand the minus sign (−) as an indication that we are changing direction, while the plus sign (+), used in addition, moves us forward along the same axis.",
+               "text": "#### A Signal to Return\n\nLook at the two subtractions we did (5 − 5 = 0 and 9 − 1 = 8). Each result is smaller than the value we started with, so we moved back along the axis.\n\nThat is why the minus sign (−) tells us to change direction, while the plus sign (+) in addition moves us forward on the same axis.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -397,7 +397,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned about another mathematical operation: **subtraction**. We also learned that this operation is used to measure distance and length, and that it can indicate a return to a previous position.",
+               "text": "#### Conclusion\n\nIn this class, we learned about a new operation: **subtraction**. We use it to measure distances and lengths, and it can show a return to a previous position.",
                "source": [],
                "date_time": null,
                "isTable": false,

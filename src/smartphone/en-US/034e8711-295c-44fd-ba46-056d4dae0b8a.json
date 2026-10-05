@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nIn the previous classes, we learned that when there is no one to share with, everything stays concentrated. After that, we learned that dividing by 1 also means keeping everything together.\n\nBut that is not the whole story. If we are here today, it is because the division — or sharing — allowed different things to come into existence. In this class, we will see how.",
+               "text": "#### Introduction\n\nIn earlier classes, we learned that with no one to share with, everything stays together. Dividing by 1 also means keeping everything in one place.\n\nBut that is not the whole story: sharing is what allows different things to appear. In this class, we will see how.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -109,7 +109,7 @@
          ],
          "text": [
             {
-               "text": "#### Ourselves\n\nLet us start with our hands once more. In earlier classes, we learned that we have ten fingers, but that is not the only way to group them. We can also say that we have 5 fingers on each hand, meaning we divide the total into two groups of 5 (10 divided by 5 is 2).",
+               "text": "#### Ourselves\n\nLet us start with our hands again. We have ten fingers, but that is not the only way to group them. Each hand has 5 fingers, so the ten split into two groups of 5 (10 divided by 5 gives 2).",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -167,7 +167,7 @@
          ],
          "text": [
             {
-               "text": "#### The Paper\n\nEarlier, we also split a sheet of paper into ten parts. But imagine that we make a shorter division and cut the sheet only in half. Then we have two halves of the sheet.",
+               "text": "#### The Paper\n\nEarlier, we split a sheet of paper into ten parts. Now let us make a smaller division and cut the sheet only in half. We get two halves.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -225,7 +225,7 @@
          ],
          "text": [
             {
-               "text": "#### A New Representation\n\nIn the previous lessons and in this one, we have seen that things can be unified or joined together, and we have also seen that they can be split.\n\nTo present both ideas together, we will use the idea of a fraction. In a fraction, we write the parts on top — the numerator — and the total below — the denominator. A bar separates the two.",
+               "text": "#### A New Representation\n\nSo far we have seen that things can be joined together — and that they can be split.\n\nTo show both ideas at once, we use a fraction. The parts go on top (the numerator), the total goes below (the denominator), and a bar separates them.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -295,7 +295,7 @@
          ],
          "text": [
             {
-               "text": "#### Together\n\nLet us use our fraction representation to understand what we are seeing on this page. Let us start with the two halves of the paper. When the two parts are united, we can represent them as 2 pieces together in the numerator, divided by the total of 2, which is equal to 1. As we saw, when everything is together, it is just 1.",
+               "text": "#### Together\n\nLet us use fractions to read this page. The two halves of the paper, joined, are 2 parts out of a total of 2.\n\n2 over 2 equals 1. When everything is together, it is just 1.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -353,7 +353,7 @@
          ],
          "text": [
             {
-               "text": "#### Split\n\nWhen we cut a sheet of paper in half, we end up with two parts instead of the single piece we had before.\n\nWe represent this situation by writing one over two (1/2). And we return to the previous situation by adding both parts together.",
+               "text": "#### Split\n\nWhen we cut the sheet in half, one piece becomes two parts.\n\nWe write that as one over two (1/2). Adding the two parts brings us back to where we started.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -386,7 +386,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nCan we also represent the fingers of both hands using fractions?",
+               "text": "#### Let Us Think!\n\nCan we also write the fingers of both hands as fractions?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -447,7 +447,7 @@
          ],
          "text": [
             {
-               "text": "#### The Sides of the Body\n\nOur body can also be understood, at first, as having two sides (for now, we will ignore the third dimension — depth). If we want to represent the fingers per side, we could write the fingers as:",
+               "text": "#### The Sides of the Body\n\nFor now, let us see the body as having two sides (we will ignore depth). Counting only one side, we can write the fingers as:",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -505,7 +505,7 @@
          ],
          "text": [
             {
-               "text": "#### Another Representation\n\nWe can also represent all the fingers of the hands using fractions. In this scenario, we would represent each finger as 1/10. As a consequence, if we add all ten fingers together, we would have 10/10, and therefore we would represent the total fingers as 1.",
+               "text": "#### Another Representation\n\nWe can also count all ten fingers with fractions. Each finger is 1/10. Adding the ten fingers gives 10/10 — that is, 1.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -563,7 +563,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned the concept of a fraction. We learned that we can write on top the part of something we are counting and below the total. And when we add every part together, we return to having 1.\n\nWe evaluated this in two different scenarios — with our hands and with a piece of paper — but this is only an introduction. Fractions also show us the relationship between multiplication and division, which we will explore more in the next class.",
+               "text": "#### Conclusion\n\nIn this class, we learned what a fraction is: the part on top, the total below — and that adding every part back together gives 1.\n\nWe tried it with our hands and with a piece of paper. This is only a beginning: fractions also connect multiplication and division, which we explore in the next class.",
                "source": null,
                "date_time": null,
                "isTable": false,

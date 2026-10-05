@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nCuando salimos de casa para ir a un parque, a una escuela, a un mercado o a cualquier otro lugar, normalmente regresamos después.\n\nEn las clases anteriores, aprendimos que podemos representar el crecimiento de los números como un camino en el que siempre avanzamos en la dirección en que los números aumentan. En esta clase, aprenderemos cómo volver a la misma posición.",
+               "text": "#### Introducción\n\nCuando salimos de casa hacia un parque, una escuela o un mercado, normalmente regresamos después.\n\nEn las clases anteriores aprendimos a imaginar los números creciendo en un camino, avanzando siempre hacia donde aumentan. En esta clase aprenderemos a caminar de vuelta.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Recordando los Ejes\n\nRecordemos el escenario en el que construimos un camino y marcamos algunos números en él. Llamamos a ese camino un **eje**.",
+               "text": "#### Recordando los Ejes\n\nRecordemos el camino que construimos con algunos números marcados. Llamamos a ese camino un **eje**.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -131,7 +131,7 @@
          ],
          "text": [
             {
-               "text": "#### Caminando Cinco Pasos\n\nAhora, partiendo de la posición inicial del eje (0), si damos 5 pasos hacia la derecha, estaremos realizando dos tipos de cálculo que ya aprendimos:",
+               "text": "#### Caminando Cinco Pasos\n\nPartiendo del 0, cinco pasos hacia la derecha requieren dos cálculos que ya conocemos:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -198,7 +198,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Nueva Operación\n\nCuando caminamos o corremos desde una posición inicial, nos alejamos de ella y necesitamos una nueva operación matemática para medir esa distancia correctamente, aunque podamos sumar o multiplicar el número de pasos dados. Para ello, presentamos la **resta**, que mide la diferencia entre dos números.\n\nEn nuestro ejemplo de 5 pasos, tenemos:",
+               "text": "#### Una Nueva Operación\n\nCuando caminamos lejos de un punto de partida, necesitamos medir esa distancia. Ya sabemos sumar o multiplicar los pasos. Ahora presentamos la **resta**, que mide la diferencia entre dos números.\n\nEn nuestros 5 pasos:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### De Vuelta al Origen\n\nAhora, imaginemos que terminamos todo lo que teníamos que hacer en nuestro destino, 5 pasos desde el origen, y volvemos el mismo número de pasos. Esto significa que regresamos al origen y, como consecuencia, este evento también puede representarse con una resta:",
+               "text": "#### De Vuelta al Origen\n\nAhora imaginemos que terminamos en nuestro destino, 5 pasos desde el origen, y volvemos el mismo número de pasos. Llegamos otra vez al origen — y podemos mostrarlo con una resta:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -290,7 +290,7 @@
          ],
          "text": [
             {
-               "text": "#### Desde Otro Punto de Partida\n\nAhora, supongamos que empezamos a caminar y llegamos a la posición 1. Cuando dejamos de caminar, observamos que ya estamos en la posición 9. Podemos saber el número de pasos dados restando 1 de 9:",
+               "text": "#### Desde Otro Punto de Partida\n\nAhora supongamos que empezamos en la posición 1 y paramos en la posición 9. Para contar los pasos, restamos 1 de 9:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -323,7 +323,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### ¡Vamos a Pensar!\n\n¿Podemos entender el signo de resta como volver sobre un eje?",
+               "text": "#### ¡Vamos a Pensar!\n\n¿Podemos leer el signo menos como volver sobre un eje?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Señal para Regresar\n\nAl observar las dos restas que hicimos (5 − 5 = 0 y 9 − 1 = 8), el resultado fue siempre menor que el primer valor. Como consecuencia, retrocedimos a lo largo del eje.\n\nPor lo tanto, también podemos entender el signo menos (−) como una indicación de que estamos cambiando de dirección, mientras que el signo más (+), usado en la suma, nos hace avanzar sobre el mismo eje.",
+               "text": "#### Una Señal para Regresar\n\nMiremos las dos restas que hicimos (5 − 5 = 0 y 9 − 1 = 8). Cada resultado es menor que el valor de partida, así que retrocedimos por el eje.\n\nPor eso el signo menos (−) indica cambiar de dirección, mientras que el signo más (+), en la suma, nos hace avanzar por el mismo eje.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -397,7 +397,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase, aprendimos sobre otra operación matemática: la **resta**. También aprendimos que esta operación se usa para medir distancia y longitud, y que puede indicar un regreso a una posición anterior.",
+               "text": "#### Conclusión\n\nEn esta clase conocimos una nueva operación: la **resta**. La usamos para medir distancias y longitudes, y puede indicar el regreso a una posición anterior.",
                "source": [],
                "date_time": null,
                "isTable": false,

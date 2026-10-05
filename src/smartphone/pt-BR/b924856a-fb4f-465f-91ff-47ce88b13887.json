@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nQuando saímos de casa para ir a um parque, a uma escola, a um mercado ou a qualquer outro lugar, normalmente retornamos depois.\n\nNas aulas anteriores, aprendemos que podemos representar o crescimento dos números como uma estrada na qual caminhamos sempre na direção em que os números aumentam. Nesta aula, vamos aprender como voltar à mesma posição.",
+               "text": "#### Introdução\n\nQuando saímos de casa para ir a um parque, a uma escola ou a um mercado, normalmente voltamos depois.\n\nNas aulas anteriores, aprendemos a imaginar os números crescendo em uma estrada, sempre caminhando para onde eles aumentam. Nesta aula, aprendemos a caminhar de volta.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -85,7 +85,7 @@
          ],
          "text": [
             {
-               "text": "#### Relembrando os Eixos\n\nVamos relembrar o cenário em que construímos uma estrada e marcamos alguns números nela. Chamamos essa estrada de **eixo**.",
+               "text": "#### Relembrando os Eixos\n\nLembremos a estrada que construímos com alguns números marcados nela. Chamamos essa estrada de **eixo**.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -131,7 +131,7 @@
          ],
          "text": [
             {
-               "text": "#### Caminhando Cinco Passos\n\nAgora, partindo da posição inicial do eixo (0), se dermos 5 passos para a direita, estaremos realizando dois tipos de cálculo que já aprendemos:",
+               "text": "#### Caminhando Cinco Passos\n\nPartindo do 0, cinco passos para a direita exigem dois cálculos que já conhecemos:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -198,7 +198,7 @@
          ],
          "text": [
             {
-               "text": "#### Uma Nova Operação\n\nQuando caminhamos ou corremos a partir de uma posição inicial, nos afastamos dela e precisamos de uma nova operação matemática para medir essa distância corretamente, mesmo podendo somar ou multiplicar o número de passos dados. Para isso, apresentamos a **subtração**, que mede a diferença entre dois números.\n\nNo nosso exemplo de 5 passos, temos:",
+               "text": "#### Uma Nova Operação\n\nQuando caminhamos para longe do ponto de partida, precisamos medir essa distância. Já sabemos somar ou multiplicar os passos. Agora apresentamos a **subtração**, que mede a diferença entre dois números.\n\nNos nossos 5 passos:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### De Volta à Origem\n\nAgora, imaginemos que terminamos tudo o que tínhamos de fazer em nosso destino, 5 passos a partir da origem, e voltamos o mesmo número de passos. Isso significa que retornamos à origem e, como consequência, esse evento também pode ser representado com uma subtração:",
+               "text": "#### De Volta à Origem\n\nAgora imagine que terminamos no destino, 5 passos a partir da origem, e voltamos o mesmo número de passos. Chegamos de novo à origem — e podemos mostrar isso com uma subtração:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -290,7 +290,7 @@
          ],
          "text": [
             {
-               "text": "#### De Outro Ponto de Partida\n\nAgora, suponhamos que começamos a caminhar e chegamos à posição 1. Quando paramos de caminhar, observamos que já estamos na posição 9. Podemos descobrir o número de passos dados subtraindo 1 de 9:",
+               "text": "#### De Outro Ponto de Partida\n\nAgora suponha que começamos na posição 1 e paramos na posição 9. Para contar os passos, subtraia 1 de 9:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -323,7 +323,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nPodemos entender o sinal de subtração como voltar em um eixo?",
+               "text": "#### Vamos Pensar!\n\nPodemos ler o sinal de menos como voltar por um eixo?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### Um Sinal para Retornar\n\nObservando as duas subtrações que fizemos (5 − 5 = 0 e 9 − 1 = 8), o resultado foi sempre menor que o primeiro valor. Como consequência, voltamos ao longo do eixo.\n\nPortanto, também podemos entender o sinal de menos (−) como uma indicação de que estamos mudando de direção, enquanto o sinal de mais (+), usado na adição, nos faz avançar no mesmo eixo.",
+               "text": "#### Um Sinal para Retornar\n\nOlhemos as duas subtrações que fizemos (5 − 5 = 0 e 9 − 1 = 8). Cada resultado é menor que o valor de partida, então voltamos ao longo do eixo.\n\nPor isso o sinal de menos (−) indica mudar de direção, enquanto o sinal de mais (+), na adição, nos faz avançar no mesmo eixo.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -397,7 +397,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos sobre outra operação matemática: a **subtração**. Também aprendemos que essa operação é usada para medir distância e comprimento, e que pode indicar um retorno a uma posição anterior.",
+               "text": "#### Conclusão\n\nNesta aula conhecemos uma nova operação: a **subtração**. Usamos para medir distâncias e comprimentos, e ela pode indicar o retorno a uma posição anterior.",
                "source": [],
                "date_time": null,
                "isTable": false,
