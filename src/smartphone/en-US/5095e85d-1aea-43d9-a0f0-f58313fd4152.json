@@ -1,0 +1,364 @@
+{
+   "title": "The Same Result",
+   "index": "first_steps",
+   "sources": [
+      "58da6d75-ce8a-45f5-b57f-1f0763ee3568"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789657200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "1c0c17bb-c7d0-44c4-a1c8-5c3ffde13576",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "History Tracers Team — Shared Origin",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nLong ago, everything in the universe was together, with nothing separate to split. As matter appeared, the universe gained the chance to share and to divide.\n\nIn this class, we study division more closely. We start with a case where dividing and multiplying give the exact same result.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "821d1b02-a843-44a1-9e57-9a222bb1e013",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "821d1b02-a843-44a1-9e57-9a222bb1e013",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "text": "History Tracers Team — Counting",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "History Tracers Team — Shared Origin",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Our Body\n\nLook at our hands once more: 10 fingers in total. In the image below, each finger has one vertical rectangle, so we have 10 rectangles.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 18 340 235\" width=\"100%\"><g transform=\"translate(250,20) scale(0.6)\"><g id=\"leftHand\"><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g id=\"rightHand\" transform=\"scale(-1,1)\"><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><g fill=\"#ADD8E6\" stroke=\"none\"><rect x=\"105\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"135\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"165\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"195\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"225\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"255\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"285\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"315\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"345\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"375\" y=\"25\" width=\"20\" height=\"85\"/></g></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "10 rectangles, one for each finger, placed below two open hands.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8935778e-c9b9-4912-85d8-1f19f7b55288",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8935778e-c9b9-4912-85d8-1f19f7b55288",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### They Were Together\n\nAdding the same object 10 times gives a total of 10. What is split today can become a single thing again — just as the universe once was.\n\nNow imagine we recycle the paper: the 10 rectangles become one sheet again.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"200\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "A single long rectangle with the height of one small rectangle and the combined length of the ten.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "24b04843-adc6-4221-8b81-7d3c9442989e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "24b04843-adc6-4221-8b81-7d3c9442989e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b6428e19-afcf-4d3b-916d-46e5a332ef53",
+               "text": "Understanding the Multiplication Table (0 and 1)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b6428e19-afcf-4d3b-916d-46e5a332ef53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "text": "History Tracers Team — Counting",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Splitting Again\n\nNow suppose we take those 10 pieces and give them to one single person — the whole body, not just the hands. Since only one person receives them, that person keeps all 10: nothing is shared.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 18 340 220\" width=\"100%\"><g fill=\"#ADD8E6\" stroke=\"none\"><rect x=\"105\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"135\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"165\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"195\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"225\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"255\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"285\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"315\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"345\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"375\" y=\"25\" width=\"20\" height=\"85\"/></g><g transform=\"translate(202,130) scale(4.0)\" fill=\"#8D6E63\" stroke=\"none\"><path d=\"M12,0.5A2.5,2.5 0 1,1 12,5.5A2.5,2.5 0 1,1 12,0.5Z\"/><path d=\"M11,5.5L13,5.5L13,6.5L11,6.5Z\"/><path d=\"M8.5,6.5L15.5,6.5L14.5,14L9.5,14Z\"/><path d=\"M8.5,7L6,11.5L6.7,12L9,8.5Z\"/><path d=\"M15.5,7L18,11.5L17.3,12L15,8.5Z\"/><path d=\"M10,14L9.5,20.5L11,20.5L11.5,14Z\"/><path d=\"M14,14L14.5,20.5L13,20.5L12.5,14Z\"/></g></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Ten vertical rectangles and one person, representing the ten objects delivered to a single person.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6338bf98-2070-453b-88a7-3c30f91891e5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6338bf98-2070-453b-88a7-3c30f91891e5",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nAdding the same object 10 times gives 10. Giving those 10 objects to one person leaves that person with all 10.\n\nDoes multiplying or dividing by 1 always give back the value we started with?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9664975f-fc57-4bb9-8a4d-7f4486b2af6f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "9664975f-fc57-4bb9-8a4d-7f4486b2af6f",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "History Tracers Team — Shared Origin",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b5efc8f9-c268-430f-9681-7a43848ee48e",
+               "text": "History Tracers Team — First Steps",
+               "page": "https://www.historytracers.org/index.html?page=first_steps",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nWe learned that multiplying or dividing by 1 always returns the same value. So dividing by 1 is like concentrating everything into one.\n\nMultiplication works the same way: multiplying by 1 takes the value once, so it returns that same value. Everything stays equally concentrated.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

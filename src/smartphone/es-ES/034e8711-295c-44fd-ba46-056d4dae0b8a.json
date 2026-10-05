@@ -1,0 +1,584 @@
+{
+   "title": "Medio Pedazo",
+   "index": "first_steps",
+   "sources": [
+      "9b0e87f9-e372-49d4-979e-4ba9742f70e1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789657200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7c7c010b-9638-4e89-a59a-4460993464c0",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "20b14681-88c0-438a-a273-a0902ae5db38",
+               "text": "Equipo History Tracers — Nuestros Lados Son Iguales",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20b14681-88c0-438a-a273-a0902ae5db38",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn las clases anteriores aprendimos que, cuando no hay nadie con quien compartir, todo queda junto. Dividir entre 1 también mantiene todo en un solo lugar.\n\nPero no es solo eso: compartir es lo que permite que aparezcan cosas diferentes. En esta clase veremos cómo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "807279f7-17f8-45f8-b9e1-5fef440fe37c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "807279f7-17f8-45f8-b9e1-5fef440fe37c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "20b14681-88c0-438a-a273-a0902ae5db38",
+               "text": "Equipo History Tracers — Nuestros Lados Son Iguales",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20b14681-88c0-438a-a273-a0902ae5db38",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "72dcaa0f-07e3-41de-a637-c5b2f528dc33",
+               "text": "Entendiendo la Tabla de Multiplicación (2 y 3)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=72dcaa0f-07e3-41de-a637-c5b2f528dc33",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nosotros Mismos\n\nEmpecemos otra vez por nuestras manos. Tenemos diez dedos, pero no es la única forma de agruparlos. Cada mano tiene 5 dedos, así que los diez se dividen en dos grupos de 5 (10 dividido entre 5 da 2).",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 85 340 145\" width=\"100%\"><g transform=\"translate(250,0) scale(0.6)\"><g><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"scale(-1,1)\"><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Dos manos abiertas con los dedos extendidos.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5fbf0cfa-667d-432e-b940-15845b0855b3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5fbf0cfa-667d-432e-b940-15845b0855b3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3f68de7c-d729-4b62-9bb1-36c6f518fea4",
+               "text": "Equipo History Tracers — Simplicidad vs. Complejidad",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3f68de7c-d729-4b62-9bb1-36c6f518fea4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Papel\n\nAntes dividimos una hoja de papel en diez partes. Ahora hagamos una división más pequeña y cortemos la hoja solo por la mitad. Quedan dos mitades.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 200\" width=\"100%\"><rect x=\"30\" y=\"20\" width=\"280\" height=\"160\" fill=\"#ADD8E6\" stroke=\"#555555\" stroke-width=\"3\"/><line x1=\"170\" y1=\"20\" x2=\"170\" y2=\"180\" stroke=\"#555555\" stroke-width=\"3\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Una hoja de papel dividida en dos mitades iguales.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "90042b52-222f-4e82-9212-13e52e885c59",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "90042b52-222f-4e82-9212-13e52e885c59",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "0836cb37-3574-4ca8-9efa-d3fd158b0805",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Fraction.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Nueva Representación\n\nHasta ahora hemos visto que las cosas pueden unirse — y también pueden dividirse.\n\nPara mostrar las dos ideas a la vez, usamos una fracción. Las partes van arriba (numerador), el total abajo (denominador) y una barra las separa.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">numerador</span><span class=\"d\">denominador</span></span></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Una fracción con el numerador arriba y el denominador abajo.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f7992453-d1ac-42db-b749-7156478e15e8",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f7992453-d1ac-42db-b749-7156478e15e8",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Juntos\n\nUsemos las fracciones para entender lo que vemos en esta página. Las dos mitades de la hoja, unidas, son 2 partes de un total de 2.\n\n2 sobre 2 es igual a 1. Cuando todo está junto, es solo 1.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">2</span><span class=\"d\">2</span></span> = 1</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Dos sobre dos es igual a uno.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "69d13f0f-1fec-4b9e-944e-a3cb944852f4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "69d13f0f-1fec-4b9e-944e-a3cb944852f4",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Dividido\n\nCuando cortamos la hoja por la mitad, una pieza se convierte en dos partes.\n\nEscribimos eso como uno sobre dos (1/2). Si sumamos las dos partes, volvemos al punto de partida.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">1</span><span class=\"d\">2</span></span> + <span class=\"frac\"><span class=\"n\">1</span><span class=\"d\">2</span></span> = <span class=\"frac\"><span class=\"n\">1 + 1</span><span class=\"d\">2</span></span> = <span class=\"frac\"><span class=\"n\">2</span><span class=\"d\">2</span></span></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Un medio más un medio es igual a dos sobre dos.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d8ad1e85-baf6-43bc-89c1-e7d989670166",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d8ad1e85-baf6-43bc-89c1-e7d989670166",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Vamos a Pensar!\n\n¿Podemos también escribir los dedos de ambas manos como fracciones?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8b188a2a-6e5b-4883-8bb7-69fce4a2f40b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8b188a2a-6e5b-4883-8bb7-69fce4a2f40b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b16d461d-eb7a-484b-a78b-b12336edf3c0",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiple.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "857f1df2-38ce-4da0-9444-686e16ac2314",
+               "text": "Entendiendo la Tabla de Multiplicación (4 y 5)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=857f1df2-38ce-4da0-9444-686e16ac2314",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Los Lados del Cuerpo\n\nPor ahora, veamos el cuerpo como si tuviera dos lados (ignoraremos la profundidad). Contando solo un lado, podemos escribir los dedos como:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> + <span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">5 + 5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">10</span></span> = 1</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Cinco sobre diez más cinco sobre diez es igual a diez sobre diez, que es igual a uno.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b33eff32-c797-4c27-a9e4-755a7a77a0a0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b33eff32-c797-4c27-a9e4-755a7a77a0a0",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "0836cb37-3574-4ca8-9efa-d3fd158b0805",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Fraction.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Otra Representación\n\nTambién podemos contar los diez dedos con fracciones. Cada dedo es 1/10. Si sumamos los diez dedos, tenemos 10/10 — es decir, 1.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:13px;\"><span class=\"frac\"><span class=\"n\">1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">10</span></span> = 1</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Diez unos sobre diez es igual a diez sobre diez, que es igual a uno.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8f8ae568-9e03-4780-87b7-489f1dd4b164",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8f8ae568-9e03-4780-87b7-489f1dd4b164",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9b0e87f9-e372-49d4-979e-4ba9742f70e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "20b14681-88c0-438a-a273-a0902ae5db38",
+               "text": "Equipo History Tracers — Nuestros Lados Son Iguales",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20b14681-88c0-438a-a273-a0902ae5db38",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos qué es una fracción: la parte arriba, el total abajo — y que sumar todas las partes de nuevo da 1.\n\nLo probamos con nuestras manos y con un pedazo de papel. Esto es solo el comienzo: las fracciones también unen la multiplicación y la división, que veremos en la próxima clase.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
