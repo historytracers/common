@@ -1,0 +1,418 @@
+{
+   "title": "Walking Backwards",
+   "index": "Returning",
+   "sources": [
+      "964083ad-c587-43dc-9649-5b578714ab44"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791169200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "49d801a3-7764-4b6c-ac81-923b46c16a28",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWhen we leave home to go to a park, a school, a market, or anywhere else, we usually return later.\n\nIn previous classes, we learned that we can represent the growth of numbers as a road where we always walk in the direction in which the numbers increase. In this class, we will learn how to go back to the same position.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "eaf6bd4e-9f68-4945-ae49-1e4e46321975",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "eaf6bd4e-9f68-4945-ae49-1e4e46321975",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3918f1d9-8d7f-439f-8f76-e5c4ef741b5e",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Axis.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Remembering the Axes\n\nLet us remember the scenario in which we build a road and mark some numbers on it. We called this road an **axis**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg width=\"450\" height=\"100\"  fill=\"none\" stroke=\"black\"> <defs> <marker id=\"arrow\" viewBox=\"0 0 10 10\" refX=\"5\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto-start-reverse\"> <path d=\"M 0 0 L 10 5 L 0 10 z\" /></marker> </defs> <line x1=\"2\" y1=\"15\" x2=\"400\" y2=\"15\" stroke=\"black\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /> <text x=\"0\" y=\"40\" font-size=\"1.5em\">0</text> <text x=\"40\" y=\"40\" font-size=\"1.5em\">1</text> <text x=\"80\" y=\"40\" font-size=\"1.5em\">2</text> <text x=\"120\" y=\"40\" font-size=\"1.5em\">3</text> <text x=\"160\" y=\"40\" font-size=\"1.5em\">4</text> <text x=\"200\" y=\"40\" font-size=\"1.5em\">5</text> <text x=\"240\" y=\"40\" font-size=\"1.5em\">6</text> <text x=\"280\" y=\"40\" font-size=\"1.5em\">7</text> <text x=\"320\" y=\"40\" font-size=\"1.5em\">8</text> <text x=\"360\" y=\"40\" font-size=\"1.5em\">9</text> <line x1=\"5\" y1=\"15\" x2=\"5\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"45\" y1=\"15\" x2=\"45\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"85\" y1=\"15\" x2=\"85\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"125\" y1=\"15\" x2=\"125\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"165\" y1=\"15\" x2=\"165\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"205\" y1=\"15\" x2=\"205\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"245\" y1=\"15\" x2=\"245\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"285\" y1=\"15\" x2=\"285\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"325\" y1=\"15\" x2=\"325\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" /> <line x1=\"365\" y1=\"15\" x2=\"365\" y2=\"25\" stroke=\"black\" stroke-width=\"3\" />  </svg></p><p class=\"desc\"><b>Graphic 1: Representation of an axis with numbers. The numbers are placed below the line, and an arrow on the right end indicates the direction in which the numbers grow.</b></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c2dc5fb2-cd6a-4f9b-ac6f-9a7386dacc79",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c2dc5fb2-cd6a-4f9b-ac6f-9a7386dacc79",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Walking Five Steps\n\nNow, starting from the initial position of the axis (0), if we take 5 steps to the right, we are performing two kinds of calculation that we have already learned:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "| Adding | Multiplying |\n| --- | --- |\n| 1 + 1 + 1 + 1 + 1 = 5 | 5 × 1 = 5 |",
+               "source": [],
+               "date_time": null,
+               "isTable": true,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "*Table 1: Representation of the five steps using mathematics.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "02246a91-2cb8-4fcf-aa5c-9c678ce57e96",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "02246a91-2cb8-4fcf-aa5c-9c678ce57e96",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ad7733f8-38ad-406f-abee-d259e45bf383",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Subtraction.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2010",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A New Operation\n\nWhen we walk or run from an initial position, we move away from it, and we need a new mathematical operation to measure this distance properly, even though we can add or multiply the number of steps taken. To do this, we introduce **subtraction**, which measures the difference between two numbers.\n\nIn our example of 5 steps, we have:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"text-align=center\"><center>&nbsp;&nbsp;&nbsp;&nbsp;5<br />-&nbsp;&nbsp;&nbsp;0<br />____________<br />&nbsp;&nbsp;&nbsp;5</center></p><p class=\"desc\"><b>Calculation 1</b>: Number of steps from the origin.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f5d92755-a0ce-4cef-9b98-e391041950fd",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f5d92755-a0ce-4cef-9b98-e391041950fd",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Back to the Origin\n\nNow, let us imagine that we have finished everything we had to do at our destination, 5 steps from the origin, and we walk back the same number of steps. This means we return to the origin, and as a consequence, this event can also be represented with subtraction:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"text-align=center\"><center>&nbsp;&nbsp;&nbsp;&nbsp;5<br />-&nbsp;&nbsp;&nbsp;5<br />____________<br />&nbsp;&nbsp;&nbsp;0</center></p><p class=\"desc\"><b>Calculation 2</b>: Return to the origin.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "918c12d2-a14b-4686-abad-7d6b536e5668",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "918c12d2-a14b-4686-abad-7d6b536e5668",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### From Another Starting Point\n\nNow, suppose we start walking and we reach position 1. When we stop walking, we observe that we are already at position 9. We can find the number of steps taken by subtracting 1 from 9:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"text-align=center\"><center>&nbsp;&nbsp;&nbsp;&nbsp;9<br />-&nbsp;&nbsp;&nbsp;1<br />____________<br />&nbsp;&nbsp;&nbsp;8</center></p><p class=\"desc\"><b>Calculation 3</b>: Number of steps between two positions.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e1253c1d-a5bd-4e5e-82f1-66890737e4c2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e1253c1d-a5bd-4e5e-82f1-66890737e4c2",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nCan we understand the subtraction sign as going back on an axis?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2487e133-e610-426f-aacb-695ee1c5d6c4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "2487e133-e610-426f-aacb-695ee1c5d6c4",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Signal to Return\n\nObserving the two subtractions we did (5 − 5 = 0 and 9 − 1 = 8), the result was always smaller than the first value. As a consequence, we moved back along the axis.\n\nTherefore, we can also understand the minus sign (−) as an indication that we are changing direction, while the plus sign (+), used in addition, moves us forward along the same axis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6221f0f6-b47e-4d93-8138-2a243b2c3cc7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6221f0f6-b47e-4d93-8138-2a243b2c3cc7",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "964083ad-c587-43dc-9649-5b578714ab44",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=964083ad-c587-43dc-9649-5b578714ab44",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned about another mathematical operation: **subtraction**. We also learned that this operation is used to measure distance and length, and that it can indicate a return to a previous position.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

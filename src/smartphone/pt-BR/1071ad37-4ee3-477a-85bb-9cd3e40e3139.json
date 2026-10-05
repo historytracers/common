@@ -23,9 +23,21 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "828a11b4-4a9b-458a-ad1f-da69a9d158c2",
+               "text": "Wong, Jenny. Hendry, Lisa",
+               "page": "https://www.nhm.ac.uk/discover/the-origin-of-our-species.html",
+               "date_time": {
+                  "type": "",
+                  "year": "",
+                  "month": "-1",
+                  "day": "-1"
+               }
+            },
+            {
+               "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -78,7 +90,91 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "a4f22e25-5839-407f-a1aa-634521d52b42",
+               "text": "González Redondo, Francisco A., et al.",
+               "page": "https://doi.org/10.4321/S0211-95362010000100007",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2010",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "2be849f1-551b-44eb-8fc6-87027dbf8a68",
+               "text": "Mounier, A., & Mirazón Lahr, M.",
+               "page": "https://doi.org/10.1038/s41467-019-11213-w",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2019",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "cff99ec5-cb25-40ef-b2ee-410a75e73a6e",
+               "text": "National Geographic Education",
+               "page": "https://education.nationalgeographic.org/resource/global-human-journey/",
+               "date_time": {
+                  "type": "",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "27864fd8-e7f7-4a2f-85c7-e1453e3c5234",
+               "text": "Abdul Karim Khan",
+               "page": "https://www.youtube.com/watch?v=vbdcSxtsj9A",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "cd61bc64-1358-4bfd-b343-3629facaa3b4",
+               "text": "González Redondo, Francisco A., 00:41:51",
+               "page": "https://www.youtube.com/watch?v=RFui5Z52pUY",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "dd34414b-8f55-4e5e-877a-c0e111e871be",
+               "text": "Wang, Richard J.",
+               "page": "https://doi.org/10.1126/sciadv.abm7047",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867968ea-62d6-4a8a-b3a0-8b82c76d86bf",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=history",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -92,7 +188,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -145,19 +241,19 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "González Redondo, Francisco A., et al. (2010)",
+               "uuid": "a4f22e25-5839-407f-a1aa-634521d52b42",
+               "text": "González Redondo, Francisco A., et al.",
                "page": "https://doi.org/10.4321/S0211-95362010000100007",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2010",
                   "month": "",
                   "day": ""
                }
             },
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -171,7 +267,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -224,12 +320,12 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "González Redondo, Francisco A., et al. (2010)",
+               "uuid": "a4f22e25-5839-407f-a1aa-634521d52b42",
+               "text": "González Redondo, Francisco A., et al.",
                "page": "https://doi.org/10.4321/S0211-95362010000100007",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2010",
                   "month": "",
                   "day": ""
                }
@@ -238,7 +334,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7d2fd4de-5c10-4811-957c-8233bc8d21de",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -273,7 +369,19 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
+               "text": "Ascher, M., & Ascher, R.",
+               "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2013",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -287,7 +395,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -340,12 +448,12 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "4f8542c9-f060-4d3c-8a67-971b6d63e1ff",
                "text": "Ascher, M., & Ascher, R.",
                "page": "https://books.google.com.uy/books?hl=en&lr=&id=h169R-sN0toC",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2013",
                   "month": "",
                   "day": ""
                }
@@ -354,7 +462,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7aec6487-c20c-490d-a9af-21e0b8bcc7f7",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -389,19 +497,31 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Numbers and Bodies (La Blanca, Guatemala)",
-               "page": "https://www.researchgate.net/publication/404241806_Numbers_and_Bodies_Potential_Early_Numeration_on_a_Middle_Preclassic_Figurine_from_La_Blanca_Guatemala",
+               "uuid": "ceffba8a-43be-4de3-a5c8-27cdf81311b1",
+               "text": "Puente, Francisco Barriga",
+               "page": "https://play.google.com/store/books/details/Tsik_Los_n%C3%BAmeros_y_la_numerolog%C3%ADa_entre_los_mayas?id=eKr7DwAAQBAJ&hl=az&gl=US&pli=1",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2020",
                   "month": "",
                   "day": ""
                }
             },
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "ad11b3b2-8cdf-4d71-9cb7-2ac241850945",
+               "text": "Casares Contreras, Orlando, et al.",
+               "page": "https://www.researchgate.net/publication/363885206_Matematicas_Mayas_hechos_mitos_y_lo_que_sabemos_desde_la_arqueologia_Mayan_Mathematics_facts_myths_and_what_we_know_from_archeology",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2022",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -415,7 +535,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -475,12 +595,24 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Numbers and Bodies (La Blanca, Guatemala)",
-               "page": "https://www.researchgate.net/publication/404241806_Numbers_and_Bodies_Potential_Early_Numeration_on_a_Middle_Preclassic_Figurine_from_La_Blanca_Guatemala",
+               "uuid": "ceffba8a-43be-4de3-a5c8-27cdf81311b1",
+               "text": "Puente, Francisco Barriga",
+               "page": "https://play.google.com/store/books/details/Tsik_Los_n%C3%BAmeros_y_la_numerolog%C3%ADa_entre_los_mayas?id=eKr7DwAAQBAJ&hl=az&gl=US&pli=1",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2020",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ad11b3b2-8cdf-4d71-9cb7-2ac241850945",
+               "text": "Casares Contreras, Orlando, et al.",
+               "page": "https://www.researchgate.net/publication/363885206_Matematicas_Mayas_hechos_mitos_y_lo_que_sabemos_desde_la_arqueologia_Mayan_Mathematics_facts_myths_and_what_we_know_from_archeology",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2022",
                   "month": "",
                   "day": ""
                }
@@ -489,7 +621,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687ee328-19bb-4a65-ab46-7d707a2e11dc",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -524,7 +656,31 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "d30b6fee-4def-401b-b5f1-b5c96f1b9d16",
+               "text": "Sugden, K. F.",
+               "page": "https://egrove.olemiss.edu/aah_journal/vol8/iss2/1/?utm_source=egrove.olemiss.edu%2Faah_journal%2Fvol8%2Fiss2%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1981",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6d1b7315-7910-40c1-877e-c7d75b02a149",
+               "text": "Turner, J. H.",
+               "page": "http://www.jstor.org/stable/3293540",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1951",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -538,7 +694,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aacf33a-fb94-4535-a66f-3997087fa404",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -598,9 +754,33 @@
          "source_menu": [
             {
                "type": 1,
+               "uuid": "d30b6fee-4def-401b-b5f1-b5c96f1b9d16",
+               "text": "Sugden, K. F.",
+               "page": "https://egrove.olemiss.edu/aah_journal/vol8/iss2/1/?utm_source=egrove.olemiss.edu%2Faah_journal%2Fvol8%2Fiss2%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1981",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "6d1b7315-7910-40c1-877e-c7d75b02a149",
+               "text": "Turner, J. H.",
+               "page": "http://www.jstor.org/stable/3293540",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1951",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aacf33a-fb94-4535-a66f-3997087fa404",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -635,19 +815,19 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Smith, D. E., & Karpinski, L. C. (1911). The Hindu-Arabic Numerals.",
-               "page": "https://books.google.com.uy/books?hl=en&lr=&id=YEw6AAAAMAAJ",
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2024",
                   "month": "",
                   "day": ""
                }
             },
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -661,7 +841,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -727,12 +907,12 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Smith, D. E., & Karpinski, L. C. (1911). The Hindu-Arabic Numerals.",
-               "page": "https://books.google.com.uy/books?hl=en&lr=&id=YEw6AAAAMAAJ",
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
                "date_time": {
                   "type": "gregory",
-                  "year": "2026",
+                  "year": "2024",
                   "month": "",
                   "day": ""
                }
@@ -741,7 +921,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b88b8566-9b25-4cef-adeb-0e5c8697f81a",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -775,8 +955,56 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "68dfe292-3021-4586-9016-c001cdfdd9d7",
+               "text": "The British Museum",
+               "page": "https://www.britishmuseum.org/collection/object/A_As-3593",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "2a3c2fd3-b682-4d60-8db4-60f213ad1e2e",
+               "text": "Kim, Soomi",
+               "page": "https://doi.org/10.7916/D84Q7TNM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2015",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7d978f6b-930f-4aa0-977e-bb0892210acb",
+               "text": "Asian-Pacific Association of Longmount",
+               "page": "https://www.apalconnect.org/wp-content/uploads/2018/12/Chinese-Abacus-Introduction.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c3c69877-a92b-493c-b98a-5c1c6d5875f4",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -790,7 +1018,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -849,10 +1077,58 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "68dfe292-3021-4586-9016-c001cdfdd9d7",
+               "text": "The British Museum",
+               "page": "https://www.britishmuseum.org/collection/object/A_As-3593",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "2a3c2fd3-b682-4d60-8db4-60f213ad1e2e",
+               "text": "Kim, Soomi",
+               "page": "https://doi.org/10.7916/D84Q7TNM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2015",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7d978f6b-930f-4aa0-977e-bb0892210acb",
+               "text": "Asian-Pacific Association of Longmount",
+               "page": "https://www.apalconnect.org/wp-content/uploads/2018/12/Chinese-Abacus-Introduction.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c3c69877-a92b-493c-b98a-5c1c6d5875f4",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=716d6fe5-78cc-4fef-85da-11daff12399d",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -887,7 +1163,31 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "5dbd2e9f-5631-407e-9b80-e3a5d4f8838f",
+               "text": "Prem, Dhavit",
+               "page": "https://www.youtube.com/watch?v=qynAx9YBO1Y",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -901,7 +1201,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -954,8 +1254,8 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Dhavit Prem",
+               "uuid": "5dbd2e9f-5631-407e-9b80-e3a5d4f8838f",
+               "text": "Prem, Dhavit",
                "page": "https://www.youtube.com/watch?v=qynAx9YBO1Y",
                "date_time": {
                   "type": "gregory",
@@ -966,9 +1266,21 @@
             },
             {
                "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c742c649-bf12-4d3f-ba8c-52f91455fc95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1003,9 +1315,45 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Maričić, S., & Lazić, B. (2020). Abacus computing tool.",
-               "page": "https://scidar.kg.ac.rs/bitstream/123456789/14760/1/0352-23342001057M.pdf",
+               "uuid": "8ab7ebef-41db-4f2b-a3e3-3530e7ff29d3",
+               "text": "Shigetoshi Oyabu",
+               "page": "https://touda.tohoku.ac.jp/portal/en/item/10050030000127",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1842",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "88d236e3-7db4-4085-848e-0346101e6e51",
+               "text": "Samoly, K.",
+               "page": "https://kb.osu.edu/bitstreams/5ec33729-835c-5b97-8993-f6ea84bd7617/download",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2012",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "33f8f982-194e-490e-bdaa-9f7fd8dcc205",
+               "text": "Tomoko Holt",
+               "page": "https://www.youtube.com/watch?v=-br2yp3tQ1M",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2021",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "339c7ff5-8365-49bb-a1cd-ad5a13d5fd86",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1015,7 +1363,7 @@
             },
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -1029,7 +1377,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1082,9 +1430,45 @@
          "source_menu": [
             {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
-               "text": "Maričić, S., & Lazić, B. (2020). Abacus computing tool.",
-               "page": "https://scidar.kg.ac.rs/bitstream/123456789/14760/1/0352-23342001057M.pdf",
+               "uuid": "8ab7ebef-41db-4f2b-a3e3-3530e7ff29d3",
+               "text": "Shigetoshi Oyabu",
+               "page": "https://touda.tohoku.ac.jp/portal/en/item/10050030000127",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1842",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "88d236e3-7db4-4085-848e-0346101e6e51",
+               "text": "Samoly, K.",
+               "page": "https://kb.osu.edu/bitstreams/5ec33729-835c-5b97-8993-f6ea84bd7617/download",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2012",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "33f8f982-194e-490e-bdaa-9f7fd8dcc205",
+               "text": "Tomoko Holt",
+               "page": "https://www.youtube.com/watch?v=-br2yp3tQ1M",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2021",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "339c7ff5-8365-49bb-a1cd-ad5a13d5fd86",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1096,7 +1480,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1130,8 +1514,56 @@
          "smile": "thinking",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "fd0438ef-781b-498f-9f8d-fd7fbfb9c458",
+               "text": "British Museum",
+               "page": "https://www.britishmuseum.org/collection/object/W_As1998-14-26",
+               "date_time": {
+                  "type": "",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
-               "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
+               "uuid": "957755a4-793d-46d1-b3f8-bd3ea721415d",
+               "text": "Amarteifio, Jessica",
+               "page": "https://www.researchgate.net/publication/373989506_FACILITATORS'_GUIDE_TO_THE_MS_II_A_MODIFIED_S'CHYOTY_ABACUS",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b4129ac9-9e33-493c-9e7e-b59fb306762f",
+               "text": "Volkov, A.",
+               "page": "https://www.researchgate.net/publication/330328982_Counting_Devices_in_Russia",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aad8822-1ace-45fd-954e-833799836d1a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "10cd855b-c2dc-4045-8a6c-f8486ef67cfa",
                "text": "Mapswire",
                "page": "https://mapswire.com",
                "date_time": {
@@ -1145,7 +1577,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1204,10 +1636,58 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "fd0438ef-781b-498f-9f8d-fd7fbfb9c458",
+               "text": "British Museum",
+               "page": "https://www.britishmuseum.org/collection/object/W_As1998-14-26",
+               "date_time": {
+                  "type": "",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "957755a4-793d-46d1-b3f8-bd3ea721415d",
+               "text": "Amarteifio, Jessica",
+               "page": "https://www.researchgate.net/publication/373989506_FACILITATORS'_GUIDE_TO_THE_MS_II_A_MODIFIED_S'CHYOTY_ABACUS",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2023",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b4129ac9-9e33-493c-9e7e-b59fb306762f",
+               "text": "Volkov, A.",
+               "page": "https://www.researchgate.net/publication/330328982_Counting_Devices_in_Russia",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1aad8822-1ace-45fd-954e-833799836d1a",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e434ae19-4f25-4880-8227-0970cd27ccb6",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",
@@ -1244,7 +1724,7 @@
                "type": 1,
                "uuid": "1071ad37-4ee3-477a-85bb-9cd3e40e3139",
                "text": "Texto Original",
-               "page": "https://www.historytracers.org/index.html?page=class_content&arg=33c83383-b9b5-43ec-987d-68f027f342b2",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
                "date_time": {
                   "type": "gregory",
                   "year": "2026",

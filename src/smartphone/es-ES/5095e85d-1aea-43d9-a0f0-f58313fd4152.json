@@ -1,0 +1,364 @@
+{
+   "title": "El Mismo Resultado",
+   "index": "first_steps",
+   "sources": [
+      "58da6d75-ce8a-45f5-b57f-1f0763ee3568"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1789657200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "1c0c17bb-c7d0-44c4-a1c8-5c3ffde13576",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Equipo History Tracers — Origen Compartido",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nAl principio, cuando todo en el universo estaba junto, no había nada separado para dividir. A medida que la materia comenzó a surgir, el universo ganó las condiciones para compartir y dividir.\n\nEn esta clase, comenzamos a estudiar la división con más profundidad. Partimos de una situación en la que dividir y multiplicar todavía están muy cerca, porque ambos producen exactamente el mismo resultado.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "821d1b02-a843-44a1-9e57-9a222bb1e013",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "821d1b02-a843-44a1-9e57-9a222bb1e013",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "text": "Equipo History Tracers — Contando",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Equipo History Tracers — Origen Compartido",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nuestro Cuerpo\n\nMiremos una vez más nuestras manos. Como puedes observar, tenemos 10 dedos en total. En la imagen de abajo añadimos un rectángulo vertical por cada dedo. Por lo tanto, tengo un total de 10 rectángulos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 18 340 235\" width=\"100%\"><g transform=\"translate(250,20) scale(0.6)\"><g id=\"leftHand\"><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g id=\"rightHand\" transform=\"scale(-1,1)\"><path fill=\"#F4C2A1\" stroke=\"none\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><g fill=\"#ADD8E6\" stroke=\"none\"><rect x=\"105\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"135\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"165\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"195\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"225\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"255\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"285\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"315\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"345\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"375\" y=\"25\" width=\"20\" height=\"85\"/></g></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "10 rectángulos, uno por cada dedo, colocados debajo de dos manos abiertas.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8935778e-c9b9-4912-85d8-1f19f7b55288",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8935778e-c9b9-4912-85d8-1f19f7b55288",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "68227419-2430-4359-b902-f6cf87b8941d",
+               "text": "Holmes, F. L.",
+               "page": "https://books.google.com.br/books?hl=en&lr=&id=MLY-x9a393QC",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1985",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7a9c733b-ca13-40f5-8849-19012540b028",
+               "text": "Ernst, Dana.",
+               "page": "https://math.libretexts.org/Bookshelves/Mathematical_Logic_and_Proof/An_Introduction_to_Proof_via_Inquiry-Based_Learning_(Ernst)/05%3A_New_Page/5.01%3A_New_Page",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Estaban Juntos\n\nAprendimos que sumar el mismo objeto 10 veces da un total de 10. También aprendimos que lo que está dividido hoy puede volver a ser una cosa única, así como el universo lo estaba hace miles de millones de años.\n\nAhora imagina que reciclamos nuestro papel. Como consecuencia, los 10 rectángulos anteriores se convirtieron en un único trozo de papel.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"290\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Un único rectángulo largo, con la misma altura de un rectángulo pequeño y la longitud sumada de los diez.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "24b04843-adc6-4221-8b81-7d3c9442989e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "24b04843-adc6-4221-8b81-7d3c9442989e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b6428e19-afcf-4d3b-916d-46e5a332ef53",
+               "text": "Entendiendo la Tabla de Multiplicación (0 y 1)",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b6428e19-afcf-4d3b-916d-46e5a332ef53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "text": "Equipo History Tracers — Contando",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3874d1e8-0f76-4432-9ee2-d8c8c9dccf53",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Dividiendo de Nuevo\n\nAhora imagina que cortamos ese mismo papel y lo entregamos a una sola persona, considerando no solo las manos, sino todo el cuerpo. Como solo hay una persona para recibirlo, esa persona se queda con todo el papel: no se comparte nada.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 18 340 220\" width=\"100%\"><g fill=\"#ADD8E6\" stroke=\"none\"><rect x=\"105\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"135\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"165\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"195\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"225\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"255\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"285\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"315\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"345\" y=\"25\" width=\"20\" height=\"85\"/><rect x=\"375\" y=\"25\" width=\"20\" height=\"85\"/></g><g transform=\"translate(202,130) scale(4.0)\" fill=\"#8D6E63\" stroke=\"none\"><path d=\"M12,0.5A2.5,2.5 0 1,1 12,5.5A2.5,2.5 0 1,1 12,0.5Z\"/><path d=\"M11,5.5L13,5.5L13,6.5L11,6.5Z\"/><path d=\"M8.5,6.5L15.5,6.5L14.5,14L9.5,14Z\"/><path d=\"M8.5,7L6,11.5L6.7,12L9,8.5Z\"/><path d=\"M15.5,7L18,11.5L17.3,12L15,8.5Z\"/><path d=\"M10,14L9.5,20.5L11,20.5L11.5,14Z\"/><path d=\"M14,14L14.5,20.5L13,20.5L12.5,14Z\"/></g></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Diez rectángulos verticales y una persona, que representan los diez objetos entregados a una sola persona.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6338bf98-2070-453b-88a7-3c30f91891e5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6338bf98-2070-453b-88a7-3c30f91891e5",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Vamos a Pensar!\n\nCuando sumo el mismo objeto 10 veces, obtengo un total de 10. Cuando reúno esos mismos 10 objetos y los entrego a una sola persona, la persona que recibe la división se queda con los 10 objetos.\n\n¿Esto significa que multiplicar o dividir por uno siempre da, como resultado, el mismo valor que multipliqué o dividí?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9664975f-fc57-4bb9-8a4d-7f4486b2af6f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "9664975f-fc57-4bb9-8a4d-7f4486b2af6f",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=58da6d75-ce8a-45f5-b57f-1f0763ee3568",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "7cc05340-732f-4c3d-b260-5437670fbc99",
+               "text": "Equipo History Tracers — Origen Compartido",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=7cc05340-732f-4c3d-b260-5437670fbc99",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b5efc8f9-c268-430f-9681-7a43848ee48e",
+               "text": "Equipo History Tracers — Primeros Pasos",
+               "page": "https://www.historytracers.org/index.html?page=first_steps",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que multiplicar y dividir por 1 siempre dan el mismo resultado. Por eso, podemos entender la división por 1 como concentrar todo en uno.\n\nAlgo parecido ocurre con la multiplicación. Cuando sumamos el mismo valor u objeto muchas veces, el resultado es el valor que estamos multiplicando. Esto significa que todo permanece igualmente concentrado.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
