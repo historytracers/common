@@ -188,7 +188,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"290\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"200\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -343,7 +343,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nWe learned that multiplying or dividing by 1 always returns the same value. So dividing by 1 is like concentrating everything into one.\n\nMultiplication works the same way: adding the same value many times gives that same value back. Everything stays equally concentrated.",
+               "text": "#### Conclusion\n\nWe learned that multiplying or dividing by 1 always returns the same value. So dividing by 1 is like concentrating everything into one.\n\nMultiplication works the same way: multiplying by 1 takes the value once, so it returns that same value. Everything stays equally concentrated.",
                "source": null,
                "date_time": null,
                "isTable": false,

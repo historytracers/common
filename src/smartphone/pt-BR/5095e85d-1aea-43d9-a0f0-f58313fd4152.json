@@ -188,7 +188,7 @@
                "PostMention": ""
             },
             {
-               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"290\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
+               "text": "<p><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"80 45 340 130\" width=\"100%\"><rect x=\"105\" y=\"45\" width=\"200\" height=\"85\" fill=\"#ADD8E6\" stroke=\"none\"/></svg></p>",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -343,7 +343,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nAprendemos que multiplicar ou dividir por 1 sempre devolve o mesmo valor. Por isso, dividir por 1 é como concentrar tudo em um só lugar.\n\nA multiplicação é igual: somar o mesmo valor muitas vezes devolve esse mesmo valor. Tudo permanece igualmente concentrado.",
+               "text": "#### Conclusão\n\nAprendemos que multiplicar ou dividir por 1 sempre devolve o mesmo valor. Por isso, dividir por 1 é como concentrar tudo em um só lugar.\n\nA multiplicação é igual: multiplicar por 1 toma o valor uma única vez, então devolve esse mesmo valor. Tudo permanece igualmente concentrado.",
                "source": null,
                "date_time": null,
                "isTable": false,

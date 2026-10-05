@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### Um Sinal para Retornar\n\nOlhemos as duas subtrações que fizemos (5 − 5 = 0 e 9 − 1 = 8). Cada resultado é menor que o valor de partida, então voltamos ao longo do eixo.\n\nPor isso o sinal de menos (−) indica mudar de direção, enquanto o sinal de mais (+), na adição, nos faz avançar no mesmo eixo.",
+               "text": "#### Um Sinal para Retornar\n\nOlhemos as duas subtrações que fizemos. Em 5 − 5 = 0 o resultado é menor que o valor de partida, então voltamos ao longo do eixo. A subtração 9 − 1 = 8 é diferente: é a distância da posição 1 até a posição 9, e ir de 1 a 9 é avançar ao longo do eixo.\n\nO sinal de menos (−) indica mudar de direção, enquanto o sinal de mais (+), na adição, nos faz avançar no mesmo eixo.",
                "source": [],
                "date_time": null,
                "isTable": false,

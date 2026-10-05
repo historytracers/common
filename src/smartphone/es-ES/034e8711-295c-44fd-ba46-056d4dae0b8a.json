@@ -456,11 +456,11 @@
                "PostMention": ""
             },
             {
-               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">2</span></span> + <span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">2</span></span> = <span class=\"frac\"><span class=\"n\">5 + 5</span><span class=\"d\">2</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">2</span></span> = 5</p>",
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> + <span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">5 + 5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">10</span></span> = 1</p>",
                "source": null,
                "date_time": null,
                "isTable": false,
-               "imgdesc": "Cinco sobre dos más cinco sobre dos es igual a diez sobre dos, que es igual a cinco.",
+               "imgdesc": "Cinco sobre diez más cinco sobre diez es igual a diez sobre diez, que es igual a uno.",
                "format": "html",
                "PostMention": ""
             }

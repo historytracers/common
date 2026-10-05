@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### Una Señal para Regresar\n\nMiremos las dos restas que hicimos (5 − 5 = 0 y 9 − 1 = 8). Cada resultado es menor que el valor de partida, así que retrocedimos por el eje.\n\nPor eso el signo menos (−) indica cambiar de dirección, mientras que el signo más (+), en la suma, nos hace avanzar por el mismo eje.",
+               "text": "#### Una Señal para Regresar\n\nMiremos las dos restas que hicimos. En 5 − 5 = 0 el resultado es menor que el valor de partida, así que retrocedimos por el eje. La resta 9 − 1 = 8 es distinta: es la distancia de la posición 1 a la posición 9, y caminar de 1 a 9 es avanzar por el eje.\n\nEl signo menos (−) indica cambiar de dirección, mientras que el signo más (+), en la suma, nos hace avanzar por el mismo eje.",
                "source": [],
                "date_time": null,
                "isTable": false,

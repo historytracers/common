@@ -360,7 +360,7 @@
          ],
          "text": [
             {
-               "text": "#### A Signal to Return\n\nLook at the two subtractions we did (5 − 5 = 0 and 9 − 1 = 8). Each result is smaller than the value we started with, so we moved back along the axis.\n\nThat is why the minus sign (−) tells us to change direction, while the plus sign (+) in addition moves us forward on the same axis.",
+               "text": "#### A Signal to Return\n\nLook at the two subtractions we did. In 5 − 5 = 0 the result is smaller than the value we started with, so we moved back along the axis. The subtraction 9 − 1 = 8 is different: it is the distance from position 1 to position 9, and traveling from 1 to 9 is forward along the axis.\n\nThe minus sign (−) tells us to change direction, while the plus sign (+) in addition moves us forward on the same axis.",
                "source": [],
                "date_time": null,
                "isTable": false,
