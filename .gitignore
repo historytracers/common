@@ -31,3 +31,6 @@ stamp-h1
 # Go build artifacts
 go.sum
 build/
+
+# Audio
+audio/*.txt
