@@ -60,3 +60,37 @@ Cuando la base de datos de fuentes opcional (`lang/sources/history_tracers.db`
 de forma predeterminada) está presente, los datos de citas referenciados por
 los archivos de los teléfonos se cargan durante la publicación. El publicador
 funciona sin ella.
+
+## Reutilizar el paquete
+
+La lógica de reescritura y minificación está en el paquete importable
+`historytracers-publisher/smartphone`, de modo que otros proyectos de History
+Tracers pueden llamarla directamente:
+
+```go
+import "historytracers-publisher/smartphone"
+
+cfg := smartphone.Config{
+    SrcPath:     "/ruta/a/common",
+    ContentPath: "/ruta/de/salida",
+}
+
+if err := smartphone.HTMinifyAllFiles(cfg); err != nil {
+    // manejar el error
+}
+
+if invalid := smartphone.HTValidateSMGameFormats(cfg); invalid > 0 {
+    // manejar los archivos inválidos
+}
+```
+
+Los consumidores referencian este módulo con una directiva `replace` (el mismo
+patrón usado para `github.com/historytracers/common`):
+
+```
+require historytracers-publisher v0.0.0
+
+replace historytracers-publisher => ../common/src/publisher
+```
+
+El comando de este directorio es solo un envoltorio delgado sobre el paquete.

@@ -58,3 +58,37 @@ Run the binary from the repository root:
 When the optional sources database (`lang/sources/history_tracers.db` by
 default) is present, citation data referenced by the smartphone files is
 loaded while publishing. The publisher works without it.
+
+## Reusing the package
+
+The rewrite and minify logic lives in the importable package
+`historytracers-publisher/smartphone`, so other History Tracers projects can
+call it directly:
+
+```go
+import "historytracers-publisher/smartphone"
+
+cfg := smartphone.Config{
+    SrcPath:     "/path/to/common",
+    ContentPath: "/path/to/output",
+}
+
+if err := smartphone.HTMinifyAllFiles(cfg); err != nil {
+    // handle error
+}
+
+if invalid := smartphone.HTValidateSMGameFormats(cfg); invalid > 0 {
+    // handle invalid files
+}
+```
+
+Consumers reference this module with a `replace` directive (the same pattern
+used for `github.com/historytracers/common`):
+
+```
+require historytracers-publisher v0.0.0
+
+replace historytracers-publisher => ../common/src/publisher
+```
+
+The command in this directory is only a thin wrapper around the package.

@@ -5,18 +5,11 @@ package main
 import (
 	"fmt"
 	"os"
+
+	"historytracers-publisher/smartphone"
 )
 
-// htCreateDirectory creates a directory and any missing parents.
-func htCreateDirectory(name string) {
-	if err := os.MkdirAll(name, 0755); err != nil {
-		panic(err)
-	}
-}
-
 func htRunStopFlags() {
-	htFillModifiedGit()
-
 	var stopRun bool
 
 	if ShowCompilationFlag {
@@ -25,7 +18,7 @@ func htRunStopFlags() {
 	}
 
 	if ValidateFlag {
-		if invalid := htValidateSMGameFormats(); invalid > 0 {
+		if invalid := smartphone.HTValidateSMGameFormats(cfg); invalid > 0 {
 			fmt.Fprintf(os.Stderr, "%d smartphone file(s) failed validation\n", invalid)
 			os.Exit(1)
 		}
@@ -33,7 +26,10 @@ func htRunStopFlags() {
 	}
 
 	if MinifyFlag {
-		HTMinifyAllFiles()
+		if err := smartphone.HTMinifyAllFiles(cfg); err != nil {
+			fmt.Fprintln(os.Stderr, "ERROR:", err)
+			os.Exit(1)
+		}
 		stopRun = true
 	}
 
@@ -44,8 +40,6 @@ func htRunStopFlags() {
 
 func main() {
 	HTParseArg()
-	htInitializeCommonMaps()
-	htLoadSmartphoneLangs()
 
 	if logFileFlag != "" {
 		f, err := os.Create(logFileFlag)

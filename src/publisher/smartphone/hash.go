@@ -1,11 +1,10 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-package main
+package smartphone
 
 import (
 	"crypto/sha256"
 	"encoding/hex"
-	"fmt"
 	"io"
 	"os"
 )
@@ -37,15 +36,5 @@ func HTAreFilesEqual(fFile string, sFile string) (bool, error) {
 	fstr := hex.EncodeToString(hf.Sum(nil))
 	sstr := hex.EncodeToString(hs.Sum(nil))
 
-	if fstr == sstr {
-		if verboseFlag {
-			fmt.Println("Comparing files", fFile, " and ", sFile, ": equal files")
-		}
-		return true, nil
-	}
-
-	if verboseFlag {
-		fmt.Println("Comparing files", fFile, " and ", sFile, ": not equal files")
-	}
-	return false, nil
+	return fstr == sstr, nil
 }

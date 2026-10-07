@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-package main
+package smartphone
 
 import (
 	"encoding/json"
@@ -12,12 +12,12 @@ import (
 	. "github.com/historytracers/common"
 )
 
-// htTransformSMGame reads a smartphone (or smGame) file, applies the content
-// transformations used during publishing, and writes the result to a
-// temporary file. The source file is never modified, so the generated output
-// can be regenerated at any time without touching the repository content.
-func htTransformSMGame(lang string, smGameFile string) (string, error) {
-	if verboseFlag {
+// transform reads a smartphone (or smGame) file, applies the content
+// transformations used during publishing, and writes the result to a temporary
+// file. The source file is never modified, so the generated output can be
+// regenerated at any time without touching the repository content.
+func (r *runner) transform(lang string, smGameFile string) (string, error) {
+	if r.cfg.Verbose {
 		fmt.Println("Adjusting file", smGameFile)
 	}
 
@@ -34,7 +34,7 @@ func htTransformSMGame(lang string, smGameFile string) (string, error) {
 	}
 
 	if localSMGameFile.Sources != nil {
-		htLoadSourceFromFile(localSMGameFile.Sources)
+		r.loadSourceFromFile(localSMGameFile.Sources)
 	}
 
 	if len(localSMGameFile.Content) > 0 && localSMGameFile.Content[0].Smile == "" {
@@ -56,11 +56,11 @@ func htTransformSMGame(lang string, smGameFile string) (string, error) {
 		}
 	}
 
-	if _, fileWasModified := htGitModifiedMap[smGameFile]; fileWasModified && len(localSMGameFile.LastUpdate) > 0 {
+	if _, fileWasModified := r.gitModified[smGameFile]; fileWasModified && len(localSMGameFile.LastUpdate) > 0 {
 		localSMGameFile.LastUpdate[0] = HTUpdateTimestamp()
 	}
 
-	return htWriteSmartphoneTmpFile(lang, &localSMGameFile)
+	return writeSmartphoneTmpFile(r.cfg, lang, &localSMGameFile)
 }
 
 // htValidateSMGameIDs checks that every content block has a valid UUID "id".
@@ -90,12 +90,12 @@ func htValidateSMGameIDs(smGameFile string) error {
 	return nil
 }
 
-// htValidateSMGameFormats validates every smartphone JSON file found in the
-// repository and returns the number of files that failed validation.
-func htValidateSMGameFormats() int {
+// validate validates every smartphone JSON file found in the repository and
+// returns the number of files that failed validation.
+func (r *runner) validate() int {
 	invalid := 0
-	for _, lang := range htLangPaths {
-		smGameDir := fmt.Sprintf("%ssrc/smartphone/%s/", CFG.SrcPath, lang)
+	for _, lang := range discoverLangs(r.cfg) {
+		smGameDir := fmt.Sprintf("%ssrc/smartphone/%s/", r.cfg.SrcPath, lang)
 		entries, err := os.ReadDir(smGameDir)
 		if err != nil {
 			continue
@@ -112,7 +112,7 @@ func htValidateSMGameFormats() int {
 			if err := htValidateSMGameIDs(smGameFile); err != nil {
 				invalid++
 				fmt.Fprintln(os.Stderr, "ERROR:", err)
-			} else if verboseFlag {
+			} else if r.cfg.Verbose {
 				fmt.Println("OK:", smGameFile)
 			}
 		}

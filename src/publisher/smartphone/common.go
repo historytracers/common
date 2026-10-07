@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
 
-package main
+package smartphone
 
 import (
 	"encoding/json"
@@ -13,21 +13,16 @@ import (
 	"github.com/google/uuid"
 )
 
-// htLangPaths holds the language directories discovered under
-// src/smartphone/. It is populated by htLoadSmartphoneLangs.
-var htLangPaths []string
-
 const defaultLangPaths = "en-US,es-ES,pt-BR"
 
-// htLoadSmartphoneLangs fills htLangPaths with the directories found in
-// src/smartphone/. When the directory cannot be read, the well known History
-// Tracers languages are used as a fallback.
-func htLoadSmartphoneLangs() {
-	dir := CFG.SrcPath + "src/smartphone/"
+// discoverLangs returns the directories found in src/smartphone/. When the
+// directory cannot be read, the well known History Tracers languages are used
+// as a fallback.
+func discoverLangs(cfg Config) []string {
+	dir := cfg.SrcPath + "src/smartphone/"
 	entries, err := os.ReadDir(dir)
 	if err != nil {
-		htLangPaths = strings.Split(defaultLangPaths, ",")
-		return
+		return strings.Split(defaultLangPaths, ",")
 	}
 
 	var langs []string
@@ -38,12 +33,16 @@ func htLoadSmartphoneLangs() {
 	}
 
 	if len(langs) == 0 {
-		htLangPaths = strings.Split(defaultLangPaths, ",")
-		return
+		return strings.Split(defaultLangPaths, ",")
 	}
 
 	sort.Strings(langs)
-	htLangPaths = langs
+	return langs
+}
+
+// HTLanguages returns the language directories found under src/smartphone/.
+func HTLanguages(cfg Config) []string {
+	return discoverLangs(cfg.Normalized())
 }
 
 func htOpenFileReadClose(fileName string) ([]byte, error) {
@@ -54,6 +53,7 @@ func htOpenFileReadClose(fileName string) ([]byte, error) {
 
 	byteValue, err := io.ReadAll(contentFile)
 	if err != nil {
+		contentFile.Close()
 		return nil, err
 	}
 	contentFile.Close()
@@ -84,14 +84,11 @@ func HTCopyFilesWithoutChanges(dstFile string, srcFile string) error {
 	}
 	defer dfp.Close()
 
-	bytes, err := io.Copy(dfp, sfp)
-	if bytes == 0 || err != nil {
+	n, err := io.Copy(dfp, sfp)
+	if n == 0 || err != nil {
 		return err
 	}
 
-	if verboseFlag {
-		fmt.Println("Copying file", srcFile, " to ", dstFile)
-	}
 	return nil
 }
 
@@ -123,12 +120,12 @@ func htCommonJSONError(byteValue []byte, err error) {
 	}
 }
 
-// htWriteSmartphoneTmpFile writes data as indented JSON to a temporary file in
+// writeSmartphoneTmpFile writes data as indented JSON to a temporary file in
 // the smartphone output directory. The returned path is used as the input of
 // the minifier and removed once the file has been processed.
-func htWriteSmartphoneTmpFile(lang string, data interface{}) (string, error) {
+func writeSmartphoneTmpFile(cfg Config, lang string, data interface{}) (string, error) {
 	id := uuid.New()
-	tmpFile := fmt.Sprintf("%slang/%s/smartphone/%s.tmp", CFG.ContentPath, lang, id.String())
+	tmpFile := fmt.Sprintf("%slang/%s/smartphone/%s.tmp", cfg.ContentPath, lang, id.String())
 
 	fp, err := os.Create(tmpFile)
 	if err != nil {
