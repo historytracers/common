@@ -20,16 +20,40 @@ Cada projeto consumidor referencia este repositório como uma dependência. Cons
 
 ## Desenvolvimento
 
+### Compilação
+
 ```bash
-# Instalar dependências
-npm install
-
-# Compilar
-npm run build
-
-# Executar testes
-npm test
+./bootstrap          # somente na primeira vez, gera o sistema de compilação
+./configure
+make                 # compila o pacote Go compartilhado e o publicador local
 ```
+
+O publicador local é compilado como `build/historytracers-publisher(.exe)`. Para
+bootstrap, configurar, compilar, reescrever e verificar em uma única etapa:
+
+```bash
+./build-publisher.sh
+```
+
+### Reescrever os arquivos JSON
+
+O conteúdo dos smartphones em `src/smartphone/??-??/` é reescrito
+(normalizado) e minificado com `-minify`:
+
+```bash
+./build/historytracers-publisher -minify
+```
+
+Os arquivos minificados são gravados em `build/www/lang/<lang>/smartphone/`;
+os arquivos de origem nunca são modificados. Para verificar todos os arquivos
+JSON dos smartphones (termina com status diferente de zero em caso de erro):
+
+```bash
+./build/historytracers-publisher -validate
+```
+
+Consulte [src/publisher/README.pt-BR.md](src/publisher/README.pt-BR.md) para a
+documentação completa.
 
 ## Contribuindo
 

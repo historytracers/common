@@ -15,7 +15,8 @@ EXTRA_DIST = src/go/config.go src/go/creator.go src/go/data-type.go src/go/times
 	$(PUBLISHERSRC_DIR)/common.go $(PUBLISHERSRC_DIR)/config.go $(PUBLISHERSRC_DIR)/git.go \
 	$(PUBLISHERSRC_DIR)/hash.go $(PUBLISHERSRC_DIR)/main.go $(PUBLISHERSRC_DIR)/minify.go \
 	$(PUBLISHERSRC_DIR)/smgame.go $(PUBLISHERSRC_DIR)/sources.go $(PUBLISHERSRC_DIR)/go.mod \
-	$(PUBLISHERSRC_DIR)/README.md build-publisher.sh
+	$(PUBLISHERSRC_DIR)/README.md $(PUBLISHERSRC_DIR)/README.es.md $(PUBLISHERSRC_DIR)/README.pt-BR.md \
+	build-publisher.sh
 
 # Verify the library compiles and build the local smartphone publisher
 all-local: publisher
