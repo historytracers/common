@@ -41,8 +41,11 @@ PUBLISHER_BIN="$SCRIPT_DIR/build/historytracers-publisher$EXEEXT"
 echo "=== Rewriting smartphone content ==="
 "$PUBLISHER_BIN" -minify
 
+echo "=== Generating audio ==="
+"$PUBLISHER_BIN" -audio
+
 echo "=== Verifying smartphone content ==="
 "$PUBLISHER_BIN" -validate
 
 echo ""
-echo "Publisher built and smartphone content regenerated: $PUBLISHER_BIN"
+echo "Publisher built; smartphone content regenerated in build/www/ and audio/ (in $SCRIPT_DIR)."

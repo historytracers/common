@@ -52,6 +52,17 @@ JSON dos smartphones (termina com status diferente de zero em caso de erro):
 ./build/historytracers-publisher -validate
 ```
 
+### Gerar áudio
+
+Para gerar os arquivos de entrada para a síntese de voz de cada tela dos
+smartphones:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+Os arquivos de texto simples são gravados em `audio/`.
+
 Consulte [src/publisher/README.pt-BR.md](src/publisher/README.pt-BR.md) para a
 documentação completa.
 

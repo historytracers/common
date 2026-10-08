@@ -18,6 +18,9 @@ type Config struct {
 	// DBPath is the optional SQLite database with the academic sources. When
 	// empty, <SrcPath>/lang/sources/history_tracers.db is used.
 	DBPath string
+	// AudioPath is the directory that receives the generated text-to-speech
+	// input files. When empty, audio/ is used.
+	AudioPath string
 	// Verbose enables informational messages.
 	Verbose bool
 }
@@ -25,6 +28,7 @@ type Config struct {
 const (
 	defaultSrcPath     = "./"
 	defaultContentPath = "build/www/"
+	defaultAudioPath   = "audio/"
 	defaultSourceDB    = "lang/sources/history_tracers.db"
 )
 
@@ -52,6 +56,10 @@ func (cfg Config) Normalized() Config {
 	cfg.ContentPath = normalizeDir(cfg.ContentPath)
 	if cfg.ContentPath == "" {
 		cfg.ContentPath = defaultContentPath
+	}
+	cfg.AudioPath = normalizeDir(cfg.AudioPath)
+	if cfg.AudioPath == "" {
+		cfg.AudioPath = defaultAudioPath
 	}
 	return cfg
 }

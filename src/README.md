@@ -61,4 +61,12 @@ source files are not modified. Verify the JSON files with:
 ./build/historytracers-publisher -validate
 ```
 
+Generate the text-to-speech input files with:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+The audio text files are written to `audio/`.
+
 See [publisher/README.md](publisher/README.md) for details.

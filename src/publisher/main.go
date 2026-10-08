@@ -33,6 +33,14 @@ func htRunStopFlags() {
 		stopRun = true
 	}
 
+	if AudioFlag {
+		if err := smartphone.HTGenerateAudio(cfg); err != nil {
+			fmt.Fprintln(os.Stderr, "ERROR:", err)
+			os.Exit(1)
+		}
+		stopRun = true
+	}
+
 	if stopRun {
 		os.Exit(0)
 	}

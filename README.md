@@ -52,6 +52,16 @@ with a non-zero status on error):
 ./build/historytracers-publisher -validate
 ```
 
+### Generating audio
+
+To generate the text-to-speech input files for every smartphone screen:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+The plain-text files are written to `audio/`.
+
 See [src/publisher/README.md](src/publisher/README.md) for the full
 documentation.
 

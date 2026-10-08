@@ -13,11 +13,12 @@ GO_RUN = cd "$(abs_top_srcdir)/src/go" && $(GO_CMD)
 # What to distribute
 EXTRA_DIST = src/go/config.go src/go/creator.go src/go/data-type.go src/go/timestamp.go src/go/go.mod \
 	$(PUBLISHERSRC_DIR)/config.go $(PUBLISHERSRC_DIR)/main.go $(PUBLISHERSRC_DIR)/go.mod \
-	$(PUBLISHERSRC_DIR)/smartphone/common.go $(PUBLISHERSRC_DIR)/smartphone/config.go \
-	$(PUBLISHERSRC_DIR)/smartphone/doc.go $(PUBLISHERSRC_DIR)/smartphone/git.go \
-	$(PUBLISHERSRC_DIR)/smartphone/hash.go $(PUBLISHERSRC_DIR)/smartphone/minify.go \
-	$(PUBLISHERSRC_DIR)/smartphone/runner.go $(PUBLISHERSRC_DIR)/smartphone/smgame.go \
-	$(PUBLISHERSRC_DIR)/smartphone/sources.go $(PUBLISHERSRC_DIR)/smartphone/smartphone_test.go \
+	$(PUBLISHERSRC_DIR)/smartphone/audio.go $(PUBLISHERSRC_DIR)/smartphone/common.go \
+	$(PUBLISHERSRC_DIR)/smartphone/config.go $(PUBLISHERSRC_DIR)/smartphone/doc.go \
+	$(PUBLISHERSRC_DIR)/smartphone/git.go $(PUBLISHERSRC_DIR)/smartphone/hash.go \
+	$(PUBLISHERSRC_DIR)/smartphone/minify.go $(PUBLISHERSRC_DIR)/smartphone/runner.go \
+	$(PUBLISHERSRC_DIR)/smartphone/smgame.go $(PUBLISHERSRC_DIR)/smartphone/sources.go \
+	$(PUBLISHERSRC_DIR)/smartphone/smartphone_test.go \
 	$(PUBLISHERSRC_DIR)/README.md $(PUBLISHERSRC_DIR)/README.es.md $(PUBLISHERSRC_DIR)/README.pt-BR.md \
 	build-publisher.sh
 

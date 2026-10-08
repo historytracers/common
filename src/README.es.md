@@ -62,4 +62,12 @@ archivos fuente no se modifican. Verifique los archivos JSON con:
 ./build/historytracers-publisher -validate
 ```
 
+Genere los archivos de entrada para la síntesis de voz con:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+Los archivos de texto de audio se escriben en `audio/`.
+
 Consulte [publisher/README.es.md](publisher/README.es.md) para más detalles.

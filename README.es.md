@@ -52,6 +52,17 @@ de los teléfonos (termina con un estado distinto de cero si hay errores):
 ./build/historytracers-publisher -validate
 ```
 
+### Generar audio
+
+Para generar los archivos de entrada para la síntesis de voz de cada pantalla
+de los teléfonos:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+Los archivos de texto plano se escriben en `audio/`.
+
 Consulte [src/publisher/README.es.md](src/publisher/README.es.md) para la
 documentación completa.
 

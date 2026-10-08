@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"os"
 	"path/filepath"
+	"strings"
 	"testing"
 
 	"github.com/historytracers/common"
@@ -90,6 +91,53 @@ func TestHTMinifyAllFiles(t *testing.T) {
 
 	if invalid := HTValidateSMGameFormats(cfg); invalid != 0 {
 		t.Errorf("HTValidateSMGameFormats = %d, want 0", invalid)
+	}
+}
+
+// TestHTGenerateAudio checks that text-to-speech input files are generated in
+// the configured audio directory.
+func TestHTGenerateAudio(t *testing.T) {
+	dir := t.TempDir()
+	game := &common.SMGameFile{
+		Title:      "Test",
+		Type:       "sm_game",
+		LastUpdate: []string{"0"},
+		Content: []common.SMGameContent{
+			{
+				ID: screenOneID,
+				Text: []common.HTText{
+					{Text: "Hello **world**.", Format: "markdown"},
+					{Text: "<p>Second paragraph.</p>", Format: "html"},
+				},
+			},
+		},
+	}
+	writeTestGame(t, dir, game)
+
+	cfg := Config{
+		SrcPath:     dir,
+		ContentPath: filepath.Join(dir, "build", "www"),
+		AudioPath:   filepath.Join(dir, "audio"),
+	}
+	if err := HTGenerateAudio(cfg); err != nil {
+		t.Fatalf("HTGenerateAudio: %v", err)
+	}
+
+	out := filepath.Join(dir, "audio", testGameID+"_"+screenOneID+"_"+testLang+".txt")
+	bv, err := os.ReadFile(out)
+	if err != nil {
+		t.Fatalf("reading audio file: %v", err)
+	}
+
+	content := string(bv)
+	if strings.Contains(content, "<p>") {
+		t.Errorf("audio content still contains HTML tags: %q", content)
+	}
+	if !strings.Contains(content, "Hello world") {
+		t.Errorf("audio content missing expected text: %q", content)
+	}
+	if !strings.Contains(content, "Second paragraph") {
+		t.Errorf("audio content missing expected text: %q", content)
 	}
 }
 
