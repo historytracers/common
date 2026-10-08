@@ -20,16 +20,51 @@ Cada proyecto consumidor referencia este repositorio como una dependencia. Consu
 
 ## Desarrollo
 
+### Compilación
+
 ```bash
-# Instalar dependencias
-npm install
-
-# Compilar
-npm run build
-
-# Ejecutar pruebas
-npm test
+./bootstrap          # solo la primera vez, genera el sistema de compilación
+./configure
+make                 # compila el paquete Go compartido y el publicador local
 ```
+
+El publicador local se compila como `build/historytracers-publisher(.exe)`. Para
+bootstrap, configurar, compilar, reescribir y verificar en un solo paso:
+
+```bash
+./build-publisher.sh
+```
+
+### Reescribir los archivos JSON
+
+El contenido de los teléfonos en `src/smartphone/??-??/` se reescribe
+(normaliza) y minifica con `-minify`:
+
+```bash
+./build/historytracers-publisher -minify
+```
+
+Los archivos minificados se escriben en `build/www/lang/<lang>/smartphone/`;
+los archivos fuente nunca se modifican. Para verificar todos los archivos JSON
+de los teléfonos (termina con un estado distinto de cero si hay errores):
+
+```bash
+./build/historytracers-publisher -validate
+```
+
+### Generar audio
+
+Para generar los archivos de entrada para la síntesis de voz de cada pantalla
+de los teléfonos:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+Los archivos de texto plano se escriben en `audio/`.
+
+Consulte [src/publisher/README.es.md](src/publisher/README.es.md) para la
+documentación completa.
 
 ## Contribuir
 

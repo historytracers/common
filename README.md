@@ -20,16 +20,50 @@ Each consuming project references this repository as a dependency. See the respe
 
 ## Development
 
+### Build
+
 ```bash
-# Install dependencies
-npm install
-
-# Build
-npm run build
-
-# Run tests
-npm test
+./bootstrap          # first time only, generates the build system
+./configure
+make                 # builds the shared Go package and the local publisher
 ```
+
+The local publisher is built as `build/historytracers-publisher(.exe)`. To
+bootstrap, configure, build, rewrite and verify in one step:
+
+```bash
+./build-publisher.sh
+```
+
+### Rewriting the JSON files
+
+The smartphone content under `src/smartphone/??-??/` is rewritten (normalized)
+and minified with `-minify`:
+
+```bash
+./build/historytracers-publisher -minify
+```
+
+The minified files are written to `build/www/lang/<lang>/smartphone/`; the
+source files are never modified. To verify every smartphone JSON file (exits
+with a non-zero status on error):
+
+```bash
+./build/historytracers-publisher -validate
+```
+
+### Generating audio
+
+To generate the text-to-speech input files for every smartphone screen:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+The plain-text files are written to `audio/`.
+
+See [src/publisher/README.md](src/publisher/README.md) for the full
+documentation.
 
 ## Contributing
 

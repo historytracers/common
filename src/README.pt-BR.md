@@ -8,6 +8,8 @@ Este diretório contém o código-fonte do pacote `common`.
 |--------------|-------------------|-----------|
 | `android/`   | Java (Android)    | Biblioteca Android com modelos de dados, utilitários de carimbo de data/hora e auxiliares de criação para aplicativos History Tracers |
 | `go/`        | Go                | Tipos, utilitários e configuração compartilhados usados em projetos do History Tracers |
+| `smartphone/` | JSON              | Conteúdo das lições para smartphones, um diretório por idioma |
+| `publisher/`  | Go                | Publicador local que reescreve e minifica os arquivos JSON dos smartphones |
 
 ### android/
 
@@ -30,3 +32,43 @@ Compilar com autotools:
 ./configure
 make
 ```
+
+### smartphone/
+
+Conteúdo das lições para smartphones, um diretório por idioma (`en-US/`,
+`es-ES/`, `pt-BR/`) com um arquivo JSON por lição.
+
+### publisher/
+
+Comando em Go que reescreve (normaliza) e minifica os arquivos JSON dos
+smartphones.
+
+Compile-o com o script auxiliar a partir da raiz do repositório:
+
+```bash
+./build-publisher.sh
+```
+
+Reescreva (normalize e minifique) todos os arquivos JSON:
+
+```bash
+./build/historytracers-publisher -minify
+```
+
+Os arquivos gerados são gravados em `build/www/lang/<lang>/smartphone/`; os
+arquivos de origem não são modificados. Verifique os arquivos JSON com:
+
+```bash
+./build/historytracers-publisher -validate
+```
+
+Gere os arquivos de entrada para a síntese de voz com:
+
+```bash
+./build/historytracers-publisher -audio
+```
+
+Os arquivos de texto de áudio são gravados em `audio/`.
+
+Consulte [publisher/README.pt-BR.md](publisher/README.pt-BR.md) para mais
+detalhes.
