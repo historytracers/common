@@ -135,9 +135,16 @@ func writeSmartphoneTmpFile(cfg Config, lang string, data interface{}) (string, 
 	e := json.NewEncoder(fp)
 	e.SetEscapeHTML(false)
 	e.SetIndent("", "   ")
-	e.Encode(data)
+	if err := e.Encode(data); err != nil {
+		fp.Close()
+		os.Remove(tmpFile)
+		return "", err
+	}
 
-	fp.Close()
+	if err := fp.Close(); err != nil {
+		os.Remove(tmpFile)
+		return "", err
+	}
 
 	return tmpFile, nil
 }

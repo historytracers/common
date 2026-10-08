@@ -171,6 +171,7 @@ func (r *runner) rewriteAndMinify(lang string) error {
 
 	var jobs []htMinifyJob
 	var tmpFiles []string
+	failed := 0
 	for _, entry := range entries {
 		if entry.IsDir() {
 			continue
@@ -182,6 +183,7 @@ func (r *runner) rewriteAndMinify(lang string) error {
 		smGameFile := srcDir + entry.Name()
 		tmpFile, err := r.transform(lang, smGameFile)
 		if err != nil {
+			failed++
 			fmt.Fprintln(os.Stderr, "ERROR transforming smartphone:", err)
 			continue
 		}
@@ -202,6 +204,10 @@ func (r *runner) rewriteAndMinify(lang string) error {
 		if err := os.Remove(tmpFile); err != nil {
 			fmt.Fprintf(os.Stderr, "ERROR removing tmp %s: %v\n", tmpFile, err)
 		}
+	}
+
+	if failed > 0 {
+		return fmt.Errorf("%d smartphone file(s) failed to transform", failed)
 	}
 	return nil
 }

@@ -159,3 +159,32 @@ func TestHTValidateSMGameFormats(t *testing.T) {
 		t.Fatalf("HTValidateSMGameFormats = %d, want 1", invalid)
 	}
 }
+
+// TestReplaceRomanIncludesXIII checks that "(Part XIII)" and "(Parte XIII)" are
+// converted, which the duplicated XII alternative did not match.
+func TestReplaceRomanIncludesXIII(t *testing.T) {
+	got := htReplaceRoman("(Part XIII) and (Parte XIII)")
+	if !strings.Contains(got, "(Part 13)") {
+		t.Errorf("Roman XIII not converted: %q", got)
+	}
+	if !strings.Contains(got, "(Parte 13)") {
+		t.Errorf("Roman XIII not converted after Parte: %q", got)
+	}
+}
+
+// TestReplaceMathKeepsWordsEndingInX checks that only an "x" between numeric
+// operands is rewritten, leaving words such as "box" untouched.
+func TestReplaceMathKeepsWordsEndingInX(t *testing.T) {
+	r := newRunner(Config{SrcPath: t.TempDir()})
+	got := r.replaceMath("A box of 3 x 4 and 5x6.", "en-US")
+
+	if strings.Contains(got, "bo times") {
+		t.Fatalf("word ending in x was mangled: %q", got)
+	}
+	if !strings.Contains(got, "3 times 4") {
+		t.Errorf("expected 3 times 4 in %q", got)
+	}
+	if !strings.Contains(got, "5 times 6") {
+		t.Errorf("expected 5 times 6 in %q", got)
+	}
+}

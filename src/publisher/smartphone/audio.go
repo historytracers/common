@@ -223,7 +223,7 @@ func htRomanToInt(roman string) int {
 }
 
 func htReplaceRoman(text string) string {
-	re := regexp.MustCompile(`\((Part|Parte) (I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XII|XIV|XV|XVI|XVII|XVIII|XIX|XX)\)`)
+	re := regexp.MustCompile(`\((Part|Parte) (I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV|XVI|XVII|XVIII|XIX|XX)\)`)
 
 	return re.ReplaceAllStringFunc(text, func(s string) string {
 		submatches := re.FindStringSubmatch(s)
@@ -303,8 +303,16 @@ func (r *runner) replaceMath(text string, lang string) string {
 
 	ret = strings.ReplaceAll(ret, " ×", " "+timesStr)
 	ret = strings.ReplaceAll(ret, "× ", timesStr+" ")
-	ret = strings.ReplaceAll(ret, " x", " "+timesStr)
-	ret = strings.ReplaceAll(ret, "x ", timesStr+" ")
+	// Replace the letter "x" only when it multiplies two numeric operands, so
+	// words ending in "x" (e.g. "box ", "max ") are left untouched.
+	xBetweenNumbers := regexp.MustCompile(`(\d)\s*x\s*(\d)`)
+	ret = xBetweenNumbers.ReplaceAllStringFunc(ret, func(match string) string {
+		parts := xBetweenNumbers.FindStringSubmatch(match)
+		if len(parts) != 3 {
+			return match
+		}
+		return parts[1] + timesStr + parts[2]
+	})
 
 	ret = strings.ReplaceAll(ret, " +", " "+plusStr)
 	ret = strings.ReplaceAll(ret, "+ ", plusStr+" ")
