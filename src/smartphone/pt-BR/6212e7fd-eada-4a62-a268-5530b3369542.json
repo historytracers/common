@@ -20,10 +20,23 @@
          "id": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
          "audio": "",
          "smile": "nerd",
-         "source_menu": [],
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
          "text": [
             {
-               "text": "#### Vai um ou não vai?\n\nEm cada nível a pergunta é a mesma: esta coluna leva 1 para a ordem seguinte? O jogo avança sempre coluna por coluna, começando pelas unidades.\n\nPara responder, siga três passos:\n\n1. **O valor que a coluna já tem.** Some o dígito do primeiro número com o 1 que veio da coluna da direita, se houver. O jogo mostra esse total.\n2. **O complemento até 10.** Pergunte quanto falta para chegar a 10. Essa quantidade é o complemento.\n3. **O dígito que estamos somando.** Se for menor que o complemento, o total fica abaixo de 10 e a coluna não leva nada. Se for igual ou maior que o complemento, o total alcança 10 e a coluna leva 1 para a coluna seguinte.",
+               "text": "#### Vai um ou não vai?\n\nEm cada nível, a pergunta é a mesma: esta coluna leva 1 para a ordem seguinte? O jogo avança sempre coluna por coluna, começando pelas unidades.\n\nPara responder, siga três passos:\n\n1. **O valor que a coluna já tem.** Some o dígito do número de cima com o 1 que veio da coluna da direita, se houver. O jogo mostra esse total.\n2. **O complemento até 10.** Veja quanto falta para chegar a 10. Essa quantidade é o complemento.\n3. **O dígito que estamos somando.** Se for menor que o complemento, o total fica abaixo de 10 e a coluna não leva nada. Se for igual ou maior que o complemento, o total alcança 10 e a coluna leva 1 para a coluna seguinte.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -48,7 +61,7 @@
             {
                "type": 1,
                "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
                "date_time": {
                   "type": "gregory",

@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nIn previous classes, we learned that we cannot write a number greater than 9 in a single position. When this happens, we need to use a new order — a new family number — to hold the number.\n\nIn this class, we will look at the same idea from another angle: through the complement and the limits of a position.",
+               "text": "#### Introduction\n\nIn previous classes, we learned that we cannot write a number greater than 9 in a single position. When that happens, we need a new order — a new place in the number family — to hold the number.\n\nIn this class, we look at the same idea from another angle: the complement and the limits of a position.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Complement of 10\n\nWhen we do math with two numbers, before taking any action it is a good idea to evaluate what we can do with them, so that we do not exceed the limits.\n\nSince we cannot write a number greater than 9 in a position, we look at the complement of the number to reach 10. In other words, we check which number we can add to a number without going past the value 10.",
+               "text": "#### Complement of 10\n\nBefore adding two numbers, it helps to check whether the result will stay inside the limit of a position.\n\nSince a position cannot hold more than 9, we look at the complement to 10: the number we can add without passing 10.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### Ourselves\n\nLet us start with us. Our hands have 5 fingers. If we add 4 more fingers, we get 9 — we still do not reach 10. But if we add 5 or more, the result reaches or passes the limit of the position, as you can see in Calculation 1:",
+               "text": "#### Ourselves\n\nLet us start with ourselves. Each hand has 5 fingers. Add 4 more and we reach 9 — still short of 10. But with 5 or more, the result reaches or passes the limit of the position, as Calculation 1 shows:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -156,7 +156,7 @@
          ],
          "text": [
             {
-               "text": "#### My Complement, My Limit\n\nThe complement of a number to 10 is the number needed to reach 10. For example, if we have 6 and we want to reach 10, we add its complement, 4, because 6 + 4 = 10.\n\nLet us draw this to make it even clearer:",
+               "text": "#### My Complement, My Limit\n\nThe complement of a number to 10 is the number you must add to reach 10. With 6, its complement is 4, because 6 + 4 = 10.\n\nLet us draw it to make it even clearer:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -202,7 +202,7 @@
          ],
          "text": [
             {
-               "text": "#### Exercising\n\nTo confirm what we learned, use the arrows below to check what happens when we add a value smaller than, equal to, or greater than the complement.\n\nUse the arrows to change the number added to 6 and watch when the result advances to the next order. Below the complement the result stays in the units order; at the complement or above it, the result advances to the next order.",
+               "text": "#### Exercising\n\nUse the arrows to change the number added to 6 and watch when the result advances to the next order.\n\nBelow the complement, the result stays in the units order. At the complement or above it, the result advances to the next order.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -239,7 +239,7 @@
          ],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nIf a value is smaller than the complement of 10, are we going to carry a number?",
+               "text": "#### Let Us Think!\n\nIf a value is smaller than the complement of 10, does the column carry a number?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -276,7 +276,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned that before adding another number, we should check the complement of the first number to reach 10.\n\nIf we add a smaller value, we will never carry. But if we add a value equal to or greater than the complement, we will carry a number.\n\nIn the next class, we will practice everything we learned to reinforce our knowledge.",
+               "text": "#### Conclusion\n\nIn this class, we learned that, before adding another number, we must check the complement of the first number to 10.\n\nAdd less than the complement and the column carries nothing. Add the complement or more and the column carries 1 to the next order.\n\nIn the next class, we will practice all that we have learned.",
                "source": [],
                "date_time": null,
                "isTable": false,

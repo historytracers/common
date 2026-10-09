@@ -20,10 +20,23 @@
          "id": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
          "audio": "",
          "smile": "nerd",
-         "source_menu": [],
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
          "text": [
             {
-               "text": "#### ¿Se lleva o no se lleva?\n\nEn cada nivel la pregunta es la misma: ¿esta columna lleva 1 al siguiente orden? El juego avanza siempre columna por columna, empezando por las unidades.\n\nPara responder, sigue tres pasos:\n\n1. **Valor que ya tiene la columna.** Toma el dígito del primer número y suma el 1 que se llevó de la columna de la derecha, si lo hay. El juego muestra ese total.\n2. **Complemento hasta 10.** Pregunta cuánto falta para llegar a 10. Esa cantidad es el complemento.\n3. **El dígito que sumamos.** Si es menor que el complemento, el total se queda por debajo de 10 y la columna no se lleva nada. Si es igual o mayor que el complemento, el total alcanza 10 y la columna se lleva 1 a la columna siguiente.",
+               "text": "#### ¿Se lleva o no se lleva?\n\nEn cada nivel, la pregunta es la misma: ¿esta columna lleva 1 al siguiente orden? El juego avanza siempre columna por columna, empezando por las unidades.\n\nPara responder, sigue tres pasos:\n\n1. **Valor que ya tiene la columna.** Toma el dígito del número de arriba y suma el 1 que se llevó de la columna de la derecha, si lo hay. El juego muestra ese total.\n2. **Complemento hasta 10.** Mira cuánto falta para llegar a 10. Esa cantidad es el complemento.\n3. **El dígito que sumamos.** Si es menor que el complemento, el total se queda por debajo de 10 y la columna no se lleva nada. Si es igual o mayor que el complemento, el total alcanza 10 y la columna se lleva 1 a la columna siguiente.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -48,7 +61,7 @@
             {
                "type": 1,
                "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
                "date_time": {
                   "type": "gregory",

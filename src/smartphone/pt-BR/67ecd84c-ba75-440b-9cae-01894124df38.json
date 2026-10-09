@@ -24,7 +24,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nNas aulas anteriores, aprendemos que não podemos escrever um número maior que 9 em uma única posição. Quando isso acontece, precisamos usar uma nova ordem — um novo número da família — para guardar o número.\n\nNesta aula, vamos olhar para essa mesma ideia por outro ângulo: por meio do complemento e dos limites de uma posição.",
+               "text": "#### Introdução\n\nNas aulas anteriores, aprendemos que não podemos escrever um número maior que 9 em uma única posição. Quando isso acontece, precisamos usar uma nova ordem — um novo lugar na família numérica — para guardar o número.\n\nNesta aula, vamos olhar para essa mesma ideia por outro ângulo: o complemento e os limites de uma posição.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -61,7 +61,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Complemento de 10\n\nQuando fazemos contas com dois números, antes de tomar qualquer atitude é uma boa ideia avaliar o que podemos fazer com eles, para não ultrapassar os limites.\n\nComo não podemos escrever um número maior que 9 em uma posição, olhamos para o complemento do número até 10. Em outras palavras, verificamos qual número podemos somar a outro sem passar do valor 10.",
+               "text": "#### Complemento de 10\n\nAntes de somar dois números, vale a pena verificar se o resultado cabe no limite de uma posição.\n\nComo uma posição não guarda mais do que 9, olhamos o complemento até 10: o número que podemos somar sem passar de 10.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -98,7 +98,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### Nós mesmos\n\nVamos começar por nós. Nossas mãos têm 5 dedos. Se somarmos mais 4 dedos, chegamos a 9 — ainda não alcançamos 10. Mas se somarmos 5 ou mais, o resultado alcança ou passa o limite da posição, como você pode ver no Cálculo 1:",
+               "text": "#### Nós mesmos\n\nVamos começar por nós. Cada mão tem 5 dedos. Se somarmos mais 4, chegamos a 9 — ainda falta para o 10. Mas com 5 ou mais, o resultado alcança ou passa o limite da posição, como mostra o Cálculo 1:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -144,7 +144,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -156,7 +156,7 @@
          ],
          "text": [
             {
-               "text": "#### Meu complemento, meu limite\n\nO complemento de um número até 10 é o número necessário para chegar a 10. Por exemplo, se temos 6 e queremos chegar a 10, somamos o seu complemento, 4, porque 6 + 4 = 10.\n\nVamos desenhar isso para ficar ainda mais claro:",
+               "text": "#### Meu complemento, meu limite\n\nO complemento de um número até 10 é o número que precisamos somar para chegar a 10. Com 6, o seu complemento é 4, porque 6 + 4 = 10.\n\nVamos desenhar isso para ficar ainda mais claro:",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -190,7 +190,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -202,7 +202,7 @@
          ],
          "text": [
             {
-               "text": "#### Praticando\n\nPara confirmar o que aprendemos, use as setas abaixo para verificar o que acontece quando somamos um valor menor, igual ou maior que o complemento.\n\nUse as setas para mudar o número somado a 6 e observe quando o resultado avança para a próxima ordem. Abaixo do complemento, o resultado fica na ordem das unidades; no complemento ou acima dele, o resultado avança para a próxima ordem.",
+               "text": "#### Praticando\n\nUse as setas para mudar o número somado a 6 e observe quando o resultado avança para a próxima ordem.\n\nAbaixo do complemento, o resultado fica na ordem das unidades. No complemento ou acima dele, avança para a próxima ordem.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -227,7 +227,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -239,7 +239,7 @@
          ],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nSe um valor é menor que o complemento de 10, vamos levar um número?",
+               "text": "#### Vamos Pensar!\n\nSe um valor é menor que o complemento de 10, a coluna leva um número?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -264,7 +264,7 @@
             {
                "type": 1,
                "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
                "date_time": {
                   "type": "gregory",
@@ -276,7 +276,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que, antes de somar outro número, devemos verificar o complemento do primeiro número até 10.\n\nSe somarmos um valor menor, nunca vamos levar. Mas se somarmos um valor igual ou maior que o complemento, vamos levar um número.\n\nNa próxima aula, vamos praticar tudo o que aprendemos para reforçar o nosso conhecimento.",
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que, antes de somar outro número, devemos verificar o complemento do primeiro número até 10.\n\nSome menos que o complemento e a coluna não leva nada. Some o complemento ou mais e a coluna leva 1 para a ordem seguinte.\n\nNa próxima aula, praticaremos tudo o que aprendemos.",
                "source": [],
                "date_time": null,
                "isTable": false,
