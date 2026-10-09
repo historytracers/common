@@ -1,0 +1,297 @@
+{
+   "title": "Avanzando y Complementando",
+   "index": "first_steps",
+   "sources": [
+      "cabc9843-35ef-4e4f-92fd-17eda864b55e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791424032"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6298da03-29e6-4d13-9a5e-8791b934e67e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn las clases anteriores, aprendimos que no podemos escribir un número mayor que 9 en una sola posición. Cuando esto ocurre, necesitamos usar un nuevo orden — un nuevo número de familia — para guardar el número.\n\nEn esta clase, veremos esa misma idea desde otro ángulo: a través del complemento y de los límites de una posición.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a0599aa8-c642-4f1b-976a-df63dd3ea019",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a0599aa8-c642-4f1b-976a-df63dd3ea019",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Complemento de 10\n\nCuando hacemos cuentas con dos números, antes de tomar cualquier acción es buena idea evaluar qué podemos hacer con ellos, para no superar los límites.\n\nComo no podemos escribir un número mayor que 9 en una posición, miramos el complemento del número hasta 10. En otras palabras, verificamos qué número podemos sumar a otro sin pasar del valor 10.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e2405750-4b2b-4df0-acff-87e00671cd12",
+         "prev": "6298da03-29e6-4d13-9a5e-8791b934e67e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e2405750-4b2b-4df0-acff-87e00671cd12",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Nosotros mismos\n\nEmpecemos por nosotros. Nuestras manos tienen 5 dedos. Si sumamos 4 dedos más, llegamos a 9 — todavía no alcanzamos 10. Pero si sumamos 5 o más, el resultado alcanza o supera el límite de la posición, como puedes ver en el Cálculo 1:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<center><div class=\"first_steps_reflection\" style=\"background-color:#FFFFFF;\"><p class=\"center_notation\" style=\"font-size:1.6em; line-height:1.6;\">5 + 5 = 10<br />6 + 5 = 11<br />7 + 5 = 12<br />8 + 5 = 13<br />9 + 5 = 14</p><p class=\"desc\"><b>Cálculo 1</b>: Sumar 5 a 5, 6, 7, 8 y 9. En todos los casos el resultado es 10 o más, por eso se necesita un nuevo orden.</p></div></center>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Lista vertical de cinco sumas: 5 + 5 = 10, 6 + 5 = 11, 7 + 5 = 12, 8 + 5 = 13 y 9 + 5 = 14.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "eb0d4184-7d66-44e2-9742-e7c88c4780ee",
+         "prev": "a0599aa8-c642-4f1b-976a-df63dd3ea019",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "eb0d4184-7d66-44e2-9742-e7c88c4780ee",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mi complemento, mi límite\n\nEl complemento de un número hasta 10 es el número necesario para alcanzar 10. Por ejemplo, si tenemos 6 y queremos llegar a 10, sumamos su complemento, 4, porque 6 + 4 = 10.\n\nVamos a dibujarlo para que quede aún más claro:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 632 56\" width=\"100%\" style=\"max-width:632px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Seis cuadrados azul claro seguidos de cuatro cuadrados amarillo claro\"><title>Seis cuadrados azul claro y cuatro cuadrados amarillo claro, diez en total</title><rect x=\"0\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"64\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"128\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"192\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"256\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"320\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"384\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"448\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"512\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"576\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/></svg></p><p class=\"desc\"><b>Figura 1</b>: El número 6 (azul) y su complemento 4 (amarillo). Juntos completan los diez cuadrados.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Seis cuadrados azul claro seguidos de cuatro cuadrados amarillo claro, diez en total.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1c35a845-e170-4a66-9be9-59f3a3cefa33",
+         "prev": "e2405750-4b2b-4df0-acff-87e00671cd12",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1c35a845-e170-4a66-9be9-59f3a3cefa33",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicando\n\nPara confirmar lo que aprendimos, usa las flechas de abajo para comprobar qué ocurre cuando sumamos un valor menor, igual o mayor que el complemento.\n\nUsa las flechas para cambiar el número que se suma a 6 y observa cuándo el resultado avanza al siguiente orden. Por debajo del complemento, el resultado se queda en el orden de las unidades; en el complemento o por encima de él, el resultado avanza al siguiente orden.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5cd14439-1ac6-4010-9b8b-56d16c976006",
+         "prev": "eb0d4184-7d66-44e2-9742-e7c88c4780ee",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5cd14439-1ac6-4010-9b8b-56d16c976006",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¡Pensemos!\n\nSi un valor es menor que el complemento de 10, ¿vamos a llevar un número?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "abcee086-fa78-4d5b-aea5-18a0f7b37186",
+         "prev": "1c35a845-e170-4a66-9be9-59f3a3cefa33",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "abcee086-fa78-4d5b-aea5-18a0f7b37186",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que, antes de sumar otro número, debemos comprobar el complemento del primer número hasta 10.\n\nSi sumamos un valor menor, nunca vamos a llevar. Pero si sumamos un valor igual o mayor que el complemento, vamos a llevar un número.\n\nEn la próxima clase, practicaremos todo lo que aprendimos para reforzar nuestro conocimiento.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "5cd14439-1ac6-4010-9b8b-56d16c976006",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
