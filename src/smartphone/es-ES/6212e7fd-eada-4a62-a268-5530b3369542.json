@@ -1,0 +1,94 @@
+{
+   "title": "¿Se lleva o no se lleva?",
+   "index": "first_steps",
+   "sources": [
+      "5539096c-dd7d-4f9c-a137-f0465725b9f4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791424032"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿Se lleva o no se lleva?\n\nEn cada nivel, la pregunta es la misma: ¿esta columna lleva 1 al siguiente orden? El juego avanza siempre columna por columna, empezando por las unidades.\n\nPara responder, sigue tres pasos:\n\n1. **Valor que ya tiene la columna.** Toma el dígito del número de arriba y suma el 1 que se llevó de la columna de la derecha, si lo hay. El juego muestra ese total.\n2. **Complemento hasta 10.** Mira cuánto falta para llegar a 10. Esa cantidad es el complemento.\n3. **El dígito que sumamos.** Si es menor que el complemento, el total se queda por debajo de 10 y la columna no se lleva nada. Si es igual o mayor que el complemento, el total alcanza 10 y la columna se lleva 1 a la columna siguiente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "febbc229-8bf0-4e7f-8936-28d21b1a2267",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "febbc229-8bf0-4e7f-8936-28d21b1a2267",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nElige **Se lleva** o **No se lleva** en la columna resaltada. El juego responde, explica el motivo y dibuja los diez cuadrados del complemento hasta 10.\n\nHay cuatro niveles — unidades, decenas, centenas y millares — y cada nivel añade una columna más. Juega para practicar los tres pasos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

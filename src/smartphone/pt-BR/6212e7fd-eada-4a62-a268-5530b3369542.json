@@ -1,0 +1,94 @@
+{
+   "title": "Vai um ou não vai?",
+   "index": "first_steps",
+   "sources": [
+      "5539096c-dd7d-4f9c-a137-f0465725b9f4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791424032"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Vai um ou não vai?\n\nEm cada nível, a pergunta é a mesma: esta coluna leva 1 para a ordem seguinte? O jogo avança sempre coluna por coluna, começando pelas unidades.\n\nPara responder, siga três passos:\n\n1. **O valor que a coluna já tem.** Some o dígito do número de cima com o 1 que veio da coluna da direita, se houver. O jogo mostra esse total.\n2. **O complemento até 10.** Veja quanto falta para chegar a 10. Essa quantidade é o complemento.\n3. **O dígito que estamos somando.** Se for menor que o complemento, o total fica abaixo de 10 e a coluna não leva nada. Se for igual ou maior que o complemento, o total alcança 10 e a coluna leva 1 para a coluna seguinte.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "febbc229-8bf0-4e7f-8936-28d21b1a2267",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "febbc229-8bf0-4e7f-8936-28d21b1a2267",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nEscolha **Vai um** ou **Não vai um** na coluna destacada. O jogo responde, explica o motivo e desenha os dez quadrados do complemento até 10.\n\nSão quatro níveis — unidades, dezenas, centenas e milhares — e cada nível acrescenta uma coluna. Jogue para praticar os três passos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "6d4a14a2-eb1a-46a4-958c-454b035066ec",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
