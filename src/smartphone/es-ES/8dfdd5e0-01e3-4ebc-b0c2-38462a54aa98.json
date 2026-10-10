@@ -1,0 +1,57 @@
+{
+   "title": "¿Impar o par?",
+   "index": "first_steps",
+   "sources": [
+      "8dfdd5e0-01e3-4ebc-b0c2-38462a54aa98"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791593049"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "ca90567f-03f3-4409-9a45-16dc6ec18931",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8dfdd5e0-01e3-4ebc-b0c2-38462a54aa98",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8dfdd5e0-01e3-4ebc-b0c2-38462a54aa98",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### ¿Impar o par?\n\nObserva el número y cómo se reparten sus círculos entre los dos lados. Usa los botones para responder: toca Impar si sobra un círculo, o Par si los círculos forman pares completos sin que sobre nada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
