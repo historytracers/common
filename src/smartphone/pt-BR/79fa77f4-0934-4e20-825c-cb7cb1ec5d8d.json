@@ -79,7 +79,7 @@
                "PostMention": ""
             },
             {
-               "text": "<img src=\"http://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/pentagonal_pyramid.jpg\" id=\"img0\" onclick=\"htImageZoom('img0', '0%')\"  class=\"imgcenter\"/>",
                "source": [],
                "date_time": [],
                "isTable": false,

@@ -49,6 +49,18 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "2a3c2fd3-b682-4d60-8db4-60f213ad1e2e",
+               "text": "Kim, Soomi",
+               "page": "https://doi.org/10.7916/D84Q7TNM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2015",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "716d6fe5-78cc-4fef-85da-11daff12399d",
                "text": "Texto Original",
@@ -95,6 +107,18 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "88d236e3-7db4-4085-848e-0346101e6e51",
+               "text": "Samoly, K.",
+               "page": "https://kb.osu.edu/bitstreams/5ec33729-835c-5b97-8993-f6ea84bd7617/download",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2012",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "e434ae19-4f25-4880-8227-0970cd27ccb6",
                "text": "Texto Original",
@@ -139,7 +163,20 @@
          "id": "ad646132-7831-49ba-b512-2518d2b3654d",
          "audio": "",
          "smile": "thinking",
-         "source_menu": [],
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "2a3c2fd3-b682-4d60-8db4-60f213ad1e2e",
+               "text": "Kim, Soomi",
+               "page": "https://doi.org/10.7916/D84Q7TNM",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2015",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
          "text": [
             {
                "text": "#### Eles Usam os Mesmos Caracteres?\n\nO Suanpan (算盤) e o Soroban (算盤) usam os mesmos caracteres com sons diferentes?",
@@ -189,6 +226,18 @@
          "smile": "happy",
          "source_menu": [
             {
+               "type": 0,
+               "uuid": "b4129ac9-9e33-493c-9e7e-b59fb306762f",
+               "text": "Volkov, A.",
+               "page": "https://www.researchgate.net/publication/330328982_Counting_Devices_in_Russia",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2018",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "1aad8822-1ace-45fd-954e-833799836d1a",
                "text": "Texto Original",
@@ -234,6 +283,18 @@
          "audio": "",
          "smile": "happy",
          "source_menu": [
+            {
+               "type": 0,
+               "uuid": "6d1b7315-7910-40c1-877e-c7d75b02a149",
+               "text": "Turner, J. H.",
+               "page": "https://www.jstor.org/stable/3293540",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1951",
+                  "month": "",
+                  "day": ""
+               }
+            },
             {
                "type": 1,
                "uuid": "1aacf33a-fb94-4535-a66f-3997087fa404",

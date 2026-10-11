@@ -178,6 +178,18 @@
                }
             },
             {
+               "type": 0,
+               "uuid": "72b8a10d-1a15-4a10-aff6-1210b7bd94fc",
+               "text": "Ashmolean Museum Oxford",
+               "page": "https://www.ashmolean.org/sumerian-king-list",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
                "type": 1,
                "uuid": "376a5f3c-c598-40ee-95ad-5db9046ab8e2",
                "text": "Texto Original",
@@ -417,7 +429,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Imagen realizada por Don Hitchcock y disponible en Don's Maps.*",
+               "text": "*Foto tomada por Don Hitchcock y disponible en Don's Maps.*",
                "source": [],
                "date_time": [],
                "isTable": false,
@@ -484,7 +496,7 @@
                "PostMention": ""
             },
             {
-               "text": "*Evolución del universo, según la Agencia Espacial Europea (ESA).*",
+               "text": "*Evolución del Universo. © Agencia Espacial Europea (ESA).*",
                "source": [],
                "date_time": [],
                "isTable": false,
