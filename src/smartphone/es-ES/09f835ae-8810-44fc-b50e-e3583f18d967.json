@@ -1,0 +1,57 @@
+{
+   "title": "Mayor o Menor (El Juego)",
+   "index": "measuring",
+   "sources": [
+      "09f835ae-8810-44fc-b50e-e3583f18d967"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "1080c479-07ad-4bfe-8dbd-7e8b40563aa2",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "09f835ae-8810-44fc-b50e-e3583f18d967",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=09f835ae-8810-44fc-b50e-e3583f18d967",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cómo Jugar\n\nSe muestran dos números: A a la izquierda y B a la derecha. Decide si están en orden — es decir, si el número de la derecha (B) es mayor que el número de la izquierda (A).\n\nRecuerda el consejo: el lado abierto del símbolo de comparación siempre mira hacia el número mayor. En los dos últimos niveles la diferencia entre los números es enorme, así que usamos ≫ (mucho mayor) y ≪ (mucho menor).",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

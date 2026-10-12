@@ -1,0 +1,57 @@
+{
+   "title": "Greater or Smaller (The Game)",
+   "index": "measuring",
+   "sources": [
+      "09f835ae-8810-44fc-b50e-e3583f18d967"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "1080c479-07ad-4bfe-8dbd-7e8b40563aa2",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "09f835ae-8810-44fc-b50e-e3583f18d967",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=09f835ae-8810-44fc-b50e-e3583f18d967",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### How to Play\n\nTwo numbers are shown: A on the left and B on the right. Decide whether they are in order — that is, whether the number on the right (B) is bigger than the number on the left (A).\n\nRemember the tip: the open side of the comparison symbol always faces the larger number. In the last two levels the gap between the numbers is huge, so we use ≫ (much greater) and ≪ (much less).",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

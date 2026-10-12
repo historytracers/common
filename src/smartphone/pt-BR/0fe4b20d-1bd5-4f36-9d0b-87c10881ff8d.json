@@ -1,0 +1,344 @@
+{
+   "title": "Maior ou Menor",
+   "index": "Medindo",
+   "sources": [
+      "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "402963f4-a372-48f0-9f40-b0f192316205",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nAnteriormente, aprendemos que, ao comparar números, podemos usar o símbolo de igual (=) para dizer que duas coisas são iguais. Também aprendemos que, quando mudamos um lado de uma igualdade, precisamos mudar o outro lado na mesma proporção para que a igualdade continue verdadeira.\n\nMas a igualdade não é a única comparação que podemos fazer. Nesta aula, vamos aprender mais duas comparações: o maior e o menor.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Uma Régua\n\nUma régua é um retângulo com marcas. As marcas longas trazem os números 0, 10, 20 e assim por diante até 100, enquanto as marcas menores entre elas representam os valores intermediários.\n\nObserve que as marcas estão sempre à mesma distância umas das outras.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Uma escala centesimal, ou seja, uma régua com marcas de 0 a 100.",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/Meter.jpg\" class=\"imgcenter\"/>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Uma escala centesimal, ou seja, uma régua com marcas de 0 a 100.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: Uma escala centesimal. As marcas longas indicam as dezenas, e as marcas menores representam os valores intermediários.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Um Número Depois É Maior\n\nQuando um número vem depois de outro, ele é maior. Escrevemos essa relação com o símbolo (>), então **21 > 20** significa “21 é maior que 20”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Um Número Antes É Menor\n\nO contrário também é verdadeiro: um número que vem antes de outro é menor. Usamos o símbolo (<), então **20 < 21** significa “20 é menor que 21”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nNa régua, o valor 100 está colocado depois do valor 20.\n\nIsso significa que 100 é maior que 20?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Mesma Lógica\n\nTodo número que vem depois de outro é maior, e todo número que vem antes de outro é menor — não importa a distância entre eles.\n\nQuando a diferença entre dois números é enorme, a matemática oferece um atalho: (≫) lê-se “muito maior que”, como em **1000000 ≫ 20**, e (≪) lê-se “muito menor que”, como em **20 ≪ 1000000**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que, em uma régua, as marcas mantêm sempre a mesma distância entre os números, e que um número que vem depois de outro é maior que ele. Por outro lado, um número que vem antes de outro é sempre menor que ele.\n\n**Uma dica útil:** o lado aberto do símbolo de comparação — maior (>) ou menor (<) — sempre aponta para o número maior. Teste com **21 > 20**: a abertura aponta para 21.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
