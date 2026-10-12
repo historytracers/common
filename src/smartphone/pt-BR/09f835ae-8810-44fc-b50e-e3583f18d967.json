@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Como Jogar\n\nDois números são mostrados: A à esquerda e B à direita. Decida se eles estão em ordem — ou seja, se o número da direita (B) é maior que o número da esquerda (A).\n\nLembre-se da dica: o lado aberto do símbolo de comparação sempre aponta para o número maior. Nos dois últimos níveis a diferença entre os números é enorme, então usamos ≫ (muito maior) e ≪ (muito menor).",
+               "text": "#### Como Jogar\n\nAparecem dois números: A à esquerda e B à direita. B é maior que A?\n\n**Dica:** o lado aberto do símbolo de comparação sempre aponta para o número maior.\n\nNos dois últimos níveis a diferença é enorme, então usamos ≫ (muito maior) e ≪ (muito menor).",
                "source": [],
                "date_time": null,
                "isTable": false,

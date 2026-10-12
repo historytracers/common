@@ -1,0 +1,229 @@
+{
+   "title": "Medindo em uma direção",
+   "index": "Medindo",
+   "sources": [
+      "e609a3e8-7a6b-4d38-b74c-3cece49c66d1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7169ab5b-222f-41f3-b15a-7a5f8405350e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nJá sabemos que uma régua pode medir objetos. Agora vamos aprender a usá-la.\n\nNesta aula damos os primeiros passos: medir comprimento em uma única direção.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ef7ea19-2c9d-4b04-8e9b-6973ddf0876b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ef7ea19-2c9d-4b04-8e9b-6973ddf0876b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Passo a Passo\n\nPara medir um objeto com uma régua, siga estes passos:\n\n- Coloque-o ao longo da borda, com uma extremidade na marca 0.\n- Mantenha-o reto, sem inclinar. Observe a marca sob a outra extremidade.\n- Esse número é a medida: o comprimento do objeto na direção que você escolheu.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "104de17e-0acb-4a22-8f10-1b42b01b6bab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "104de17e-0acb-4a22-8f10-1b42b01b6bab",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exemplo\n\nOlhe para o barbante sobre a régua abaixo. Ele começa em 0 e termina na marca 5, então seu comprimento é 5.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e785556b-f538-4891-aa47-99f6fde8a5c9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e785556b-f538-4891-aa47-99f6fde8a5c9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nMedir nos diz o comprimento de um objeto.\n\nPodemos usar isso para verificar se dois objetos são iguais?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "68b7c7d1-39ee-4b1b-ba17-c74698eefcde",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "68b7c7d1-39ee-4b1b-ba17-c74698eefcde",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comparando\n\nUse o aplicativo abaixo para verificar sua ideia. Aperte os botões de mais e menos para mudar o comprimento dos barbantes e observe o que ele diz.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f8225205-eea8-4f31-a661-7be7a218e4a0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f8225205-eea8-4f31-a661-7be7a218e4a0",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nAprendemos a medir com a régua e a verificar se os objetos têm o mesmo comprimento.\n\nO mesmo comprimento é apenas o primeiro passo: com os três barbantes, dois objetos só são totalmente iguais quando coincidem em todas as características que comparamos — comprimento e cor juntos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

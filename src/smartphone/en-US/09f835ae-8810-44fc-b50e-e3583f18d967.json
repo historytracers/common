@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### How to Play\n\nTwo numbers are shown: A on the left and B on the right. Decide whether they are in order — that is, whether the number on the right (B) is bigger than the number on the left (A).\n\nRemember the tip: the open side of the comparison symbol always faces the larger number. In the last two levels the gap between the numbers is huge, so we use ≫ (much greater) and ≪ (much less).",
+               "text": "#### How to Play\n\nTwo numbers appear: A on the left and B on the right. Is B greater than A?\n\n**Tip:** the open side of the comparison symbol always faces the larger number.\n\nIn the last two levels the gap is huge, so we use ≫ (much greater) and ≪ (much less).",
                "source": [],
                "date_time": null,
                "isTable": false,

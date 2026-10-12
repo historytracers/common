@@ -1,0 +1,229 @@
+{
+   "title": "Measuring in one direction",
+   "index": "Measuring",
+   "sources": [
+      "e609a3e8-7a6b-4d38-b74c-3cece49c66d1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "7169ab5b-222f-41f3-b15a-7a5f8405350e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWe know a ruler can measure objects. Now let's learn how to use it.\n\nIn this class we take the first steps: measuring length in one direction.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ef7ea19-2c9d-4b04-8e9b-6973ddf0876b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ef7ea19-2c9d-4b04-8e9b-6973ddf0876b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Step by Step\n\nTo measure an object with a ruler, follow these steps:\n\n- Lay it along the ruler's edge, with one end at the 0 mark.\n- Keep it straight, without tilting. Look at the mark under the other end.\n- That number is the measure: the object's length in the direction you chose.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "104de17e-0acb-4a22-8f10-1b42b01b6bab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "104de17e-0acb-4a22-8f10-1b42b01b6bab",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Example\n\nLook at the string on the ruler below. It starts at 0 and ends at the mark 5, so its length is 5.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e785556b-f538-4891-aa47-99f6fde8a5c9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e785556b-f538-4891-aa47-99f6fde8a5c9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nMeasuring tells us how long an object is.\n\nCan we use it to check whether two objects are equal?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "68b7c7d1-39ee-4b1b-ba17-c74698eefcde",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "68b7c7d1-39ee-4b1b-ba17-c74698eefcde",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comparing\n\nUse the app below to check your idea. Press the plus and minus buttons to change the string lengths and see what it says.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f8225205-eea8-4f31-a661-7be7a218e4a0",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f8225205-eea8-4f31-a661-7be7a218e4a0",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e609a3e8-7a6b-4d38-b74c-3cece49c66d1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nWe learned to measure with a ruler and to check whether objects share the same length.\n\nSame length is only the first step: with the three strings, two objects are fully equal only when they match in every characteristic we compare — length and color together.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

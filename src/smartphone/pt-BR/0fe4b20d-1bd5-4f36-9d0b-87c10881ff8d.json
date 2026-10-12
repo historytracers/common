@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nAnteriormente, aprendemos que, ao comparar números, podemos usar o símbolo de igual (=) para dizer que duas coisas são iguais. Também aprendemos que, quando mudamos um lado de uma igualdade, precisamos mudar o outro lado na mesma proporção para que a igualdade continue verdadeira.\n\nMas a igualdade não é a única comparação que podemos fazer. Nesta aula, vamos aprender mais duas comparações: o maior e o menor.",
+               "text": "#### Introdução\n\nJá conhecemos uma comparação: a igualdade (=). Duas coisas são iguais quando uma mudança em um lado é compensada pela mesma mudança no outro.\n\nAgora acrescentamos duas mais: maior e menor.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Uma Régua\n\nUma régua é um retângulo com marcas. As marcas longas trazem os números 0, 10, 20 e assim por diante até 100, enquanto as marcas menores entre elas representam os valores intermediários.\n\nObserve que as marcas estão sempre à mesma distância umas das outras.",
+               "text": "#### Uma Régua\n\nUma régua é uma tira com marcas. As marcas longas mostram 0, 10, 20 … até 100. As marcas curtas mostram os valores intermediários.\n\nObserve: cada marca está sempre na mesma distância da seguinte.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -140,7 +140,7 @@
          ],
          "text": [
             {
-               "text": "#### Um Número Depois É Maior\n\nQuando um número vem depois de outro, ele é maior. Escrevemos essa relação com o símbolo (>), então **21 > 20** significa “21 é maior que 20”.",
+               "text": "#### Um Número Que Vem Depois É Maior\n\nNa régua, um número que vem depois de outro é maior. Usamos o símbolo (>), então **21 > 20** significa “21 é maior que 20”.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -189,7 +189,7 @@
          ],
          "text": [
             {
-               "text": "#### Um Número Antes É Menor\n\nO contrário também é verdadeiro: um número que vem antes de outro é menor. Usamos o símbolo (<), então **20 < 21** significa “20 é menor que 21”.",
+               "text": "#### Um Número Que Vem Antes É Menor\n\nNa régua, um número que vem antes de outro é menor. Usamos o símbolo (<), então **20 < 21** significa “20 é menor que 21”.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -213,7 +213,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Pensar!\n\nNa régua, o valor 100 está colocado depois do valor 20.\n\nIsso significa que 100 é maior que 20?",
+               "text": "#### Vamos Pensar!\n\nNa régua, o 100 vem depois do 20.\n\nIsso significa que 100 é maior que 20?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -262,7 +262,7 @@
          ],
          "text": [
             {
-               "text": "#### A Mesma Lógica\n\nTodo número que vem depois de outro é maior, e todo número que vem antes de outro é menor — não importa a distância entre eles.\n\nQuando a diferença entre dois números é enorme, a matemática oferece um atalho: (≫) lê-se “muito maior que”, como em **1000000 ≫ 20**, e (≪) lê-se “muito menor que”, como em **20 ≪ 1000000**.",
+               "text": "#### A Mesma Lógica\n\nUm número depois de outro é sempre maior; um número antes de outro é sempre menor — não importa a distância.\n\nQuando a diferença é enorme, a matemática oferece um atalho: ≫ lê-se “muito maior que”, como em **1000000 ≫ 20**, e ≪ lê-se “muito menor que”, como em **20 ≪ 1000000**.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -323,7 +323,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula, aprendemos que, em uma régua, as marcas mantêm sempre a mesma distância entre os números, e que um número que vem depois de outro é maior que ele. Por outro lado, um número que vem antes de outro é sempre menor que ele.\n\n**Uma dica útil:** o lado aberto do símbolo de comparação — maior (>) ou menor (<) — sempre aponta para o número maior. Teste com **21 > 20**: a abertura aponta para 21.",
+               "text": "#### Conclusão\n\nEm uma régua, as marcas estão igualmente espaçadas. Um número depois de outro é maior; um número antes de outro é menor.\n\n**Dica:** o lado aberto de > ou < sempre aponta para o número maior. Em **21 > 20**, a abertura aponta para 21.",
                "source": null,
                "date_time": null,
                "isTable": false,

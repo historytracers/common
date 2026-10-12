@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nEarlier, we learned that when we compare numbers we can use the equal symbol (=) to say that two things are equal. We also learned that when we change one side of an equality, we must change the other side in the same proportion so that the equality stays true.\n\nBut equality is not the only comparison we can make. In this class, we will learn about two more comparisons: the greater and the smaller.",
+               "text": "#### Introduction\n\nWe already know one comparison: equality (=). Two things are equal when a change on one side is matched by the same change on the other.\n\nNow we add two more: greater and smaller.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### A Ruler\n\nA ruler is a rectangle with marks. The long marks carry the numbers 0, 10, 20, and so on up to 100, while the shorter marks between them stand for the values in between.\n\nNotice that the marks are always the same distance apart from each other.",
+               "text": "#### A Ruler\n\nA ruler is a strip with marks. The long marks show 0, 10, 20 … up to 100. The short marks show the values in between.\n\nLook closely: every mark is the same distance from the next.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -140,7 +140,7 @@
          ],
          "text": [
             {
-               "text": "#### A Number After Is Greater\n\nWhen a number comes after another, it is greater. We write this relationship with the symbol (>), so **21 > 20** means “21 is greater than 20”.",
+               "text": "#### A Number That Comes After Is Greater\n\nOn the ruler, a number that comes after another is greater. We use the symbol (>), so **21 > 20** means “21 is greater than 20”.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -189,7 +189,7 @@
          ],
          "text": [
             {
-               "text": "#### A Number Before Is Smaller\n\nThe opposite is also true: a number that comes before another is smaller. We use the symbol (<), so **20 < 21** means “20 is smaller than 21”.",
+               "text": "#### A Number That Comes Before Is Smaller\n\nThe opposite is also true: a number that comes before another is smaller. We use the symbol (<), so **20 < 21** means “20 is smaller than 21”.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -213,7 +213,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Think!\n\nOn the ruler, the value 100 is placed after the value 20.\n\nDoes this mean that 100 is larger than 20?",
+               "text": "#### Let Us Think!\n\nOn the ruler, 100 comes after 20.\n\nDoes that mean 100 is greater than 20?",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -262,7 +262,7 @@
          ],
          "text": [
             {
-               "text": "#### The Same Logic\n\nEvery number that comes after another is bigger, and every number that comes before another is smaller — no matter how far apart they are.\n\nWhen the gap between two numbers is huge, mathematics offers a shortcut: (≫) reads “much greater than”, as in **1000000 ≫ 20**, and (≪) reads “much less than”, as in **20 ≪ 1000000**.",
+               "text": "#### The Same Logic\n\nA number after another is always greater; a number before another is always smaller — however far apart they are.\n\nWhen the gap is huge, math offers a shortcut: ≫ means “much greater than”, as in **1000000 ≫ 20**, and ≪ means “much less than”, as in **20 ≪ 1000000**.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -323,7 +323,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class, we learned that on a ruler the marks always keep the same distance between the numbers, and that a number that comes after another is greater than it. On the other hand, a number that comes before another is always smaller than it.\n\n**A useful tip:** the open side of the comparison symbol — greater (>) or smaller (<) — always faces the larger number. Test it with **21 > 20**: the opening faces 21.",
+               "text": "#### Conclusion\n\nOn a ruler, marks are equally spaced. A number after another is greater; a number before another is smaller.\n\n**Tip:** the open side of > or < always faces the larger number. In **21 > 20**, the opening faces 21.",
                "source": null,
                "date_time": null,
                "isTable": false,
