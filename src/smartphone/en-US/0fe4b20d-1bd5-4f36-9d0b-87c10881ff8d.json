@@ -1,0 +1,344 @@
+{
+   "title": "Bigger or Smaller",
+   "index": "Measuring",
+   "sources": [
+      "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "402963f4-a372-48f0-9f40-b0f192316205",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWe already know one comparison: equality (=). Two things are equal when a change on one side is matched by the same change on the other.\n\nNow we add two more: greater and smaller.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Ruler\n\nA ruler is a strip with marks. The long marks show 0, 10, 20 … up to 100. The short marks show the values in between.\n\nLook closely: every mark is the same distance from the next.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "A centesimal scale, that is, a ruler with marks from 0 to 100.",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/Meter.jpg\" class=\"imgcenter\"/>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "A centesimal scale, that is, a ruler with marks from 0 to 100.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figure 1: A centesimal scale. The long marks carry the tens, and the shorter marks stand for the values in between.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Number That Comes After Is Greater\n\nOn the ruler, a number that comes after another is greater. We use the symbol (>), so **21 > 20** means “21 is greater than 20”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Number That Comes Before Is Smaller\n\nThe opposite is also true: a number that comes before another is smaller. We use the symbol (<), so **20 < 21** means “20 is smaller than 21”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nOn the ruler, 100 comes after 20.\n\nDoes that mean 100 is greater than 20?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Same Logic\n\nA number after another is always greater; a number before another is always smaller — however far apart they are.\n\nWhen the gap is huge, math offers a shortcut: ≫ means “much greater than”, as in **1000000 ≫ 20**, and ≪ means “much less than”, as in **20 ≪ 1000000**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nOn a ruler, marks are equally spaced. A number after another is greater; a number before another is smaller.\n\n**Tip:** the open side of > or < always faces the larger number. In **21 > 20**, the opening faces 21.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

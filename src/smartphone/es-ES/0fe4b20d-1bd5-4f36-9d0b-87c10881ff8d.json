@@ -1,0 +1,344 @@
+{
+   "title": "Mayor o Menor",
+   "index": "Midiendo",
+   "sources": [
+      "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1791327582"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "402963f4-a372-48f0-9f40-b0f192316205",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nYa conocemos una comparación: la igualdad (=). Dos cosas son iguales cuando un cambio en un lado se compensa con el mismo cambio en el otro.\n\nAhora añadimos dos más: mayor y menor.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "11d4f426-bf84-40b8-acb8-a0f61e47a778",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Regla\n\nUna regla es una tira con marcas. Las marcas largas muestran 0, 10, 20 … hasta 100. Las marcas cortas muestran los valores intermedios.\n\nObserva: cada marca está siempre a la misma distancia de la siguiente.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Una escala centesimal, es decir, una regla con marcas de 0 a 100.",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<img src=\"https://www.historytracers.org/images/HistoryTracers/Meter.jpg\" class=\"imgcenter\"/>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Una escala centesimal, es decir, una regla con marcas de 0 a 100.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: Una escala centesimal. Las marcas largas indican las decenas, y las marcas más cortas representan los valores intermedios.*",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cee40b13-4bcb-4524-a6e4-69cb70a43a9b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Un Número Que Viene Después Es Mayor\n\nEn la regla, un número que viene después de otro es mayor. Usamos el símbolo (>), así **21 > 20** significa “21 es mayor que 20”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "da732905-3ece-495a-807a-fff8b3dd6e3c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Un Número Que Viene Antes Es Menor\n\nEn la regla, un número que viene antes de otro es menor. Usamos el símbolo (<), así **20 < 21** significa “20 es menor que 21”.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc4f28b3-3c12-4682-9d44-2d90b34f86a3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Vamos a Pensar!\n\nEn la regla, el 100 viene después del 20.\n\n¿Significa esto que 100 es mayor que 20?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "0f696e6f-1b3c-401e-b5fb-7d08a8e82bb5",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Misma Lógica\n\nUn número después de otro es siempre mayor; un número antes de otro es siempre menor — sin importar la distancia.\n\nCuando la diferencia es enorme, la matemática ofrece un atajo: ≫ se lee “mucho mayor que”, como en **1000000 ≫ 20**, y ≪ se lee “mucho menor que”, como en **20 ≪ 1000000**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9b524d17-d800-41d4-be1a-45541a9babd7",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0fe4b20d-1bd5-4f36-9d0b-87c10881ff8d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c47a586f-6053-4b8e-8f9b-828cd6220110",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Greater.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4e3c3945-0bf4-4040-9735-546541b27a50",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Less.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn una regla, las marcas están igualmente espaciadas. Un número después de otro es mayor; un número antes de otro es menor.\n\n**Consejo:** el lado abierto de > o < siempre mira hacia el número mayor. En **21 > 20**, la abertura mira hacia 21.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
