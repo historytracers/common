@@ -1,0 +1,388 @@
+{
+   "title": "Expanding...",
+   "index": "first_steps",
+   "sources": [
+      "c137d968-eb5a-47e7-90b1-1c4cadd47ca9"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792086252"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4675c139-356c-47bc-8a5d-37099df3f52f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWe already know two cases of sharing: when there is nobody to share with, and when we divide by one. In both, everything stays in one place.\n\nWe also saw that when we share with one other person, everyone gets the same number of objects, or one object is left over.\n\nLet us review these cases before moving on, so no doubt blocks our learning.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8bc341a0-b270-4cc8-b76c-eacfb6dd26b4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8bc341a0-b270-4cc8-b76c-eacfb6dd26b4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Hands Again\n\nEarlier we looked at our two hands side by side. We counted with them, and we also used them when we began to learn how to share.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<style>#leftHand{ transform:translateX(-140px); transform-origin:center; } #rightHand{  transform:translateX(140px);  transform-origin:center;}",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 600 200\"><g transform=\"translate(400,0) scale(0.6)\"><g id=\"leftHand\"><path class=\"hand-shape\" fill=\"#F4C2A1\"  d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8  c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8  c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> <g id=\"rightHand\" transform=\"scale(-1,1)\"> <path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> </svg>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Two open hands side by side, with fingers spread.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><b>Figure 1</b>: Two hands side by side.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Place your own hands in front of you and compare them with the figure. Counting on a flat surface hides something; your hands will show what it is.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4c4c2389-5ac4-40ef-ad0b-91cb72668ce3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4c4c2389-5ac4-40ef-ad0b-91cb72668ce3",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ad0cdae3-2260-4462-86a7-0987c6ffc82b",
+               "text": "Font Awesome",
+               "page": "https://fontawesome.com/",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### There Is Something More\n\nPlace your hands as in Figure 1 and look at them from the side, as if you were going to grab something.\n\nFrom there we clearly see only two directions -- also called dimensions: the horizontal and the vertical. But there is a third one: depth. It is there, and still we do not see it.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p><center><i class=\"fa-solid fa-hands-holding\" style=\"font-size:20em;color:#000;\"></i></center></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Two hands positioned as if to hold something, seen from the side.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><b>Chart 1</b>: Hands positioned as if to grab something. Images available in the free version of Font Awesome (<htcite0>).</p>",
+               "source": [
+                  {
+                     "type": 1,
+                     "uuid": "ad0cdae3-2260-4462-86a7-0987c6ffc82b",
+                     "text": "Font Awesome",
+                     "page": "https://fontawesome.com/",
+                     "date_time": {
+                        "type": "gregory",
+                        "year": "",
+                        "month": "",
+                        "day": ""
+                     }
+                  }
+               ],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c18ec7eb-1bfb-4639-bb45-f1ad0edf104a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c18ec7eb-1bfb-4639-bb45-f1ad0edf104a",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "0cb685b3-30b9-4c4b-8b8a-cb777c51208a",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Plane.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Plane\n\nMany times we try to reduce our options to two -- or even to one. That seems simpler, but it hides what is really happening, and we may choose wrong.\n\nOur hands showed this: on a flat surface we ignored the depth that was always there. In mathematics, a flat surface with only two dimensions is called a plane, as Figure 2 shows.",
+               "source": [
+                  {
+                     "type": 1,
+                     "uuid": "0cb685b3-30b9-4c4b-8b8a-cb777c51208a",
+                     "text": "Weisstein, Eric W.",
+                     "page": "https://mathworld.wolfram.com/Plane.html",
+                     "date_time": {
+                        "type": "",
+                        "year": "",
+                        "month": "-1",
+                        "day": "-1"
+                     }
+                  }
+               ],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p style=\"width:100%;text-align:center;margin:0;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\" width=\"50%\" preserveAspectRatio=\"xMidYMid meet\" style=\"display:block;margin:0 auto;\"><rect x=\"2\" y=\"2\" width=\"196\" height=\"196\" fill=\"#FFFFFF\" stroke=\"#000000\" stroke-width=\"4\"/></svg></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "A square representing a plane, a flat surface with only two dimensions.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><b>Figure 2</b>: A plane: a flat surface that has only two dimensions.</p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3f90fa48-35a6-4a96-ad0a-8f1ed8c17909",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3f90fa48-35a6-4a96-ad0a-8f1ed8c17909",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nIs there anything around us that is truly flat -- something with only two dimensions?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "634a405f-b53c-49c1-b7ce-3d6d6a8e8d13",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "634a405f-b53c-49c1-b7ce-3d6d6a8e8d13",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Everything Has Three Dimensions\n\nEvery object, person, animal, and plant around us has three dimensions: length, height, and depth. Because they take up space, they have mass, and we can touch them.\n\nThis has been true for billions of years. A plane -- or a single dimension -- is much more recent: it is a simplification our minds created, not something nature shows us.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ed96cef3-22ff-4c4d-910c-ec16e8e0a3b1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ed96cef3-22ff-4c4d-910c-ec16e8e0a3b1",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=c137d968-eb5a-47e7-90b1-1c4cadd47ca9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nWe learned that even when we reduce our options to the minimum, the other options do not disappear: we are only simplifying.\n\nWe must keep learning how to share with more than two options -- to understand not only ourselves, but also the many roads life puts in front of us.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

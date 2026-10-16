@@ -1,0 +1,266 @@
+{
+   "title": "Measuring in two directions",
+   "index": "Measuring",
+   "sources": [
+      "add8bb98-aa8c-4373-ad82-3c22b9bf945e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792073636"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "405d1952-f32c-4b24-8e17-5ce1b4076c66",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn the last class we measured the length of an object in one direction: along a horizontal ruler.\n\nBut objects, people and plants are not lines. They also have height.\n\nIn this class we will measure in two directions: horizontal and vertical.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "deead311-df32-4b5e-9995-175f732b879f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "deead311-df32-4b5e-9995-175f732b879f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Step by Step\n\nYou already know the method. Measuring with a vertical ruler follows the same three steps:\n\n- Place the ruler along the edge of the object, with one end at the 0 mark.\n- Keep the object straight, without tilting it.\n- Read the mark at the other end: that number is the height.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Example\n\nLook at the square beside the vertical ruler: it starts at 0 and reaches mark 5, so its height is 5.\n\nThe ruler goes from 0 to 10, and the square fills the first 5 marks, from the bottom up.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nOne direction tells us only part of the story.\n\nCan we measure in both directions, horizontal and vertical, to compare two objects better?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comparing\n\nTwo rectangles are exactly equal only when their width and their height are the same.\n\nThe rulers at the top and at the bottom show the width. The ruler beside each rectangle shows the height.\n\nOn the next screen you will try this with the app.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practice\n\nPress the plus and minus buttons to change the width and the height of each rectangle.\n\nRead the sentence below. Then try to make rectangle 1 equal to rectangle 2.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we measured with a ruler in two directions: horizontal and vertical. This helps us see whether two objects have the same width and the same height.\n\nThe comparison is not complete yet: two objects can match in both and still differ in other ways, such as color or shape.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

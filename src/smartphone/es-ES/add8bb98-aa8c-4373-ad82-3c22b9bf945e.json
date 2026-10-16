@@ -1,0 +1,266 @@
+{
+   "title": "Midiendo en dos direcciones",
+   "index": "Midiendo",
+   "sources": [
+      "add8bb98-aa8c-4373-ad82-3c22b9bf945e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792073636"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "405d1952-f32c-4b24-8e17-5ce1b4076c66",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn la clase anterior medimos la longitud de un objeto en una sola dirección: a lo largo de la regla horizontal.\n\nPero los objetos, las personas y las plantas no son líneas. También tienen altura.\n\nEn esta clase vamos a medir en dos direcciones: horizontal y vertical.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "deead311-df32-4b5e-9995-175f732b879f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "deead311-df32-4b5e-9995-175f732b879f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Paso a Paso\n\nYa conoces el método. Medir con una regla en vertical sigue los mismos tres pasos:\n\n- Coloca la regla junto al borde del objeto, con un extremo en la marca 0.\n- Mantén el objeto recto, sin inclinarlo.\n- Lee la marca del otro extremo: ese número es la altura.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejemplo\n\nObserva el cuadrado junto a la regla vertical: empieza en 0 y llega hasta la marca 5, así que su altura es 5.\n\nLa regla va de 0 a 10, y el cuadrado ocupa las 5 primeras marcas, de abajo hacia arriba.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### ¡Vamos a Pensar!\n\nUna sola dirección cuenta solo una parte de la historia.\n\n¿Podemos medir en ambas direcciones, horizontal y vertical, para comparar mejor dos objetos?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comparando\n\nDos rectángulos son exactamente iguales solo cuando tienen el mismo ancho y la misma altura.\n\nLas reglas de arriba y de abajo muestran el ancho. La regla al lado de cada rectángulo muestra la altura.\n\nEn la próxima pantalla lo probarás con la aplicación.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Práctica\n\nPulsa los botones de más y menos para cambiar el ancho y la altura de cada rectángulo.\n\nLee la oración de abajo. Después, intenta que el rectángulo 1 sea igual al rectángulo 2.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase medimos con una regla en dos direcciones: horizontal y vertical. Esto nos ayuda a ver si dos objetos tienen el mismo ancho y la misma altura.\n\nLa comparación aún no está completa: dos objetos pueden tener las dos medidas iguales y aun así diferir en otros aspectos, como el color o la forma.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

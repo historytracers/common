@@ -1,0 +1,266 @@
+{
+   "title": "Medindo em duas direções",
+   "index": "Medindo",
+   "sources": [
+      "add8bb98-aa8c-4373-ad82-3c22b9bf945e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792073636"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "405d1952-f32c-4b24-8e17-5ce1b4076c66",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNa aula anterior medimos o comprimento de um objeto em uma única direção: ao longo da régua horizontal.\n\nMas objetos, pessoas e plantas não são linhas. Eles também têm altura.\n\nNesta aula vamos medir em duas direções: horizontal e vertical.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "deead311-df32-4b5e-9995-175f732b879f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "deead311-df32-4b5e-9995-175f732b879f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Passo a Passo\n\nVocê já conhece o método. Medir com uma régua na vertical segue os mesmos três passos:\n\n- Coloque a régua junto à borda do objeto, com uma extremidade na marca 0.\n- Mantenha o objeto reto, sem inclinar.\n- Leia a marca da outra extremidade: esse número é a altura.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "35b25e72-c6ff-471e-948a-f39d31513af4",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exemplo\n\nObserve o quadrado ao lado da régua vertical: ele começa em 0 e chega à marca 5, então sua altura é 5.\n\nA régua vai de 0 a 10, e o quadrado ocupa as 5 primeiras marcas, de baixo para cima.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "49878049-6282-4917-95d3-e3b1a9ffc550",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Vamos Pensar!\n\nUma única direção conta apenas parte da história.\n\nPodemos medir nas duas direções, horizontal e vertical, para comparar melhor dois objetos?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "6a69817b-3b2e-40d3-9fb4-a02d28e666aa",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comparando\n\nDois retângulos são exatamente iguais apenas quando têm a mesma largura e a mesma altura.\n\nAs réguas de cima e de baixo mostram a largura. A régua ao lado de cada retângulo mostra a altura.\n\nNa próxima tela você vai testar isso com o aplicativo.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c6038674-67ac-41ce-b1e2-938746e02bd3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Prática\n\nAperte os botões de mais e menos para mudar a largura e a altura de cada retângulo.\n\nLeia a frase abaixo. Depois, tente deixar o retângulo 1 igual ao retângulo 2.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3746e6db-7e99-4886-b182-b1de80658a29",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=add8bb98-aa8c-4373-ad82-3c22b9bf945e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula medimos com uma régua em duas direções: horizontal e vertical. Isso nos ajuda a ver se dois objetos têm a mesma largura e a mesma altura.\n\nA comparação ainda não está completa: dois objetos podem ter as duas medidas iguais e ainda diferir em outros aspectos, como cor ou forma.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
