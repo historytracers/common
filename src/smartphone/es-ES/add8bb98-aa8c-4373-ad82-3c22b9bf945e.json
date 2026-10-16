@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nEn la clase anterior aprendimos a medir la longitud de un objeto en una sola dirección, a lo largo de la regla horizontal. Pero los objetos, las personas y las plantas no son líneas. También tienen altura, ancho y otras características, así que debemos aprender a medir en otras direcciones.\n\nEn esta clase vamos a aprender a medir en dos direcciones: horizontal y vertical.",
+               "text": "#### Introducción\n\nEn la clase anterior medimos la longitud de un objeto en una sola dirección: a lo largo de la regla horizontal.\n\nPero los objetos, las personas y las plantas no son líneas. También tienen altura.\n\nEn esta clase vamos a medir en dos direcciones: horizontal y vertical.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Paso a Paso\n\nLa buena noticia es que ya conoces el método. Medir con una regla en vertical sigue los mismos pasos:\n\n- Coloca la regla a lo largo del borde del objeto, de modo que un extremo del objeto coincida con la marca 0.\n- Mantén el objeto recto, sin inclinarlo, y observa la marca donde se detiene el otro extremo.\n- El número de esa marca es la medida del objeto: indica la altura del objeto en la dirección vertical.",
+               "text": "#### Paso a Paso\n\nYa conoces el método. Medir con una regla en vertical sigue los mismos tres pasos:\n\n- Coloca la regla junto al borde del objeto, con un extremo en la marca 0.\n- Mantén el objeto recto, sin inclinarlo.\n- Lee la marca del otro extremo: ese número es la altura.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### Ejemplo\n\nObserva el cuadrado junto a la regla vertical de abajo. Empieza en 0 y termina en la marca 5, por lo que su altura es 5.\n\nLa regla va de 0 a 10, así que puede medir cualquier altura hasta 10. El cuadrado ocupa las 5 primeras marcas, de abajo hacia arriba.",
+               "text": "#### Ejemplo\n\nObserva el cuadrado junto a la regla vertical: empieza en 0 y llega hasta la marca 5, así que su altura es 5.\n\nLa regla va de 0 a 10, y el cuadrado ocupa las 5 primeras marcas, de abajo hacia arriba.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -171,7 +171,7 @@
          ],
          "text": [
             {
-               "text": "#### Comparando\n\nDos rectángulos solo son totalmente iguales cuando tienen el mismo ancho y la misma altura.\n\nLas reglas de arriba y de abajo muestran el ancho, y la regla al lado de cada rectángulo muestra la altura.\n\nEn la próxima pantalla pondrás a prueba esta idea con la aplicación.",
+               "text": "#### Comparando\n\nDos rectángulos son exactamente iguales solo cuando tienen el mismo ancho y la misma altura.\n\nLas reglas de arriba y de abajo muestran el ancho. La regla al lado de cada rectángulo muestra la altura.\n\nEn la próxima pantalla lo probarás con la aplicación.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -208,7 +208,7 @@
          ],
          "text": [
             {
-               "text": "#### Práctica\n\nPulsa los botones de más y menos para cambiar el ancho y la altura de cada rectángulo y lee la oración que aparece abajo.\n\nIntenta hacer que el rectángulo 1 sea igual al rectángulo 2.",
+               "text": "#### Práctica\n\nPulsa los botones de más y menos para cambiar el ancho y la altura de cada rectángulo.\n\nLee la oración de abajo. Después, intenta que el rectángulo 1 sea igual al rectángulo 2.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -245,7 +245,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase aprendimos a medir en la dirección vertical y en la dirección horizontal con una regla, y cómo esto nos ayuda a ver si dos objetos tienen el mismo ancho y la misma altura.\n\nEsto es un progreso, pero sigue siendo solo una parte de la comparación: dos objetos pueden coincidir en ancho y altura y aun así diferir en otra dirección, como el color o la forma.",
+               "text": "#### Conclusión\n\nEn esta clase medimos con una regla en dos direcciones: horizontal y vertical. Esto nos ayuda a ver si dos objetos tienen el mismo ancho y la misma altura.\n\nLa comparación aún no está completa: dos objetos pueden tener las dos medidas iguales y aun así diferir en otros aspectos, como el color o la forma.",
                "source": null,
                "date_time": null,
                "isTable": false,

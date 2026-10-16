@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nIn the previous class we learned how to measure the length of an object in a single direction, along the horizontal ruler. But objects, people and plants are not lines. They also have height, width and other characteristics, so we need to learn how to measure in other directions as well.\n\nIn this class we are going to learn how to measure in two directions: horizontal and vertical.",
+               "text": "#### Introduction\n\nIn the last class we measured the length of an object in one direction: along a horizontal ruler.\n\nBut objects, people and plants are not lines. They also have height.\n\nIn this class we will measure in two directions: horizontal and vertical.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Step by Step\n\nThe good news is that you already know the method. Measuring with a vertical ruler follows the same steps:\n\n- Place the ruler along the edge of the object, so that one end of the object lines up with the 0 mark.\n- Keep the object straight, without tilting it, and look at the mark where the other end stops.\n- The number at that mark is the measure of the object: it tells the height of the object in the vertical direction.",
+               "text": "#### Step by Step\n\nYou already know the method. Measuring with a vertical ruler follows the same three steps:\n\n- Place the ruler along the edge of the object, with one end at the 0 mark.\n- Keep the object straight, without tilting it.\n- Read the mark at the other end: that number is the height.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### Example\n\nLook at the square beside the vertical ruler below. It starts at 0 and ends at the mark 5, so its height is 5.\n\nThe ruler goes from 0 to 10, so it can measure any height up to 10. The square occupies the first 5 marks, from the bottom to the top.",
+               "text": "#### Example\n\nLook at the square beside the vertical ruler: it starts at 0 and reaches mark 5, so its height is 5.\n\nThe ruler goes from 0 to 10, and the square fills the first 5 marks, from the bottom up.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -171,7 +171,7 @@
          ],
          "text": [
             {
-               "text": "#### Comparing\n\nTwo rectangles are fully equal only when they have the same width and the same height.\n\nThe rulers at the top and at the bottom show the width, and the ruler beside each rectangle shows the height.\n\nOn the next screen you will test this idea with the app.",
+               "text": "#### Comparing\n\nTwo rectangles are exactly equal only when their width and their height are the same.\n\nThe rulers at the top and at the bottom show the width. The ruler beside each rectangle shows the height.\n\nOn the next screen you will try this with the app.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -208,7 +208,7 @@
          ],
          "text": [
             {
-               "text": "#### Practice\n\nPress the plus and minus buttons to change the width and the height of each rectangle, and read the sentence that appears below.\n\nTry to make rectangle 1 equal to rectangle 2.",
+               "text": "#### Practice\n\nPress the plus and minus buttons to change the width and the height of each rectangle.\n\nRead the sentence below. Then try to make rectangle 1 equal to rectangle 2.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -245,7 +245,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class we learned how to measure in the vertical direction and in the horizontal direction with a ruler, and how this helps us see whether two objects share the same width and the same height.\n\nThis is progress, but it is still only part of the comparison: two objects can match in width and height and still differ in another direction, such as color or shape.",
+               "text": "#### Conclusion\n\nIn this class we measured with a ruler in two directions: horizontal and vertical. This helps us see whether two objects have the same width and the same height.\n\nThe comparison is not complete yet: two objects can match in both and still differ in other ways, such as color or shape.",
                "source": null,
                "date_time": null,
                "isTable": false,

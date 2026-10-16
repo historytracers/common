@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nNa aula anterior aprendemos a medir o comprimento de um objeto em uma única direção, ao longo da régua horizontal. Mas objetos, pessoas e plantas não são linhas. Eles também têm altura, largura e outras características, por isso precisamos aprender a medir em outras direções.\n\nNesta aula vamos aprender a medir em duas direções: horizontal e vertical.",
+               "text": "#### Introdução\n\nNa aula anterior medimos o comprimento de um objeto em uma única direção: ao longo da régua horizontal.\n\nMas objetos, pessoas e plantas não são linhas. Eles também têm altura.\n\nNesta aula vamos medir em duas direções: horizontal e vertical.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### Passo a Passo\n\nA boa notícia é que você já conhece o método. Medir com uma régua na vertical segue os mesmos passos:\n\n- Coloque a régua ao longo da borda do objeto, de modo que uma extremidade do objeto coincida com a marca 0.\n- Mantenha o objeto reto, sem inclinar, e observe a marca onde a outra extremidade para.\n- O número dessa marca é a medida do objeto: ele indica a altura do objeto na direção vertical.",
+               "text": "#### Passo a Passo\n\nVocê já conhece o método. Medir com uma régua na vertical segue os mesmos três passos:\n\n- Coloque a régua junto à borda do objeto, com uma extremidade na marca 0.\n- Mantenha o objeto reto, sem inclinar.\n- Leia a marca da outra extremidade: esse número é a altura.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -110,7 +110,7 @@
          ],
          "text": [
             {
-               "text": "#### Exemplo\n\nObserve o quadrado ao lado da régua vertical abaixo. Ele começa em 0 e termina na marca 5, portanto sua altura é 5.\n\nA régua vai de 0 a 10, então pode medir qualquer altura até 10. O quadrado ocupa as 5 primeiras marcas, de baixo para cima.",
+               "text": "#### Exemplo\n\nObserve o quadrado ao lado da régua vertical: ele começa em 0 e chega à marca 5, então sua altura é 5.\n\nA régua vai de 0 a 10, e o quadrado ocupa as 5 primeiras marcas, de baixo para cima.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -171,7 +171,7 @@
          ],
          "text": [
             {
-               "text": "#### Comparando\n\nDois retângulos só são totalmente iguais quando têm a mesma largura e a mesma altura.\n\nAs réguas de cima e de baixo mostram a largura, e a régua ao lado de cada retângulo mostra a altura.\n\nNa próxima tela você vai testar essa ideia com o aplicativo.",
+               "text": "#### Comparando\n\nDois retângulos são exatamente iguais apenas quando têm a mesma largura e a mesma altura.\n\nAs réguas de cima e de baixo mostram a largura. A régua ao lado de cada retângulo mostra a altura.\n\nNa próxima tela você vai testar isso com o aplicativo.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -208,7 +208,7 @@
          ],
          "text": [
             {
-               "text": "#### Prática\n\nAperte os botões de mais e menos para mudar a largura e a altura de cada retângulo e leia a frase que aparece abaixo.\n\nTente deixar o retângulo 1 igual ao retângulo 2.",
+               "text": "#### Prática\n\nAperte os botões de mais e menos para mudar a largura e a altura de cada retângulo.\n\nLeia a frase abaixo. Depois, tente deixar o retângulo 1 igual ao retângulo 2.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -245,7 +245,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula aprendemos a medir na direção vertical e na direção horizontal com uma régua, e como isso nos ajuda a ver se dois objetos têm a mesma largura e a mesma altura.\n\nIsso é um progresso, mas ainda é apenas parte da comparação: dois objetos podem coincidir em largura e altura e mesmo assim diferir em outra direção, como cor ou forma.",
+               "text": "#### Conclusão\n\nNesta aula medimos com uma régua em duas direções: horizontal e vertical. Isso nos ajuda a ver se dois objetos têm a mesma largura e a mesma altura.\n\nA comparação ainda não está completa: dois objetos podem ter as duas medidas iguais e ainda diferir em outros aspectos, como cor ou forma.",
                "source": null,
                "date_time": null,
                "isTable": false,
