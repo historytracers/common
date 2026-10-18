@@ -1,0 +1,363 @@
+{
+   "title": "Sun Tzu and Addition",
+   "index": "Addition",
+   "sources": [
+      "a4caa9fe-de1e-49c5-92de-50ed9c22a42d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792324800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f40ce0d4-d6a6-485e-80e7-097f8a5c84e8",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nSun Tzu (孙子) was a Chinese strategist. In *The Art of War*, he presents five factors to consider before acting: the law of morale, heaven, terrain, the commander, and method and discipline.\n\nIn this class, we will use these five factors as a strategy for learning addition. Each factor appears on its own screen.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Law of Morale\n\nDo not stop after a single exercise. To reinforce what you have learned, practice until you feel more comfortable, and spread your practice over more than one day.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "prev": "f40ce0d4-d6a6-485e-80e7-097f8a5c84e8",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Heaven\n\nVisualize the numbers you are adding with your own body. Every time you add one number to another, check whether the result stays within the count of your fingers or goes beyond it. Then try to recreate the additions you are doing here in other scenarios, so you realize that the same idea appears everywhere.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "71936f43-eb15-4245-9237-9d1113db913c",
+         "prev": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "71936f43-eb15-4245-9237-9d1113db913c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Terrain\n\nIn every addition, squares represent the digits. When a column carries 1, the result can go beyond the 10 possible values (the digits from 0 to 9), and extra squares appear outside the group of ten. So, before you start adding two digits, ask yourself: is the second digit greater or smaller than the complement of the first? That answer tells you whether the column will carry 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "prev": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Commander\n\nAs the commander of your learning, you should:\n\n- Be benevolent with yourself and with people who have not understood addition yet, and help them learn.\n- Be honest with yourself, and do not let your confidence underestimate or overestimate the problem ahead of you.\n- Respect yourself by remembering that there are different ways to understand math. Discover the way that makes you feel comfortable and follow it. At History Tracers, we will do our best to help you find your road.\n- Use your wisdom to identify your weaknesses, so you can train them and turn them into strengths.\n- Use your sincerity to see where you need to improve, and do not build barriers because of the difficulties you may find.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "prev": "71936f43-eb15-4245-9237-9d1113db913c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Method and Discipline\n\nSet aside a period of time to train every day, and respect your rest time.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93bb8819-a1a2-4fd9-ae62-6118c714fb8d",
+         "prev": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "93bb8819-a1a2-4fd9-ae62-6118c714fb8d",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### What Comes Next\n\nYou have learned the five factors of Sun Tzu: the law of morale, heaven, terrain, the commander, and method and discipline.\n\nIn the next classes, we will use these factors as a strategy for learning addition and other mathematical operations.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

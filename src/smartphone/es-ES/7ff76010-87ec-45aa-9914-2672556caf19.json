@@ -1,0 +1,363 @@
+{
+   "title": "Sun Tzu y la Suma",
+   "index": "Addition",
+   "sources": [
+      "a4caa9fe-de1e-49c5-92de-50ed9c22a42d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792324800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f40ce0d4-d6a6-485e-80e7-097f8a5c84e8",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nSun Tzu (孙子) fue un estratega chino. En *El arte de la guerra*, presenta cinco factores para considerar antes de actuar: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn esta clase, usaremos estos cinco factores como estrategia para aprender la suma. Cada factor aparece en su propia pantalla.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La ley de la moral\n\nNo te limites a un solo ejercicio. Para reforzar lo que aprendiste, practica hasta sentirte más cómodo y reparte la práctica en más de un día.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "prev": "f40ce0d4-d6a6-485e-80e7-097f8a5c84e8",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El paraíso\n\nVisualiza los números que estás sumando con tu propio cuerpo. Cada vez que sumes un número a otro, comprueba si el resultado se mantiene dentro del conteo de tus dedos o si lo supera. Después, intenta recrear en otros escenarios las sumas que estás haciendo aquí, para que veas que la misma idea aparece en todas partes.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "71936f43-eb15-4245-9237-9d1113db913c",
+         "prev": "61f5e9d4-c812-4aef-8e70-b45e4097bdae",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "71936f43-eb15-4245-9237-9d1113db913c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La tierra\n\nEn cada suma, los cuadrados representan los dígitos. Cuando una columna acarrea 1, el resultado puede superar los 10 valores posibles (los dígitos del 0 al 9), y aparecen cuadrados extra fuera del grupo de diez. Así que, antes de empezar a sumar dos dígitos, pregúntate: ¿el segundo dígito es mayor o menor que el complemento del primero? La respuesta te dice si la columna acarreará 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "prev": "8f23ec56-fc1a-405c-95d9-5134e26ebed7",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El comandante\n\nComo comandante de tu aprendizaje, debes:\n\n- Ser benevolente contigo mismo y con las personas que aún no entienden la suma, y ayudarlas a aprender.\n- Ser honesto contigo mismo y no permitir que tu confianza subestime o sobreestime el problema que tienes delante.\n- Respetarte a ti mismo, recordando que hay diferentes maneras de entender las matemáticas. Descubre la manera con la que te sientas cómodo y síguela. En History Tracers haremos todo lo posible para ayudarte a encontrar tu camino.\n- Usar tu sabiduría para identificar tus debilidades, a fin de entrenarlas y convertirlas en fortalezas.\n- Usar tu sinceridad para ver dónde tienes que mejorar y no levantar barreras por las dificultades que puedas encontrar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "prev": "71936f43-eb15-4245-9237-9d1113db913c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Método y disciplina\n\nReserva un período de tiempo para entrenar todos los días y respeta tu tiempo de descanso.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93bb8819-a1a2-4fd9-ae62-6118c714fb8d",
+         "prev": "fa0f472b-0543-4b85-98db-79f42dfd0730",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "93bb8819-a1a2-4fd9-ae62-6118c714fb8d",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Qué viene después\n\nHas aprendido los cinco factores de Sun Tzu: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn las próximas clases, usaremos estos factores como estrategia para aprender la suma y otras operaciones matemáticas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "2f19641d-2928-4111-90c6-4899e12113cb",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
