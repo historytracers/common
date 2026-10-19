@@ -1,0 +1,166 @@
+{
+   "title": "Praticando Adição com Valores Digitados",
+   "index": "Addition",
+   "sources": [
+      "18ca9e1f-b936-447a-9bab-798159cefbb9"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792324800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8362153a-7704-4896-a1a4-b415e51f4f8a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=687a38b5-de0e-4d16-a4d0-8ec87a545ccb",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5539096c-dd7d-4f9c-a137-f0465725b9f4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercício de prática\n\nLer sobre a soma ajuda, mas praticar é essencial para compreendê-la de verdade. Abaixo há uma soma escrita na vertical, coluna por coluna, das unidades às centenas.\n\nOs valores são verificados à medida que você digita. Se um dígito estiver incorreto, os quadrados são coloridos de acordo com o número digitado, e uma dica lembra o complemento. Quando a soma transporta, os quadrados além do grupo de dez são coloridos, mostrando o dígito que fica na coluna. Quando os dois valores estão corretos, os quadrados são preenchidos, aparece um parabéns e é mostrado o botão que passa para a próxima coluna.\n\nAntes de digitar, observe o complemento do valor que já está na coluna: o complemento diz quantos quadrados ainda faltam para chegar a dez. Se o dígito de baixo for pelo menos o complemento, a soma chega a dez e o 1 é transportado para a próxima ordem; os quadrados que ficam fora do grupo de dez são o dígito que fica na coluna.\n\nAo terminar o cálculo, você poderá passar para o próximo problema clicando no botão abaixo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "71311458-6194-4591-b4db-edc48a81bb58",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "71311458-6194-4591-b4db-edc48a81bb58",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Praticando Adição com Valores Digitados\n\nNeste jogo, você resolve uma soma vertical digitando os valores. Os quadrados mostram o dígito que já está na coluna e ajudam a ver quantos quadrados faltam para chegar a dez.\n\nDigite na caixa da linha do resultado o dígito que fica na coluna. Quando a soma chega a dez, digite 1 na caixa de transporte acima da próxima ordem.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "8362153a-7704-4896-a1a4-b415e51f4f8a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
