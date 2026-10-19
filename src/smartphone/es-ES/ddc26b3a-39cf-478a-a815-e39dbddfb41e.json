@@ -96,7 +96,7 @@
          ],
          "text": [
             {
-               "text": "#### Ejercicio de práctica\n\nLeer sobre la suma ayuda, pero practicar es esencial para comprenderla de verdad. A continuación hay una suma escrita en vertical, columna por columna, desde las unidades hasta las centenas.\n\nLos valores se comprueban a medida que escribes. Si un dígito es incorrecto, los cuadrados se colorean según el número escrito, y una pista te recuerda el complemento. Si la suma acarrea, se colorean los cuadrados más allá del grupo de diez, mostrando el dígito que queda en la columna. Cuando los dos valores son correctos, los cuadrados se llenan, aparece una felicitación y se muestra el botón que pasa a la siguiente columna.\n\nAntes de escribir, observa el complemento del valor que ya está en la columna: el complemento indica cuántos cuadrados faltan para llegar a diez. Si el dígito inferior es al menos el complemento, la suma llega a diez y se acarrea 1 al siguiente orden; los cuadrados que quedan fuera del grupo de diez son el dígito que queda en la columna.\n\nAl terminar el cálculo, podrás pasar al siguiente problema haciendo clic en el botón de abajo.",
+               "text": "#### Practicando Suma con Valores Escritos\n\nEn este juego, resuelves una suma vertical escribiendo los valores, desde las unidades hasta las centenas.\n\n- Escribe en la casilla de la fila del resultado el dígito que queda en la columna.\n- Cuando la suma llegue a diez, escribe 1 en la casilla del acarreo sobre la siguiente orden.\n\nLos cuadrados muestran el dígito que ya está en la columna y cuántos cuadrados faltan para llegar a diez.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -145,7 +145,7 @@
          ],
          "text": [
             {
-               "text": "#### Practicando Suma con Valores Escritos\n\nEn este juego, resuelves una suma vertical escribiendo los valores. Los cuadrados muestran el dígito que ya está en la columna y ayudan a ver cuántos cuadrados faltan para llegar a diez.\n\nEscribe en la casilla de la fila del resultado el dígito que queda en la columna. Cuando la suma llega a diez, escribe 1 en la casilla del acarreo sobre la siguiente orden.",
+               "text": "#### Ejercicio de práctica\n\nLeer sobre la suma ayuda, pero practicar es esencial para comprenderla de verdad.\n\nAntes de escribir, observa el complemento del dígito que ya está en la columna:\n\n- Al menos el complemento: la suma llega a diez y acarrea 1; los cuadrados fuera del grupo muestran el dígito que queda.\n- Por debajo del complemento: la suma no llega a diez y no acarrea 1.\n- Dígito incorrecto: los cuadrados se colorean y una pista te recuerda el complemento.\n- Los dos valores son correctos: los cuadrados se llenan y aparece el botón de la siguiente columna.\n\nHaz clic en el botón de abajo para pasar al siguiente problema.",
                "source": [],
                "date_time": null,
                "isTable": false,

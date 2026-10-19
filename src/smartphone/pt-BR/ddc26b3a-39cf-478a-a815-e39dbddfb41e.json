@@ -96,7 +96,7 @@
          ],
          "text": [
             {
-               "text": "#### Exercício de prática\n\nLer sobre a soma ajuda, mas praticar é essencial para compreendê-la de verdade. Abaixo há uma soma escrita na vertical, coluna por coluna, das unidades às centenas.\n\nOs valores são verificados à medida que você digita. Se um dígito estiver incorreto, os quadrados são coloridos de acordo com o número digitado, e uma dica lembra o complemento. Quando a soma transporta, os quadrados além do grupo de dez são coloridos, mostrando o dígito que fica na coluna. Quando os dois valores estão corretos, os quadrados são preenchidos, aparece um parabéns e é mostrado o botão que passa para a próxima coluna.\n\nAntes de digitar, observe o complemento do valor que já está na coluna: o complemento diz quantos quadrados ainda faltam para chegar a dez. Se o dígito de baixo for pelo menos o complemento, a soma chega a dez e o 1 é transportado para a próxima ordem; os quadrados que ficam fora do grupo de dez são o dígito que fica na coluna.\n\nAo terminar o cálculo, você poderá passar para o próximo problema clicando no botão abaixo.",
+               "text": "#### Praticando Adição com Valores Digitados\n\nNeste jogo, você resolve uma soma vertical digitando os valores, das unidades às centenas.\n\n- Digite na caixa da linha do resultado o dígito que fica na coluna.\n- Quando a soma chegar a dez, digite 1 na caixa de transporte acima da próxima ordem.\n\nOs quadrados mostram o dígito que já está na coluna e quantos quadrados ainda faltam para chegar a dez.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -145,7 +145,7 @@
          ],
          "text": [
             {
-               "text": "#### Praticando Adição com Valores Digitados\n\nNeste jogo, você resolve uma soma vertical digitando os valores. Os quadrados mostram o dígito que já está na coluna e ajudam a ver quantos quadrados faltam para chegar a dez.\n\nDigite na caixa da linha do resultado o dígito que fica na coluna. Quando a soma chega a dez, digite 1 na caixa de transporte acima da próxima ordem.",
+               "text": "#### Exercício de prática\n\nLer sobre a soma ajuda, mas praticar é essencial para compreendê-la de verdade.\n\nAntes de digitar, observe o complemento do dígito que já está na coluna:\n\n- Pelo menos o complemento: a soma chega a dez e transporta 1; os quadrados fora do grupo mostram o dígito que fica.\n- Abaixo do complemento: a soma não chega a dez e não transporta 1.\n- Dígito incorreto: os quadrados são coloridos e uma dica lembra o complemento.\n- Os dois valores estão corretos: os quadrados são preenchidos e aparece o botão da próxima coluna.\n\nClique no botão abaixo para passar para o próximo problema.",
                "source": [],
                "date_time": null,
                "isTable": false,

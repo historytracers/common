@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introdução\n\nSun Tzu (孙子) foi um estrategista chinês. Em *A Arte da Guerra*, ele apresenta cinco fatores para considerar antes de agir: a lei da moral, o paraíso, a terra, o comandante e o método e a disciplina.\n\nNesta aula, usaremos esses cinco fatores como estratégia para aprender a soma. Cada fator aparece em sua própria tela.",
+               "text": "#### Introdução\n\nSun Tzu (孙子) foi um estrategista chinês. Em *A Arte da Guerra*, ele apresenta cinco fatores para considerar antes de agir: a lei da moral, o paraíso, a terra, o comandante e o método e a disciplina.\n\nNesta aula, você usará esses cinco fatores como estratégia para aprender a soma. Cada fator tem sua própria tela.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### A lei da moral\n\nNão pare em apenas um exercício. Para reforçar o que você aprendeu, pratique até se sentir mais confortável e espalhe a prática em mais de um dia.",
+               "text": "#### A lei da moral\n\nNão pare após um único exercício. Para reforçar o que você aprendeu, pratique até se sentir mais confortável e distribua a prática por vários dias.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -146,7 +146,7 @@
          ],
          "text": [
             {
-               "text": "#### Paraíso\n\nVisualize os números que você está somando com o seu próprio corpo. Toda vez que somar um número a outro, verifique se o resultado se mantém dentro da contagem dos seus dedos ou se vai além dela. Depois, tente recriar em outros cenários as somas que está fazendo aqui, para perceber que a mesma ideia aparece em toda parte.",
+               "text": "#### Paraíso\n\nUse o seu corpo como ferramenta natural de contagem. Toda vez que somar um número a outro, verifique se o resultado cabe nos seus dedos ou se vai além deles.\n\nDepois, procure a mesma soma em outros lugares: a mesma ideia aparece em toda parte.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -195,7 +195,7 @@
          ],
          "text": [
             {
-               "text": "#### Terra\n\nEm toda soma, os quadrados representam os dígitos. Quando uma coluna transporta 1, o resultado pode passar dos 10 valores possíveis (os dígitos de 0 a 9), e surgem quadrados extras fora do grupo de dez. Então, antes de somar dois dígitos, pergunte-se: o segundo dígito é maior ou menor que o complemento do primeiro? A resposta diz se a coluna vai transportar 1.",
+               "text": "#### Terra\n\nEm toda soma, os quadrados representam os dígitos. Quando uma coluna transporta 1, surgem quadrados extras fora do grupo de dez.\n\nAntes de somar dois dígitos, pergunte-se: o segundo dígito é igual ou maior que o complemento do primeiro?\n\n- Sim: a coluna transporta 1.\n- Não: a soma fica abaixo de dez.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### O comandante\n\nComo comandante do seu aprendizado, você deve:\n\n- Ser benevolente consigo mesmo e com as pessoas que ainda não entenderam a soma, e ajudá-las a aprender.\n- Ser honesto consigo mesmo e não permitir que a sua confiança subestime ou superestime o problema à sua frente.\n- Respeitar-se, lembrando que existem diferentes maneiras de entender a matemática. Descubra a maneira com a qual você se sinta confortável e siga-a. No History Tracers, faremos o nosso melhor para ajudar você a encontrar o seu caminho.\n- Usar a sua sabedoria para identificar as suas fraquezas, a fim de treiná-las e transformá-las em forças.\n- Usar a sua sinceridade para ver onde você precisa melhorar e não criar barreiras por causa das dificuldades que você possa encontrar.",
+               "text": "#### O comandante\n\nComo comandante do seu aprendizado:\n\n- Seja benevolente: ajude-se a si mesmo e ajude quem ainda não entendeu a soma.\n- Seja honesto: não deixe que a confiança faça você subestimar ou superestimar a tarefa.\n- Respeite-se: a matemática pode ser entendida de diferentes maneiras. Encontre a que funciona para você e siga-a — nós ajudaremos você a encontrar o seu caminho.\n- Use a sua sabedoria: identifique as suas fraquezas, treine-as e transforme-as em forças.\n- Use a sua sinceridade: veja onde você precisa melhorar e não crie barreiras por causa das dificuldades.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -293,7 +293,7 @@
          ],
          "text": [
             {
-               "text": "#### Método e disciplina\n\nReserve um período de tempo para treinar todos os dias e respeite o seu tempo de descanso.",
+               "text": "#### Método e disciplina\n\nReserve um tempo para treinar todos os dias e respeite o seu descanso.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -342,7 +342,7 @@
          ],
          "text": [
             {
-               "text": "#### O que vem a seguir\n\nVocê aprendeu os cinco fatores de Sun Tzu: a lei da moral, o paraíso, a terra, o comandante e o método e a disciplina.\n\nNas próximas aulas, usaremos esses fatores como estratégia para aprender a soma e outras operações matemáticas.",
+               "text": "#### O que vem a seguir\n\nVocê aprendeu os cinco fatores de Sun Tzu: a lei da moral, o paraíso, a terra, o comandante e o método e a disciplina.\n\nNas próximas aulas, você usará esses fatores como estratégia para aprender a soma e outras operações matemáticas.",
                "source": [],
                "date_time": null,
                "isTable": false,

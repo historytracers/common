@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nSun Tzu (孙子) fue un estratega chino. En *El arte de la guerra*, presenta cinco factores para considerar antes de actuar: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn esta clase, usaremos estos cinco factores como estrategia para aprender la suma. Cada factor aparece en su propia pantalla.",
+               "text": "#### Introducción\n\nSun Tzu (孙子) fue un estratega chino. En *El arte de la guerra*, presenta cinco factores para considerar antes de actuar: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn esta clase usarás estos cinco factores como estrategia para aprender la suma. Cada factor tiene su propia pantalla.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### La ley de la moral\n\nNo te limites a un solo ejercicio. Para reforzar lo que aprendiste, practica hasta sentirte más cómodo y reparte la práctica en más de un día.",
+               "text": "#### La ley de la moral\n\nNo te limites a un solo ejercicio. Para reforzar lo que aprendiste, practica hasta sentirte más cómodo y reparte la práctica en varios días.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -146,7 +146,7 @@
          ],
          "text": [
             {
-               "text": "#### El paraíso\n\nVisualiza los números que estás sumando con tu propio cuerpo. Cada vez que sumes un número a otro, comprueba si el resultado se mantiene dentro del conteo de tus dedos o si lo supera. Después, intenta recrear en otros escenarios las sumas que estás haciendo aquí, para que veas que la misma idea aparece en todas partes.",
+               "text": "#### El paraíso\n\nUsa tu cuerpo como herramienta natural para contar. Cada vez que sumes un número a otro, comprueba si el resultado cabe en tus dedos o si lo supera.\n\nDespués, busca la misma suma en otros lugares: la misma idea aparece en todas partes.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -195,7 +195,7 @@
          ],
          "text": [
             {
-               "text": "#### La tierra\n\nEn cada suma, los cuadrados representan los dígitos. Cuando una columna acarrea 1, el resultado puede superar los 10 valores posibles (los dígitos del 0 al 9), y aparecen cuadrados extra fuera del grupo de diez. Así que, antes de empezar a sumar dos dígitos, pregúntate: ¿el segundo dígito es mayor o menor que el complemento del primero? La respuesta te dice si la columna acarreará 1.",
+               "text": "#### La tierra\n\nEn cada suma, los cuadrados representan los dígitos. Cuando una columna acarrea 1, aparecen cuadrados extra fuera del grupo de diez.\n\nAntes de sumar dos dígitos, pregúntate: ¿el segundo dígito es igual o mayor que el complemento del primero?\n\n- Sí: la columna acarrea 1.\n- No: la suma se queda por debajo de diez.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### El comandante\n\nComo comandante de tu aprendizaje, debes:\n\n- Ser benevolente contigo mismo y con las personas que aún no entienden la suma, y ayudarlas a aprender.\n- Ser honesto contigo mismo y no permitir que tu confianza subestime o sobreestime el problema que tienes delante.\n- Respetarte a ti mismo, recordando que hay diferentes maneras de entender las matemáticas. Descubre la manera con la que te sientas cómodo y síguela. En History Tracers haremos todo lo posible para ayudarte a encontrar tu camino.\n- Usar tu sabiduría para identificar tus debilidades, a fin de entrenarlas y convertirlas en fortalezas.\n- Usar tu sinceridad para ver dónde tienes que mejorar y no levantar barreras por las dificultades que puedas encontrar.",
+               "text": "#### El comandante\n\nComo comandante de tu aprendizaje:\n\n- Sé benevolente: ayúdate a ti mismo y ayuda a quienes aún no entienden la suma.\n- Sé honesto: no dejes que la confianza te haga subestimar o sobreestimar la tarea.\n- Respétate: las matemáticas se entienden de distintas maneras. Encuentra la que te resulte cómoda y síguela — te ayudaremos a encontrar tu camino.\n- Usa tu sabiduría: identifica tus debilidades, entrénalas y conviértelas en fortalezas.\n- Usa tu sinceridad: mira dónde necesitas mejorar y no levantes barreras por las dificultades que encuentres.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -293,7 +293,7 @@
          ],
          "text": [
             {
-               "text": "#### Método y disciplina\n\nReserva un período de tiempo para entrenar todos los días y respeta tu tiempo de descanso.",
+               "text": "#### Método y disciplina\n\nReserva un tiempo para entrenar todos los días y respeta tu descanso.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -342,7 +342,7 @@
          ],
          "text": [
             {
-               "text": "#### Qué viene después\n\nHas aprendido los cinco factores de Sun Tzu: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn las próximas clases, usaremos estos factores como estrategia para aprender la suma y otras operaciones matemáticas.",
+               "text": "#### Qué viene después\n\nHas aprendido los cinco factores de Sun Tzu: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn las próximas clases los usarás como estrategia para aprender la suma y otras operaciones matemáticas.",
                "source": [],
                "date_time": null,
                "isTable": false,
