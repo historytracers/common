@@ -18,7 +18,7 @@ EXTRA_DIST = src/go/config.go src/go/creator.go src/go/data-type.go src/go/times
 	$(PUBLISHERSRC_DIR)/smartphone/git.go $(PUBLISHERSRC_DIR)/smartphone/hash.go \
 	$(PUBLISHERSRC_DIR)/smartphone/minify.go $(PUBLISHERSRC_DIR)/smartphone/runner.go \
 	$(PUBLISHERSRC_DIR)/smartphone/smgame.go $(PUBLISHERSRC_DIR)/smartphone/sources.go \
-	$(PUBLISHERSRC_DIR)/smartphone/smartphone_test.go \
+	$(PUBLISHERSRC_DIR)/smartphone/audio_test.go $(PUBLISHERSRC_DIR)/smartphone/smartphone_test.go \
 	$(PUBLISHERSRC_DIR)/README.md $(PUBLISHERSRC_DIR)/README.es.md $(PUBLISHERSRC_DIR)/README.pt-BR.md \
 	build-publisher.sh
 

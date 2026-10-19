@@ -2,6 +2,7 @@
 *.tmp
 *.swp
 .env
+.mimocode/
 
 # Binaries
 *.exe

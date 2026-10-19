@@ -6,6 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"math"
+	"net/url"
 	"os"
 	"regexp"
 	"strconv"
@@ -167,11 +168,13 @@ func (r *runner) adjustAudioStringBeforeWrite(str string, lang string) string {
 
 	ret := final
 	ret = htReplaceRoman(ret)
+	ret = htReplaceMarkdownLinks(ret)
 	ret = strings.ReplaceAll(ret, "|", ".")
 	ret = strings.ReplaceAll(ret, "*", "")
 	ret = strings.ReplaceAll(ret, "( )", "")
 	ret = htReplaceAllExceptions(ret, lang)
 	ret = r.replaceMath(ret, lang)
+	ret = htReplaceFractions(ret, r.dividedByKeyword(lang))
 	ret = htConvertSuperscript(ret, lang)
 	ret = htConvertFunctionAbbreviation(ret, lang)
 	ret = htConvertTemperatures(ret, lang)
@@ -179,6 +182,14 @@ func (r *runner) adjustAudioStringBeforeWrite(str string, lang string) string {
 	ret = htReplaceSocialMediaUrls(ret)
 
 	return ret
+}
+
+// dividedByKeyword returns the localized words used to read a fraction, for
+// example "divided by" or "dividido por". The math keyword files are optional,
+// so a language-aware default is used when they are not available.
+func (r *runner) dividedByKeyword(lang string) string {
+	_, _, _, dividedByStr := r.mathKeywords(lang)
+	return strings.TrimSpace(dividedByStr)
 }
 
 func htGetLastChar(line string) (rune, bool) {
@@ -277,42 +288,195 @@ func htReplaceSocialMediaUrls(text string) string {
 	return text
 }
 
-func (r *runner) replaceMath(text string, lang string) string {
-	timesStr := " times "
-	plusStr := " plus "
-	equalsStr := " equals "
+func htReplaceMultiplication(text string, timesStr string) string {
+	operand := `(?:` +
+		`\b\d+(?:[.,/]\d+)*(?:[¹²³⁴⁵⁶⁷⁸⁹⁰]+)?%?` +
+		`|\b[A-Za-z]\b` +
+		`|\b[A-Za-z]+[ \t]*\([^()\n]*\)` +
+		`|\([^()\n]*\)` +
+		`)`
+
+	// The letter x is only a multiplication signal when it is surrounded by
+	// mathematical operands. This prevents ordinary words such as "xadrez"
+	// or "aux" from being changed.
+	xPattern := regexp.MustCompile(`(` + operand + `)[ \t]*\bx\b[ \t]*(` + operand + `)`)
+	for {
+		replaced := xPattern.ReplaceAllStringFunc(text, func(match string) string {
+			parts := xPattern.FindStringSubmatch(match)
+			return parts[1] + timesStr + parts[2]
+		})
+		if replaced == text {
+			break
+		}
+		text = replaced
+	}
+
+	// An x without surrounding spaces ("5x6") is only valid between numbers;
+	// the word-boundary form above cannot match it because digits are word
+	// characters as well.
+	compactXPattern := regexp.MustCompile(`(\b\d+(?:[.,/]\d+)*)[ \t]*x[ \t]*(\d+)`)
+	for {
+		replaced := compactXPattern.ReplaceAllStringFunc(text, func(match string) string {
+			parts := compactXPattern.FindStringSubmatch(match)
+			return parts[1] + timesStr + parts[2]
+		})
+		if replaced == text {
+			break
+		}
+		text = replaced
+	}
+
+	// The multiplication sign is unambiguous, so it only needs operands
+	// touching it on both sides. Prose mentions such as "the sign ×, which"
+	// are left untouched because punctuation does not count as an operand.
+	crossPattern := regexp.MustCompile(`([\p{L}\p{N})])[ \t]*×[ \t]*([\p{L}\p{N}(])`)
+	for {
+		replaced := crossPattern.ReplaceAllStringFunc(text, func(match string) string {
+			parts := crossPattern.FindStringSubmatch(match)
+			return parts[1] + timesStr + parts[2]
+		})
+		if replaced == text {
+			break
+		}
+		text = replaced
+	}
+
+	return text
+}
+
+var mathOnlyLinePattern = regexp.MustCompile(`^[0-9\s.,+\-−×÷=/().\[\]%:²³⁴⁵⁶⁷⁸⁹⁰]+$`)
+
+func htIsMathOnlyLine(line string) bool {
+	trimmed := strings.TrimSpace(line)
+	if trimmed == "" {
+		return false
+	}
+
+	return mathOnlyLinePattern.MatchString(trimmed) && strings.ContainsAny(trimmed, "0123456789")
+}
+
+func htReplaceSubtraction(text string, lang string) string {
+	minusStr := " minus "
+	if lang == "pt-BR" || lang == "es-ES" {
+		minusStr = " menos "
+	}
+
+	operand := `(?:` +
+		`\b\d+(?:[.,/]\d+)*(?:[¹²³⁴⁵⁶⁷⁸⁹⁰]+)?%?` +
+		`|\b[A-Za-z]\b` +
+		`|\b[A-Za-z]+[ \t]*\([^()\n]*\)` +
+		`|\([^()\n]*\)` +
+		`)`
+
+	// An ASCII hyphen is also used for ranges and hyphenated words, so it is
+	// only converted when the line is an equation (or a standalone math line
+	// next to one). The Unicode minus sign is unambiguous and only needs
+	// mathematical operands on both sides.
+	hyphenPattern := regexp.MustCompile(`(` + operand + `)[ \t\x{00A0}]+-[ \t\x{00A0}]+(` + operand + `)`)
+	minusPattern := regexp.MustCompile(`(` + operand + `)[ \t\x{00A0}]*−[ \t\x{00A0}]*` + `(` + operand + `)`)
+	// In an equation, the Unicode minus can also separate word operands.
+	equationMinusPattern := regexp.MustCompile(`([\p{L}\p{N})])[ \t\x{00A0}]*−[ \t\x{00A0}]*([\p{L}\p{N}(])`)
+
+	lines := strings.Split(text, "\n")
+	equationLine := make([]bool, len(lines))
+	mathLine := make([]bool, len(lines))
+	for i, line := range lines {
+		equationLine[i] = strings.Contains(line, "=") ||
+			strings.Contains(line, "+") ||
+			strings.ContainsAny(line, "×÷")
+		mathLine[i] = htIsMathOnlyLine(line)
+	}
+
+	neighborIsEquation := func(index int) bool {
+		for i := index - 1; i >= 0; i-- {
+			if strings.TrimSpace(lines[i]) == "" {
+				continue
+			}
+			return equationLine[i]
+		}
+		return false
+	}
+	nextNeighborIsEquation := func(index int) bool {
+		for i := index + 1; i < len(lines); i++ {
+			if strings.TrimSpace(lines[i]) == "" {
+				continue
+			}
+			return equationLine[i]
+		}
+		return false
+	}
+
+	replaceWith := func(line string, pattern *regexp.Regexp) string {
+		for {
+			replaced := pattern.ReplaceAllStringFunc(line, func(match string) string {
+				parts := pattern.FindStringSubmatch(match)
+				return parts[1] + minusStr + parts[2]
+			})
+			if replaced == line {
+				return line
+			}
+			line = replaced
+		}
+	}
+
+	for i := range lines {
+		allowHyphen := equationLine[i] || (mathLine[i] && (neighborIsEquation(i) || nextNeighborIsEquation(i)))
+		if allowHyphen {
+			lines[i] = replaceWith(lines[i], hyphenPattern)
+		}
+		lines[i] = replaceWith(lines[i], minusPattern)
+		if equationLine[i] {
+			lines[i] = replaceWith(lines[i], equationMinusPattern)
+		}
+	}
+
+	return strings.Join(lines, "\n")
+}
+
+// mathKeywordFallbacks returns the localized words used to read the four math
+// operators supported by the audio generator (times, plus, equals, divided by)
+// for when the optional math keyword files are not available.
+func mathKeywordFallbacks(lang string) [4]string {
+	switch lang {
+	case "pt-BR":
+		return [4]string{" vezes ", " mais ", " igual ", "dividido por"}
+	case "es-ES":
+		return [4]string{" veces ", " más ", " igual ", "dividido por"}
+	default:
+		return [4]string{" times ", " plus ", " equals ", "divided by"}
+	}
+}
+
+// mathKeywords returns the localized math words. The values from the keyword
+// file take precedence; missing values keep the language-aware fallback.
+func (r *runner) mathKeywords(lang string) (string, string, string, string) {
+	values := mathKeywordFallbacks(lang)
 
 	localKeywords, err := r.loadKeywordsDirect(lang, "math_keywords")
-	if err == nil && len(localKeywords) > 34 {
-		timesStr = localKeywords[33]
-		plusStr = localKeywords[34]
-	}
-	if err == nil && len(localKeywords) > 35 {
-		equalsStr = localKeywords[35]
+	if err != nil {
+		return values[0], values[1], values[2], values[3]
 	}
 
-	ret := strings.ReplaceAll(text, " × ", timesStr)
-	ret = strings.ReplaceAll(ret, " x ", timesStr)
+	for i, index := range []int{33, 34, 35, 36} {
+		if len(localKeywords) > index && strings.TrimSpace(localKeywords[index]) != "" {
+			values[i] = localKeywords[index]
+		}
+	}
+
+	return values[0], values[1], values[2], values[3]
+}
+
+func (r *runner) replaceMath(text string, lang string) string {
+	timesStr, plusStr, equalsStr, _ := r.mathKeywords(lang)
+
+	ret := htReplaceSubtraction(text, lang)
+	ret = htReplaceMultiplication(ret, timesStr)
+
 	ret = strings.ReplaceAll(ret, " + ", plusStr)
 	ret = strings.ReplaceAll(ret, " = ", equalsStr)
 
-	ret = strings.ReplaceAll(ret, "  ×  ", " "+timesStr+" ")
-	ret = strings.ReplaceAll(ret, "  x  ", " "+timesStr+" ")
 	ret = strings.ReplaceAll(ret, "  +  ", " "+plusStr+" ")
 	ret = strings.ReplaceAll(ret, "  =  ", " "+equalsStr+" ")
-
-	ret = strings.ReplaceAll(ret, " ×", " "+timesStr)
-	ret = strings.ReplaceAll(ret, "× ", timesStr+" ")
-	// Replace the letter "x" only when it multiplies two numeric operands, so
-	// words ending in "x" (e.g. "box ", "max ") are left untouched.
-	xBetweenNumbers := regexp.MustCompile(`(\d)\s*x\s*(\d)`)
-	ret = xBetweenNumbers.ReplaceAllStringFunc(ret, func(match string) string {
-		parts := xBetweenNumbers.FindStringSubmatch(match)
-		if len(parts) != 3 {
-			return match
-		}
-		return parts[1] + timesStr + parts[2]
-	})
 
 	ret = strings.ReplaceAll(ret, " +", " "+plusStr)
 	ret = strings.ReplaceAll(ret, "+ ", plusStr+" ")
@@ -321,6 +485,111 @@ func (r *runner) replaceMath(text string, lang string) string {
 	ret = strings.ReplaceAll(ret, "= ", equalsStr+" ")
 
 	return ret
+}
+
+// htIsInternalContentLink reports whether href points to the History Tracers
+// index. Those links are navigation aids for the web page and should not be
+// read aloud in the generated audio.
+func htIsInternalContentLink(href string) bool {
+	trimmed := strings.TrimSpace(href)
+	if trimmed == "" {
+		return false
+	}
+
+	parsed, err := url.Parse(trimmed)
+	if err != nil {
+		return false
+	}
+
+	if parsed.Host != "" {
+		host := strings.ToLower(parsed.Hostname())
+		if host != "historytracers.org" && host != "www.historytracers.org" {
+			return false
+		}
+	}
+
+	path := strings.ToLower(parsed.Path)
+	for strings.HasPrefix(path, "./") || strings.HasPrefix(path, "../") {
+		path = strings.TrimPrefix(path, "./")
+		path = strings.TrimPrefix(path, "../")
+	}
+	path = strings.TrimPrefix(path, "/")
+
+	return path == "index.html" || strings.HasSuffix(path, "/index.html")
+}
+
+var markdownLinkPattern = regexp.MustCompile(`!?\[([^\]]*)\]\(\s*([^)\s]+)(?:\s+"[^"]*")?\s*\)`)
+
+// htReplaceMarkdownLinks removes the URL of internal navigation links, so the
+// anchor text is read aloud without the index.html address. Other markdown
+// links are left untouched.
+func htReplaceMarkdownLinks(text string) string {
+	return markdownLinkPattern.ReplaceAllStringFunc(text, func(match string) string {
+		parts := markdownLinkPattern.FindStringSubmatch(match)
+		if len(parts) != 3 || strings.HasPrefix(match, "!") {
+			return match
+		}
+		if htIsInternalContentLink(parts[2]) {
+			return parts[1]
+		}
+		return match
+	})
+}
+
+func htIsFullyParenthesized(text string) bool {
+	text = strings.TrimSpace(text)
+	if len(text) < 2 || text[0] != '(' || text[len(text)-1] != ')' {
+		return false
+	}
+
+	depth := 0
+	for i := 0; i < len(text); i++ {
+		switch text[i] {
+		case '(':
+			depth++
+		case ')':
+			depth--
+			if depth == 0 && i != len(text)-1 {
+				return false
+			}
+		}
+	}
+
+	return depth == 0
+}
+
+func htRenderMathFraction(numerator string, denominator string, dividedByStr string) string {
+	needsParentheses := func(expression string) bool {
+		if strings.Contains(expression, dividedByStr) {
+			return true
+		}
+		return strings.ContainsAny(expression, "+−-×÷=")
+	}
+
+	if needsParentheses(numerator) && !htIsFullyParenthesized(numerator) {
+		numerator = "(" + numerator + ")"
+	}
+	if needsParentheses(denominator) && !htIsFullyParenthesized(denominator) {
+		denominator = "(" + denominator + ")"
+	}
+
+	return numerator + " " + dividedByStr + " " + denominator
+}
+
+var plainFractionPattern = regexp.MustCompile(`(^|[\s(])(\d+)\s*(?:/|⁄|&frasl;|&#8260;)\s*(\d+)([)\s.,;:!?]|$)`)
+
+// htReplaceFractions turns plain fractions such as "1/2" into the spoken form
+// "1 divided by 2". Markdown renders those fractions as superscript and
+// subscript tags on the website; the smartphone text still contains the
+// original slash, so both spellings are handled here.
+func htReplaceFractions(text string, dividedByStr string) string {
+	return plainFractionPattern.ReplaceAllStringFunc(text, func(match string) string {
+		parts := plainFractionPattern.FindStringSubmatch(match)
+		if len(parts) != 5 {
+			return match
+		}
+		return parts[1] + htRenderMathFraction(parts[2], parts[3], dividedByStr) + parts[4]
+	})
 }
 
 // loadKeywordsDirect reads the common/math keyword file of a language. The
@@ -608,7 +877,11 @@ func htRemoveStyleBlocks(text string) string {
 func htRemoveHTMLTags(text string) string {
 	text = htRemoveSVGBlocks(text)
 	text = htRemoveStyleBlocks(text)
-	htmlTagRegex := regexp.MustCompile(`<[^>]+>`)
+	// Only match actual HTML tags (an opening '<' optionally followed by '/',
+	// then a tag name starting with a letter). Matching any '<...>' span would
+	// swallow literal comparison symbols such as '(<)' or '0 < 1' together with
+	// everything up to the next '>' in the surrounding plain text.
+	htmlTagRegex := regexp.MustCompile(`</?[a-zA-Z][^>]*>`)
 	return htmlTagRegex.ReplaceAllString(text, "")
 }
 
