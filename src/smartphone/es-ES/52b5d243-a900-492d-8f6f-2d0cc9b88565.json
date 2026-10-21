@@ -80,34 +80,11 @@
             }
          ],
          "desc": null,
-         "next": "4b3522ef-ae24-4ee0-804d-3e47ef1854bd",
+         "next": "00388b1c-ec87-41a7-8a29-644f70fb96b6",
          "prev": "",
          "jumpTo": "",
          "answer": null,
          "score": 1
-      },
-      {
-         "id": "4b3522ef-ae24-4ee0-804d-3e47ef1854bd",
-         "audio": "",
-         "smile": "thinking",
-         "source_menu": [],
-         "text": [
-            {
-               "text": "#### Los Números que Usamos Hoy\n\nEn aquella época, los números tenían varios formatos. Entonces surge una duda: ¿los números que se usan hoy en Occidente y en otros lugares (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) son los mismos que usaban los árabes?",
-               "source": [],
-               "date_time": null,
-               "isTable": false,
-               "imgdesc": "",
-               "format": "markdown",
-               "PostMention": ""
-            }
-         ],
-         "desc": null,
-         "next": "00388b1c-ec87-41a7-8a29-644f70fb96b6",
-         "prev": "",
-         "jumpTo": "",
-         "answer": "no",
-         "score": 2
       },
       {
          "id": "00388b1c-ec87-41a7-8a29-644f70fb96b6",
@@ -151,11 +128,34 @@
             }
          ],
          "desc": null,
-         "next": "e572c84c-a926-452c-9cf7-4d32e4d0629e",
+         "next": "4b3522ef-ae24-4ee0-804d-3e47ef1854bd",
          "prev": "",
          "jumpTo": "",
          "answer": null,
          "score": 1
+      },
+      {
+         "id": "4b3522ef-ae24-4ee0-804d-3e47ef1854bd",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nEn aquella época, los números tenían varios formatos. Entonces surge una duda: ¿los números que se usan hoy en Occidente y en otros lugares (0, 1, 2, 3, 4, 5, 6, 7, 8, 9) son los mismos que usaban los árabes?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e572c84c-a926-452c-9cf7-4d32e4d0629e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2
       },
       {
          "id": "e572c84c-a926-452c-9cf7-4d32e4d0629e",
