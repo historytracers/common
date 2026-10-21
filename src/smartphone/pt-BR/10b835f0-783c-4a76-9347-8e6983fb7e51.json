@@ -1,0 +1,436 @@
+{
+   "title": "Sun Tzu e a aprendizagem",
+   "index": "WhoAmIScreen",
+   "sources": [
+      "10b835f0-783c-4a76-9347-8e6983fb7e51"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792601329"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "64f63405-fa64-459a-a210-dca861aabfaa",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sun Tzu e a aprendizagem\n\nAprendemos algo novo todos os dias. Às vezes aprendemos com boas experiências; outras vezes, com más — as nossas ou as de outras pessoas. A guerra é uma dessas experiências.\n\nNesta aula, vamos criar estratégias de aprendizagem baseadas em planos e autoconhecimento para melhorar a nossa vida diaria.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f94521dd-6f1c-4ddc-a535-2fc07194daaa",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f94521dd-6f1c-4ddc-a535-2fc07194daaa",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a8eda1e-84f2-47c7-a08c-30bfab29c5dc",
+               "text": "Britannica Editors (2026)",
+               "page": "https://www.britannica.com/biography/Sunzi",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "09",
+                  "day": "14"
+               }
+            },
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Quem foi Sun Tzu?\n\nSun Tzu (孙子) foi o autor chinês do clássico *A arte da guerra* (*Bingfa* — 兵法). O livro trata de guerra, mas as suas lições também servem para combater a ignorância — não as pessoas.\n\nVamos começar pelos 5 fatores que ele apresenta no início do livro.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f5abbb38-1a83-41c0-a9ac-3f8925220782",
+         "prev": "64f63405-fa64-459a-a210-dca861aabfaa",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f5abbb38-1a83-41c0-a9ac-3f8925220782",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A lei da moral\n\nA \"lei da moral\" é o princípio da harmonia: todas as pessoas estão de acordo com as regras.\n\nNa aprendizagem diária, isso significa que, sem estudar com constância — com tarefas que nos ajudam a entender melhor o que está ao redor —, podemos nos sentir inseguros diante do que não conhecemos.\n\nDica: estudar um pouco todos os dias treina a nossa coragem para enfrentar o desconhecido.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "421173ab-6758-467a-a9db-28c90b4417ce",
+         "prev": "f94521dd-6f1c-4ddc-a535-2fc07194daaa",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "421173ab-6758-467a-a9db-28c90b4417ce",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Céu\n\nPara Sun Tzu (孙子), este fator significa *dia e noite, frio e calor, o tempo e as estações*.\n\nPara a nossa vida, a lição é clara: ficar em contato com a natureza, entendê-la e planejar conforme ela mostra. Por exemplo, não usamos roupas grossas no verão, nem roupas leves no inverno.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "533f61d9-5533-41a1-b8a4-a22b5a69d603",
+         "prev": "f5abbb38-1a83-41c0-a9ac-3f8925220782",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "533f61d9-5533-41a1-b8a4-a22b5a69d603",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Terreno\n\nPara Sun Tzu (孙子), \"terreno\" refere-se aos tamanhos (grandes e pequenos), à segurança e ao perigo — e a outras situações que encontraremos na vida.\n\nConhecer essas situações, apresentadas aqui como opostas, nos ajuda a tomar decisões melhores. Observe que esses pares antigos — os dois lados do universo — se estendem a muitas outras situações, como veremos adiante.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "dcebed0c-f29a-40c8-9d3f-54e70fdf7ed0",
+         "prev": "421173ab-6758-467a-a9db-28c90b4417ce",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "dcebed0c-f29a-40c8-9d3f-54e70fdf7ed0",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O comandante\n\nSun Tzu (孙子) lista as qualidades de um grande líder: *sabedoria, sinceridade, benevolência, coragem e rigor*.\n\nEssas qualidades não são de uma única pessoa: um líder precisa inspirar os outros. Elas também nos ajudam a guiar a nossa vida, a colaborar com outras pessoas e a viver em harmonia — mesmo quando discordamos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "44656291-a67e-4b04-bb12-6521e05e9bc4",
+         "prev": "533f61d9-5533-41a1-b8a4-a22b5a69d603",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "44656291-a67e-4b04-bb12-6521e05e9bc4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Método e disciplina\n\nEste fator descreve como um grupo se organiza: nos faz pensar nas relações sociais.\n\nVemos essa organização nas famílias, no trabalho e em qualquer lugar onde as pessoas trabalham e convivem. Quando cada pessoa cumpre o seu papel, a sociedade como um todo se mantém organizada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1872c719-b64f-4799-83b0-db01dd655c2d",
+         "prev": "dcebed0c-f29a-40c8-9d3f-54e70fdf7ed0",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1872c719-b64f-4799-83b0-db01dd655c2d",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nSun Tzu escreveu sobre a guerra. Os cinco fatores também se aplicam à nossa vida diária?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d308aad8-d2a5-472e-a336-d779e8918025",
+         "prev": "44656291-a67e-4b04-bb12-6521e05e9bc4",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "d308aad8-d2a5-472e-a336-d779e8918025",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 0,
+               "uuid": "d25bb0c3-74e9-4e14-bfdb-e58430d1a28d",
+               "text": "Tzu, S. et al. (1963)",
+               "page": "https://can-ada.net/wp-content/uploads/2023/10/The-Art-of-War.pdf",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "1963",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula aprendimos que os cinco fatores de Sun Tzu (孙子) não se aplicam apenas à vida diaria, mas também à família, ao trabalho e a outras áreas.\n\nEsses fatores nos ajudam a organizar o nosso tempo e a nossa vida.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "1872c719-b64f-4799-83b0-db01dd655c2d",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

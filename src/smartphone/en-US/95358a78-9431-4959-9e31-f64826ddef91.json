@@ -278,7 +278,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Let Us Check Our Understanding\n\nWhen we add two numbers column by column, if a column sum is greater than 9, do we write the unit digit in the result and carry 1 to the next column?",
+               "text": "#### Thinking\n\nWhen we add two numbers column by column, if a column sum is greater than 9, do we write the unit digit in the result and carry 1 to the next column?",
                "source": [],
                "date_time": null,
                "isTable": false,

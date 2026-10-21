@@ -97,7 +97,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Next Five Numbers\n\nNow we want to represent the numbers from 11 to 15.\n\nShould we also add another line to represent them?",
+               "text": "#### Thinking\n\nNow we want to represent the numbers from 11 to 15.\n\nShould we also add another line to represent them?",
                "source": null,
                "date_time": null,
                "isTable": false,
