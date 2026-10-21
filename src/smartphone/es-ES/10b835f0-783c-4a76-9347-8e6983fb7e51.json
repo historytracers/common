@@ -9,7 +9,7 @@
       "CC BY-NC 4.0 DEED"
    ],
    "last_update": [
-      "1792483200"
+      "1792601329"
    ],
    "authors": "",
    "reviewers": "",
@@ -24,7 +24,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Sun Tzu y el aprendizaje\n\nEn nuestra vida siempre estamos aprendiendo, todos los días. A veces aprendemos de buenas experiencias; otras veces aprendemos de malas experiencias que nos ocurrieron a nosotros o a otras personas. La guerra es un ejemplo de este tipo de experiencia.\n\nEn esta clase, vamos a aprender a crear estrategias de aprendizaje basadas en planes y autoconocimiento, para mejorar nuestra vida.",
+               "text": "#### Sun Tzu y el aprendizaje\n\nAprendemos algo nuevo cada día. A veces aprendemos de buenas experiencias; otras veces, de malas — las nuestras o las de otras personas. La guerra es una de esas experiencias.\n\nEn esta clase, vamos a crear estrategias de aprendizaje basadas en planes y autoconocimiento para mejorar nuestra vida diaria.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -56,7 +56,7 @@
       {
          "id": "f94521dd-6f1c-4ddc-a535-2fc07194daaa",
          "audio": "",
-         "smile": "thinking",
+         "smile": "inlove",
          "source_menu": [
             {
                "type": 1,
@@ -85,7 +85,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -97,7 +97,7 @@
          ],
          "text": [
             {
-               "text": "#### ¿Quién fue Sun Tzu?\n\nSun Tzu (孙子) fue el autor chino del clásico *El arte de la guerra* (*Bingfa* — 兵法). Aunque su libro se centra en la guerra, es totalmente posible extraer de él lecciones para combatir la ignorancia — y no a otras personas.\n\nVamos a empezar usando los 5 factores que él enseña al comienzo de su libro.",
+               "text": "#### ¿Quién fue Sun Tzu?\n\nSun Tzu (孙子) fue el autor chino del clásico *El arte de la guerra* (*Bingfa* — 兵法). Su libro trata sobre la guerra, pero sus lecciones también sirven para combatir la ignorancia — no a las personas.\n\nEmpezaremos con los 5 factores que presenta al comienzo de su libro.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -117,7 +117,7 @@
       {
          "id": "f5abbb38-1a83-41c0-a9ac-3f8925220782",
          "audio": "",
-         "smile": "thinking",
+         "smile": "happy",
          "source_menu": [
             {
                "type": 0,
@@ -134,7 +134,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -146,7 +146,7 @@
          ],
          "text": [
             {
-               "text": "#### La ley de la moral\n\nLa \"ley de la moral\" sería el principio de la armonía — es decir, personas de acuerdo con las reglas.\n\nAplicada a nuestro aprendizaje diario, esta lección nos muestra que, sin la práctica constante del estudio — con tareas que nos ayudan a entender mejor lo que nos rodea —, podemos sentirnos inseguros al lidiar con lo desconocido.\n\nConsejo: estudiar un poco todos los días entrena nuestro valor para enfrentar lo desconocido.",
+               "text": "#### La ley de la moral\n\nLa \"ley de la moral\" es el principio de la armonía: todas las personas están de acuerdo con las reglas.\n\nEn el aprendizaje diario, esto significa que, sin estudiar de forma constante — con tareas que nos ayudan a entender mejor lo que nos rodea —, nos sentimos inseguros ante lo que no conocemos.\n\nConsejo: estudiar un poco todos los días entrena nuestro valor para enfrentar lo desconocido.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -183,7 +183,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -195,7 +195,7 @@
          ],
          "text": [
             {
-               "text": "#### El cielo\n\nPara Sun Tzu (孙子), este factor significa *el día y la noche, el frío y el calor, el tiempo y las estaciones*.\n\nPara nuestra vida, la lección es mantenernos conectados con la naturaleza, entenderla y planear de acuerdo con lo que ella muestra. Por ejemplo, no usamos ropa gruesa en un día de verano, ni ropa corta en el invierno.",
+               "text": "#### El cielo\n\nPara Sun Tzu (孙子), este factor significa *el día y la noche, el frío y el calor, el tiempo y las estaciones*.\n\nPara nuestra vida, la lección es clara: mantenernos en contacto con la naturaleza, entenderla y planificar según lo que ella muestra. Por ejemplo, no usamos ropa gruesa en verano, ni ropa ligera en invierno.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -232,7 +232,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -244,7 +244,7 @@
          ],
          "text": [
             {
-               "text": "#### El terreno\n\nPara Sun Tzu (孙子), \"terreno\" se refiere a los tamaños (grande y pequeño), la seguridad y el peligro, y a otros escenarios que encontraremos en nuestra vida.\n\nVolviendo a nuestra propia vida: al conocer cada uno de estos escenarios — presentados aquí como ideas opuestas —, podremos tomar mejores decisiones. Sin embargo, llamamos la atención del lector sobre el hecho de que muchas de las antiguas comprensiones de los dos lados del universo pueden ampliarse a muchos otros escenarios, como veremos más adelante.",
+               "text": "#### El terreno\n\nPara Sun Tzu (孙子), \"terreno\" se refiere a los tamaños (grandes y pequeños), a la seguridad y al peligro — y a otras situaciones que encontraremos en la vida.\n\nConocer estas situaciones, presentadas aquí como opuestas, nos ayuda a tomar mejores decisiones. Cabe señalar que estos pares antiguos — los dos lados del universo — se extienden a muchas otras situaciones, como veremos a continuación.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -281,7 +281,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -293,7 +293,7 @@
          ],
          "text": [
             {
-               "text": "#### El comandante\n\nAl hablar del comandante, Sun Tzu (孙子) refuerza las cualidades que se esperan de un gran líder: *sabiduría, sinceridad, benevolencia, coraje y rigor*.\n\nLas cualidades que se esperan de un comandante no se limitan a una sola persona: después de todo, un comandante debe inspirar a sus seguidores. Todas estas cualidades pueden ayudarnos no solo a guiar nuestra vida en una mejor dirección, sino también a colaborar con otras personas y a vivir en armonía, incluso cuando existen diferencias.",
+               "text": "#### El comandante\n\nSun Tzu (孙子) enumera las cualidades de un gran líder: *sabiduría, sinceridad, benevolencia, coraje y rigor*.\n\nEstas cualidades no son de una sola persona: un líder debe inspirar a los demás. También nos ayudan a guiar nuestra vida, a colaborar con otras personas y a vivir en armonía, incluso cuando hay desacuerdos.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -330,7 +330,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -342,7 +342,31 @@
          ],
          "text": [
             {
-               "text": "#### El método y la disciplina\n\nCuando leemos la descripción de este factor, pensamos en las relaciones sociales.\n\nEsta organización nos recuerda a nuestras familias, a los trabajadores en sus lugares de trabajo y, en general, a cualquier lugar donde más de una persona trabaja y vive en conjunto — manteniendo la sociedad como un todo organizada.",
+               "text": "#### El método y la disciplina\n\nEste factor describe cómo se organiza un grupo: nos hace pensar en las relaciones sociales.\n\nVemos esta organización en las familias, en el trabajo y en cualquier lugar donde las personas trabajan y conviven. Cuando cada persona cumple su función, la sociedad en conjunto se mantiene organizada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1872c719-b64f-4799-83b0-db01dd655c2d",
+         "prev": "dcebed0c-f29a-40c8-9d3f-54e70fdf7ed0",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1872c719-b64f-4799-83b0-db01dd655c2d",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nSun Tzu escribió sobre la guerra. ¿Los cinco factores también se aplican a nuestra vida diaria?",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -353,10 +377,10 @@
          ],
          "desc": null,
          "next": "d308aad8-d2a5-472e-a336-d779e8918025",
-         "prev": "dcebed0c-f29a-40c8-9d3f-54e70fdf7ed0",
+         "prev": "44656291-a67e-4b04-bb12-6521e05e9bc4",
          "jumpTo": "",
-         "answer": null,
-         "score": 1,
+         "answer": "yes",
+         "score": 2,
          "position": ""
       },
       {
@@ -379,7 +403,7 @@
             {
                "type": 1,
                "uuid": "867d9985-b757-472a-8197-386486ec58d6",
-               "text": "Original Text",
+               "text": "Texto Original",
                "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
                "date_time": {
                   "type": "gregory",
@@ -391,7 +415,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase aprendimos que los factores definidos por Sun Tzu (孙子) pueden entenderse no solo en nuestra vida diaria, sino también en nuestra familia, en el trabajo y en otras áreas de nuestra vida.\n\nEstos factores nos ayudan a organizar nuestro tiempo y nuestra vida.",
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que los cinco factores de Sun Tzu (孙子) no se aplican solo a la vida diaria, sino también a la familia, al trabajo y a otras áreas.\n\nEstos factores nos ayudan a organizar nuestro tiempo y nuestra vida.",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -402,7 +426,7 @@
          ],
          "desc": null,
          "next": "",
-         "prev": "44656291-a67e-4b04-bb12-6521e05e9bc4",
+         "prev": "1872c719-b64f-4799-83b0-db01dd655c2d",
          "jumpTo": "",
          "answer": null,
          "score": 1,
