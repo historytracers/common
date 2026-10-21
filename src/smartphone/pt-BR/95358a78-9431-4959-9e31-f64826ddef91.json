@@ -276,7 +276,7 @@
          "source_menu": [],
          "text": [
             {
-               "text": "#### Vamos Verificar o Aprendizado\n\nAo somar dois números coluna por coluna, se a soma de uma coluna for maior que 9, escrevemos o dígito das unidades no resultado e transportamos 1 para a próxima coluna?",
+               "text": "#### Pensando\n\nAo somar dois números coluna por coluna, se a soma de uma coluna for maior que 9, escrevemos o dígito das unidades no resultado e transportamos 1 para a próxima coluna?",
                "source": [],
                "date_time": null,
                "isTable": false,
