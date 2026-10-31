@@ -1,0 +1,57 @@
+{
+   "title": "Praticando Subtração",
+   "index": "returning",
+   "sources": [
+      "4736db57-6444-4631-b3c8-08e4d1e35688"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793394581"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "da5625b3-e086-4c94-b583-34b189a07855",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Subtraia dois números de três algarismos coluna por coluna, a partir das unidades. Use os botões para baixo e para cima para remover e devolver quadrados; se o de cima for menor, a coluna pede dez.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
