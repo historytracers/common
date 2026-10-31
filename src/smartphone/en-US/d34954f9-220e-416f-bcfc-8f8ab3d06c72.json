@@ -1,0 +1,57 @@
+{
+   "title": "Practicing Subtraction with Typed Values",
+   "index": "returning",
+   "sources": [
+      "cc21bf40-cb71-4f3c-a82a-8785f5d97611"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793453205"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "38cbfb00-c683-41b0-a22b-da2b571f2555",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cc21bf40-cb71-4f3c-a82a-8785f5d97611",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cc21bf40-cb71-4f3c-a82a-8785f5d97611",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Subtract two three-digit numbers column by column, starting from the units. Type the adjusted digit on the top row, the 1 borrowed above the next order, and the digit that stays in the column. Wrong values show a tip.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

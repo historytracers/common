@@ -1,0 +1,57 @@
+{
+   "title": "Practicing Subtraction with Chosen Numbers",
+   "index": "returning",
+   "sources": [
+      "91cc765a-206a-4215-bc55-3b3adcc40727"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793471482"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4112879f-f757-4283-8347-08e2b4936d48",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "91cc765a-206a-4215-bc55-3b3adcc40727",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=91cc765a-206a-4215-bc55-3b3adcc40727",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "Choose two numbers, then subtract them column by column from the units. Type the adjusted digit on the top row, the borrowed 1 above the next order, and the digit that stays. The second number cannot be greater than the first.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
