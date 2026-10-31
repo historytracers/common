@@ -2,6 +2,8 @@
 
 package common
 
+import "encoding/json"
+
 type HTDate struct {
 	DateType string `json:"type"`
 	Year     string `json:"year"`
@@ -57,6 +59,27 @@ type HTText struct {
 	ImgDesc     string     `json:"imgdesc"`
 	Format      string     `json:"format"`
 	PostMention string     `json:"PostMention"`
+}
+
+// Prerequisite accepts either a plain string or a full HTText object
+// (text + source) so <htciteN> markers can resolve to right-side citations.
+type Prerequisite HTText
+
+func (p *Prerequisite) UnmarshalJSON(data []byte) error {
+	if len(data) > 0 && data[0] == '"' {
+		var s string
+		if err := json.Unmarshal(data, &s); err != nil {
+			return err
+		}
+		*p = Prerequisite(HTText{Text: s, Format: "html"})
+		return nil
+	}
+	var t HTText
+	if err := json.Unmarshal(data, &t); err != nil {
+		return err
+	}
+	*p = Prerequisite(t)
+	return nil
 }
 
 type HTMap struct {
@@ -307,7 +330,7 @@ type Family struct {
 	PeriodOfTime  []string     `json:"periodOfTime"`
 	Maps          []HTMap      `json:"maps"`
 	Common        []HTText     `json:"common"`
-	Prerequisites []string     `json:"prerequisites"`
+	Prerequisites []Prerequisite `json:"prerequisites"`
 	GEDCOM        string       `json:"gedcom"`
 	CSV           string       `json:"csv"`
 	Version       int          `json:"version"`
