@@ -1,0 +1,376 @@
+{
+   "title": "Complemento y Resta",
+   "index": "Returning",
+   "sources": [
+      "1adedc53-a246-49d1-aa42-cee0fd3aa553"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793491200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "da6b50bc-f1c3-402a-bffe-5c96b91a0b95",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nCuando estudiamos la suma, vimos que el complemento de 10 ayuda a calcular. Y la suma no es la única operación en la que resulta útil.\n\nEn esta clase vamos a aprender a usar el complemento para hacer restas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a3c9ade2-8d8a-4578-bf8a-56495f76d739",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a3c9ade2-8d8a-4578-bf8a-56495f76d739",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Complemento\n\nPara empezar, recordemos qué es el complemento de 10. El complemento de 10 es cuánto necesitamos sumar a un número para llegar a 10.\n\nPor ejemplo, en la figura de abajo vemos que el complemento de 6 es 4, porque 6 + 4 = 10.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 632 56\" width=\"100%\" style=\"max-width:632px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Seis cuadrados azul claro seguidos de cuatro cuadrados amarillo claro\"><title>Seis cuadrados azul claro y cuatro cuadrados amarillo claro, diez en total</title><rect x=\"0\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"64\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"128\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"192\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"256\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"320\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"384\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"448\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"512\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"576\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/></svg></p><p class=\"desc\"><b>Figura 1</b>: El número 6 (azul claro) y su complemento 4 (amarillo claro); juntos completan los diez cuadrados.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8c63a4e2-56c7-4d84-9d95-c683a4ad84b0",
+         "prev": "da6b50bc-f1c3-402a-bffe-5c96b91a0b95",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8c63a4e2-56c7-4d84-9d95-c683a4ad84b0",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Separando en Órdenes\n\nAntes de restar, también necesitamos recordar otra característica de los números: todo número puede separarse en órdenes.\n\nEl número 12, por ejemplo, está formado por una decena y dos unidades, y puede escribirse así:\n\n12 = 10 + 2\n\nAquí, 10 es el valor del orden de las decenas y 2 es el valor del orden de las unidades.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd4fe060-1e86-4c87-a552-984d857b26a2",
+         "prev": "a3c9ade2-8d8a-4578-bf8a-56495f76d739",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fd4fe060-1e86-4c87-a552-984d857b26a2",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Todo Junto\n\nAhora vamos a usar todo lo que recordamos para calcular 12 − 7. Esto significa que, de los 12 cuadrados de abajo, queremos quitar 7.\n\nPara representar esa retirada, vamos a cambiar el color de los cuadrados de azul claro a amarillo claro.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 760 56\" width=\"100%\" style=\"max-width:760px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Doce cuadrados azul claro\"><title>Doce cuadrados azul claro que representan el número 12</title><rect x=\"0\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"64\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"128\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"192\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"256\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"320\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"384\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"448\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"512\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"576\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"640\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"704\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/></svg></p><p class=\"desc\"><b>Figura 2</b>: Los 12 cuadrados del número 12, antes de la resta.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "105a9799-5da8-45a4-81a5-b2248a2525a6",
+         "prev": "8c63a4e2-56c7-4d84-9d95-c683a4ad84b0",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "105a9799-5da8-45a4-81a5-b2248a2525a6",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Evaluando las Unidades\n\nEl dígito de las unidades de 12 es 2, y 2 es menor que 7. Esto significa que no podemos restar 7 solo de las 2 unidades.\n\nEntonces reorganizamos los números usando los órdenes que recordamos:\n\n12 − 7 =\n(2 + 10) − 7 =\n2 + (10 − 7)\n\nEn la figura, los siete cuadrados amarillos claros desvanecidos son los 7 que quitamos de la decena. Los tres cuadrados amarillos claros que quedan son el complemento de 7 hasta 10. Los dos cuadrados azules claros son las unidades de 12.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 760 56\" width=\"100%\" style=\"max-width:760px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Siete cuadrados amarillo claro desvanecidos, tres cuadrados amarillo claro y dos cuadrados azul claro\"><title>Siete cuadrados amarillo claro desvanecidos, tres cuadrados amarillo claro y dos cuadrados azul claro</title><rect x=\"0\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"64\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"128\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"192\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"256\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"320\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"384\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"448\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"512\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"576\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"640\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"704\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/></svg></p><p class=\"desc\"><b>Figura 3</b>: Siete cuadrados amarillos claros desvanecidos (los 7 quitados), tres cuadrados amarillos claros (el complemento) y dos cuadrados azules claros (las unidades).</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd64c19f-90a5-48cc-8d89-39ed7f876319",
+         "prev": "fd4fe060-1e86-4c87-a552-984d857b26a2",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fd64c19f-90a5-48cc-8d89-39ed7f876319",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Resultado\n\nAhora podemos terminar el cálculo:\n\n10 − 7 = 3\n2 + 3 = 5\n\nAsí, 12 − 7 = 5. En la figura de abajo, los siete cuadrados amarillos claros desvanecidos son los 7 que quitamos, y los cinco cuadrados azules claros son el resultado. Juntos siguen mostrando los 12 con los que empezamos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 760 56\" width=\"100%\" style=\"max-width:760px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Siete cuadrados amarillo claro desvanecidos y cinco cuadrados azul claro\"><title>Siete cuadrados amarillo claro desvanecidos y cinco cuadrados azul claro que representan el cálculo 12 menos 7 igual a 5</title><rect x=\"0\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"64\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"128\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"192\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"256\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"320\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"384\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightyellow\" fill-opacity=\"0.3\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"448\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"512\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"576\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"640\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/><rect x=\"704\" y=\"0\" width=\"56\" height=\"56\" rx=\"4\" fill=\"lightblue\" stroke=\"#333333\" stroke-width=\"2\"/></svg></p><p class=\"desc\"><b>Figura 4</b>: Siete cuadrados amarillos claros desvanecidos (los 7 quitados) y cinco cuadrados azules claros (el resultado).</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "054e630a-ef4a-46be-b3ae-2697dafd9a7b",
+         "prev": "105a9799-5da8-45a4-81a5-b2248a2525a6",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "054e630a-ef4a-46be-b3ae-2697dafd9a7b",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nDurante el cálculo de 12 − 7, ¿usamos números distintos de 12 y de 7?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "756a713d-c243-4ac3-bdda-d005c5da4a5d",
+         "prev": "fd64c19f-90a5-48cc-8d89-39ed7f876319",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "756a713d-c243-4ac3-bdda-d005c5da4a5d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Préstamo\n\nDurante el cálculo trabajamos siempre con 12 y 7. No usamos otros números para llegar al resultado.\n\nLo que hicimos fue reorganizar los órdenes: separamos 12 en 2 + 10 y usamos el complemento de 7 para quitar los siete cuadrados de la decena. Esta reorganización es lo que llamamos préstamo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ba880f7d-7c3a-44e3-b6d1-b71e88182034",
+         "prev": "054e630a-ef4a-46be-b3ae-2697dafd9a7b",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ba880f7d-7c3a-44e3-b6d1-b71e88182034",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1adedc53-a246-49d1-aa42-cee0fd3aa553",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos que, para hacer una resta, a veces necesitamos reorganizar los órdenes para alcanzar nuestro objetivo: el resultado.\n\nEn las próximas clases vamos a hacer ejercicios diferentes para reforzar todo lo que aprendimos aquí.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "756a713d-c243-4ac3-bdda-d005c5da4a5d",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
