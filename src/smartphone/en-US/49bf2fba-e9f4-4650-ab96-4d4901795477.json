@@ -1,0 +1,1049 @@
+{
+   "title": "Around the World (Addition)",
+   "index": "Around the World",
+   "sources": [
+      "49bf2fba-e9f4-4650-ab96-4d4901795477"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792974313"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a01",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding Around the World\n\nHumanity created many tools to count: bones, cords with knots, bars and dots, markers, beads and written numerals. Each people organized numbers in its own way, but all of them had to solve the same problem: **what happens when we reach ten?**\n\nIn this class we will use those same tools to add. In every tool we will look at how the group of ten becomes **1 carried to the next order**.\n\n#### What We Will Do\n\nFor each region of the world we will see a short explanation and then practice: add two numbers between 1 and 9 whose result is always 10 or more.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Complement and the Carry\n\nBefore we use the tools, let us remember two ideas that make addition work.\n\nThe **complement to 10** of a digit is how much is still missing to reach ten. The complement of 9 is 1, the complement of 6 is 4, and the complement of 5 is 5.\n\nWhen the sum reaches ten, we group those ten units into one unit of the next order. That group is the **carry**, also called *advancing an order*. The digit that stays in the column is what is left outside the group of ten.\n\n**Example: 9 + 3.** The complement of 9 is 1. Because 3 is greater than or equal to 1, the ten can be completed: we take 1 from the 3, carry 1 to the next order, and 2 remain. Therefore, 9 + 3 = 12.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a01",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Africa: Adding with Bones\n\nThe first counting marks we know of were made on bones. To add, people did not need a new tool: they simply kept marking. Thousands of years ago people did not yet use the carry. They made continuous marks in a row along the bone: to add 9 + 3, they made 12 marks, one after another, instead of turning ten marks into a ten of the next order.\n\n#### The Game\n\nAdd the two numbers and place on the bone the total number of marks. Count one mark for each unit of the result.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with Bones\n\nAdd the two numbers and represent the sum with marks on the bone. Use the arrows to add or remove marks.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In America: Adding with Quipus\n\nThe quipu records numbers with knots on a hanging cord: the units are at the bottom and the tens are stacked above. A knot in the units order is worth 1; when that order reaches ten knots, those ten are removed and one knot is placed in the tens order above. The result appears as one knot in the tens order and the remaining knots in the units order.\n\n#### The Game\n\nAdd the two numbers. Place knots in the **Units** order at the bottom of the cord; when that order reaches ten knots, the game removes them and adds one knot to the **Tens** order above.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with Quipus\n\nAdd the two numbers and represent the sum with knots. Watch the ten knots in the units turn into one knot in the tens.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In America: Adding with Mesoamerican Numbers\n\nIn the Mesoamerican system a dot is worth 1 and a bar is worth 5. To add, write the result with bars and dots: the bars are always horizontal and the dots sit above them. Two bars are worth 10.\n\n#### The Game\n\nAdd the two numbers and represent the result with dots and bars. For example, 9 + 3 = 12 is written with two horizontal bars and two dots above them.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with Dots and Bars\n\nAdd the two numbers and represent the sum with dots and bars. Use the arrows to change the value.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Europe: Adding with Calculi\n\nThe *calculi* organize counting by place value. Adding on the *calculi* means placing the total in the correct columns: a marker below the bar is worth 1 and a marker above the bar is worth 5.\n\n#### The Game\n\nAdd the two numbers and follow the steps: start by writing the first number, then add the second number and carry 1 to the tens column. Remember that the units are on the right and the tens to their left.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with Calculi\n\nAdd the two numbers on the calculi. The units are on the right and the tens on their left; when the units reach ten, carry 1 to the tens column.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Asia (India): Adding with Hindu-Arabic Numerals\n\nThe Hindu-Arabic numerals let us write the result of an addition with only ten symbols. When a sum reaches ten, the carry moves to the next place and the digit that stays is written in the current place.\n\n#### The Game\n\nAdd the two numbers and write the result in the vertical addition. Type the digit that stays in the units column in the result row, and type 1 in the carry box above the tens column.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with Written Numerals\n\nAdd the two numbers and type the result: the digit that stays in the units place and the 1 carried to the tens place.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Asia (China): Adding with the Suanpan\n\nOn the suanpan, each column represents a place value. To add, move the beads until the columns show the total, carrying one bead to the next column when a column reaches ten.\n\n#### The Game\n\nAdd the two numbers and move the beads: start by writing the first number, then add the second number and carry 1 to the tens column. The suanpan has two beads above the bar and five below it in each column.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with the Suanpan\n\nAdd the two numbers on the suanpan. Two beads are above the bar and five below it in each column; carry 1 to the tens column when the units reach ten.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In America: Adding with the Yupana\n\nThe yupana, used together with the quipus, places seeds on a grid where each row is a place value. In this class we use the *Tawa Pukllay* method: the first number is marked in one color, the second in another, and the result in green; when a row reaches ten, one marker moves to the row above.\n\n#### The Game\n\nAdd the two numbers with the yupana. Mark the units row until it reaches ten; then the ten becomes one marker in the tens row above.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with the Yupana\n\nAdd the two numbers and represent the sum on the yupana. When the units row reaches ten, the carry appears in the tens row above.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Asia (Japan): Adding with the Soroban\n\nThe soroban reached Japan from China and follows the same idea: each column is a place value, and the beads represent the digits of the result.\n\n#### The Game\n\nAdd the two numbers and move the beads: start by writing the first number, then add the second number and carry 1 to the tens column. The soroban has one bead above the bar and four below it in each column.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with the Soroban\n\nAdd the two numbers on the soroban. One bead is above the bar and four below it in each column; carry 1 to the tens column when the units reach ten.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### In Russia: Adding with the Schyoty\n\nThe schyoty is a vertical abacus in which each row is a place value. To add, move the beads until the rows show the total.\n\n#### The Game\n\nAdd the two numbers and move the beads: start by writing the first number, then add the second number and carry 1 to the tens row. The schyoty is vertical: each row is a place value and the beads slide horizontally along the wires.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Adding with the Schyoty\n\nAdd the two numbers on the schyoty. Each row is a place value: when the units row reaches ten, carry 1 to the tens row above.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a15",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a15",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we reviewed different ways of adding with tools created by cultures around the world, reinforcing how they carried 1 when the sum reached ten or more.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

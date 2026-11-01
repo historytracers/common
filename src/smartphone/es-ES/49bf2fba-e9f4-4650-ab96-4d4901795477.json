@@ -1,0 +1,1049 @@
+{
+   "title": "Around the World (Addition)",
+   "index": "Around the World",
+   "sources": [
+      "49bf2fba-e9f4-4650-ab96-4d4901795477"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1792974313"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a01",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando alrededor del mundo\n\nLa humanidad creó muchas herramientas para contar: huesos, cuerdas con nudos, barras y puntos, marcadores, cuentas y numerales escritos. Cada pueblo organizó los números a su manera, pero todos tuvieron que resolver el mismo problema: **¿qué pasa cuando llegamos a diez?**\n\nEn esta clase usaremos esas mismas herramientas para sumar. En cada herramienta veremos cómo el grupo de diez se convierte en **1 que se lleva a la siguiente orden**.\n\n#### Lo Que Vamos a Hacer\n\nPara cada región del mundo veremos una explicación corta y después practicaremos: sumar dos números entre 1 y 9 cuyo resultado siempre es 10 o más.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Complemento y el Acarreo\n\nAntes de usar las herramientas, recordemos dos ideas que hacen funcionar la suma.\n\nEl **complemento a 10** de un dígito es cuánto falta todavía para llegar a diez. El complemento de 9 es 1, el complemento de 6 es 4 y el complemento de 5 es 5.\n\nCuando la suma llega a diez, agrupamos esas diez unidades en una unidad de la siguiente orden. Ese grupo es el **acarreo**, también llamado *avanzar una orden*. El dígito que queda en la columna es lo que sobra fuera del grupo de diez.\n\n**Ejemplo: 9 + 3.** El complemento de 9 es 1. Como 3 es mayor o igual que 1, se puede completar la decena: tomamos 1 del 3, llevamos 1 a la siguiente orden y quedan 2. Por lo tanto, 9 + 3 = 12.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a01",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En África: Sumando con Huesos\n\nLas primeras marcas de conteo que conocemos se hicieron en huesos. Para sumar, las personas no necesitaban una nueva herramienta: simplemente seguían marcando. Hace miles de años todavía no se usaba el acarreo. Hacían marcas continuas en una fila a lo largo del hueso: para sumar 9 + 3 hacían 12 marcas, una tras otra, en lugar de convertir diez marcas en una decena de la siguiente orden.\n\n#### El Juego\n\nSuma los dos números y coloca en el hueso el total de marcas. Cuenta una marca por cada unidad del resultado.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a02",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con Huesos\n\nSuma los dos números y representa la suma con marcas en el hueso. Usa las flechas para agregar o quitar marcas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a03",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Sumando con Quipus\n\nEl quipu registra números con nudos en una cuerda colgante: las unidades están abajo y las decenas se apilan arriba. Un nudo en la orden de las unidades vale 1; cuando esa orden llega a diez nudos, esos diez se quitan y se coloca un nudo en la orden de las decenas arriba. El resultado aparece como un nudo en la orden de las decenas y los nudos restantes en la orden de las unidades.\n\n#### El Juego\n\nSuma los dos números. Coloca nudos en la orden de las **Unidades**, en la parte inferior de la cuerda; cuando esa orden llegue a diez nudos, el juego los quita y agrega un nudo a la orden de las **Decenas** arriba.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a04",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con Quipus\n\nSuma los dos números y representa la suma con nudos. Observa cómo los diez nudos de las unidades se convierten en un nudo en las decenas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a05",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Sumando con Números Mesoamericanos\n\nEn el sistema mesoamericano un punto vale 1 y una barra vale 5. Para sumar, escribe el resultado con barras y puntos: las barras son siempre horizontales y los puntos van encima de ellas. Dos barras valen 10.\n\n#### El Juego\n\nSuma los dos números y representa el resultado con puntos y barras. Por ejemplo, 9 + 3 = 12 se escribe con dos barras horizontales y dos puntos encima de ellas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a06",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=68ecf470-69b8-4fcb-b5f8-36f7ee5aee66",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con Puntos y Barras\n\nSuma los dos números y representa la suma con puntos y barras. Usa las flechas para cambiar el valor.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a07",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Europa: Sumando con Calculi\n\nLos *calculi* organizan el conteo por valor de posición. Sumar en los *calculi* significa colocar el total en las columnas correctas: un marcador debajo de la barra vale 1 y un marcador encima de la barra vale 5.\n\n#### El Juego\n\nSuma los dos números y sigue los pasos: empieza escribiendo el primer número, después agrega el segundo número y lleva 1 a la columna de las decenas. Recuerda que las unidades están a la derecha y las decenas a su izquierda.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a08",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=cabc9843-35ef-4e4f-92fd-17eda864b55e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con Calculi\n\nSuma los dos números en los calculi. Las unidades están a la derecha y las decenas a su izquierda; cuando las unidades lleguen a diez, lleva 1 a la columna de las decenas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a09",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (India): Sumando con Numerales Hindú-Árabes\n\nLos numerales hindú-árabes nos permiten escribir el resultado de una suma con solo diez símbolos. Cuando una suma llega a diez, el acarreo pasa a la siguiente casa y el dígito que queda se escribe en la casa actual.\n\n#### El Juego\n\nSuma los dos números y escribe el resultado en la suma vertical. Escribe el dígito que queda en la columna de las unidades en la fila del resultado y escribe 1 en la casilla del acarreo encima de la columna de las decenas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=18ca9e1f-b936-447a-9bab-798159cefbb9",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con Numerales Escritos\n\nSuma los dos números y escribe el resultado: el dígito que queda en la casa de las unidades y el 1 que se lleva a la casa de las decenas.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0b",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (China): Sumando con el Suanpan\n\nEn el suanpan, cada columna representa un valor de posición. Para sumar, mueve las cuentas hasta que las columnas muestren el total, llevando una cuenta a la siguiente columna cuando una columna llegue a diez.\n\n#### El Juego\n\nSuma los dos números y mueve las cuentas: empieza escribiendo el primer número, después agrega el segundo número y lleva 1 a la columna de las decenas. El suanpan tiene dos cuentas encima de la barra y cinco debajo de ella en cada columna.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con el Suanpan\n\nSuma los dos números en el suanpan. Dos cuentas están encima de la barra y cinco debajo de ella en cada columna; lleva 1 a la columna de las decenas cuando las unidades lleguen a diez.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0d",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En América: Sumando con la Yupana\n\nLa yupana, usada junto con los quipus, coloca semillas en una cuadrícula donde cada fila es un valor de posición. En esta clase usamos el método *Tawa Pukllay*: el primer número se marca en un color, el segundo en otro y el resultado en verde; cuando una fila llega a diez, un marcador se mueve a la fila de arriba.\n\n#### El Juego\n\nSuma los dos números con la yupana. Marca la fila de las unidades hasta llegar a diez; entonces la decena se convierte en un marcador en la fila de las decenas arriba.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=1bb0274d-dc51-4740-ac62-4d157b06ad88",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con la Yupana\n\nSuma los dos números y representa la suma en la yupana. Cuando la fila de las unidades llegue a diez, el acarreo aparece en la fila de las decenas arriba.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a0f",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Asia (Japón): Sumando con el Soroban\n\nEl soroban llegó a Japón desde China y sigue la misma idea: cada columna es un valor de posición y las cuentas representan los dígitos del resultado.\n\n#### El Juego\n\nSuma los dos números y mueve las cuentas: empieza escribiendo el primer número, después agrega el segundo número y lleva 1 a la columna de las decenas. El soroban tiene una cuenta encima de la barra y cuatro debajo de ella en cada columna.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a10",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con el Soroban\n\nSuma los dos números en el soroban. Una cuenta está encima de la barra y cuatro debajo de ella en cada columna; lleva 1 a la columna de las decenas cuando las unidades lleguen a diez.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a11",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### En Rusia: Sumando con el Schyoty\n\nEl schyoty es un ábaco vertical en el que cada fila es un valor de posición. Para sumar, mueve las cuentas hasta que las filas muestren el total.\n\n#### El Juego\n\nSuma los dos números y mueve las cuentas: empieza escribiendo el primer número, después agrega el segundo número y lleva 1 a la fila de las decenas. El schyoty es vertical: cada fila es un valor de posición y las cuentas se deslizan horizontalmente por los alambres.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a12",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=20fe6243-9d1b-44bf-8357-e715cf88d820",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sumando con el Schyoty\n\nSuma los dos números en el schyoty. Cada fila es un valor de posición: cuando la fila de las unidades llegue a diez, lleva 1 a la fila de las decenas arriba.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a15",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a13",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a15",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=6c071696-8eb9-4bbe-8221-ffd71620c7e3",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=49bf2fba-e9f4-4650-ab96-4d4901795477",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase revisamos diferentes formas de sumar con herramientas creadas por culturas de todo el mundo, reforzando cómo llevaban 1 cuando la suma llegaba a diez o más.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "a8f3c1d2-5b64-4e17-9c2a-1d0f3b6e8a14",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

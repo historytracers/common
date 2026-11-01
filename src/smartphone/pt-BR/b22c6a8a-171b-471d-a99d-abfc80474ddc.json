@@ -1,0 +1,363 @@
+{
+   "title": "Sun Tzu e a Subtração",
+   "index": "Subtraction",
+   "sources": [
+      "4736db57-6444-4631-b3c8-08e4d1e35688"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793545200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nSun Tzu (孙子) foi um estrategista chinês. Em *A Arte da Guerra*, ele apresenta cinco fatores para considerar antes de agir: a lei da moral, o paraíso, a terra, o comandante e o método e a disciplina.\n\nNesta aula, você usará esses cinco fatores como estratégia para aprender a subtração. Cada fator tem sua própria tela.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A lei da moral\n\nNão pare em apenas um exercício. Para reforçar o que você aprendeu, pratique até se sentir mais confortável e espalhe a prática em mais de um dia.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "prev": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Paraíso\n\nVisualize os números que você está subtraindo com o seu próprio corpo. Toda vez que subtrair um número de outro, verifique se o resultado se mantém dentro da contagem dos seus dedos ou se vai além dela. Depois, tente recriar em outros cenários as subtrações que está fazendo aqui, para perceber que a mesma ideia aparece em toda parte.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "prev": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Terra\n\nEm toda subtração, os quadrados representam os dígitos. Quando o dígito de cima é menor que o de baixo, a coluna pede emprestado 1 à próxima ordem: dez quadrados são agrupados, o dígito de baixo é removido desse grupo e os quadrados que ficam no grupo são o complemento para dez. Então, antes de subtrair dois dígitos, pergunte-se: o dígito de baixo é maior que o dígito de cima ajustado — o de cima reduzido em um quando a coluna anterior pediu emprestado 1? A resposta diz se a coluna vai precisar pedir emprestado 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "prev": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O comandante\n\nComo comandante do seu aprendizado, você deve:\n\n- Ser benevolente consigo mesmo e com as pessoas que ainda não entenderam a subtração, e ajudá-las a aprender.\n- Ser honesto consigo mesmo e não permitir que a sua confiança subestime ou superestime o problema à sua frente.\n- Respeitar-se, lembrando que existem diferentes maneiras de entender a matemática. Descubra a maneira com a qual você se sinta confortável e siga-a. No History Tracers, faremos o nosso melhor para ajudar você a encontrar o seu caminho.\n- Usar a sua sabedoria para identificar as suas fraquezas, a fim de treiná-las e transformá-las em forças.\n- Usar a sua sinceridade para ver onde você precisa melhorar e não criar barreiras por causa das dificuldades que você possa encontrar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "prev": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Método e disciplina\n\nReserve um período de tempo para treinar todos os dias e respeite o seu tempo de descanso.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "prev": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipe History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercício de Prática\n\nLer sobre subtração ajuda, mas a prática é essencial para a compreensão real. Use o exercício abaixo para praticar a subtração coluna por coluna.\n\nQuando terminar, volte para Retornando para continuar a sua jornada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
