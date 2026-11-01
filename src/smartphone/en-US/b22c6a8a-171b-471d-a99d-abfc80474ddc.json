@@ -1,0 +1,363 @@
+{
+   "title": "Sun Tzu and Subtraction",
+   "index": "Subtraction",
+   "sources": [
+      "4736db57-6444-4631-b3c8-08e4d1e35688"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793545200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nSun Tzu (孙子) was a Chinese strategist. In *The Art of War*, he presents five factors to consider before acting: the law of morale, heaven, terrain, the commander, and method and discipline.\n\nIn this class, you will use these five factors as a strategy for learning subtraction. Each factor has its own screen.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Law of Morale\n\nDo not stop after a single exercise. To reinforce what you have learned, practice until you feel more comfortable, and spread your practice over more than one day.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "prev": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Heaven\n\nVisualize the numbers you are subtracting with your own body. Every time you subtract one number from another, check whether the result stays within the count of your fingers or goes beyond it. Then try to recreate the subtractions you are doing here in other scenarios, so you realize that the same idea appears everywhere.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "prev": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Terrain\n\nIn every subtraction, squares represent the digits. When the top digit is smaller than the bottom digit, the column borrows 1 from the next order: ten squares are grouped, the bottom digit is removed from that group, and the squares left in the group are the complement to ten. So, before you start subtracting two digits, ask yourself: is the bottom digit greater than the adjusted top digit — the top digit reduced by one when the previous column borrowed 1? That answer tells you whether the column will need to borrow 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "prev": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Commander\n\nAs the commander of your learning, you should:\n\n- Be benevolent with yourself and with people who have not understood subtraction yet, and help them learn.\n- Be honest with yourself, and do not let your confidence underestimate or overestimate the problem ahead of you.\n- Respect yourself by remembering that there are different ways to understand math. Discover the way that makes you feel comfortable and follow it. At History Tracers, we will do our best to help you find your road.\n- Use your wisdom to identify your weaknesses, so you can train them and turn them into strengths.\n- Use your sincerity to see where you need to improve, and do not build barriers because of the difficulties you may find.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "prev": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Method and Discipline\n\nSet aside a period of time to train every day, and respect your rest time.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "prev": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practice Exercise\n\nReading about subtraction helps, but practice is essential for real understanding. Use the exercise below to practice subtraction column by column.\n\nWhen you finish, return to Returning to continue your journey.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

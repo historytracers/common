@@ -1,0 +1,363 @@
+{
+   "title": "Sun Tzu y la Resta",
+   "index": "Subtraction",
+   "sources": [
+      "4736db57-6444-4631-b3c8-08e4d1e35688"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793545200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nSun Tzu (孙子) fue un estratega chino. En *El arte de la guerra*, presenta cinco factores para considerar antes de actuar: la ley de la moral, el paraíso, la tierra, el comandante y el método y la disciplina.\n\nEn esta clase usarás estos cinco factores como estrategia para aprender la resta. Cada factor tiene su propia pantalla.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La ley de la moral\n\nNo te limites a un solo ejercicio. Para reforzar lo que aprendiste, practica hasta sentirte más cómodo y reparte la práctica en más de un día.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "prev": "0a5af99b-f27e-4055-924b-b9bf7ac6d2e9",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El paraíso\n\nVisualiza los números que estás restando con tu propio cuerpo. Cada vez que restes un número de otro, comprueba si el resultado se mantiene dentro del conteo de tus dedos o si lo supera. Después, intenta recrear en otros escenarios las restas que estás haciendo aquí, para que veas que la misma idea aparece en todas partes.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "prev": "5c0c7cc9-9a94-4298-b8c1-427537245b8e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La tierra\n\nEn cada resta, los cuadrados representan los dígitos. Cuando el dígito de arriba es menor que el de abajo, la columna pide prestado 1 al siguiente orden: se agrupan diez cuadrados, se quita de ese grupo el dígito de abajo y los cuadrados que quedan en el grupo son el complemento a diez. Así que, antes de empezar a restar dos dígitos, pregúntate: ¿el dígito de abajo es mayor que el dígito de arriba ajustado — el de arriba reducido en uno cuando la columna anterior pidió prestado 1? La respuesta te dice si la columna necesitará pedir prestado 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "prev": "fa944fa6-5a50-42b9-bcc0-30aa0fc0511c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El comandante\n\nComo comandante de tu aprendizaje, debes:\n\n- Ser benevolente contigo mismo y con las personas que aún no entienden la resta, y ayudarlas a aprender.\n- Ser honesto contigo mismo y no permitir que tu confianza subestime o sobrestime el problema que tienes delante.\n- Respetarte a ti mismo, recordando que hay diferentes maneras de entender las matemáticas. Descubre la manera con la que te sientas cómodo y síguela. En History Tracers haremos todo lo posible para ayudarte a encontrar tu camino.\n- Usar tu sabiduría para identificar tus debilidades, a fin de entrenarlas y convertirlas en fortalezas.\n- Usar tu sinceridad para ver dónde tienes que mejorar y no levantar barreras por las dificultades que puedas encontrar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "prev": "cc1338c3-7410-4e76-b705-e4f3251b680c",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Método y disciplina\n\nReserva un período de tiempo para entrenar todos los días y respeta tu tiempo de descanso.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "prev": "97b26e04-5bac-4698-992b-f064e0ed2ca6",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b523f62b-0d41-4456-ad85-eb93ce05b889",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "867d9985-b757-472a-8197-386486ec58d6",
+               "text": "Equipo History Tracers",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=867d9985-b757-472a-8197-386486ec58d6",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4736db57-6444-4631-b3c8-08e4d1e35688",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4736db57-6444-4631-b3c8-08e4d1e35688",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercicio de Práctica\n\nLeer sobre la resta ayuda, pero la práctica es esencial para comprenderla de verdad. Usa el ejercicio de abajo para practicar la resta columna por columna.\n\nCuando termines, vuelve a Regresando para continuar tu camino.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "f4c62d64-ed91-44d4-b6bc-cfdfe965f449",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
