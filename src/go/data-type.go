@@ -316,29 +316,29 @@ type FamilyBody struct {
 }
 
 type Family struct {
-	Title         string       `json:"title"`
-	Header        string       `json:"header"`
-	Sources       []string     `json:"sources"`
-	Scripts       []string     `json:"scripts"`
-	Audio         []HTAudio    `json:"audio"`
-	Index         []string     `json:"index"`
-	License       []string     `json:"license"`
-	LastUpdate    []string     `json:"last_update"`
-	Authors       string       `json:"authors"`
-	Reviewers     string       `json:"reviewers"`
-	DocumentsInfo []string     `json:"documentsInfo"`
-	PeriodOfTime  []string     `json:"periodOfTime"`
-	Maps          []HTMap      `json:"maps"`
-	Common        []HTText     `json:"common"`
+	Title         string         `json:"title"`
+	Header        string         `json:"header"`
+	Sources       []string       `json:"sources"`
+	Scripts       []string       `json:"scripts"`
+	Audio         []HTAudio      `json:"audio"`
+	Index         []string       `json:"index"`
+	License       []string       `json:"license"`
+	LastUpdate    []string       `json:"last_update"`
+	Authors       string         `json:"authors"`
+	Reviewers     string         `json:"reviewers"`
+	DocumentsInfo []string       `json:"documentsInfo"`
+	PeriodOfTime  []string       `json:"periodOfTime"`
+	Maps          []HTMap        `json:"maps"`
+	Common        []HTText       `json:"common"`
 	Prerequisites []Prerequisite `json:"prerequisites"`
-	GEDCOM        string       `json:"gedcom"`
-	CSV           string       `json:"csv"`
-	Version       int          `json:"version"`
-	Editing       bool         `json:"editing"`
-	Type          string       `json:"type"`
-	Families      []FamilyBody `json:"families"`
-	Exercises     []HTExercise `json:"exercise_v2"`
-	DateTime      []HTDate     `json:"date_time"`
+	GEDCOM        string         `json:"gedcom"`
+	CSV           string         `json:"csv"`
+	Version       int            `json:"version"`
+	Editing       bool           `json:"editing"`
+	Type          string         `json:"type"`
+	Families      []FamilyBody   `json:"families"`
+	Exercises     []HTExercise   `json:"exercise_v2"`
+	DateTime      []HTDate       `json:"date_time"`
 }
 
 type AtlasTemplateFile struct {
