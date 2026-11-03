@@ -1,0 +1,69 @@
+{
+   "title": "Divisiones: escribiendo el cociente y el resto",
+   "index": "long_division",
+   "sources": [
+      "ff330cd7-b295-4581-94c0-045fa0ddfaaa"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "feec6243-2584-4559-9c13-15afbc04279a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escribiendo el Cociente y el Resto\n\nEn este ejercicio usted escribe el cociente y el resultado de cada resta. Observe el número que se está dividiendo, consulte la tabla de abajo y escriba la cifra del cociente en la casilla resaltada.\n\nCuando la cifra es correcta, la aplicación muestra el producto de ese paso y pide la resta. Escriba el resultado en la casilla que aparece; en cuanto sea correcto, la aplicación pasa a la siguiente cifra del cociente.\n\nAl final recibe una medalla, y el botón **Nueva división** inicia otra división.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

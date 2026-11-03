@@ -1,0 +1,69 @@
+{
+   "title": "Divisões: escrevendo o quociente e o resto",
+   "index": "long_division",
+   "sources": [
+      "ff330cd7-b295-4581-94c0-045fa0ddfaaa"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "feec6243-2584-4559-9c13-15afbc04279a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escrevendo o Quociente e o Resto\n\nNeste exercício você escreve o quociente e o resultado de cada subtração. Observe o número que está sendo dividido, consulte a tabuada abaixo e digite o algarismo do quociente na caixa destacada.\n\nQuando o algarismo está certo, o aplicativo mostra o produto dessa etapa e pede a subtração. Digite o resultado na caixa que aparece; assim que ele estiver certo, o aplicativo passa para o próximo algarismo do quociente.\n\nNo final você recebe uma medalha, e o botão **Nova divisão** inicia outra divisão.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

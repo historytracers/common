@@ -1,0 +1,69 @@
+{
+   "title": "Divisões: escolhendo o dividendo e o divisor",
+   "index": "long_division",
+   "sources": [
+      "549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "5344d431-96a7-46c6-a8fa-6ce68322cf05",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escolhendo o Dividendo e o Divisor\n\nNeste exercício você escolhe os números. Digite um **dividendo** de 0 a 9999, selecione um **divisor** de 1 a 9 e toque em **Iniciar**.\n\nDepois escreva cada algarismo do quociente na caixa destacada. Quando o algarismo está certo, o aplicativo mostra o produto daquela etapa e pede a subtração; digite o resultado na caixa que aparece. Assim que a subtração estiver certa, o aplicativo passa para o próximo algarismo do quociente.\n\nA tabuada abaixo sempre acompanha o divisor da divisão. No final você recebe uma medalha, e o botão **Nova divisão** começa de novo com os números que você escolheu.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

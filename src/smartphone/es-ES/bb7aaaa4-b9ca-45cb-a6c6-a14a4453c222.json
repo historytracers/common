@@ -1,0 +1,69 @@
+{
+   "title": "División y Resto",
+   "index": "long_division",
+   "sources": [
+      "9e2e82c6-804c-4541-80b4-7df337d32764"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793491200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b0a0435a-e3f5-4c22-aeaf-d2b6da500898",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "9e2e82c6-804c-4541-80b4-7df337d32764",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=9e2e82c6-804c-4541-80b4-7df337d32764",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### División y Resto\n\nElija cómo se escribe la división: **Resultado debajo** de la barra (como en muchos libros escolares) o **Resultado encima** de ella (un formato que aparece en documentos matemáticos históricos).\n\nLa división se realiza de los órdenes mayores a los menores. Use las flechas **arriba** y **abajo** para elegir cada cifra del cociente. Cuando una cifra es correcta, el paso queda registrado y se baja la siguiente cifra. Al final recibe una medalla, y el botón **Nueva división** inicia otra división.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

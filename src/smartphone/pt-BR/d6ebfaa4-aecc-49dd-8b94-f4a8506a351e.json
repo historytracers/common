@@ -1,0 +1,69 @@
+{
+   "title": "Divisões: escrever o quociente",
+   "index": "long_division",
+   "sources": [
+      "37819363-3b7a-46ca-bc3a-868cbac62a03"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "ed1832c1-ed5e-4b48-8804-4ca5b821c4a7",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "37819363-3b7a-46ca-bc3a-868cbac62a03",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=37819363-3b7a-46ca-bc3a-868cbac62a03",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Escrevendo o Quociente\n\nNeste exercício você mesmo escreve o quociente, algarismo por algarismo. Observe o número que está sendo dividido, consulte a tabuada abaixo e digite o algarismo na caixa destacada.\n\nQuando o algarismo está certo, o aplicativo realiza a multiplicação e a subtração daquela etapa e passa para a próxima caixa. Se o algarismo não servir, o produto aparece sob a divisão para você comparar e tentar novamente.\n\nNo final você recebe uma medalha, e o botão **Nova divisão** inicia outra divisão.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

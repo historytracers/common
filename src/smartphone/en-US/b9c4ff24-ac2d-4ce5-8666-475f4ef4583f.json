@@ -1,0 +1,69 @@
+{
+   "title": "Divisions: Writing the Quotient and the Remainder",
+   "index": "long_division",
+   "sources": [
+      "ff330cd7-b295-4581-94c0-045fa0ddfaaa"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "feec6243-2584-4559-9c13-15afbc04279a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ff330cd7-b295-4581-94c0-045fa0ddfaaa",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Writing the Quotient and the Remainder\n\nIn this exercise you write the quotient and the result of each subtraction. Look at the number being divided, check the times table below and type the digit of the quotient in the highlighted box.\n\nWhen the digit is right, the app shows the product of that step and asks for the subtraction. Type the result in the box that appears; as soon as it is right, the app moves to the next quotient digit.\n\nAt the end you receive a medal, and the **New division** button starts another division.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

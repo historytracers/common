@@ -1,0 +1,69 @@
+{
+   "title": "Divisiones: eligiendo el dividendo y el divisor",
+   "index": "long_division",
+   "sources": [
+      "549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "5344d431-96a7-46c6-a8fa-6ce68322cf05",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=549c8ddf-97e0-4eb4-a4f1-d1d2b5126cab",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Eligiendo el Dividendo y el Divisor\n\nEn este ejercicio usted elige los números. Escriba un **dividendo** de 0 a 9999, seleccione un **divisor** de 1 a 9 y pulse **Iniciar**.\n\nLuego escriba cada cifra del cociente en la casilla resaltada. Cuando la cifra es correcta, la aplicación muestra el producto de ese paso y pide la resta; escriba el resultado en la casilla que aparece. En cuanto la resta sea correcta, la aplicación pasa a la siguiente cifra del cociente.\n\nLa tabla de abajo siempre sigue el divisor de la división. Al final recibe una medalla, y el botón **Nueva división** comienza de nuevo con los números que eligió.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
