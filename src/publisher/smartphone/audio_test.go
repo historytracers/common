@@ -163,6 +163,8 @@ func TestHTRemoveHTMLTags(t *testing.T) {
 		{name: "symbol in parentheses", in: "We use the symbol (<), so 20 < 21.", want: "We use the symbol (<), so 20 < 21."},
 		{name: "svg", in: "a<svg><text>x</text></svg>b", want: "ab"},
 		{name: "style", in: "a<style>.x{color:red}</style>b", want: "ab"},
+		{name: "unclosed style", in: "a<style>#hand{ color: red; }", want: "a"},
+		{name: "unclosed style before content", in: "a<style>#hand{ color: red; }<p>Text</p>", want: "a\nText"},
 	}
 
 	for _, tc := range cases {
@@ -259,6 +261,125 @@ func TestAdjustAudioStringBeforeWriteKeepsMathSigns(t *testing.T) {
 	}
 }
 
+func TestHTReplaceDivision(t *testing.T) {
+	cases := []struct {
+		name      string
+		in        string
+		dividedBy string
+		want      string
+	}{
+		{name: "numbers", in: "12 ÷ 2 = 6", dividedBy: "divided by", want: "12 divided by 2 = 6"},
+		{name: "without spaces", in: "12÷2", dividedBy: "divided by", want: "12 divided by 2"},
+		{name: "chained", in: "8 ÷ 4 ÷ 2", dividedBy: "divided by", want: "8 divided by 4 divided by 2"},
+		{name: "word operands", in: "Cats ÷ Children = 2", dividedBy: "divided by", want: "Cats divided by Children = 2"},
+		{name: "prose mention", in: "the sign ÷, which we read", dividedBy: "divided by", want: "the sign ÷, which we read"},
+		{name: "keyword with spaces", in: "12 ÷ 2", dividedBy: " divided by ", want: "12 divided by 2"},
+		{name: "portuguese", in: "12 ÷ 2 = 6", dividedBy: "dividido por", want: "12 dividido por 2 = 6"},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := htReplaceDivision(tc.in, tc.dividedBy); got != tc.want {
+				t.Errorf("htReplaceDivision(%q, %q) = %q, want %q", tc.in, tc.dividedBy, got, tc.want)
+			}
+		})
+	}
+}
+
+func TestHTRemoveHTMLTagsKeepsBlockBoundaries(t *testing.T) {
+	cases := []struct {
+		name string
+		in   string
+		want []string
+	}{
+		{name: "line breaks", in: "5 + 5 = 10<br/>6 + 5 = 11", want: []string{"5 + 5 = 10", "6 + 5 = 11"}},
+		{name: "block tags", in: `<div><p class="x">Calculation 1</p><p>Calculation 2</p></div>`, want: []string{"Calculation 1", "Calculation 2"}},
+		{name: "cells", in: "<tr><td>Left</td><td>Right</td></tr>", want: []string{"Left", "Right"}},
+		{name: "entities", in: "Left side&nbsp;Right side", want: []string{"Left side Right side"}},
+		{name: "escaped tag is text", in: "&lt;b&gt; is a tag", want: []string{"<b> is a tag"}},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			got := []string{}
+			for _, line := range strings.Split(htRemoveHTMLTags(tc.in), "\n") {
+				if strings.TrimSpace(line) != "" {
+					got = append(got, line)
+				}
+			}
+			if strings.Join(got, "|") != strings.Join(tc.want, "|") {
+				t.Errorf("htRemoveHTMLTags(%q) lines = %q, want %q", tc.in, got, tc.want)
+			}
+		})
+	}
+}
+
+// TestAdjustAudioStringRemovesMarkup checks that markdown and math markup the
+// reader never sees as characters are not handed to the text-to-speech engine.
+func TestAdjustAudioStringRemovesMarkup(t *testing.T) {
+	dir := t.TempDir()
+	writeTestMathKeywords(t, dir, "en-US", " times ", " plus ", " equals ", "divided by")
+	r := newRunner(Config{SrcPath: dir})
+
+	in := "#### Let Us Think!\n\n#### Introduction\n\nWe write 12 ÷ 2 = 6.\n\n2 × 1 = 2"
+	got := r.adjustAudioStringBeforeWrite(in, "en-US")
+
+	for _, forbidden := range []string{"#", "÷", "!.", "?.", ":"} {
+		if strings.Contains(got, forbidden) {
+			t.Errorf("adjustAudioStringBeforeWrite(%q) kept %q: %q", in, forbidden, got)
+		}
+	}
+	for _, want := range []string{"Let Us Think!", "Introduction.", "12 divided by 2 equals 6.", "2 times 1 equals 2."} {
+		if !strings.Contains(got, want) {
+			t.Errorf("adjustAudioStringBeforeWrite(%q) = %q, missing %q", in, got, want)
+		}
+	}
+}
+
+// TestAdjustAudioStringCleansMarkdownTables checks that the pipes and the
+// border row used to render a markdown table are not read aloud.
+func TestAdjustAudioStringCleansMarkdownTables(t *testing.T) {
+	r := newRunner(Config{SrcPath: t.TempDir()})
+
+	in := "|Discovery|Description|\n|---|---|\n|Age of the Universe|Updated to 94 billion years|\n| :--- | ---: |"
+	got := r.adjustAudioStringBeforeWrite(in, "en-US")
+
+	for _, forbidden := range []string{"|", "---", "\n."} {
+		if strings.Contains(got, forbidden) {
+			t.Errorf("adjustAudioStringBeforeWrite(%q) kept %q: %q", in, forbidden, got)
+		}
+	}
+	for _, want := range []string{"Discovery.Description.", "Age of the Universe.Updated to 94 billion years."} {
+		if !strings.Contains(got, want) {
+			t.Errorf("adjustAudioStringBeforeWrite(%q) = %q, missing %q", in, got, want)
+		}
+	}
+}
+
+func TestHTFinishAudioLine(t *testing.T) {
+	cases := []struct {
+		name string
+		in   string
+		want string
+	}{
+		{name: "plain sentence", in: "We count cats", want: "We count cats."},
+		{name: "question", in: "Can we divide them?", want: "Can we divide them?"},
+		{name: "exclamation", in: "Let Us Think!", want: "Let Us Think!"},
+		{name: "colon becomes period", in: "Observe the table:", want: "Observe the table."},
+		{name: "bold question", in: "What happens when we reach ten?**", want: "What happens when we reach ten?**"},
+		{name: "bold colon", in: "**Note:**", want: "**Note."},
+		{name: "empty line", in: "", want: ""},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := htFinishAudioLine(tc.in); got != tc.want {
+				t.Errorf("htFinishAudioLine(%q) = %q, want %q", tc.in, got, tc.want)
+			}
+		})
+	}
+}
+
 func TestHTGenerateAudioKeepsComparisonSymbols(t *testing.T) {
 	dir := t.TempDir()
 	game := &common.SMGameFile{
@@ -299,5 +420,99 @@ func TestHTGenerateAudioKeepsComparisonSymbols(t *testing.T) {
 		if !strings.Contains(content, want) {
 			t.Errorf("audio content %q is missing %q", content, want)
 		}
+	}
+}
+
+// TestHTGenerateAudioCleanText checks that a lesson with a heading, a division
+// and an HTML table produces the same readable text the reader sees, without
+// the markup characters used to render it.
+func TestHTGenerateAudioCleanText(t *testing.T) {
+	dir := t.TempDir()
+	game := &common.SMGameFile{
+		Title:      "Test",
+		Type:       "sm_game",
+		LastUpdate: []string{"0"},
+		Content: []common.SMGameContent{
+			{
+				ID: screenOneID,
+				Text: []common.HTText{
+					{
+						Text:   "#### Let Us Think!\n\nIn the language of division, we write 12 ÷ 2 = 6.",
+						Format: "markdown",
+					},
+					{
+						Text:   `<div><p>2 × 1 = 2<br/>2 × 2 = 4</p></div>`,
+						Format: "html",
+					},
+				},
+			},
+		},
+	}
+	writeTestGame(t, dir, game)
+
+	cfg := Config{
+		SrcPath:     dir,
+		ContentPath: filepath.Join(dir, "build", "www"),
+		AudioPath:   filepath.Join(dir, "audio"),
+	}
+	if err := HTGenerateAudio(cfg); err != nil {
+		t.Fatalf("HTGenerateAudio: %v", err)
+	}
+
+	out := filepath.Join(dir, "audio", testGameID+"_"+screenOneID+"_"+testLang+".txt")
+	bv, err := os.ReadFile(out)
+	if err != nil {
+		t.Fatalf("reading audio file: %v", err)
+	}
+
+	content := string(bv)
+	for _, forbidden := range []string{"#", "÷", "*", "<", ">", "!.", "?."} {
+		if strings.Contains(content, forbidden) {
+			t.Errorf("audio content %q kept %q", content, forbidden)
+		}
+	}
+	for _, want := range []string{"Let Us Think!", "12 divided by 2 equals 6.", "2 times 1 equals 2.", "2 times 2 equals 4."} {
+		if !strings.Contains(content, want) {
+			t.Errorf("audio content %q is missing %q", content, want)
+		}
+	}
+}
+
+// TestHTGenerateAudioKeepsEscapedTags checks that an escaped tag, which the
+// reader sees as text, is not removed as markup.
+func TestHTGenerateAudioKeepsEscapedTags(t *testing.T) {
+	dir := t.TempDir()
+	game := &common.SMGameFile{
+		Title:      "Test",
+		Type:       "sm_game",
+		LastUpdate: []string{"0"},
+		Content: []common.SMGameContent{
+			{
+				ID: screenOneID,
+				Text: []common.HTText{
+					{Text: "#### Symbols\n\nWe write &lt;b&gt; to show a tag.", Format: "markdown"},
+				},
+			},
+		},
+	}
+	writeTestGame(t, dir, game)
+
+	cfg := Config{
+		SrcPath:     dir,
+		ContentPath: filepath.Join(dir, "build", "www"),
+		AudioPath:   filepath.Join(dir, "audio"),
+	}
+	if err := HTGenerateAudio(cfg); err != nil {
+		t.Fatalf("HTGenerateAudio: %v", err)
+	}
+
+	out := filepath.Join(dir, "audio", testGameID+"_"+screenOneID+"_"+testLang+".txt")
+	bv, err := os.ReadFile(out)
+	if err != nil {
+		t.Fatalf("reading audio file: %v", err)
+	}
+
+	if content := string(bv); !strings.Contains(content, "We write <b> to show a tag.") {
+		t.Errorf("escaped tag was treated as markup: %q", content)
 	}
 }

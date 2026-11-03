@@ -1,0 +1,435 @@
+{
+   "title": "The Relationship Between Multiplication and Division",
+   "index": "long_division",
+   "sources": [
+      "8d6586b8-178b-4806-a050-ef5a8704f5e1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1793664000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "71b4386c-4c02-4ae0-9a6c-e5d4c1946a8f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nWhen we study multiplication, we learn how to count objects arranged in equal groups to find a total. But in our daily lives we sometimes need to do the opposite: instead of putting groups together, we want to share a total among boxes, people or other situations.\n\nIn this class, we are going to see how we can do this.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "978eb003-232f-4011-ae3c-ec9cecbbf4ce",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "978eb003-232f-4011-ae3c-ec9cecbbf4ce",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Grouping\n\nObserve the multiplication table of 2, written in a single column:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "2 × 1 = 2\n2 × 2 = 4\n2 × 3 = 6\n2 × 4 = 8\n2 × 5 = 10\n2 × 6 = 12\n2 × 7 = 14\n2 × 8 = 16\n2 × 9 = 18\n2 × 10 = 20",
+               "source": [],
+               "date_time": null,
+               "isTable": true,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "As you can see, we are counting two by two, group by group.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "acd4bbca-bcec-452f-a1ed-852cae8fc33e",
+         "prev": "71b4386c-4c02-4ae0-9a6c-e5d4c1946a8f",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "acd4bbca-bcec-452f-a1ed-852cae8fc33e",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nNow, let us imagine that we have 12 different cats, as shown below:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "🐱🐱🐱\n🐱🐱🐱\n🐱🐱🐱\n🐱🐱🐱",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "We have four rows of three cats: 4 × 3 = 12 cats in total. You can also see them as groups of six: every two rows have six cats.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4002f00d-3422-4282-ba30-5aa9b13c08e1",
+         "prev": "978eb003-232f-4011-ae3c-ec9cecbbf4ce",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4002f00d-3422-4282-ba30-5aa9b13c08e1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Let Us Think!\n\nIf there are 6 children to take care of the 12 cats, can every child receive the same number of cats?\n\nAnd if there were only 2 children, would each one also receive the same number of cats?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4b54317d-e4ca-4c92-a681-e641dcfa55bb",
+         "prev": "acd4bbca-bcec-452f-a1ed-852cae8fc33e",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "4b54317d-e4ca-4c92-a681-e641dcfa55bb",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Two Children\n\nThe answer comes from the multiplication table. Because 2 × 6 = 12, we can separate the 12 cats into 2 equal groups of 6 and give one group to each child:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "🐱🐱🐱🐱🐱🐱\n\n🐱🐱🐱🐱🐱🐱",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "Each child receives 6 cats, and 6 + 6 = 12. In the language of division, we write 12 ÷ 2 = 6.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "33b81cd0-74c1-4b9c-b0d4-e735d95b45ad",
+         "prev": "4002f00d-3422-4282-ba30-5aa9b13c08e1",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "33b81cd0-74c1-4b9c-b0d4-e735d95b45ad",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ad9516ac-2893-4649-8d62-7f9cfe69cc64",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Six Children\n\nAnd not only that: because 6 × 2 = 12, we can also separate the same 12 cats into 6 equal groups of 2 and give one group to each child. In this way, every child also receives the same number of cats:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "🐱🐱\n\n🐱🐱\n\n🐱🐱\n\n🐱🐱\n\n🐱🐱\n\n🐱🐱",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "Each child receives 2 cats, and 2 + 2 + 2 + 2 + 2 + 2 = 12. In the language of division, we write 12 ÷ 6 = 2.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "205d37f0-ad40-4924-b689-675949c4b54e",
+         "prev": "4b54317d-e4ca-4c92-a681-e641dcfa55bb",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "205d37f0-ad40-4924-b689-675949c4b54e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Sharing Is Dividing\n\nThe step of taking a total and separating it into equal groups is called **division**.\n\nNotice that we took the opposite direction: instead of counting 2 by 2 or 6 by 6 until we reached the total, we started from the total and shared, or divided, the cats into equal groups.\n\nMultiplication puts equal groups together to find a total. Division takes a total and separates it into equal groups. Because of this, we say that division is the inverse operation of multiplication.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e4da4ae0-6430-44aa-8ef4-1851f67dc5d6",
+         "prev": "33b81cd0-74c1-4b9c-b0d4-e735d95b45ad",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e4da4ae0-6430-44aa-8ef4-1851f67dc5d6",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=ae53cf73-8e7d-4a2c-80a3-1cb79b7c48bc",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we learned that multiplication and division have a strong relationship.\n\nWhen we know a multiplication fact, such as 6 × 2 = 12, we also know two divisions: 12 ÷ 6 = 2 and 12 ÷ 2 = 6.\n\nMultiplying puts equal groups together. Dividing shares a total into equal groups. They are inverse operations: one undoes the other.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "205d37f0-ad40-4924-b689-675949c4b54e",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
