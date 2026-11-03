@@ -5,6 +5,7 @@ package smartphone
 import (
 	"encoding/json"
 	"fmt"
+	"html"
 	"math"
 	"net/url"
 	"os"
@@ -149,19 +150,22 @@ func (r *runner) adjustAudioStringBeforeWrite(str string, lang string) string {
 			continue
 		}
 
+		// A markdown table separator row is a border that the reader sees as a
+		// layout line, never as dashes.
+		if markdownTableSeparatorRegex.MatchString(line) {
+			continue
+		}
+
 		if patternLinksRegex.MatchString(line) {
 			line = patternLinksRegex.ReplaceAllString(line, "")
 		}
 
-		if len(line) > 1 {
-			if lastChar, ok := htGetLastChar(line); ok {
-				if lastChar != '.' && lastChar != '?' && lastChar != ':' {
-					line += "."
-				} else if lastChar == ':' {
-					line = line[0:len(line)-1] + "."
-				}
-			}
-		}
+		line = htTrimTableRowPipes(line)
+
+		// Markdown heading markers are rendered as a title on the website, so
+		// the text-to-speech engine must receive only the title text.
+		line = htRemoveMarkdownHeadingMarker(line)
+		line = htFinishAudioLine(line)
 
 		final += line + "\n"
 	}
@@ -178,7 +182,6 @@ func (r *runner) adjustAudioStringBeforeWrite(str string, lang string) string {
 	ret = htConvertSuperscript(ret, lang)
 	ret = htConvertFunctionAbbreviation(ret, lang)
 	ret = htConvertTemperatures(ret, lang)
-	ret = htRemoveHTMLTags(ret)
 	ret = htReplaceSocialMediaUrls(ret)
 
 	return ret
@@ -198,6 +201,63 @@ func htGetLastChar(line string) (rune, bool) {
 		return 0, false
 	}
 	return []rune(trimmed)[len([]rune(trimmed))-1], true
+}
+
+var (
+	markdownHeadingMarkerPattern = regexp.MustCompile(`^\s{0,3}#{1,6}\s+`)
+	// markdownTableSeparatorRegex matches the row that only draws the border
+	// between the header and the body of a markdown table, such as
+	// "|---|---|" or "| :--- | ---: |".
+	markdownTableSeparatorRegex = regexp.MustCompile(`^\s*\|?\s*:?-+:?\s*(?:\|\s*:?-+:?\s*)*\|?\s*$`)
+)
+
+// htTrimTableRowPipes removes the leading and trailing '|' of a markdown table
+// row. The separators that remain between the cells become pauses, so the
+// reader does not hear the pipes that draw the table.
+func htTrimTableRowPipes(line string) string {
+	trimmed := strings.TrimSpace(line)
+	if !strings.HasPrefix(trimmed, "|") {
+		return line
+	}
+
+	trimmed = strings.TrimPrefix(trimmed, "|")
+	return strings.TrimSuffix(trimmed, "|")
+}
+
+// htRemoveMarkdownHeadingMarker drops the leading '#' markers of a markdown
+// heading. The website renders those markers as a title, but a text-to-speech
+// engine would read them as characters instead of the title text.
+func htRemoveMarkdownHeadingMarker(line string) string {
+	if loc := markdownHeadingMarkerPattern.FindStringIndex(line); loc != nil {
+		return line[loc[1]:]
+	}
+	return line
+}
+
+// htFinishAudioLine ends a line with sentence punctuation so the text-to-speech
+// engine can pause between lines. Lines that already end with a sentence
+// terminator are kept unchanged, and a trailing colon becomes a period. Markdown
+// emphasis and inline code markers at the end of the line are ignored, because
+// they do not end the sentence: "**Ten?**" must not become "Ten?.".
+func htFinishAudioLine(line string) string {
+	if len(line) <= 1 {
+		return line
+	}
+
+	trimmed := strings.TrimRight(line, " \t*_~`")
+	lastChar, ok := htGetLastChar(trimmed)
+	if !ok {
+		return line
+	}
+
+	switch lastChar {
+	case '.', '?', '!':
+		return line
+	case ':':
+		return strings.TrimSuffix(trimmed, ":") + "."
+	default:
+		return line + "."
+	}
 }
 
 var romanCache map[string]int = make(map[string]int)
@@ -344,6 +404,28 @@ func htReplaceMultiplication(text string, timesStr string) string {
 	return text
 }
 
+var divisionSignPattern = regexp.MustCompile(`([\p{L}\p{N})])[ \t]*÷[ \t]*([\p{L}\p{N}(])`)
+
+// htReplaceDivision turns the division sign into the localized words used to
+// read a division, for example "12 divided by 2". The sign is unambiguous, so
+// it only needs operands touching it on both sides. Prose mentions such as
+// "the sign ÷, which" are left untouched because punctuation does not count as
+// an operand.
+func htReplaceDivision(text string, dividedByStr string) string {
+	divStr := " " + strings.TrimSpace(dividedByStr) + " "
+
+	for {
+		replaced := divisionSignPattern.ReplaceAllStringFunc(text, func(match string) string {
+			parts := divisionSignPattern.FindStringSubmatch(match)
+			return parts[1] + divStr + parts[2]
+		})
+		if replaced == text {
+			return text
+		}
+		text = replaced
+	}
+}
+
 var mathOnlyLinePattern = regexp.MustCompile(`^[0-9\s.,+\-−×÷=/().\[\]%:²³⁴⁵⁶⁷⁸⁹⁰]+$`)
 
 func htIsMathOnlyLine(line string) bool {
@@ -467,10 +549,11 @@ func (r *runner) mathKeywords(lang string) (string, string, string, string) {
 }
 
 func (r *runner) replaceMath(text string, lang string) string {
-	timesStr, plusStr, equalsStr, _ := r.mathKeywords(lang)
+	timesStr, plusStr, equalsStr, dividedByStr := r.mathKeywords(lang)
 
 	ret := htReplaceSubtraction(text, lang)
 	ret = htReplaceMultiplication(ret, timesStr)
+	ret = htReplaceDivision(ret, dividedByStr)
 
 	ret = strings.ReplaceAll(ret, " + ", plusStr)
 	ret = strings.ReplaceAll(ret, " = ", equalsStr)
@@ -869,20 +952,68 @@ func htRemoveSVGBlocks(text string) string {
 	return svgRegex.ReplaceAllString(text, "")
 }
 
+var (
+	styleOpenTagRegex  = regexp.MustCompile(`(?is)<style[^>]*>`)
+	styleCloseTagRegex = regexp.MustCompile(`(?is)</style\s*>`)
+	htmlTagStartRegex  = regexp.MustCompile(`</?[a-zA-Z]`)
+)
+
+// htRemoveStyleBlocks removes <style> blocks. A block without its closing tag
+// is broken content, but its rules must still not be read aloud, so an unclosed
+// block ends at the next tag or at the end of the text.
 func htRemoveStyleBlocks(text string) string {
-	styleRegex := regexp.MustCompile(`(?s)<style[^>]*>.*?</style>`)
-	return styleRegex.ReplaceAllString(text, "")
+	for {
+		open := styleOpenTagRegex.FindStringIndex(text)
+		if open == nil {
+			return text
+		}
+
+		rest := text[open[1]:]
+		end := len(rest)
+		if closing := styleCloseTagRegex.FindStringIndex(rest); closing != nil {
+			end = closing[1]
+		} else if nextTag := htmlTagStartRegex.FindStringIndex(rest); nextTag != nil {
+			end = nextTag[0]
+		}
+
+		text = text[:open[0]] + rest[end:]
+	}
 }
+
+var (
+	// htmlBreakTagRegex matches the tags that only move the cursor to the next
+	// line.
+	htmlBreakTagRegex = regexp.MustCompile(`(?i)<br\s*/?>`)
+	// htmlBlockTagRegex matches block-level tags, which start or end a block of
+	// content that the reader sees on its own line.
+	htmlBlockTagRegex = regexp.MustCompile(`(?i)</?(?:p|div|center|li|ul|ol|dl|dt|dd|tr|td|th|caption|h[1-6]|blockquote|section|article|figure|figcaption|table|pre|hr)(?:\s[^>]*)?\s*/?>`)
+	// htmlTagRegex matches actual HTML tags (an opening '<' optionally followed
+	// by '/', then a tag name starting with a letter). Matching any '<...>' span
+	// would swallow literal comparison symbols such as '(<)' or '0 < 1' together
+	// with everything up to the next '>' in the surrounding plain text.
+	htmlTagRegex = regexp.MustCompile(`</?[a-zA-Z][^>]*>`)
+)
 
 func htRemoveHTMLTags(text string) string {
 	text = htRemoveSVGBlocks(text)
 	text = htRemoveStyleBlocks(text)
-	// Only match actual HTML tags (an opening '<' optionally followed by '/',
-	// then a tag name starting with a letter). Matching any '<...>' span would
-	// swallow literal comparison symbols such as '(<)' or '0 < 1' together with
-	// everything up to the next '>' in the surrounding plain text.
-	htmlTagRegex := regexp.MustCompile(`</?[a-zA-Z][^>]*>`)
-	return htmlTagRegex.ReplaceAllString(text, "")
+
+	// A line break or a block boundary is visible to the reader as a new line.
+	// Removing the tags without keeping that boundary would glue content
+	// together, for example "5 + 5 = 106 + 5 = 11".
+	text = htmlBreakTagRegex.ReplaceAllString(text, "\n")
+	text = htmlBlockTagRegex.ReplaceAllString(text, "\n")
+
+	text = htmlTagRegex.ReplaceAllString(text, "")
+
+	// Entities are markup as well: the reader sees the character they represent
+	// ("&nbsp;" is a space), not the entity name.
+	text = html.UnescapeString(text)
+	text = strings.ReplaceAll(text, "\u00A0", " ")
+
+	// The boundaries inserted at the edges of the block do not separate
+	// anything, so they are not part of the text.
+	return strings.Trim(text, "\n")
 }
 
 func htAdjustTrailingDots(text string) string {
