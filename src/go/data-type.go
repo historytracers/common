@@ -2,7 +2,10 @@
 
 package common
 
-import "encoding/json"
+import (
+	"bytes"
+	"encoding/json"
+)
 
 type HTDate struct {
 	DateType string `json:"type"`
@@ -315,6 +318,38 @@ type FamilyBody struct {
 	People  []FamilyPerson `json:"people"`
 }
 
+// HTAuthors accepts either a plain JSON string or an array of strings and
+// writes back exactly what it read, so family files round-trip unchanged
+// through CSV/GEDCOM/audio generation whether authors/reviewers are stored
+// as "" or ["..."].
+type HTAuthors struct {
+	raw []byte
+}
+
+func (a *HTAuthors) UnmarshalJSON(data []byte) error {
+	data = bytes.TrimSpace(data)
+	if len(data) > 0 && data[0] == '"' {
+		var s string
+		if err := json.Unmarshal(data, &s); err != nil {
+			return err
+		}
+	} else {
+		var list []string
+		if err := json.Unmarshal(data, &list); err != nil {
+			return err
+		}
+	}
+	a.raw = append([]byte(nil), data...)
+	return nil
+}
+
+func (a HTAuthors) MarshalJSON() ([]byte, error) {
+	if a.raw == nil {
+		return []byte(`""`), nil
+	}
+	return a.raw, nil
+}
+
 type Family struct {
 	Title         string         `json:"title"`
 	Header        string         `json:"header"`
@@ -324,8 +359,8 @@ type Family struct {
 	Index         []string       `json:"index"`
 	License       []string       `json:"license"`
 	LastUpdate    []string       `json:"last_update"`
-	Authors       string         `json:"authors"`
-	Reviewers     string         `json:"reviewers"`
+	Authors       HTAuthors      `json:"authors"`
+	Reviewers     HTAuthors      `json:"reviewers"`
 	DocumentsInfo []string       `json:"documentsInfo"`
 	PeriodOfTime  []string       `json:"periodOfTime"`
 	Maps          []HTMap        `json:"maps"`
