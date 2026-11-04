@@ -21,9 +21,10 @@ type HTAudio struct {
 }
 
 type HTExercise struct {
-	Question       string `json:"question"`
-	YesNoAnswer    string `json:"yesNoAnswer"`
-	AdditionalInfo string `json:"additionalInfo"`
+	Question       string     `json:"question"`
+	YesNoAnswer    string     `json:"yesNoAnswer"`
+	AdditionalInfo string     `json:"additionalInfo"`
+	Source         []HTSource `json:"source,omitempty"`
 }
 
 type HTSource struct {
