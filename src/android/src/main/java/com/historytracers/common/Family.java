@@ -2,6 +2,7 @@
 
 package com.historytracers.common;
 
+import com.google.gson.JsonElement;
 import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
@@ -18,8 +19,9 @@ public class Family {
     @SerializedName("last_update")
     public List<String> lastUpdate;
 
-    public String authors;
-    public String reviewers;
+    // Accepts a plain string or an array of strings, matching HTAuthors in Go.
+    public JsonElement authors;
+    public JsonElement reviewers;
 
     @SerializedName("documentsInfo")
     public List<String> documentsInfo;
