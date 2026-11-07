@@ -1,0 +1,316 @@
+{
+   "title": "Receita Estendida da Divisão",
+   "index": "Long Division",
+   "sources": [
+      "e1f0eeb1-c74b-4e7e-97dd-90f592fab221"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794083443"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f0281a29-ba4a-4f6d-bf09-692c03732b94",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNa aula anterior, aprendemos que existe uma receita para fazer divisões, que chamamos de divisão longa. No entanto, estudamos essa receita com números pequenos, então não precisávamos continuar dividindo após a primeira etapa. Em outras palavras, a nossa divisão longa era curta.\n\nNesta aula, vamos tornar o nome mais significativo, estendendo o método para números maiores.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Tabuada do 5\n\nVamos lembrar a tabuada do 5:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"extended-division-recipe-table-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Como podemos ver, os resultados vão de 0 a 50.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "prev": "f0281a29-ba4a-4f6d-bf09-692c03732b94",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nÉ possível dividir um número por 5 se o número for maior que 50?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "prev": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Passo a Passo\n\nNão há barreira para dividir um número maior que 50 por 5. A principal diferença em relação ao que aprendemos nas aulas anteriores é a necessidade de realizar mais etapas. Por exemplo, veja a divisão de 320 por 5:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"extended-division-recipe-320-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "prev": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Entendendo as Etapas\n\nPara fazer a divisão, seguimos estas etapas:\n\nComo 3 é menor que 5, começamos dividindo 32 por 5, o que dá 6.\n\nEm seguida, multiplicamos 6 por 5 e subtraímos o resultado de 320. Observe que acrescentamos um zero no final, porque estávamos dividindo as centenas em 32(0), e não apenas o número 32.\n\nDepois disso, restaram 20, que dividimos novamente, obtendo 4.\n\nPor fim, multiplicamos 4 por 5, o que deu 20 outra vez, e fizemos a subtração final.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8bdf111e-538d-46da-b774-46a05978cb66",
+         "prev": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8bdf111e-538d-46da-b774-46a05978cb66",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que, quando os números são maiores que os valores de uma tabuada, ainda podemos usar o método da divisão longa para chegar ao resultado. A receita é a mesma; apenas repetimos as suas etapas quantas vezes forem necessárias.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

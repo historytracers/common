@@ -1,0 +1,423 @@
+{
+   "title": "Receta de la División",
+   "index": "Long Division",
+   "sources": [
+      "8d6586b8-178b-4806-a050-ef5a8704f5e1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794069183"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9ec2c47d-4325-4ead-b4c6-4f8c3b04c8d9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn la clase anterior, aprendimos que la división y la multiplicación están relacionadas. También visualizamos esa relación con cuadrados, mostrando cómo el producto de una multiplicación puede repartirse entre valores. Sin embargo, todavía no hemos visto cómo hacer ese reparto en la práctica.\n\nEn esta clase, vamos a aprender un método para hacer divisiones y veremos cómo también muestra si nuestros resultados son correctos.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3eba8b4b-bd9d-4c04-9025-63815b94e87f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "3eba8b4b-bd9d-4c04-9025-63815b94e87f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Dividiendo un Producto\n\nEl **producto** es el nombre que recibe el resultado de una multiplicación. Nuestro objetivo en esta clase es dividir el producto en grupos diferentes. Estos grupos pueden recibir valores iguales o pueden dejar un grupo sobrante.\n\nVeamos un ejemplo de producto:\n\n**12 = 4 × 3**",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"division-recipe-groups\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "965ccef0-5e99-4408-854e-4e248338403f",
+         "prev": "9ec2c47d-4325-4ead-b4c6-4f8c3b04c8d9",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "965ccef0-5e99-4408-854e-4e248338403f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reorganizando de 4 en 4\n\nLa división también puede escribirse de diferentes formas. Usa los botones de abajo para ver las dos representaciones.\n\nEn esta división, representamos 12 dividido entre 4, que da 3 con resto 0.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"division-recipe-12-4\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a186680c-5234-404e-9364-587a8109a4f8",
+         "prev": "3eba8b4b-bd9d-4c04-9025-63815b94e87f",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a186680c-5234-404e-9364-587a8109a4f8",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nHemos escrito la multiplicación y la división en formatos diferentes. ¿Es posible verificar si el resultado de la división es correcto?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "89951032-8b3f-47a0-b795-57738a6d11e4",
+         "prev": "965ccef0-5e99-4408-854e-4e248338403f",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "89951032-8b3f-47a0-b795-57738a6d11e4",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Conexión\n\nLas partes del método de la división que estamos aprendiendo tienen nombres. Podemos relacionar los elementos de la división con la relación de la multiplicación, como se muestra a continuación:\n\n**Dividendo = Cociente × Divisor + Resto**\n\n**12 = 3 × 4 + 0**\n\nCuando multiplicamos el cociente por el divisor y sumamos el resto, recuperamos el dividendo. Esta es una forma de comprobar si la división es correcta.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6e0aa2f0-4258-4ccf-9754-5d437342a954",
+         "prev": "a186680c-5234-404e-9364-587a8109a4f8",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6e0aa2f0-4258-4ccf-9754-5d437342a954",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Elemento Oculto\n\nCuando multiplicamos dos números, encontramos los mismos elementos que observamos en la división. La única excepción es la suma del resto, que no aparece. Esto ocurre porque el resto siempre es cero y, como ya aprendimos, sumar cero a cualquier número no cambia el resultado:\n\n**12 = 3 × 4** (multiplicación)\n\n**12 = 3 × 4 + 0** (comprobando el resultado de la división)",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7939473d-5964-4d0e-99ea-819aeaae30de",
+         "prev": "89951032-8b3f-47a0-b795-57738a6d11e4",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7939473d-5964-4d0e-99ea-819aeaae30de",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Pequeña Diferencia\n\nPara reforzar lo que hemos aprendido, en lugar de dividir 12 entre 4, vamos a dividir **13 entre 4**:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"division-recipe-13-4\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Como puedes ver, ahora el resto es diferente de cero. Esto muestra que 13 no es divisible entre 4:\n\n**13 = 3 × 4 + 1** (comprobando el resultado de la división)",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d46ba3d4-4a87-48d8-bdc7-5abe44d675b1",
+         "prev": "6e0aa2f0-4258-4ccf-9754-5d437342a954",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d46ba3d4-4a87-48d8-bdc7-5abe44d675b1",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8d6586b8-178b-4806-a050-ef5a8704f5e1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos el método de la división larga, también llamado algoritmo de la división. Permite expresar una división en varias etapas y ofrece una forma adecuada de verificar si el resultado es correcto.\n\nSiempre que dividas, recuerda: **Dividendo = Cociente × Divisor + Resto**.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "7939473d-5964-4d0e-99ea-819aeaae30de",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

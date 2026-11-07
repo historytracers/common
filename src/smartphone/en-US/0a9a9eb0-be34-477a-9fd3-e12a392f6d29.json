@@ -1,0 +1,316 @@
+{
+   "title": "Extended Division Recipe",
+   "index": "Long Division",
+   "sources": [
+      "e1f0eeb1-c74b-4e7e-97dd-90f592fab221"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794083443"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "f0281a29-ba4a-4f6d-bf09-692c03732b94",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn the previous class, we learned that there is a recipe for division, which we call long division. However, we studied it with small numbers, so we did not need to continue dividing after the first step. In other words, our long division was short.\n\nIn this class, we will make the name more meaningful by extending the method to larger numbers.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Table of 5\n\nLet us remember the multiplication table of 5:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"extended-division-recipe-table-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "As you can see, the results range from 0 to 50.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "prev": "f0281a29-ba4a-4f6d-bf09-692c03732b94",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nCan I divide a number by 5 if the number is bigger than 50?",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "prev": "63fae867-4af4-4800-b18e-f0cc6cdc36c4",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Step by Step\n\nThere is no barrier to dividing a number larger than 50 by 5. The main difference from what we learned in previous classes is the need to perform more steps. For example, see the division of 320 by 5:",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p data-custom=\"extended-division-recipe-320-5\"></p>",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "prev": "b3a77007-c7f5-46e9-ad84-a0822a7f7acf",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Understanding the Steps\n\nTo do the division, we followed these steps:\n\nBecause 3 is smaller than 5, we began by dividing 32 by 5, which gives 6.\n\nThen we multiplied 6 by 5 and subtracted the result from 320. Notice that we added a zero at the end, because we were dividing the hundreds in 32(0), and not just the number 32.\n\nAfter that, we had 20 left, which we divided again, obtaining 4.\n\nFinally, we multiplied 4 by 5, which gave 20 once more, and we performed the final subtraction.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8bdf111e-538d-46da-b774-46a05978cb66",
+         "prev": "f8789a54-5df1-4d25-95a1-1f9b50348d57",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8bdf111e-538d-46da-b774-46a05978cb66",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4742a2d6-a3c5-4883-beb5-8ed0240fa9a7",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/LongDivision.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=e1f0eeb1-c74b-4e7e-97dd-90f592fab221",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned that when numbers are larger than the values in a multiplication table, we can still use the long division method to reach the result. The recipe is the same; we simply repeat its steps as many times as needed.",
+               "source": null,
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "c924d397-9582-4acc-9692-bef3b93e1d30",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
