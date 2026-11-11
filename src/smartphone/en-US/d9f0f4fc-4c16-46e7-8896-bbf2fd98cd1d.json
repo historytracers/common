@@ -1,0 +1,347 @@
+{
+   "title": "Multiplication Table (The Same Result)",
+   "index": "Multiplication",
+   "sources": [
+      "da2e2b37-7b63-4ba8-8ddd-e72535068258"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794410970"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "3c3603f8-ef59-4c13-843d-dc367b2e3984",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nThe first number of the numerical systems used nowadays around the world is the zero (0), which represents the idea of emptiness — of nothing. Zero is not merely an empty spot on the page: it is the number that tells us there is no quantity to count.\n\nAs a consequence of this, all the results of the multiplication table of zero can be reduced to one single number. In this class, we will learn the multiplication table of zero and discover why every one of its answers is the same.\n\nRemember from our previous classes: multiplying is a fast way of adding the same number many times. Keep that idea in mind, and the rule of the table of zero will feel natural.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "80a2836d-de45-40db-b0fe-dd5518940118",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "80a2836d-de45-40db-b0fe-dd5518940118",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Where Is My Food?\n\nObserve the plate in the picture below: it does not have any food inside it.\n\nSuppose we want to put cookies on this plate, but we have no cookies at all. How many cookies will we see on the plate? None — zero cookies.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 240\" width=\"100%\" style=\"max-width:240px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"An empty plate\"><title>An empty plate</title><ellipse cx=\"120\" cy=\"222\" rx=\"88\" ry=\"12\" fill=\"#000000\" opacity=\"0.12\"/><circle cx=\"120\" cy=\"116\" r=\"100\" fill=\"#f7f7f7\" stroke=\"#c9c9c9\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"116\" r=\"76\" fill=\"none\" stroke=\"#dcdcdc\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"116\" r=\"60\" fill=\"#fdfdfd\" stroke=\"#e6e6e6\" stroke-width=\"1.5\"/><ellipse cx=\"86\" cy=\"82\" rx=\"26\" ry=\"13\" fill=\"#ffffff\" opacity=\"0.8\" transform=\"rotate(-25 86 82)\"/></svg><b>Figure 1</b>: An empty plate.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "An empty plate.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "12d00250-1a05-4d9a-8e0c-70de6aea3894",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "12d00250-1a05-4d9a-8e0c-70de6aea3894",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nIf there is nothing to count, is it possible to obtain a result different from zero?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "379a3339-fe47-44da-abbc-99921790477e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "379a3339-fe47-44da-abbc-99921790477e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are not present, 10 times.\n\nSelect one of the objects in the selector below. Then click on a multiplication and verify how many of these objects are shown.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "32855e7f-d5af-4188-83ca-5cda9249e617",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "32855e7f-d5af-4188-83ca-5cda9249e617",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule\n\nFrom the previous screen, we can observe that when working with multiplication tables, we are going to repeat the same task different times, changing only one value. As a consequence of this, we can create a general recipe for how to build each multiplication table.\n\nFor example, when working with the multiplication table of zero, we can define it as:\n\n**0 = 0 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "21bbcdd1-5f72-4a28-abec-44a2c209369c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "21bbcdd1-5f72-4a28-abec-44a2c209369c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nThe recipe has only one line, but we can extract important information from it:\n\n**0 = 0 × N**\n\nRead it aloud: \"zero equals zero times N.\"\n\n- On the right side, **0** and **N** are the two **factors** being multiplied.\n- On the left side is the **product** — the answer.\n- **N** is a placeholder for any number you like, so one single rule covers every multiplication by zero at once.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c72a6950-0314-4205-a52e-1d90ef90d24f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c72a6950-0314-4205-a52e-1d90ef90d24f",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned the multiplication table of zero. We observed that, independent of the number we multiply by zero, the result will always be one single number: the zero.\n\nThis happens because we do not have objects to count. No matter how many groups we form, we keep counting nothing — and nothing is always zero.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

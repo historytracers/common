@@ -1,0 +1,323 @@
+{
+   "title": "Tabla de Multiplicar (¿Qué es esto?)",
+   "index": "Multiplication",
+   "sources": [
+      "4a65633e-9907-4ee1-92b1-091f879064d8"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794266605"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8a8c46ee-d5e3-435b-9e46-ab2edafca16f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc77d792-25d3-4c13-ace0-0378f3aaec70",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn la clase anterior, aprendimos que la multiplicación consiste en sumar el mismo número muchas veces. Independientemente de los objetos que estemos sumando, el resultado nunca cambia.\n\nComo consecuencia, podemos organizar todos esos resultados en una tabla y usarla siempre que los necesitemos. A esta tabla la llamamos **tabla de multiplicar**.\n\nEn esta clase, aprenderemos qué es una tabla de multiplicar y cómo la vamos a construir.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0eac33bd-f995-46d8-85d8-5e9272dfa0ce",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0eac33bd-f995-46d8-85d8-5e9272dfa0ce",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Tabla del 5\n\nEmpecemos con un número que siempre llevamos con nosotros. Cada una de nuestras manos tiene **5 dedos**, lo que hace que nuestras manos sean una herramienta perfecta para contar de 5 en 5.\n\nObserva las manos de abajo:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7465fccd-3e96-4f27-b47e-21c455a61a9b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7465fccd-3e96-4f27-b47e-21c455a61a9b",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nLas personas normalmente tienen 5 dedos en cada mano. Ahora piensa en las **manos de 10 personas** — es decir, 10 grupos de 5 dedos.\n\nSi empiezo a contar de 5 en 5 — 5, 10, 15, 20, y así sucesivamente — los dedos de estas 10 personas, ¿obtendré siempre los mismos resultados, independientemente de las personas cuyos dedos cuente?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8de63808-3672-4216-875d-adbe6767f6f1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8de63808-3672-4216-875d-adbe6767f6f1",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc77d792-25d3-4c13-ace0-0378f3aaec70",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Paso a Paso\n\nIndependientemente de las personas elegidas, contar sus dedos de 5 en 5 siempre dará los mismos resultados. Y lo que vale para el 5 vale para cualquier otro número: cuando repetimos una suma, los resultados nunca cambian.\n\nPor eso, no necesitamos calcularlos de nuevo cada vez. Podemos organizar los resultados en una tabla, lista para ser usada siempre que la necesitemos. Para hacerlo, seguiremos los pasos de abajo:\n\n- Definiremos un **máximo** de valores repetidos para nuestra tabla.\n- Entenderemos las **consecuencias** de esta definición.\n- Estudiaremos algunos **ejemplos** en las próximas clases.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "585199ad-17d5-4a97-be94-291fb5b2c340",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "585199ad-17d5-4a97-be94-291fb5b2c340",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Paso 1: Diez Repeticiones\n\nRecuerda: en cada orden — cada familia de números — solo podemos escribir valores de **0 a 9**. No existe otro valor único dentro de una orden.\n\nPor este motivo, definiremos nuestras tablas como teniendo **10 valores diferentes**. Esto significa que, para cada número a partir del cual empezamos a contar repetidamente, lo repetiremos **10 veces**: una vez por cada valor de 0 a 9.\n\nPor ejemplo, la tabla del 5 contiene diez resultados:\n\n- 5 × 0 = 0\n- 5 × 1 = 5\n- 5 × 2 = 10\n- ...\n- 5 × 9 = 45\n\nCuando la décima repetición esté hecha, nuestra tabla estará completa.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ab406443-d516-454d-b700-1870715cdd4a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ab406443-d516-454d-b700-1870715cdd4a",
+         "audio": "",
+         "smile": "shocking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "fc77d792-25d3-4c13-ace0-0378f3aaec70",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Multiplication.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Paso 2: Más Allá de la Tabla\n\nLimitar las repeticiones a 10 **no** significa que no podamos seguir multiplicando. Solo limita el **tamaño** de nuestra tabla.\n\nPodemos continuar: 5 × 10, 5 × 11, y así sucesivamente. Simplemente organizamos la tabla con los diez primeros resultados, de × 0 a × 9.\n\nOtra observación importante: como el orden en el que sumamos o multiplicamos los valores no cambia el resultado final, podemos organizar los números de la manera que consideremos mejor para entender. Los resultados siempre serán los mismos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "11576d79-3be9-415c-bce0-616b4eba4524",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "11576d79-3be9-415c-bce0-616b4eba4524",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4a65633e-9907-4ee1-92b1-091f879064d8",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4a65633e-9907-4ee1-92b1-091f879064d8",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos qué es una tabla de multiplicar: un conjunto organizado de resultados, construido sumando el mismo número muchas veces.\n\nTambién aprendimos cómo las vamos a construir en las próximas clases: cada tabla repite su número **10 veces** — una repetición por cada valor de 0 a 9 — y, más allá de ese límite, podemos seguir multiplicando, porque el orden de los valores nunca cambia el resultado.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

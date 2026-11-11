@@ -1,0 +1,347 @@
+{
+   "title": "Tabuada (O Mesmo Resultado)",
+   "index": "Multiplication",
+   "sources": [
+      "da2e2b37-7b63-4ba8-8ddd-e72535068258"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794410970"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "3c3603f8-ef59-4c13-843d-dc367b2e3984",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nO primeiro número dos sistemas numéricos usados atualmente ao redor do mundo é o zero (0), que representa a ideia de vazio — de nada. O zero não é apenas um espaço vazio na página: é o número que nos diz que não há nenhuma quantidade para contar.\n\nComo consequência disso, todos os resultados da tabuada do zero podem ser reduzidos a um único número. Nesta aula, vamos aprender a tabuada do zero e descobrir por que todas as suas respostas são a mesma.\n\nLembre-se das nossas aulas anteriores: multiplicar é uma forma rápida de adicionar o mesmo número muitas vezes. Mantenha essa ideia em mente, e a regra da tabuada do zero vai parecer natural.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "80a2836d-de45-40db-b0fe-dd5518940118",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "80a2836d-de45-40db-b0fe-dd5518940118",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Onde Está Minha Comida?\n\nObserve o prato na figura abaixo: ele não tem nenhuma comida dentro dele.\n\nSuponha que queremos colocar biscoitos neste prato, mas não temos nenhum biscoito. Quantos biscoitos veremos no prato? Nenhum — zero biscoitos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"desc\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 240\" width=\"100%\" style=\"max-width:240px; display:block; margin:0 auto;\" role=\"img\" aria-label=\"Um prato vazio\"><title>Um prato vazio</title><ellipse cx=\"120\" cy=\"222\" rx=\"88\" ry=\"12\" fill=\"#000000\" opacity=\"0.12\"/><circle cx=\"120\" cy=\"116\" r=\"100\" fill=\"#f7f7f7\" stroke=\"#c9c9c9\" stroke-width=\"3\"/><circle cx=\"120\" cy=\"116\" r=\"76\" fill=\"none\" stroke=\"#dcdcdc\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"116\" r=\"60\" fill=\"#fdfdfd\" stroke=\"#e6e6e6\" stroke-width=\"1.5\"/><ellipse cx=\"86\" cy=\"82\" rx=\"26\" ry=\"13\" fill=\"#ffffff\" opacity=\"0.8\" transform=\"rotate(-25 86 82)\"/></svg><b>Figura 1</b>: Um prato vazio.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Um prato vazio.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "12d00250-1a05-4d9a-8e0c-70de6aea3894",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "12d00250-1a05-4d9a-8e0c-70de6aea3894",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nSe não há nada para contar, é possível obter um resultado diferente de zero?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "379a3339-fe47-44da-abbc-99921790477e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "no",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "379a3339-fe47-44da-abbc-99921790477e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que não estão presentes, 10 vezes.\n\nSelecione um dos objetos no seletor abaixo. Depois clique em uma multiplicação e verifique quantos desses objetos são mostrados.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "32855e7f-d5af-4188-83ca-5cda9249e617",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "32855e7f-d5af-4188-83ca-5cda9249e617",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Regra\n\nDa tela anterior, podemos observar que, ao trabalhar com as tabuadas, vamos repetir a mesma tarefa diferentes vezes, mudando apenas um valor. Como consequência disso, podemos criar uma receita geral de como construir cada tabuada.\n\nPor exemplo, ao trabalhar com a tabuada do zero, podemos defini-la como:\n\n**0 = 0 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "21bbcdd1-5f72-4a28-abec-44a2c209369c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "21bbcdd1-5f72-4a28-abec-44a2c209369c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nA receita tem apenas uma linha, mas podemos extrair informações importantes dela:\n\n**0 = 0 × N**\n\nLeia em voz alta: \"zero é igual a zero vezes N.\"\n\n- Do lado direito, **0** e **N** são os dois **fatores** que estão sendo multiplicados.\n- Do lado esquerdo está o **produto** — a resposta.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma única regra cobre todas as multiplicações por zero de uma vez.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c72a6950-0314-4205-a52e-1d90ef90d24f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c72a6950-0314-4205-a52e-1d90ef90d24f",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "576e4648-77fa-4a6d-9e51-9459ced964f3",
+               "text": "Musa, Auwalu (2014)",
+               "page": "https://www.academia.edu/9099310/Origin_of_Modern_Mathematical_Numeral_0_1_2_3_4_5_6_7_8_9_the_Hindu_Indian_Brahmagubta_The_Islamo_Arabic_or_the_West",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2014",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos a tabuada do zero. Observamos que, independente do número que multiplicarmos por zero, o resultado será sempre um único número: o zero.\n\nIsso acontece porque não temos objetos para contar. Não importa quantos grupos formemos, continuamos contando nada — e nada é sempre zero.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
