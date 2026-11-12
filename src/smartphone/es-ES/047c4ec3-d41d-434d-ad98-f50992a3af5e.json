@@ -1,0 +1,287 @@
+{
+   "title": "Tabla de Multiplicar (Lados Iguales)",
+   "index": "Multiplication",
+   "sources": [
+      "da2e2b37-7b63-4ba8-8ddd-e72535068258"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794436937"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "08f97afb-d415-4198-9c97-d936fa5fc425",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEl siguiente número del sistema decimal es el número uno (1), y también lleva una característica especial en su tabla de multiplicar, que aprenderemos en esta clase.\n\nRecuerda de nuestras clases anteriores: multiplicar es una forma rápida de sumar el mismo número muchas veces. Y recuerda la tabla del cero: no importaba qué multiplicábamos por cero, la respuesta era siempre cero.\n\nAhora veremos que multiplicar por uno también es especial: el resultado siempre conserva el número con el que empezamos. Por esto, toda respuesta de la tabla del uno es igual en ambos lados de la igualdad.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Tú\n\nObserva las manos de abajo: estamos sumando los números del 1 al 10 sobre ellas.\n\nCada dedo lleva el número que alcanzamos cuando contamos de uno en uno. Levanta un dedo más, y el número avanza exactamente uno: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Esta cuenta paso a paso es el corazón de la tabla del uno.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><text x=\"146\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">1</text><text x=\"240\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">2</text><text x=\"275\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">3</text><text x=\"294\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">4</text><text x=\"300\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">5</text><text x=\"339\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">6</text><text x=\"345\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">7</text><text x=\"364\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">8</text><text x=\"399\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">9</text><text x=\"493\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">10</text></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Dos manos abiertas con los números del 1 al 10 sobre los dedos.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a0931336-3a66-456e-89ef-c195d737c071",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a0931336-3a66-456e-89ef-c195d737c071",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nCuando multiplicamos un número por uno, ¿es el resultado el mismo que sumar 1 de uno en uno?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, contemos objetos que están presentes, 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Luego haz clic en una multiplicación y verifica cuántos de estos objetos se muestran cuando cada grupo tiene 1 de ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Regla\n\nDe las pantallas anteriores, podemos observar que multiplicar por uno siempre avanza de uno en uno: sumamos 1 el mismo número de veces que el valor que estamos multiplicando. Como avanzamos exactamente un número a la vez, el número del lado izquierdo de la igualdad es siempre igual al número del lado derecho.\n\nPor esto, podemos definir la tabla del uno como:\n\n**N = 1 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en la tabla del cero, podemos extraer información importante de la receta:\n\n**N = 1 × N**\n\nLéela en voz alta: \"N es igual a 1 por N.\"\n\n- Del lado derecho, **1** y **N** son los dos **factores** que se multiplican.\n- Del lado izquierdo está el **producto** — la respuesta.\n- **N** es un marcador de posición para cualquier número que quieras, así que una sola regla cubre todas las multiplicaciones por uno a la vez.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos la tabla de multiplicar del uno. Observamos que, independientemente del número que multipliquemos por 1, el resultado será siempre el mismo número que multiplicamos.\n\nEsto sucede porque multiplicar cualquier número por 1 es como tener el número en sí: lo sumamos una vez, y nada cambia.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

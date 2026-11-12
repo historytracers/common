@@ -1,0 +1,299 @@
+{
+   "title": "Tabla de Multiplicar (Valores Duplicados)",
+   "index": "Multiplication",
+   "sources": [
+      "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794496198"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8030f003-8f53-449c-8d53-43a65547ecc5",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEl siguiente número del sistema decimal es el número dos (2). La idea para construir su tabla de multiplicar es exactamente la misma que usamos para el cero y el uno: multiplicar por dos significa sumar números de 2 en 2.\n\nY, como toda tabla de multiplicar, esta también tiene una característica especial de la que hablar: cada respuesta de la tabla del dos es un número doblado — y eso le da a la tabla un ritmo especial que descubriremos en esta clase.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8c0d497d-97b4-4389-a908-a8a4318f25c7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8c0d497d-97b4-4389-a908-a8a4318f25c7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Tú\n\nObserva las manos de abajo: no son la única parte de nuestro cuerpo que tenemos duplicada.\n\nTenemos dos manos, dos pies, dos ojos y dos orejas — ¡nuestro cuerpo está lleno de pares! Cada mano tiene 5 dedos, y tenemos dos manos, así que nuestros dedos forman dos grupos de 5: 5 + 5 = 10.\n\nPares como estos son exactamente de lo que trata multiplicar por dos: tomar un número y doblarlo, un par a la vez.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 600 200\"><g transform=\"translate(400,0) scale(0.6)\"><g id=\"leftHand\"><path class=\"hand-shape\" fill=\"#F4C2A1\"  d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8  c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8  c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> <g id=\"rightHand\" transform=\"scale(-1,1)\"> <path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> </svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Dos manos abiertas, con los dedos extendidos.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4752b4e9-b316-4b62-b119-037be0b06304",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4752b4e9-b316-4b62-b119-037be0b06304",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nConsiderando todo lo que hemos visto hasta ahora, ¿podemos llegar a la conclusión de que multiplicar por 2 es lo mismo que sumar de 2 en 2?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6fbed3b4-9983-49e0-8863-0295bd54ff3d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "6fbed3b4-9983-49e0-8863-0295bd54ff3d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, contemos objetos que están presentes, 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Luego haz clic en las multiplicaciones, una a una, y verifica cuántos de estos objetos se muestran cuando cada grupo tiene 2 de ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0515e27b-7f66-4301-9288-13acde844b52",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0515e27b-7f66-4301-9288-13acde844b52",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 2 en 2 y, como consecuencia, siempre doblamos el contador, podemos entender esta tabla paso a paso. Por ejemplo, si yo cuento el número 2 dos veces, tengo 4.\n\nComo consecuencia de esto, es posible entender esta tabla de multiplicar como:\n\n**N + N = 2 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7b6f4fa1-271d-4261-b7b2-18e9dc5c534f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7b6f4fa1-271d-4261-b7b2-18e9dc5c534f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "130b6adb-161d-4fec-98e4-eaa384122753",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/EvenNumber.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva receta:\n\n**N + N = 2 × N**\n\no, escrita con la multiplicación primero: **2 × N = N + N**\n\nLéela en voz alta: \"dos veces N es igual a N más N.\"\n\n- El producto es siempre el **doble** de N — el número sumado a sí mismo.\n- **N** es un marcador de posición para cualquier número que quieras, así que una sola regla cubre todas las multiplicaciones por dos a la vez.\n- Si **N** es 0, el producto es 0; si **N** es 1, el producto es 2 — exactamente lo que vimos en la tabla del cero y en la tabla del uno.\n- Toda respuesta de esta tabla es un **número par**; esto significa que su último dígito es siempre 0, 2, 4, 6 u 8.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4d602ff1-cee2-4cf9-bff5-aee34fe4728c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4d602ff1-cee2-4cf9-bff5-aee34fe4728c",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos la tabla de multiplicar del dos. Aprendimos que multiplicar cualquier número por 2 es lo mismo que sumarlo a sí mismo: el resultado es siempre el **doble** de N.\n\nTambién descubrimos que toda respuesta de esta tabla es un **número par** — siempre termina en 0, 2, 4, 6 u 8.\n\nCon las tablas del cero, del uno y del dos, ¡nuestro mapa de las multiplicaciones sigue creciendo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
