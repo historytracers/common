@@ -1,0 +1,324 @@
+{
+   "title": "Tabuada (Valores Triplicados)",
+   "index": "Multiplication",
+   "sources": [
+      "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794509939"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "0dab28d0-3b62-4fcf-bd54-d36d4e90da23",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNesta aula vamos aprender a última tabuada do primeiro grupo de números: o número três (3).\n\nO três também é um número especial, porque 3 é o número de dimensões que podemos ver — comprimento, largura e profundidade. E este não é o único assunto que vamos destacar: nesta aula também descobriremos que algumas respostas podem aparecer em mais de uma tabuada ao mesmo tempo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "86742626-d3d6-4a8b-9c99-f356b6c65401",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "86742626-d3d6-4a8b-9c99-f356b6c65401",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Você\n\nO número três também é o número de arestas — lados — que um triângulo tem.\n\nObserve os triângulos abaixo: todos têm o mesmo tamanho, e cada um tem três lados iguais. Por causa disso, podemos contar os lados de triângulos diferentes de 3 em 3.\n\nConte todos os lados juntos: 3, 6, 9! Então 3 + 3 + 3 = 9, o que significa 3 × 3 = 9.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 180\" width=\"100%\" role=\"img\" aria-label=\"Three equilateral triangles of the same size\"><g fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"20,160 120,160 70,73.4\"/><polygon points=\"170,160 270,160 220,73.4\"/><polygon points=\"320,160 420,160 370,73.4\"/></g><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"70.0\" y1=\"156.0\" x2=\"70.0\" y2=\"164.0\"/><line x1=\"91.5\" y1=\"118.7\" x2=\"98.5\" y2=\"114.7\"/><line x1=\"48.5\" y1=\"118.7\" x2=\"41.5\" y2=\"114.7\"/><line x1=\"220.0\" y1=\"156.0\" x2=\"220.0\" y2=\"164.0\"/><line x1=\"241.5\" y1=\"118.7\" x2=\"248.5\" y2=\"114.7\"/><line x1=\"198.5\" y1=\"118.7\" x2=\"191.5\" y2=\"114.7\"/><line x1=\"370.0\" y1=\"156.0\" x2=\"370.0\" y2=\"164.0\"/><line x1=\"391.5\" y1=\"118.7\" x2=\"398.5\" y2=\"114.7\"/><line x1=\"348.5\" y1=\"118.7\" x2=\"341.5\" y2=\"114.7\"/></g></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Três triângulos do mesmo tamanho, cada um com três lados iguais.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "020f82a9-dede-4717-bacd-c4b309a17c85",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "020f82a9-dede-4717-bacd-c4b309a17c85",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nÉ possível encontrar alguns resultados que vimos nas tabuadas anteriores (0, 1 e 2) também na tabuada do três?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bd32b318-9dcb-4ec9-9ffa-73fa9fb2a286",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "bd32b318-9dcb-4ec9-9ffa-73fa9fb2a286",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Comum\n\nAlguns resultados vão aparecer em tabuadas diferentes. Isso acontece porque eles são **múltiplos comuns** dos multiplicadores.\n\nPor exemplo, o número 6. Podemos alcançá-lo assim:\n\n1 × 6 = 6\n2 × 3 = 6\n3 × 2 = 6\n\nAbaixo, o mesmo número 6 é desenhado com os seus objetos selecionados, em grupos de tamanhos diferentes. Veja como 6 pode ser um grupo de 6, dois grupos de 3 ou três grupos de 2!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c73a3536-f17a-4573-89c1-affecdd496d6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c73a3536-f17a-4573-89c1-affecdd496d6",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que estão presentes, 10 vezes.\n\nSelecione um dos objetos no seletor abaixo. Depois clique nas multiplicações, uma a uma, e verifique quantos desses objetos são mostrados quando cada grupo tem 3 deles.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2e7b1f4d-95ed-45bd-b083-9e3f3072a4ab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2e7b1f4d-95ed-45bd-b083-9e3f3072a4ab",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Regra\n\nConsiderando que estamos sempre avançando de 3 em 3 e, como consequência, sempre triplicando o contador, podemos entender esta tabuada passo a passo. Por exemplo, se eu contar o número 3 três vezes, terei 9.\n\nComo consequência disso, é possível entender esta tabuada como:\n\n**N + N + N = 3 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fd80532-ab9e-4dbe-a659-31b171dd6973",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9fd80532-ab9e-4dbe-a659-31b171dd6973",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nComo nas tabuadas anteriores, podemos extrair informações importantes desta nova receita:\n\n**N + N + N = 3 × N**\n\nou, escrita com a multiplicação primeiro: **3 × N = N + N + N**\n\nLeia em voz alta: \"três vezes N é igual a N mais N mais N.\"\n\n- O produto é sempre N somado a si mesmo três vezes.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma única regra cobre todas as multiplicações por três de uma vez.\n- Se **N** é 0, o produto é 0; se **N** é 1, o produto é 3 — exatamente o que vimos na tabuada do zero e na tabuada do um.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ef543c6-ece0-462f-baa0-a7f421110f67",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ef543c6-ece0-462f-baa0-a7f421110f67",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos a tabuada do três. Aprendemos que multiplicar qualquer número por 3 é o mesmo que somá-lo três vezes: o resultado é sempre o **triplo** de N.\n\nTambém aprendemos que quando um número aparece em tabuadas diferentes, ele é chamado de **múltiplo comum** desses números — como o 6, que pertence à tabuada do um, à tabuada do dois e à tabuada do três.\n\nCom as tabuadas do zero, do um, do dois e do três, nosso mapa das multiplicações continua crescendo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

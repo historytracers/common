@@ -1,0 +1,287 @@
+{
+   "title": "Tabuada (Lados Iguais)",
+   "index": "Multiplication",
+   "sources": [
+      "da2e2b37-7b63-4ba8-8ddd-e72535068258"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794436937"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "08f97afb-d415-4198-9c97-d936fa5fc425",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nO próximo número do sistema decimal é o número um (1), e ele também carrega uma característica especial na sua tabuada, que vamos aprender nesta aula.\n\nLembre-se das nossas aulas anteriores: multiplicar é uma forma rápida de adicionar o mesmo número muitas vezes. E lembre-se da tabuada do zero: não importava o que multiplicávamos por zero, a resposta era sempre zero.\n\nAgora veremos que multiplicar por um também é especial: o resultado sempre mantém o número com que começamos. Por causa disso, toda resposta da tabuada do um é igual nos dois lados da igualdade.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Você\n\nObserve as mãos abaixo: estamos adicionando os números de 1 a 10 sobre elas.\n\nCada dedo carrega o número que alcançamos quando contamos de um em um. Levante mais um dedo, e o número avança exatamente um: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. Essa contagem passo a passo é o coração da tabuada do um.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><text x=\"146\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">1</text><text x=\"240\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">2</text><text x=\"275\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">3</text><text x=\"294\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">4</text><text x=\"300\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">5</text><text x=\"339\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">6</text><text x=\"345\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">7</text><text x=\"364\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">8</text><text x=\"399\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">9</text><text x=\"493\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">10</text></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Duas mãos abertas com os números de 1 a 10 sobre os dedos.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a0931336-3a66-456e-89ef-c195d737c071",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a0931336-3a66-456e-89ef-c195d737c071",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nQuando multiplicamos um número por um, o resultado é o mesmo que somar 1 de 1 em 1?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que estão presentes, 10 vezes.\n\nSelecione um dos objetos no seletor abaixo. Depois clique em uma multiplicação e verifique quantos desses objetos são mostrados quando cada grupo tem 1 deles.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Regra\n\nDas telas anteriores, podemos observar que multiplicar por um sempre avança de um em um: somamos 1 o mesmo número de vezes que o valor que estamos multiplicando. Como avançamos exatamente um número por vez, o número do lado esquerdo da igualdade é sempre igual ao número do lado direito.\n\nPor causa disso, podemos definir a tabuada do um como:\n\n**N = 1 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nComo na tabuada do zero, podemos extrair informações importantes da receita:\n\n**N = 1 × N**\n\nLeia em voz alta: \"N é igual a 1 vezes N.\"\n\n- Do lado direito, **1** e **N** são os dois **fatores** que estão sendo multiplicados.\n- Do lado esquerdo está o **produto** — a resposta.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma única regra cobre todas as multiplicações por um de uma vez.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos a tabuada do um. Observamos que, independente do número que multiplicarmos por 1, o resultado será sempre o mesmo número que multiplicamos.\n\nIsso acontece porque multiplicar qualquer número por 1 é como ter o próprio número: somamos ele uma vez, e nada muda.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

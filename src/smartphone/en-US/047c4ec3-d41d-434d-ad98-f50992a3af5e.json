@@ -1,0 +1,287 @@
+{
+   "title": "Multiplication Table (Equal Sides)",
+   "index": "Multiplication",
+   "sources": [
+      "da2e2b37-7b63-4ba8-8ddd-e72535068258"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794436937"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "08f97afb-d415-4198-9c97-d936fa5fc425",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nThe next number of the decimal system is the number one (1), and it also carries a special characteristic in its multiplication table, which we are going to learn in this class.\n\nRemember from our previous classes: multiplying is a fast way of adding the same number many times. And remember the table of zero: no matter what we multiplied by zero, the answer was always zero.\n\nNow we will see that multiplying by one is also special: the result always keeps the number we started with. Because of this, every answer of the multiplication table of one is equal on both sides of the equality.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "082fb16b-ce6e-45eb-b5f2-5ed9c27c2604",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Like You\n\nObserve the hands below: we are adding the numbers from 1 to 10 on top of them.\n\nEach finger carries the number we reach when we count one by one. Raise one more finger, and the number advances exactly by one: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. This step-by-step counting is the heart of the multiplication table of one.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 640 265\"><g transform=\"translate(345,-103)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g><g transform=\"translate(295,-103)\"><g transform=\"scale(-1,1)\"><path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/></g></g><text x=\"146\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">1</text><text x=\"240\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">2</text><text x=\"275\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">3</text><text x=\"294\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">4</text><text x=\"300\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">5</text><text x=\"339\" y=\"134\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">6</text><text x=\"345\" y=\"89\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">7</text><text x=\"364\" y=\"52\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">8</text><text x=\"399\" y=\"35\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">9</text><text x=\"493\" y=\"84\" font-size=\"21\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#333333\">10</text></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Two open hands with the numbers from 1 to 10 on top of the fingers.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a0931336-3a66-456e-89ef-c195d737c071",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a0931336-3a66-456e-89ef-c195d737c071",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nWhen we multiply a number by one, is the result the same as adding 1 by 1?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3293d272-4a4a-413b-8194-88c908d53edb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are present, 10 times.\n\nSelect one of the objects in the selector below. Then click on a multiplication and verify how many of these objects are shown when each group holds 1 of them.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "02a9d8f2-b7a6-4e29-8cc8-81e8022a6c2f",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule\n\nFrom the previous screens, we can observe that multiplying by one always advances one by one: we add 1 the same number of times as the value we are multiplying. Because we advance exactly one number at a time, the number on the left side of the equality is always the same as the number on the right side.\n\nBecause of this, we can define the multiplication table of one as:\n\n**N = 1 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8ce35b43-4672-424e-b539-6e60fa197056",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nLike the multiplication table of zero, we can extract important information from the recipe:\n\n**N = 1 × N**\n\nRead it aloud: \"N equals 1 times N.\"\n\n- On the right side, **1** and **N** are the two **factors** being multiplied.\n- On the left side is the **product** — the answer.\n- **N** is a placeholder for any number you like, so one single rule covers every multiplication by one at once.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a76eaea-1687-404f-9a93-c941d0c630c2",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=da2e2b37-7b63-4ba8-8ddd-e72535068258",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned the multiplication table of one. We observed that, independent of the number we multiply by 1, the result will always be the same number we multiplied.\n\nThis happens because multiplying any number by 1 is like having the number itself: we add it once, and nothing changes.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

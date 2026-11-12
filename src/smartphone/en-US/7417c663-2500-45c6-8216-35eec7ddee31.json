@@ -1,0 +1,299 @@
+{
+   "title": "Multiplication Table (Double Values)",
+   "index": "Multiplication",
+   "sources": [
+      "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794496198"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8030f003-8f53-449c-8d53-43a65547ecc5",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nThe next number of the decimal system is the number two (2). The idea for building its multiplication table is exactly the same as the one we used for zero and one: multiplying by two means adding numbers 2 by 2.\n\nAnd, like every other multiplication table, this one also has a special characteristic of its own: every answer of the table of two is a doubled number — and that gives the table a special rhythm we are going to discover in this class.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8c0d497d-97b4-4389-a908-a8a4318f25c7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8c0d497d-97b4-4389-a908-a8a4318f25c7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Like You\n\nObserve the hands below: they are not the only part of our body that we have duplicated.\n\nWe have two hands, two feet, two eyes, and two ears — our body is full of pairs! Each hand has 5 fingers, and we have two hands, so our fingers form two groups of 5: 5 + 5 = 10.\n\nPairs like these are exactly what multiplying by two is about: taking a number and doubling it, one pair at a time.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg viewBox=\"0 0 600 200\"><g transform=\"translate(300,-19) scale(0.6)\"><g id=\"leftHand\"><path class=\"hand-shape\" fill=\"#F4C2A1\"  d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8  c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8  c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> <g id=\"rightHand\" transform=\"scale(-1,1)\"> <path class=\"hand-shape\" fill=\"#F4C2A1\" d=\"M-268.1,338l21.7-21.7c2.3-2.3,3.5-5.3,3.5-8.5v-55.7c0-5.6,2.2-10.9,6.2-14.9l32.4-32.4 c2.1-2.1,5.8-1.8,7.4,0.8c2.8,4.4,5,11.4-1.4,18.9c-5.1,5.9-10.3,10.9-13.7,14.1 c-2.2,2-2.2,5.4-0.1,7.5c2,2,5.3,2,7.3,0l87.6-87.6c4.6-4.6,12.2-4.6,16.8,0 c4.6,4.6,4.6,12.2,0,16.8l-66.2,66.2c-2.4,2.4-2.4,6.4,0,8.8 c2.4,2.4,6.4,2.4,8.8,0l74.5-75.3c4.6-4.7,12.2-4.7,16.9,0l1.8,1.8 c4.6,4.6,4.6,12.1,0.1,16.8l-70.4,71.3c-2.2,2.3-2.2,5.9,0,8.2 c2.3,2.3,5.9,2.3,8.2,0l61.2-61.2c4.6-4.6,12.2-4.6,16.8,0l0.2,0.2 c4.6,4.6,4.6,12.2,0,16.8l-67.1,67.1c-1.7,1.7-1.7,4.6,0,6.3 c1.7,1.7,4.6,1.7,6.3,0l50.7-50.7c3.9-3.9,10.1-3.9,13.9,0 c3.9,3.9,3.9,10.1,0,13.9l-98.2,98.2z\"/> </g> </svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Two open hands, with fingers spread.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4752b4e9-b316-4b62-b119-037be0b06304",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4752b4e9-b316-4b62-b119-037be0b06304",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nConsidering everything we have seen until now, can we reach the conclusion that multiplying by 2 is the same as adding 2 by 2?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6fbed3b4-9983-49e0-8863-0295bd54ff3d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "6fbed3b4-9983-49e0-8863-0295bd54ff3d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are present, 10 times.\n\nSelect one of the objects in the selector below. Then click on the multiplications one by one and verify how many of these objects are shown when each group holds 2 of them.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0515e27b-7f66-4301-9288-13acde844b52",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0515e27b-7f66-4301-9288-13acde844b52",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule\n\nConsidering that we are always advancing 2 by 2, and as a consequence we are always doubling the counter, we can understand this table step by step. For example, if I count the number 2 twice, I have 4.\n\nAs a consequence of this, it is possible to understand this multiplication table as:\n\n**N + N = 2 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7b6f4fa1-271d-4261-b7b2-18e9dc5c534f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7b6f4fa1-271d-4261-b7b2-18e9dc5c534f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "130b6adb-161d-4fec-98e4-eaa384122753",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/EvenNumber.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nLike the multiplication tables before, we can extract important information from this new recipe:\n\n**N + N = 2 × N**\n\nor, written with the multiplication first: **2 × N = N + N**\n\nRead it aloud: \"two times N equals N plus N.\"\n\n- The product is always the **double** of N — the number added to itself.\n- **N** is a placeholder for any number you like, so one rule covers every multiplication by two at once.\n- If **N** is 0, the product is 0; if **N** is 1, the product is 2 — exactly what we saw in the table of zero and the table of one.\n- Every answer of this table is an **even number**; this means its last digit is always 0, 2, 4, 6, or 8.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4d602ff1-cee2-4cf9-bff5-aee34fe4728c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4d602ff1-cee2-4cf9-bff5-aee34fe4728c",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class, we learned the multiplication table of two. We learned that multiplying any number by 2 is the same as adding it to itself: the result is always the **double** of N.\n\nWe also discovered that every answer of this table is an **even number** — it always ends in 0, 2, 4, 6, or 8.\n\nWith the tables of zero, one, and two, our multiplication map keeps growing!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
