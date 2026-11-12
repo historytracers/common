@@ -1,0 +1,324 @@
+{
+   "title": "Tabla de Multiplicar (Valores Triplicados)",
+   "index": "Multiplication",
+   "sources": [
+      "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794509939"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "0dab28d0-3b62-4fcf-bd54-d36d4e90da23",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la última tabla del primer grupo de números: el número tres (3).\n\nEl tres también es un número especial, porque 3 es el número de dimensiones que podemos ver — longitud, anchura y profundidad. Y este no es el único tema que vamos a destacar: en esta clase también descubriremos que algunas respuestas pueden aparecer en más de una tabla de multiplicar al mismo tiempo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "86742626-d3d6-4a8b-9c99-f356b6c65401",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "86742626-d3d6-4a8b-9c99-f356b6c65401",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "text": "History Tracers Team",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=d862242c-0538-4b18-8b32-4a84d4a5858e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Como Tú\n\nEl número tres también es el número de aristas — lados — que tiene un triángulo.\n\nObserva los triángulos de abajo: todos tienen el mismo tamaño, y cada uno tiene tres lados iguales. Por esto, podemos contar los lados de diferentes triángulos de 3 en 3.\n\nCuenta todos los lados juntos: ¡3, 6, 9! Entonces 3 + 3 + 3 = 9, lo que significa 3 × 3 = 9.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 180\" width=\"100%\" role=\"img\" aria-label=\"Three equilateral triangles of the same size\"><g fill=\"#e8f5e9\" stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"20,160 120,160 70,73.4\"/><polygon points=\"170,160 270,160 220,73.4\"/><polygon points=\"320,160 420,160 370,73.4\"/></g><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"70.0\" y1=\"156.0\" x2=\"70.0\" y2=\"164.0\"/><line x1=\"91.5\" y1=\"118.7\" x2=\"98.5\" y2=\"114.7\"/><line x1=\"48.5\" y1=\"118.7\" x2=\"41.5\" y2=\"114.7\"/><line x1=\"220.0\" y1=\"156.0\" x2=\"220.0\" y2=\"164.0\"/><line x1=\"241.5\" y1=\"118.7\" x2=\"248.5\" y2=\"114.7\"/><line x1=\"198.5\" y1=\"118.7\" x2=\"191.5\" y2=\"114.7\"/><line x1=\"370.0\" y1=\"156.0\" x2=\"370.0\" y2=\"164.0\"/><line x1=\"391.5\" y1=\"118.7\" x2=\"398.5\" y2=\"114.7\"/><line x1=\"348.5\" y1=\"118.7\" x2=\"341.5\" y2=\"114.7\"/></g></svg>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Tres triángulos del mismo tamaño, cada uno con tres lados iguales.",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "020f82a9-dede-4717-bacd-c4b309a17c85",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "020f82a9-dede-4717-bacd-c4b309a17c85",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\n¿Es posible encontrar algunos resultados que vimos en las tablas anteriores (0, 1 y 2) también en la tabla del tres?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "bd32b318-9dcb-4ec9-9ffa-73fa9fb2a286",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "bd32b318-9dcb-4ec9-9ffa-73fa9fb2a286",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Común\n\nAlgunos resultados van a aparecer en tablas diferentes. Esto sucede porque son **múltiplos comunes** de los multiplicadores.\n\nPor ejemplo, el número 6. Podemos alcanzarlo así:\n\n1 × 6 = 6\n2 × 3 = 6\n3 × 2 = 6\n\nAbajo, el mismo número 6 se dibuja con tus objetos seleccionados, en grupos de tamaños diferentes. ¡Mira cómo 6 puede ser un grupo de 6, dos grupos de 3 o tres grupos de 2!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c73a3536-f17a-4573-89c1-affecdd496d6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c73a3536-f17a-4573-89c1-affecdd496d6",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, contemos objetos que están presentes, 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Luego haz clic en las multiplicaciones, una a una, y verifica cuántos de estos objetos se muestran cuando cada grupo tiene 3 de ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2e7b1f4d-95ed-45bd-b083-9e3f3072a4ab",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2e7b1f4d-95ed-45bd-b083-9e3f3072a4ab",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 3 en 3 y, como consecuencia, siempre triplicamos el contador, podemos entender esta tabla paso a paso. Por ejemplo, si yo cuento el número 3 tres veces, tendré 9.\n\nComo consecuencia de esto, es posible entender esta tabla de multiplicar como:\n\n**N + N + N = 3 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fd80532-ab9e-4dbe-a659-31b171dd6973",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9fd80532-ab9e-4dbe-a659-31b171dd6973",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva receta:\n\n**N + N + N = 3 × N**\n\no, escrita con la multiplicación primero: **3 × N = N + N + N**\n\nLéela en voz alta: \"tres veces N es igual a N más N más N.\"\n\n- El producto es siempre N sumado a sí mismo tres veces.\n- **N** es un marcador de posición para cualquier número que quieras, así que una sola regla cubre todas las multiplicaciones por tres a la vez.\n- Si **N** es 0, el producto es 0; si **N** es 1, el producto es 3 — exactamente lo que vimos en la tabla del cero y en la tabla del uno.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4ef543c6-ece0-462f-baa0-a7f421110f67",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4ef543c6-ece0-462f-baa0-a7f421110f67",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=8bbd4fa3-d3cf-4ff4-bd96-65dc852e508b",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase, aprendimos la tabla de multiplicar del tres. Aprendimos que multiplicar cualquier número por 3 es lo mismo que sumarlo tres veces: el resultado es siempre el **triple** de N.\n\nTambién aprendimos que cuando un número aparece en tablas diferentes, se llama **múltiplo común** de esos números — como el 6, que pertenece a la tabla del uno, a la tabla del dos y a la tabla del tres.\n\nCon las tablas del cero, del uno, del dos y del tres, ¡nuestro mapa de las multiplicaciones sigue creciendo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
