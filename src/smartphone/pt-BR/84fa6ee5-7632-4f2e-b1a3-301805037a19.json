@@ -265,7 +265,7 @@
          ],
          "text": [
             {
-               "text": "#### A Regra\n\nConsiderando que estamos sempre avançando de 4 em 4, e que, como consequência, estamos sempre quadruplicando o contador, podemos entender esta tabuada passo a passo. Por exemplo, se eu contar o número 4 quatro vezes, terei 16.\n\nComo consequência disso, é possível entender esta tabuada como:\n\n**N + N + N + N = 4 × N**",
+               "text": "#### A Regra\n\nConsiderando que estamos sempre avançando de 4 em 4, de modo que cada passo soma mais quatro, podemos entender esta tabuada passo a passo. Por exemplo, se eu contar o número 4 quatro vezes, terei 16.\n\nÉ por isso que é possível entender esta tabuada como:\n\n**N + N + N + N = 4 × N**",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -339,7 +339,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do quatro. Também aprendemos o conceito de **número quadrado** — um número multiplicado por ele mesmo — e, como consequência, observamos que, ao multiplicar os números pares da tabuada do dois, obtemos valores presentes na tabuada do quatro.\n\nCom as tabuadas do zero, do um, do dois, do três e do quatro, nosso mapa da multiplicação continua crescendo!",
+               "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do quatro. Também aprendemos o conceito de **número quadrado** — um número multiplicado por ele mesmo — e, como consequência, observamos que, ao multiplicar os números pares da tabuada do dois, obtemos valores presentes na tabuada do quatro.\n\nCom as tabuadas do zero, do um, do dois, do três e do quatro, nosso mapa da multiplicação continua crescendo.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -265,7 +265,7 @@
          ],
          "text": [
             {
-               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 4 en 4 y que, como consecuencia, siempre cuadruplicamos el contador, podemos entender esta tabla paso a paso. Por ejemplo, si cuento el número 4 cuatro veces, tendré 16.\n\nComo consecuencia de esto, es posible entender esta tabla de multiplicar como:\n\n**N + N + N + N = 4 × N**",
+               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 4 en 4, de modo que cada paso suma cuatro más, podemos entender esta tabla paso a paso. Por ejemplo, si cuento el número 4 cuatro veces, tendré 16.\n\nPor eso es posible entender esta tabla de multiplicar como:\n\n**N + N + N + N = 4 × N**",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -339,7 +339,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla de multiplicar del cuatro. También aprendimos el concepto de **número cuadrado** — un número multiplicado por sí mismo — y, como consecuencia, observamos que, al multiplicar los números pares de la tabla del dos, obtenemos valores presentes en la tabla del cuatro.\n\n¡Con las tablas del cero, del uno, del dos, del tres y del cuatro, nuestro mapa de la multiplicación sigue creciendo!",
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla de multiplicar del cuatro. También aprendimos el concepto de **número cuadrado** — un número multiplicado por sí mismo — y, como consecuencia, observamos que, al multiplicar los números pares de la tabla del dos, obtenemos valores presentes en la tabla del cuatro.\n\nCon las tablas del cero, del uno, del dos, del tres y del cuatro, nuestro mapa de la multiplicación sigue creciendo.",
                "source": [],
                "date_time": null,
                "isTable": false,

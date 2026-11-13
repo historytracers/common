@@ -265,7 +265,7 @@
          ],
          "text": [
             {
-               "text": "#### A Rule\n\nConsidering that we are always advancing 4 by 4, and that, as a consequence, we are always quadrupling the counter, we can understand this table step by step. For example, if I count the number 4 four times, I will have 16.\n\nAs a consequence of this, it is possible to understand this multiplication table as:\n\n**N + N + N + N = 4 × N**",
+               "text": "#### A Rule\n\nConsidering that we are always advancing 4 by 4, so that each step adds four more, we can understand this table step by step. For example, if I count the number 4 four times, I will have 16.\n\nThis is why it is possible to understand this multiplication table as:\n\n**N + N + N + N = 4 × N**",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -339,7 +339,7 @@
          ],
          "text": [
             {
-               "text": "#### Conclusion\n\nIn this class we learned the multiplication table of four. We also learned the concept of a **square number** — a number multiplied by itself — and, as a consequence, we observed that, when we multiply the even numbers of the table of two, we obtain values that are present in the table of four.\n\nWith the tables of zero, one, two, three and four, our multiplication map keeps growing!",
+               "text": "#### Conclusion\n\nIn this class we learned the multiplication table of four. We also learned the concept of a **square number** — a number multiplied by itself — and, as a consequence, we observed that, when we multiply the even numbers of the table of two, we obtain values that are present in the table of four.\n\nWith the tables of zero, one, two, three and four, our multiplication map keeps growing.",
                "source": [],
                "date_time": null,
                "isTable": false,
