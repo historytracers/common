@@ -1,0 +1,360 @@
+{
+   "title": "Multiplication Table (The First Square Number)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794591101"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "572fcedd-9b1d-4295-94c8-ad4d5c5ebe0b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn this class we are going to learn the multiplication table of four (4).\n\nFour is the first table in our multiplication map whose number we can obtain by multiplying a previous number by itself: 2 × 2 = 4. Because of this, we have already seen half of this multiplication table before: the results 4, 8, 12, 16 and 20 also appear in the table of two.\n\nLet us follow this path together and see how the table of four grows from the table of two.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a4225fc-b387-4745-b6ad-11e80e05a1d7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a4225fc-b387-4745-b6ad-11e80e05a1d7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c0c1967a-f27a-4191-82f1-c5e44c44a297",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Square.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Squares\n\nWhen a number is the result of multiplying a number by itself, we normally call it a **square number**. The number 4 is an example of this, because we can obtain it by multiplying 2 twice: 2 × 2 = 4.\n\nBut this is not the only place where we use the word square. See below:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 150\" width=\"100%\" role=\"img\" aria-label=\"A square with four equal sides.\"><g stroke-width=\"3\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"20\" width=\"100\" height=\"100\" fill=\"#e8f5e9\" stroke=\"#2e7d32\"/></g></svg></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "A square with four equal sides.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figure 1: a square, a figure with four equal sides.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "A square has four equal sides. Each side counts as one unit, so one square gives us 4 × 1 = 4. Because a square always brings four sides, we can count the sides of any number of squares four by four: 4, 8, 12, 16, 20. That is exactly what the multiplication table of four does.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "def54fa4-8043-4657-aabc-2ef63971c5e3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "def54fa4-8043-4657-aabc-2ef63971c5e3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Thinking\n\nBecause 4 is the square of 2 (2 × 2 = 4), does it mean that, if we multiply every result of the table of two by two, we obtain the table of four?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3185b3de-2d1a-4790-8524-ed42cd5e95a9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3185b3de-2d1a-4790-8524-ed42cd5e95a9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Times 2\n\nTo confirm our reflection, let us do a small multiplication sample:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 4</th></tr><tr><td style=\"padding:4px 18px;\">2 × 2 = 4</td><td style=\"padding:4px 18px;\">4 × 1 = 4</td></tr><tr><td style=\"padding:4px 18px;\">4 × 2 = 8</td><td style=\"padding:4px 18px;\">4 × 2 = 8</td></tr><tr><td style=\"padding:4px 18px;\">6 × 2 = 12</td><td style=\"padding:4px 18px;\">4 × 3 = 12</td></tr><tr><td style=\"padding:4px 18px;\">8 × 2 = 16</td><td style=\"padding:4px 18px;\">4 × 4 = 16</td></tr><tr><td style=\"padding:4px 18px;\">10 × 2 = 20</td><td style=\"padding:4px 18px;\">4 × 5 = 20</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "As you can observe, in the first column, instead of counting 1 by 1, we count 2 by 2, and we reach the same result as in the second column: 2 × 2 = 4 and 4 × 1 = 4, 4 × 2 = 8 and 4 × 2 = 8, and so on.\n\nThis happens because doubling a result of the table of two is the same as multiplying by four: 2 × (2 × N) = 4 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8928199c-61dc-4281-be8a-7d5c0f325fcf",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8928199c-61dc-4281-be8a-7d5c0f325fcf",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are present 10 times.\n\nSelect one of the objects in the selector below. Then click on the multiplications one by one and verify how many of these objects are shown when each group holds 4 of them.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "61d6b139-fd6b-4420-92fe-bc06cc9863ef",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "61d6b139-fd6b-4420-92fe-bc06cc9863ef",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule\n\nConsidering that we are always advancing 4 by 4, and that, as a consequence, we are always quadrupling the counter, we can understand this table step by step. For example, if I count the number 4 four times, I will have 16.\n\nAs a consequence of this, it is possible to understand this multiplication table as:\n\n**N + N + N + N = 4 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "95a04ab1-c472-44a9-ad13-c8d1b486cee1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "95a04ab1-c472-44a9-ad13-c8d1b486cee1",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nLike the multiplication tables before, we can extract important information from this new recipe:\n\n**N + N + N + N = 4 × N**\n\nor, written with the multiplication first: **4 × N = N + N + N + N**\n\nRead it aloud: “four times N equals N plus N plus N plus N.”\n\n- The product is always N added to itself four times.\n- **N** is a placeholder for any number you like, so one rule covers every multiplication by four at once.\n- If **N** is 0, the product is 0; if **N** is 1, the product is 4 — exactly what we saw in the table of zero and in the table of one.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "82da9c69-8c87-4546-bf94-fb42a492a8a8",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "82da9c69-8c87-4546-bf94-fb42a492a8a8",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we learned the multiplication table of four. We also learned the concept of a **square number** — a number multiplied by itself — and, as a consequence, we observed that, when we multiply the even numbers of the table of two, we obtain values that are present in the table of four.\n\nWith the tables of zero, one, two, three and four, our multiplication map keeps growing!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
