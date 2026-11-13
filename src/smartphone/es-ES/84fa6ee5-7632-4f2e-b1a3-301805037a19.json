@@ -1,0 +1,360 @@
+{
+   "title": "Tabla de Multiplicar (El Primer Número Cuadrado)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794591101"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "572fcedd-9b1d-4295-94c8-ad4d5c5ebe0b",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la tabla de multiplicar del cuatro (4).\n\nEl cuatro es la primera tabla de nuestro mapa de la multiplicación cuyo número podemos obtener multiplicando un número anterior por sí mismo: 2 × 2 = 4. Por eso, ya hemos visto la mitad de esta tabla antes: los resultados 4, 8, 12, 16 y 20 también aparecen en la tabla del dos.\n\nSigamos este camino juntos y veamos cómo la tabla del cuatro crece a partir de la tabla del dos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1a4225fc-b387-4745-b6ad-11e80e05a1d7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1a4225fc-b387-4745-b6ad-11e80e05a1d7",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "c0c1967a-f27a-4191-82f1-c5e44c44a297",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Square.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Cuadrados\n\nCuando un número es el resultado de multiplicar un número por sí mismo, normalmente lo llamamos **número cuadrado**. El número 4 es un ejemplo de esto, porque podemos obtenerlo multiplicando 2 dos veces: 2 × 2 = 4.\n\nPero este no es el único lugar en el que usamos la palabra cuadrado. Mira abajo:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 150\" width=\"100%\" role=\"img\" aria-label=\"Un cuadrado con cuatro lados iguales.\"><g stroke-width=\"3\" stroke-linejoin=\"round\"><rect x=\"50\" y=\"20\" width=\"100\" height=\"100\" fill=\"#e8f5e9\" stroke=\"#2e7d32\"/></g></svg></p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Un cuadrado con cuatro lados iguales.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: un cuadrado, una figura con cuatro lados iguales.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "Un cuadrado tiene cuatro lados iguales. Cada lado cuenta como una unidad, así que un cuadrado nos da 4 × 1 = 4. Como un cuadrado siempre trae cuatro lados, podemos contar los lados de cualquier cantidad de cuadrados de cuatro en cuatro: 4, 8, 12, 16, 20. Eso es exactamente lo que hace la tabla del cuatro.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "def54fa4-8043-4657-aabc-2ef63971c5e3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "def54fa4-8043-4657-aabc-2ef63971c5e3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nComo 4 es el cuadrado de 2 (2 × 2 = 4), ¿será que, si multiplicamos cada resultado de la tabla del dos por dos, obtenemos la tabla del cuatro?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "3185b3de-2d1a-4790-8524-ed42cd5e95a9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "3185b3de-2d1a-4790-8524-ed42cd5e95a9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Veces 2\n\nPara confirmar nuestra reflexión, hagamos una pequeña muestra de multiplicaciones:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 4</th></tr><tr><td style=\"padding:4px 18px;\">2 × 2 = 4</td><td style=\"padding:4px 18px;\">4 × 1 = 4</td></tr><tr><td style=\"padding:4px 18px;\">4 × 2 = 8</td><td style=\"padding:4px 18px;\">4 × 2 = 8</td></tr><tr><td style=\"padding:4px 18px;\">6 × 2 = 12</td><td style=\"padding:4px 18px;\">4 × 3 = 12</td></tr><tr><td style=\"padding:4px 18px;\">8 × 2 = 16</td><td style=\"padding:4px 18px;\">4 × 4 = 16</td></tr><tr><td style=\"padding:4px 18px;\">10 × 2 = 20</td><td style=\"padding:4px 18px;\">4 × 5 = 20</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Como puedes observar, en la primera columna, en lugar de contar de 1 en 1, contamos de 2 en 2, y llegamos al mismo resultado que en la segunda columna: 2 × 2 = 4 y 4 × 1 = 4, 4 × 2 = 8 y 4 × 2 = 8, y así sucesivamente.\n\nEsto ocurre porque duplicar un resultado de la tabla del dos es lo mismo que multiplicar por cuatro: 2 × (2 × N) = 4 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8928199c-61dc-4281-be8a-7d5c0f325fcf",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8928199c-61dc-4281-be8a-7d5c0f325fcf",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que están presentes 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones una por una y verifica cuántos de esos objetos aparecen cuando cada grupo contiene 4 de ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "61d6b139-fd6b-4420-92fe-bc06cc9863ef",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "61d6b139-fd6b-4420-92fe-bc06cc9863ef",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 4 en 4, de modo que cada paso suma cuatro más, podemos entender esta tabla paso a paso. Por ejemplo, si cuento el número 4 cuatro veces, tendré 16.\n\nPor eso es posible entender esta tabla de multiplicar como:\n\n**N + N + N + N = 4 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "95a04ab1-c472-44a9-ad13-c8d1b486cee1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "95a04ab1-c472-44a9-ad13-c8d1b486cee1",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva receta:\n\n**N + N + N + N = 4 × N**\n\no, escrito con la multiplicación primero: **4 × N = N + N + N + N**\n\nLéelo en voz alta: «cuatro veces N es igual a N más N más N más N».\n\n- El producto es siempre N sumado a sí mismo cuatro veces.\n- **N** es un espacio reservado para cualquier número que quieras, así que una sola regla cubre toda la multiplicación por cuatro de una vez.\n- Si **N** es 0, el producto es 0; si **N** es 1, el producto es 4 — exactamente lo que vimos en la tabla del cero y en la tabla del uno.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "82da9c69-8c87-4546-bf94-fb42a492a8a8",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "82da9c69-8c87-4546-bf94-fb42a492a8a8",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla de multiplicar del cuatro. También aprendimos el concepto de **número cuadrado** — un número multiplicado por sí mismo — y, como consecuencia, observamos que, al multiplicar los números pares de la tabla del dos, obtenemos valores presentes en la tabla del cuatro.\n\nCon las tablas del cero, del uno, del dos, del tres y del cuatro, nuestro mapa de la multiplicación sigue creciendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

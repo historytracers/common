@@ -1,0 +1,333 @@
+{
+   "title": "Tabuada (Meu Corpo)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794604130"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "69f756b8-67a6-4c80-9a44-af77b340ba5a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNesta aula vamos aprender a tabuada do cinco (5).\n\nEsta é uma tabuada muito importante, porque tem uma relação direta com o nosso corpo: as nossas mãos e os nossos pés são grupos naturais de cinco. E este não é o único motivo pelo qual ela é especial: os resultados da tabuada do cinco seguem um padrão muito fácil de reconhecer, e vamos descobri-lo nesta aula.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea68c7be-96f8-4036-ae33-37df03d11d54",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea68c7be-96f8-4036-ae33-37df03d11d54",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Meu Corpo\n\nNas aulas anteriores aprendemos que o nosso corpo tem partes que podem ser contadas de dois em dois: duas mãos, dois olhos, dois pés.\n\nMas este não é o único modo de ver tabuadas no nosso corpo. Também podemos observar os números dos nossos dedos das mãos e dos pés crescendo de cinco em cinco.\n\nUma mão tem 5 dedos: 5 × 1 = 5. Duas mãos têm 10 dedos: 5 × 2 = 10. Um pé tem 5 dedos, e dois pés têm 10 dedos. Conte de cinco em cinco: 5, 10, 15, 20.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51819a98-f56a-4a7b-9017-f4fd97a699e4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "51819a98-f56a-4a7b-9017-f4fd97a699e4",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nQuando levanto todos os dedos, tenho 10 dedos e já completei uma dezena. Será que isso significa que, na tabuada do cinco, o algarismo das unidades só alterna entre dois valores?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "83c2a47e-5615-4762-8add-8f210e85b5e9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "83c2a47e-5615-4762-8add-8f210e85b5e9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Vezes 5\n\nComo o algarismo das unidades só pode ter valores entre 0 e 9, a tabuada do cinco só pode mostrar dois algarismos diferentes na casa das unidades.\n\nO primeiro é o zero, onde a tabuada começa: 5 × 0 = 0. O segundo é o cinco, porque, na próxima vez que somamos 5, as unidades voltam a zero e aparece mais uma dezena: 5, 10, 15, 20, 25...\n\nObserve:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><td style=\"padding:4px 22px;\">5 × 1 = 5</td><td style=\"padding:4px 22px;\">5 × 2 = 10</td></tr><tr><td style=\"padding:4px 22px;\">5 × 3 = 15</td><td style=\"padding:4px 22px;\">5 × 4 = 20</td></tr><tr><td style=\"padding:4px 22px;\">5 × 5 = 25</td><td style=\"padding:4px 22px;\"></td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "O algarismo das unidades alterna entre 5 e 0, enquanto as dezenas crescem uma a uma.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5fdb48f4-db33-4053-9b9a-eff92018ac27",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5fdb48f4-db33-4053-9b9a-eff92018ac27",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que estão presentes 10 vezes.\n\nSelecione um dos objetos no seletor abaixo. Depois clique nas multiplicações uma por uma e verifique quantos desses objetos aparecem quando cada grupo contém 5 deles.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c0463101-87f2-431c-8963-c94b7b4656dc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c0463101-87f2-431c-8963-c94b7b4656dc",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Regra\n\nConsiderando que estamos sempre avançando de 5 em 5, é possível entender esta tabuada como:\n\n**N + N + N + N + N = 5 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f6df0828-4e6e-4d45-b023-4b3bd08daf7a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f6df0828-4e6e-4d45-b023-4b3bd08daf7a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nComo nas tabuadas anteriores, podemos extrair informações importantes desta nova receita:\n\n**N + N + N + N + N = 5 × N**\n\nou, escrito com a multiplicação primeiro: **5 × N = N + N + N + N + N**\n\nLeia em voz alta: “cinco vezes N é igual a N mais N mais N mais N mais N.”\n\n- O produto é sempre N somado a ele mesmo cinco vezes.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma única regra cobre toda multiplicação por cinco de uma vez.\n- Por exemplo, se **N** for 3, então 5 × 3 = 3 + 3 + 3 + 3 + 3 = 15.\n- Se **N** for 0, o produto é 0; se **N** for 1, o produto é 5.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "045c8d63-1e72-4f56-9541-ce577af79c1d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "045c8d63-1e72-4f56-9541-ce577af79c1d",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do cinco. Também observamos a relação entre essa tabuada e o nosso corpo: as nossas mãos e os nossos pés são grupos de cinco.\n\nEnquanto estudávamos, também aprendemos que a tabuada do cinco só tem 0 e 5 na casa das unidades.\n\nCom as tabuadas do zero, do um, do dois, do três, do quatro e do cinco, nosso mapa da multiplicação continua crescendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

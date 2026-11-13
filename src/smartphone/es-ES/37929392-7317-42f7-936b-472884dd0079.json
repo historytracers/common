@@ -1,0 +1,333 @@
+{
+   "title": "Tabla de Multiplicar (Mi Cuerpo)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794604130"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "69f756b8-67a6-4c80-9a44-af77b340ba5a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la tabla de multiplicar del cinco (5).\n\nEsta es una tabla muy importante, porque tiene una relación directa con nuestro cuerpo: nuestras manos y nuestros pies son grupos naturales de cinco. Y este no es el único motivo por el que es especial: los resultados de la tabla del cinco siguen un patrón muy fácil de reconocer, y vamos a descubrirlo en esta clase.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea68c7be-96f8-4036-ae33-37df03d11d54",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea68c7be-96f8-4036-ae33-37df03d11d54",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "240800f3-ede4-4deb-9d4e-915a3a03fa68",
+               "text": "History Tracers Team",
+               "page": "https://github.com/historytracers/historytracers/tree/master/src/images",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2024",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Mi Cuerpo\n\nEn clases anteriores aprendimos que nuestro cuerpo tiene partes que se pueden contar de dos en dos: dos manos, dos ojos, dos pies.\n\nPero esta no es la única forma de ver tablas de multiplicar en nuestro cuerpo. También podemos observar los números de nuestros dedos de las manos y de los pies creciendo de cinco en cinco.\n\nUna mano tiene 5 dedos: 5 × 1 = 5. Dos manos tienen 10 dedos: 5 × 2 = 10. Un pie tiene 5 dedos, y dos pies tienen 10 dedos. Cuenta de cinco en cinco: 5, 10, 15, 20.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51819a98-f56a-4a7b-9017-f4fd97a699e4",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "51819a98-f56a-4a7b-9017-f4fd97a699e4",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nCuando levanto todos los dedos, tengo 10 dedos y ya completé una decena. ¿Será que esto significa que, en la tabla del cinco, la cifra de las unidades solo alterna entre dos valores?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "83c2a47e-5615-4762-8add-8f210e85b5e9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "83c2a47e-5615-4762-8add-8f210e85b5e9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Veces 5\n\nComo la cifra de las unidades solo puede tener valores entre 0 y 9, la tabla del cinco solo puede mostrar dos cifras diferentes en el lugar de las unidades.\n\nLa primera es el cero, donde empieza la tabla: 5 × 0 = 0. La segunda es el cinco, porque, la próxima vez que sumamos 5, las unidades vuelven a cero y aparece una decena más: 5, 10, 15, 20, 25...\n\nObserva:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><td style=\"padding:4px 22px;\">5 × 1 = 5</td><td style=\"padding:4px 22px;\">5 × 2 = 10</td></tr><tr><td style=\"padding:4px 22px;\">5 × 3 = 15</td><td style=\"padding:4px 22px;\">5 × 4 = 20</td></tr><tr><td style=\"padding:4px 22px;\">5 × 5 = 25</td><td style=\"padding:4px 22px;\"></td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "La cifra de las unidades alterna entre 5 y 0, mientras las decenas crecen una a una.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5fdb48f4-db33-4053-9b9a-eff92018ac27",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5fdb48f4-db33-4053-9b9a-eff92018ac27",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que están presentes 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones una por una y verifica cuántos de esos objetos aparecen cuando cada grupo contiene 5 de ellos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c0463101-87f2-431c-8963-c94b7b4656dc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c0463101-87f2-431c-8963-c94b7b4656dc",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### La Regla\n\nConsiderando que siempre avanzamos de 5 en 5, es posible entender esta tabla de multiplicar como:\n\n**N + N + N + N + N = 5 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f6df0828-4e6e-4d45-b023-4b3bd08daf7a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f6df0828-4e6e-4d45-b023-4b3bd08daf7a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva receta:\n\n**N + N + N + N + N = 5 × N**\n\no, escrito con la multiplicación primero: **5 × N = N + N + N + N + N**\n\nLéelo en voz alta: «cinco veces N es igual a N más N más N más N más N».\n\n- El producto es siempre N sumado a sí mismo cinco veces.\n- **N** es un espacio reservado para cualquier número que quieras, así que una sola regla cubre toda la multiplicación por cinco de una vez.\n- Por ejemplo, si **N** es 3, entonces 5 × 3 = 3 + 3 + 3 + 3 + 3 = 15.\n- Si **N** es 0, el producto es 0; si **N** es 1, el producto es 5.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "045c8d63-1e72-4f56-9541-ce577af79c1d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "045c8d63-1e72-4f56-9541-ce577af79c1d",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3bc9800d-aa41-4930-84f4-749eb6e40657",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla de multiplicar del cinco. También observamos la relación entre esta tabla y nuestro cuerpo: nuestras manos y nuestros pies son grupos de cinco.\n\nMientras estudiábamos, también aprendimos que la tabla del cinco solo tiene 0 y 5 en el lugar de las unidades.\n\nCon las tablas del cero, del uno, del dos, del tres, del cuatro y del cinco, nuestro mapa de la multiplicación sigue creciendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
