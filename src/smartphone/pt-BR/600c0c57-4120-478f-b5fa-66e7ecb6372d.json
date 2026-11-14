@@ -1,0 +1,394 @@
+{
+   "title": "Tabuada (Multiplicando com Flores)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794614400"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fde4a250-0c33-4b21-b6dd-429adea22814",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNesta aula vamos aprender a tabuada do seis (6).\n\nEsta tabuada tem uma característica que já vimos na tabuada do quatro: podemos multiplicar os valores de tabuadas que já conhecemos por um número e obter a nova tabuada. Por isso, ela não é completamente nova para nós.\n\nVamos seguir este caminho juntos e ver como a tabuada do seis cresce.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4484c9e7-6eb3-48c5-a831-a20b0b1421a1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4484c9e7-6eb3-48c5-a831-a20b0b1421a1",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### As Flores\n\nUm dos lugares da natureza onde podemos ver um padrão crescendo de seis em seis são as flores. Algumas flores têm exatamente seis pétalas, por isso suas pétalas formam grupos naturais de seis.\n\nUma flor tem 6 pétalas. Duas flores têm 6 + 6 = 12 pétalas. Três flores têm 6 + 6 + 6 = 18 pétalas. Cada nova flor acrescenta mais 6 pétalas: 6, 12, 18, 24, 30...",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" width=\"100%\" role=\"img\" aria-label=\"Uma flor com seis pétalas ao redor do seu centro amarelo\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#f8bbd0\" stroke=\"#ad1457\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></svg></p><p class=\"desc\"><b>Figura 1</b>: Uma flor com seis pétalas ao redor do seu centro. Cada pétala é uma unidade do nosso grupo de seis.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 240\" width=\"100%\" role=\"img\" aria-label=\"Cinco flores de cores diferentes, cada uma com seis pétalas\"><g><g transform=\"translate(-120 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#f8bbd0\" stroke=\"#ad1457\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(10 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#bbdefb\" stroke=\"#1565c0\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(140 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#ffe0b2\" stroke=\"#ef6c00\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(270 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#e1bee7\" stroke=\"#6a1b9a\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(400 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#c8e6c9\" stroke=\"#2e7d32\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g></g></svg></p><p class=\"desc\"><b>Figura 2</b>: Cinco flores de cores diferentes, cada uma com seis pétalas.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7235e420-34bb-432d-b1aa-9d70756ae790",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7235e420-34bb-432d-b1aa-9d70756ae790",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nSabemos que 2 × 3 = 6. Isso significa que podemos multiplicar os resultados da tabuada do dois por 3, e os resultados da tabuada do três por 2, e ainda assim obter a tabuada do seis?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8b239792-6587-4527-bc11-69bc22f76882",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8b239792-6587-4527-bc11-69bc22f76882",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Vezes 2\n\nAlgo semelhante ao que aconteceu na tabuada do quatro, em que multiplicamos a tabuada do dois por 2, acontece aqui: podemos multiplicar os resultados da tabuada do três por 2 e obter a tabuada do seis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabuada do 3 × 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabuada do 6</th></tr><tr><td style=\"padding:4px 18px;\">3 × 2 = 6</td><td style=\"padding:4px 18px;\">6 × 1 = 6</td></tr><tr><td style=\"padding:4px 18px;\">6 × 2 = 12</td><td style=\"padding:4px 18px;\">6 × 2 = 12</td></tr><tr><td style=\"padding:4px 18px;\">9 × 2 = 18</td><td style=\"padding:4px 18px;\">6 × 3 = 18</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Como você pode observar, na primeira coluna contamos de três em três (3, 6, 9) e multiplicamos cada valor por 2. Os resultados são exatamente os valores da tabuada do seis, que obtemos contando de seis em seis: 6, 12, 18.\n\nIsso acontece porque 2 × (3 × N) = 6 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cab2a6d1-8bbb-4387-9db8-7cb9d9d9771b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cab2a6d1-8bbb-4387-9db8-7cb9d9d9771b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Vezes 3\n\nDa mesma forma, podemos partir da tabuada do dois. Como 2 × 3 = 6, multiplicar cada valor da tabuada do dois por 3 também dá a tabuada do seis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabuada do 2 × 3</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabuada do 6</th></tr><tr><td style=\"padding:4px 18px;\">2 × 3 = 6</td><td style=\"padding:4px 18px;\">6 × 1 = 6</td></tr><tr><td style=\"padding:4px 18px;\">4 × 3 = 12</td><td style=\"padding:4px 18px;\">6 × 2 = 12</td></tr><tr><td style=\"padding:4px 18px;\">6 × 3 = 18</td><td style=\"padding:4px 18px;\">6 × 3 = 18</td></tr><tr><td style=\"padding:4px 18px;\">8 × 3 = 24</td><td style=\"padding:4px 18px;\">6 × 4 = 24</td></tr><tr><td style=\"padding:4px 18px;\">10 × 3 = 30</td><td style=\"padding:4px 18px;\">6 × 5 = 30</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Agora observe: na tabuada do dois contamos de dois em dois (2, 4, 6, 8, 10) e multiplicamos cada valor por 3. Os resultados são os mesmos valores da tabuada do seis, porque 2 × 3 = 6.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "debac559-c847-4893-be19-33886ae7e701",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "debac559-c847-4893-be19-33886ae7e701",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que aparecem em 11 quantidades diferentes: de **0** a **10** vezes. Cada grupo contém seis objetos.\n\nSelecione um dos objetos no seletor abaixo. Depois clique nas multiplicações, uma a uma, e verifique quantos desses objetos são mostrados.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5a4efea5-990b-49b2-aa23-d9123d736b99",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5a4efea5-990b-49b2-aa23-d9123d736b99",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Uma Regra\n\nConsiderando que estamos sempre avançando de seis em seis, de modo que cada passo acrescenta mais seis, podemos entender esta tabuada como:\n\n**N + N + N + N + N + N = 6 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51539922-43bd-4a41-90d8-4bf246939a61",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "51539922-43bd-4a41-90d8-4bf246939a61",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nComo nas tabuadas anteriores, podemos extrair informações importantes desta nova regra:\n\n**N + N + N + N + N + N = 6 × N**\n\n- Leia em voz alta: “seis vezes N é igual a N mais N mais N mais N mais N mais N.”\n- O produto é sempre N somado a ele mesmo seis vezes.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma regra cobre todas as multiplicações por seis de uma vez.\n- Por exemplo, se **N** for 4, então 6 × 4 = 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "47cf1e8f-d95d-483c-83d1-506cb7a7e52e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "47cf1e8f-d95d-483c-83d1-506cb7a7e52e",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do seis. Também observamos sua relação com as flores na natureza.\n\nAprendemos também que a tabuada do seis pode ser construída a partir de tabuadas que já conhecemos: multiplicar a tabuada do três por 2, ou a tabuada do dois por 3, dá os mesmos resultados, porque 2 × 3 = 6.\n\nCom as tabuadas do zero, um, dois, três, quatro, cinco e seis, nosso mapa da multiplicação continua crescendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

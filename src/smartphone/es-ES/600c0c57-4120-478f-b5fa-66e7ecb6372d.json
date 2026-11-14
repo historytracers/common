@@ -1,0 +1,394 @@
+{
+   "title": "Tabla de Multiplicar (Multiplicando con Flores)",
+   "index": "Multiplication",
+   "sources": [
+      "3bc9800d-aa41-4930-84f4-749eb6e40657"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794614400"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fde4a250-0c33-4b21-b6dd-429adea22814",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la tabla de multiplicar del seis (6).\n\nEsta tabla tiene una característica que ya vimos en la tabla del cuatro: podemos multiplicar los valores de tablas que ya conocemos por un número y obtener la nueva tabla. Por eso, no es completamente nueva para nosotros.\n\nSigamos este camino juntos y veamos cómo crece la tabla del seis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4484c9e7-6eb3-48c5-a831-a20b0b1421a1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4484c9e7-6eb3-48c5-a831-a20b0b1421a1",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Las Flores\n\nUno de los lugares de la naturaleza donde podemos ver un patrón que crece de seis en seis son las flores. Algunas flores tienen exactamente seis pétalos, por eso sus pétalos forman grupos naturales de seis.\n\nUna flor tiene 6 pétalos. Dos flores tienen 6 + 6 = 12 pétalos. Tres flores tienen 6 + 6 + 6 = 18 pétalos. Cada flor nueva añade 6 pétalos más: 6, 12, 18, 24, 30...",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" width=\"100%\" role=\"img\" aria-label=\"Una flor con seis pétalos alrededor de su centro amarillo\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#f8bbd0\" stroke=\"#ad1457\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></svg></p><p class=\"desc\"><b>Figura 1</b>: Una flor con seis pétalos alrededor de su centro. Cada pétalo es una unidad de nuestro grupo de seis.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "<p class=\"imgcenterresponsive\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 240\" width=\"100%\" role=\"img\" aria-label=\"Cinco flores de diferentes colores, cada una con seis pétalos\"><g><g transform=\"translate(-120 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#f8bbd0\" stroke=\"#ad1457\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(10 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#bbdefb\" stroke=\"#1565c0\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(140 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#ffe0b2\" stroke=\"#ef6c00\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(270 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#e1bee7\" stroke=\"#6a1b9a\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g><g transform=\"translate(400 0)\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M180 110 L180 216\"/><path d=\"M180 170 Q148 152 136 168 Q156 188 180 182\" fill=\"#a5d6a7\"/><path d=\"M180 190 Q212 172 224 188 Q204 206 180 202\" fill=\"#a5d6a7\"/></g><g fill=\"#c8e6c9\" stroke=\"#2e7d32\" stroke-width=\"3\"><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(60 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(120 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(180 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(240 180 110)\"/><ellipse cx=\"180\" cy=\"78\" rx=\"22\" ry=\"32\" transform=\"rotate(300 180 110)\"/></g><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"#ffe082\" stroke=\"#f57f17\" stroke-width=\"3\"/></g></g></svg></p><p class=\"desc\"><b>Figura 2</b>: Cinco flores de diferentes colores, cada una con seis pétalos.</p>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "7235e420-34bb-432d-b1aa-9d70756ae790",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "7235e420-34bb-432d-b1aa-9d70756ae790",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nSabemos que 2 × 3 = 6. ¿Esto significa que podemos multiplicar los resultados de la tabla del dos por 3, y los resultados de la tabla del tres por 2, y aun así obtener la tabla del seis?",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8b239792-6587-4527-bc11-69bc22f76882",
+         "prev": "",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "8b239792-6587-4527-bc11-69bc22f76882",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Veces 2\n\nAlgo parecido con lo que ocurrió en la tabla del cuatro, donde multiplicamos la tabla del dos por 2, ocurre aquí: podemos multiplicar los resultados de la tabla del tres por 2 y obtener la tabla del seis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 3 × 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 6</th></tr><tr><td style=\"padding:4px 18px;\">3 × 2 = 6</td><td style=\"padding:4px 18px;\">6 × 1 = 6</td></tr><tr><td style=\"padding:4px 18px;\">6 × 2 = 12</td><td style=\"padding:4px 18px;\">6 × 2 = 12</td></tr><tr><td style=\"padding:4px 18px;\">9 × 2 = 18</td><td style=\"padding:4px 18px;\">6 × 3 = 18</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Como puedes observar, en la primera columna contamos de tres en tres (3, 6, 9) y multiplicamos cada valor por 2. Los resultados son exactamente los valores de la tabla del seis, que obtenemos contando de seis en seis: 6, 12, 18.\n\nEsto ocurre porque 2 × (3 × N) = 6 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "cab2a6d1-8bbb-4387-9db8-7cb9d9d9771b",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "cab2a6d1-8bbb-4387-9db8-7cb9d9d9771b",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Veces 3\n\nDe la misma forma, podemos partir de la tabla del dos. Como 2 × 3 = 6, multiplicar cada valor de la tabla del dos por 3 también da la tabla del seis.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 2 × 3</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 6</th></tr><tr><td style=\"padding:4px 18px;\">2 × 3 = 6</td><td style=\"padding:4px 18px;\">6 × 1 = 6</td></tr><tr><td style=\"padding:4px 18px;\">4 × 3 = 12</td><td style=\"padding:4px 18px;\">6 × 2 = 12</td></tr><tr><td style=\"padding:4px 18px;\">6 × 3 = 18</td><td style=\"padding:4px 18px;\">6 × 3 = 18</td></tr><tr><td style=\"padding:4px 18px;\">8 × 3 = 24</td><td style=\"padding:4px 18px;\">6 × 4 = 24</td></tr><tr><td style=\"padding:4px 18px;\">10 × 3 = 30</td><td style=\"padding:4px 18px;\">6 × 5 = 30</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Ahora observa: en la tabla del dos contamos de dos en dos (2, 4, 6, 8, 10) y multiplicamos cada valor por 3. Los resultados son los mismos valores de la tabla del seis, porque 2 × 3 = 6.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "debac559-c847-4893-be19-33886ae7e701",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "debac559-c847-4893-be19-33886ae7e701",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que aparecen en 11 cantidades diferentes: de **0** a **10** veces. Cada grupo contiene seis objetos.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones, una a una, y verifica cuántos de esos objetos se muestran.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "5a4efea5-990b-49b2-aa23-d9123d736b99",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "5a4efea5-990b-49b2-aa23-d9123d736b99",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Regla\n\nTeniendo en cuenta que siempre avanzamos de seis en seis, de modo que cada paso añade seis más, podemos entender esta tabla como:\n\n**N + N + N + N + N + N = 6 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "51539922-43bd-4a41-90d8-4bf246939a61",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "51539922-43bd-4a41-90d8-4bf246939a61",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva regla:\n\n**N + N + N + N + N + N = 6 × N**\n\n- Léela en voz alta: “seis veces N es igual a N más N más N más N más N más N”.\n- El producto es siempre N sumado a sí mismo seis veces.\n- **N** es un marcador de posición para cualquier número que quieras, así que una regla cubre todas las multiplicaciones por seis a la vez.\n- Por ejemplo, si **N** es 4, entonces 6 × 4 = 4 + 4 + 4 + 4 + 4 + 4 = 24.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "47cf1e8f-d95d-483c-83d1-506cb7a7e52e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "47cf1e8f-d95d-483c-83d1-506cb7a7e52e",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla del seis. También observamos su relación con las flores en la naturaleza.\n\nAprendimos también que la tabla del seis se puede construir a partir de tablas que ya conocemos: multiplicar la tabla del tres por 2, o la tabla del dos por 3, da los mismos resultados, porque 2 × 3 = 6.\n\nCon las tablas del cero, uno, dos, tres, cuatro, cinco y seis, nuestro mapa de la multiplicación sigue creciendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
