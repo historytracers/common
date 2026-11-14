@@ -228,7 +228,7 @@
          ],
          "text": [
             {
-               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are present 10 times.\n\nSelect one of the objects in the selector below. Then click on the multiplications one by one and verify how many of these objects are shown when each group holds 4 of them.",
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are present 11 times — that is, 11 values, from **0** to **10**.\n\nSelect one of the objects in the selector below. Then click on the multiplications one by one and verify how many of these objects are shown when each group holds 4 of them.",
                "source": [],
                "date_time": null,
                "isTable": false,

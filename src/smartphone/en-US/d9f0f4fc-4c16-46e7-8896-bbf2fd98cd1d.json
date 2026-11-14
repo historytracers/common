@@ -179,7 +179,7 @@
          ],
          "text": [
             {
-               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are not present, 10 times.\n\nSelect one of the objects in the selector below. Then click on a multiplication and verify how many of these objects are shown.",
+               "text": "#### Visualizing\n\nTo help you visualize this, let us count objects that are not present 11 times — that is, 11 values, from **0** to **10**.\n\nSelect one of the objects in the selector below. Then click on a multiplication and verify how many of these objects are shown.",
                "source": [],
                "date_time": null,
                "isTable": false,
