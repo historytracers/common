@@ -201,7 +201,7 @@
          ],
          "text": [
             {
-               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que están presentes 10 veces.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones una por una y verifica cuántos de esos objetos aparecen cuando cada grupo contiene 5 de ellos.",
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que están presentes 11 veces — es decir, 11 valores, de **0** a **10**.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones una por una y verifica cuántos de esos objetos aparecen cuando cada grupo contiene 5 de ellos.",
                "source": [],
                "date_time": null,
                "isTable": false,
