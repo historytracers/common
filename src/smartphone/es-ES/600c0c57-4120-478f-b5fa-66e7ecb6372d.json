@@ -1,5 +1,5 @@
 {
-   "title": "Tabla de Multiplicar (Multiplicando con Flores)",
+   "title": "Tabla de Multiplicar (6 y 7)",
    "index": "Multiplication",
    "sources": [
       "3bc9800d-aa41-4930-84f4-749eb6e40657"
@@ -374,6 +374,292 @@
          "text": [
             {
                "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla del seis. También observamos su relación con las flores en la naturaleza.\n\nAprendimos también que la tabla del seis se puede construir a partir de tablas que ya conocemos: multiplicar la tabla del tres por 2, o la tabla del dos por 3, da los mismos resultados, porque 2 × 3 = 6.\n\nCon las tablas del cero, uno, dos, tres, cuatro, cinco y seis, nuestro mapa de la multiplicación sigue creciendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "60db31a8-e992-43ae-8e4d-d6fdb281175c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la tabla de multiplicar del siete (7).\n\nEsta tabla es usada por diferentes culturas del mundo, porque muchas organizan la vida cotidiana en grupos de siete días llamados semana.\n\nComo en los otros números que ya estudiamos, también podemos encontrar una relación entre el siete y una tabla que ya conocemos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e988ec51-c632-4693-b3cb-d16e1049ab84",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e988ec51-c632-4693-b3cb-d16e1049ab84",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Las Semanas\n\nDiferentes culturas organizaron su vida según el número de días de la semana, y la semana usada en esta clase es una de esas organizaciones. En este patrón, los días se suceden en grupos de siete.\n\nCuenta los días uno a uno: 1, 2, 3, 4, 5, 6, 7. Cuando termina el séptimo día, comienza una nueva semana, igual que un nuevo grupo de siete comienza en la tabla.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: Cuatro semanas, con los nombres de los días usados por el idioma seleccionado en la aplicación. Cada fila es una semana de siete días.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6680ec3e-5aed-40c7-a757-b078effe534f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6680ec3e-5aed-40c7-a757-b078effe534f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar esto, vamos a contar objetos que aparecen en 11 cantidades diferentes: de **0** a **10** veces. Cada grupo contiene siete objetos.\n\nSelecciona uno de los objetos en el selector de abajo. Después haz clic en las multiplicaciones, una a una, y verifica cuántos de esos objetos se muestran.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f7641a33-8118-49bb-ac45-4742ce75c0b7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f7641a33-8118-49bb-ac45-4742ce75c0b7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Regla\n\nTeniendo en cuenta que siempre avanzamos de siete en siete, de modo que cada paso añade siete más, podemos entender esta tabla como:\n\n**N + N + N + N + N + N + N = 7 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "59729202-3d87-4ef2-9e4f-25de9241861e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "59729202-3d87-4ef2-9e4f-25de9241861e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### De la Tabla del 6 a la Tabla del 7\n\nLa tabla del siete también tiene una relación con la tabla anterior, la tabla del seis. Para cada valor de la tabla del seis, si sumamos el número de veces que estamos sumando el seis, obtenemos el valor correspondiente de la tabla del siete.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse;\"><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 1 + 1</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 6 + 1</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 7</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 2 + 2</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 12 + 2</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 14</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 3 + 3</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 18 + 3</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 21</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 4 + 4</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 24 + 4</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 28</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 5 + 5</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 30 + 5</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 35</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 6 + 6</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 36 + 6</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 42</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 7 + 7</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 42 + 7</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 49</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 8 + 8</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 48 + 8</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 56</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 9 + 9</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 54 + 9</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 63</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 10 + 10</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 60 + 10</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 70</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observa el patrón: en cada fila, el número que se suma al final es exactamente el multiplicador. En general, **6 × N + N = 7 × N**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd786903-c9c6-4a1d-9886-6008ff000f53",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fd786903-c9c6-4a1d-9886-6008ff000f53",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva regla:\n\n**N + N + N + N + N + N + N = 7 × N**\n\n- Léela en voz alta: “siete veces N es igual a N más N más N más N más N más N más N”.\n- El producto es siempre N sumado a sí mismo siete veces.\n- **N** es un marcador de posición para cualquier número que quieras, así que una regla cubre todas las multiplicaciones por siete a la vez.\n- Por ejemplo, si **N** es 5, entonces 7 × 5 = 5 + 5 + 5 + 5 + 5 + 5 + 5 = 35.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8d0f4e91-e44d-4c06-abd4-becfa0738d44",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8d0f4e91-e44d-4c06-abd4-becfa0738d44",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla del siete, que diferentes pueblos usan para organizar la vida cotidiana.\n\nAprendimos también que podemos obtener la tabla del siete a partir de la tabla del seis sumando el número que estamos multiplicando: **6 × N + N = 7 × N**.\n\nCon las tablas del cero, uno, dos, tres, cuatro, cinco, seis y siete, nuestro mapa de la multiplicación sigue creciendo.",
                "source": [],
                "date_time": null,
                "isTable": false,

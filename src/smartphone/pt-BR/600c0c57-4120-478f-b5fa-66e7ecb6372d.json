@@ -1,5 +1,5 @@
 {
-   "title": "Tabuada (Multiplicando com Flores)",
+   "title": "Tabuada (6 e 7)",
    "index": "Multiplication",
    "sources": [
       "3bc9800d-aa41-4930-84f4-749eb6e40657"
@@ -374,6 +374,292 @@
          "text": [
             {
                "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do seis. Também observamos sua relação com as flores na natureza.\n\nAprendemos também que a tabuada do seis pode ser construída a partir de tabuadas que já conhecemos: multiplicar a tabuada do três por 2, ou a tabuada do dois por 3, dá os mesmos resultados, porque 2 × 3 = 6.\n\nCom as tabuadas do zero, um, dois, três, quatro, cinco e seis, nosso mapa da multiplicação continua crescendo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "60db31a8-e992-43ae-8e4d-d6fdb281175c",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nNesta aula vamos aprender a tabuada do sete (7).\n\nEsta tabuada é usada por diferentes culturas ao redor do mundo, porque muitas organizam a vida cotidiana em grupos de sete dias chamados semana.\n\nComo nos outros números que já estudamos, também podemos encontrar uma relação entre o sete e uma tabuada que já conhecemos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e988ec51-c632-4693-b3cb-d16e1049ab84",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e988ec51-c632-4693-b3cb-d16e1049ab84",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### As Semanas\n\nDiferentes culturas organizaram suas vidas de acordo com o número de dias da semana, e a semana usada nesta aula é uma dessas organizações. Nesse padrão, os dias se sucedem em grupos de sete.\n\nConte os dias um a um: 1, 2, 3, 4, 5, 6, 7. Quando o sétimo dia termina, começa uma nova semana, assim como um novo grupo de sete começa na tabuada.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "*Figura 1: Quatro semanas, com os nomes dos dias usados pelo idioma selecionado no aplicativo. Cada linha é uma semana de sete dias.*",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6680ec3e-5aed-40c7-a757-b078effe534f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6680ec3e-5aed-40c7-a757-b078effe534f",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ajudar você a visualizar isso, vamos contar objetos que aparecem em 11 quantidades diferentes: de **0** a **10** vezes. Cada grupo contém sete objetos.\n\nSelecione um dos objetos no seletor abaixo. Depois clique nas multiplicações, uma a uma, e verifique quantos desses objetos são mostrados.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "f7641a33-8118-49bb-ac45-4742ce75c0b7",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "f7641a33-8118-49bb-ac45-4742ce75c0b7",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Uma Regra\n\nConsiderando que estamos sempre avançando de sete em sete, de modo que cada passo acrescenta mais sete, podemos entender esta tabuada como:\n\n**N + N + N + N + N + N + N = 7 × N**",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "59729202-3d87-4ef2-9e4f-25de9241861e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "59729202-3d87-4ef2-9e4f-25de9241861e",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Da Tabuada do 6 para a Tabuada do 7\n\nA tabuada do sete também tem uma relação com a tabuada anterior, a tabuada do seis. Para cada valor da tabuada do seis, se somarmos o número de vezes que estamos somando o seis, obtemos o valor correspondente da tabuada do sete.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse;\"><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 1 + 1</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 6 + 1</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 7</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 2 + 2</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 12 + 2</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 14</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 3 + 3</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 18 + 3</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 21</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 4 + 4</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 24 + 4</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 28</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 5 + 5</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 30 + 5</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 35</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 6 + 6</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 36 + 6</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 42</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 7 + 7</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 42 + 7</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 49</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 8 + 8</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 48 + 8</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 56</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 9 + 9</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 54 + 9</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 63</td></tr><tr><td style=\"padding:3px 12px; text-align:right; border-bottom:1px solid #c8e6c9;\">6 × 10 + 10</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 60 + 10</td><td style=\"padding:3px 12px; text-align:left; border-bottom:1px solid #c8e6c9;\">= 70</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observe o padrão: em cada linha, o número somado no final é exatamente o multiplicador. Em geral, **6 × N + N = 7 × N**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fd786903-c9c6-4a1d-9886-6008ff000f53",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "fd786903-c9c6-4a1d-9886-6008ff000f53",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Lendo a Regra\n\nComo nas tabuadas anteriores, podemos extrair informações importantes desta nova regra:\n\n**N + N + N + N + N + N + N = 7 × N**\n\n- Leia em voz alta: “sete vezes N é igual a N mais N mais N mais N mais N mais N mais N.”\n- O produto é sempre N somado a ele mesmo sete vezes.\n- **N** é um espaço reservado para qualquer número que você quiser, então uma regra cobre todas as multiplicações por sete de uma vez.\n- Por exemplo, se **N** for 5, então 7 × 5 = 5 + 5 + 5 + 5 + 5 + 5 + 5 = 35.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8d0f4e91-e44d-4c06-abd4-becfa0738d44",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8d0f4e91-e44d-4c06-abd4-becfa0738d44",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=600c0c57-4120-478f-b5fa-66e7ecb6372d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula aprendemos a tabuada do sete, que diferentes povos usam para organizar a vida cotidiana.\n\nAprendemos também que podemos obter a tabuada do sete a partir da tabuada do seis somando o número que estamos multiplicando: **6 × N + N = 7 × N**.\n\nCom as tabuadas do zero, um, dois, três, quatro, cinco, seis e sete, nosso mapa da multiplicação continua crescendo.",
                "source": [],
                "date_time": null,
                "isTable": false,
