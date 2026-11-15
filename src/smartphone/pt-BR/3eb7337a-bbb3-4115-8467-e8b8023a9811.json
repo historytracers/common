@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Regras Gerais\n\nA tabuada do 6 une as tabuadas do 2 e do 3: 2 × 6 = 6 × 2 e 3 × 4 = 6 × 2 — dois grupos de seis, seis grupos de dois e quatro grupos de três são a mesma quantidade.\n\nSelecione uma igualdade da esquerda e depois o resultado da direita. Acerte todos os pares para completar o nível e avançar para o próximo!",
+               "text": "#### Regras Gerais\n\nA tabuada do 6 une as tabuadas do 2 e do 3: 2 × 6 = 6 × 2 e 3 × 4 = 6 × 2 — dois grupos de seis, seis grupos de dois e quatro grupos de três são a mesma quantidade. As igualdades vão até 60: 2 × 30 = 6 × 10 e 3 × 20 = 6 × 10!\n\nSelecione uma igualdade da esquerda e depois o resultado da direita. Acerte todos os pares para completar o nível e avançar para o próximo!",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### O Jogo\n\nUna cada igualdade da esquerda com o resultado da direita. O resultado também aparece como grupos de caracteres, assim você pode contá-los para conferir a sua resposta — cada retângulo contém seis caracteres, exatamente como o lado 6 × Z da igualdade. Se um par estiver errado, uma mensagem pedirá que você tente novamente.",
+               "text": "#### O Jogo\n\nUna cada igualdade da esquerda com o resultado da direita. Cada retângulo contém seis caracteres — conte-os para conferir a sua resposta!",
                "source": [],
                "date_time": null,
                "isTable": false,

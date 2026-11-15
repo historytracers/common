@@ -1,0 +1,94 @@
+{
+   "title": "Combinando as Tabuadas de 2 e 4",
+   "index": "Multiplicação",
+   "sources": [
+      "f2f9f038-8cb2-442e-a764-6923d90e7f95"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794709438"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Regras Gerais\n\nAs tabuadas do 2 e do 4 são parentes próximas: 4 × N = 2 × (2 × N). Por exemplo, 4 × 3 = 12 e 2 × 6 = 12: três grupos de quatro são exatamente o mesmo que seis grupos de dois. As igualdades vão até 40: 2 × 20 = 4 × 10.\n\nSelecione uma igualdade da esquerda e depois o resultado da direita. Acerte todos os pares para completar o nível e avançar para o próximo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nUna cada igualdade da esquerda com o resultado da direita. Cada retângulo contém quatro caracteres — conte-os para conferir a sua resposta!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

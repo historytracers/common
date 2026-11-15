@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### General Rules\n\nThe table of 6 unites the tables of 2 and 3: 2 × 6 = 6 × 2 and 3 × 4 = 6 × 2 — two groups of six, six groups of two and four groups of three are all the same quantity.\n\nSelect an equality on the left and then its result on the right. Match every pair to complete the level and move on to the next one!",
+               "text": "#### General Rules\n\nThe table of 6 unites the tables of 2 and 3: 2 × 6 = 6 × 2 and 3 × 4 = 6 × 2 — two groups of six, six groups of two and four groups of three are all the same quantity. The equalities go up to 60: 2 × 30 = 6 × 10 and 3 × 20 = 6 × 10!\n\nSelect an equality on the left and then its result on the right. Match every pair to complete the level and move on to the next one!",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### The Game\n\nMatch each equality on the left with its result on the right. The result also appears as groups of characters, so you can count them to check your answer — every rectangle holds six characters, exactly like the 6 × Z side of the equality. If a pair is wrong, a message will ask you to try again.",
+               "text": "#### The Game\n\nMatch each equality on the left with its result on the right. Every rectangle holds six characters — count them to check your answer!",
                "source": [],
                "date_time": null,
                "isTable": false,

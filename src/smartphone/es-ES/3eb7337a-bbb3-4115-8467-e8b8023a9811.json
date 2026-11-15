@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Reglas Generales\n\nLa tabla del 6 une las tablas del 2 y del 3: 2 × 6 = 6 × 2 y 3 × 4 = 6 × 2 — dos grupos de seis, seis grupos de dos y cuatro grupos de tres son la misma cantidad.\n\nSelecciona una igualdad de la izquierda y luego su resultado de la derecha. Acierta todas las parejas para completar el nivel y pasar al siguiente!",
+               "text": "#### Reglas Generales\n\nLa tabla del 6 une las tablas del 2 y del 3: 2 × 6 = 6 × 2 y 3 × 4 = 6 × 2 — dos grupos de seis, seis grupos de dos y cuatro grupos de tres son la misma cantidad. ¡Las igualdades llegan hasta 60: 2 × 30 = 6 × 10 y 3 × 20 = 6 × 10!\n\nSelecciona una igualdad de la izquierda y luego su resultado de la derecha. Acierta todas las parejas para completar el nivel y pasar al siguiente!",
                "source": [],
                "date_time": null,
                "isTable": false,
@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### El Juego\n\nUne cada igualdad de la izquierda con su resultado de la derecha. El resultado también se muestra como grupos de caracteres, así puedes contarlos para comprobar tu respuesta — cada rectángulo contiene seis caracteres, exactamente como el lado 6 × Z de la igualdad. Si una pareja es incorrecta, un mensaje te pedirá que lo intentes de nuevo.",
+               "text": "#### El Juego\n\nUne cada igualdad de la izquierda con su resultado de la derecha. Cada rectángulo contiene seis caracteres — cuéntalos para comprobar tu respuesta!",
                "source": [],
                "date_time": null,
                "isTable": false,
