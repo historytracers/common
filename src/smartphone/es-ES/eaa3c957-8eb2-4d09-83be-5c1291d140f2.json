@@ -1,0 +1,94 @@
+{
+   "title": "Combinando las Tablas de 6 y 7",
+   "index": "Multiplicación",
+   "sources": [
+      "eaa3c957-8eb2-4d09-83be-5c1291d140f2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794753552"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "489463f6-cd86-4118-b239-eafca2a1f081",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reglas Generales\n\nLas tablas del 6 y del 7 son vecinas: multiplicar por 7 es multiplicar por 6 y sumar una copia más del multiplicador, 7 × N = 6 × N + N. Por ejemplo, 7 × 3 = 21 es lo mismo que 6 × 3 + 3 = 21. ¡Las igualdades llegan hasta 70: 6 × 10 + 10 = 7 × 10!\n\nSelecciona una igualdad de la izquierda y luego su resultado de la derecha. Acierta todas las parejas para completar el nivel y pasar al siguiente!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8e215a93-4e04-43fe-8159-a28e3182f507",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8e215a93-4e04-43fe-8159-a28e3182f507",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nUne cada igualdad de la izquierda con su resultado de la derecha. Cada rectángulo contiene siete caracteres — cuéntalos para comprobar tu respuesta!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "489463f6-cd86-4118-b239-eafca2a1f081",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

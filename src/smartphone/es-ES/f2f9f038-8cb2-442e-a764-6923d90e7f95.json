@@ -1,0 +1,94 @@
+{
+   "title": "Combinando las Tablas de 2 y 4",
+   "index": "Multiplicación",
+   "sources": [
+      "f2f9f038-8cb2-442e-a764-6923d90e7f95"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794709438"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reglas Generales\n\nLas tablas del 2 y del 4 son parientes cercanas: 4 × N = 2 × (2 × N). Por ejemplo, 4 × 3 = 12 y 2 × 6 = 12: tres grupos de cuatro son exactamente lo mismo que seis grupos de dos. ¡Las igualdades llegan hasta 40: 2 × 20 = 4 × 10!\n\nSelecciona una igualdad de la izquierda y luego su resultado de la derecha. ¡Acierta todas las parejas para completar el nivel y pasar al siguiente!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nUne cada igualdad de la izquierda con su resultado de la derecha. Cada rectángulo contiene cuatro caracteres — ¡cuéntalos para comprobar tu respuesta!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

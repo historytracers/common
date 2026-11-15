@@ -1,0 +1,94 @@
+{
+   "title": "Matching the Tables of 2 and 4",
+   "index": "Multiplication",
+   "sources": [
+      "f2f9f038-8cb2-442e-a764-6923d90e7f95"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794709438"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### General Rules\n\nThe tables of 2 and 4 are close relatives: 4 × N = 2 × (2 × N). For example, 4 × 3 = 12 and 2 × 6 = 12: three groups of four are exactly the same as six groups of two. The equalities go up to 40: 2 × 20 = 4 × 10.\n\nSelect an equality on the left and then its result on the right. Match every pair to complete the level and move on to the next one!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ffcab8be-04fa-4611-90d6-5094c8ebad6a",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f2f9f038-8cb2-442e-a764-6923d90e7f95",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nMatch each equality on the left with its result on the right. Every rectangle holds four characters — count them to check your answer!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "52dbce35-fe81-453a-bcff-32bfee8b070a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

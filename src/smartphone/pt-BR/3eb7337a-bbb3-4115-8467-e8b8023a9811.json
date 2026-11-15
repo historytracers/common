@@ -1,0 +1,94 @@
+{
+   "title": "Unindo as tabuadas do 2, do 3 e do 6",
+   "index": "Multiplicação",
+   "sources": [
+      "3eb7337a-bbb3-4115-8467-e8b8023a9811"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794709503"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "69d7401a-f0a3-4f8b-a555-c5c22b84a495",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3eb7337a-bbb3-4115-8467-e8b8023a9811",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3eb7337a-bbb3-4115-8467-e8b8023a9811",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Regras Gerais\n\nA tabuada do 6 une as tabuadas do 2 e do 3: 2 × 6 = 6 × 2 e 3 × 4 = 6 × 2 — dois grupos de seis, seis grupos de dois e quatro grupos de três são a mesma quantidade. As igualdades vão até 60: 2 × 30 = 6 × 10 e 3 × 20 = 6 × 10!\n\nSelecione uma igualdade da esquerda e depois o resultado da direita. Acerte todos os pares para completar o nível e avançar para o próximo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "09d7f7c3-6ef1-4372-8928-e0a8acec4294",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "09d7f7c3-6ef1-4372-8928-e0a8acec4294",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "3eb7337a-bbb3-4115-8467-e8b8023a9811",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=3eb7337a-bbb3-4115-8467-e8b8023a9811",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nUna cada igualdade da esquerda com o resultado da direita. Cada retângulo contém seis caracteres — conte-os para conferir a sua resposta!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "69d7401a-f0a3-4f8b-a555-c5c22b84a495",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

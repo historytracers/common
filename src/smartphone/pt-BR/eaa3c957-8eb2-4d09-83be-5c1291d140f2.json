@@ -1,0 +1,94 @@
+{
+   "title": "Combinando as Tabuadas de 6 e 7",
+   "index": "Multiplicação",
+   "sources": [
+      "eaa3c957-8eb2-4d09-83be-5c1291d140f2"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794753552"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "489463f6-cd86-4118-b239-eafca2a1f081",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Regras Gerais\n\nAs tabuadas do 6 e do 7 são vizinhas: multiplicar por 7 é multiplicar por 6 e somar mais uma cópia do multiplicador, 7 × N = 6 × N + N. Por exemplo, 7 × 3 = 21 é o mesmo que 6 × 3 + 3 = 21. As igualdades vão até 70: 6 × 10 + 10 = 7 × 10.\n\nSelecione uma igualdade da esquerda e depois o resultado da direita. Acerte todos os pares para completar o nível e avançar para o próximo!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8e215a93-4e04-43fe-8159-a28e3182f507",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8e215a93-4e04-43fe-8159-a28e3182f507",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=eaa3c957-8eb2-4d09-83be-5c1291d140f2",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nUna cada igualdade da esquerda com o resultado da direita. Cada retângulo contém sete caracteres — conte-os para conferir a sua resposta!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "489463f6-cd86-4118-b239-eafca2a1f081",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
