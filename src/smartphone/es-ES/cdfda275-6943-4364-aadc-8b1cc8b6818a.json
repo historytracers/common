@@ -1,0 +1,328 @@
+{
+   "title": "Tabla de Multiplicar (El Último)",
+   "index": "Multiplicación",
+   "sources": [
+      "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+      "c4a9e7b3-5d1f-4a82-9c6e-7b3d0f2a5c94"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794848400"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fd21d8c2-b724-4a21-a7f3-b187d90e2055",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introducción\n\nEn esta clase vamos a aprender la tabla de multiplicar del nueve (9).\n\nEsta es la última tabla que vamos a estudiar. El nueve es el último número decimal que estudiamos aquí: el diez aparecerá en un escenario especial, y los demás números se alcanzarán con herramientas que ayudan a multiplicar.\n\nSigamos este camino y veamos cómo crece la tabla del nueve.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea30fdca-8904-46d6-8070-4cbdb9ff7687",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea30fdca-8904-46d6-8070-4cbdb9ff7687",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c4a9e7b3-5d1f-4a82-9c6e-7b3d0f2a5c94",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Nonagon.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Eneágono\n\nEn esta clase vamos a estudiar una figura nombrada por el número nueve: el **eneágono** (también llamado **nonágono**), un polígono con nueve lados. Esto significa que vamos a contar objetos de nueve en nueve.\n\nUn eneágono tiene 9 lados. Dos eneágonos tienen 9 + 9 = 18 lados. Tres eneágonos tienen 9 + 9 + 9 = 27 lados. Cada nuevo eneágono añade 9 lados más: 9, 18, 27, 36, 45…",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div style=\"text-align:center; width:100%;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 150\" width=\"100%\" role=\"img\" aria-label=\"Cinco eneágonos, cada uno con nueve lados\"><g stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"64.0,37.0 88.4,45.9 101.4,68.4 96.9,94.0 77.0,110.7 51.0,110.7 31.1,94.0 26.6,68.4 39.6,45.9\" fill=\"#e8f5e9\" stroke=\"#2e7d32\"/><polygon points=\"192.0,37.0 216.4,45.9 229.4,68.4 224.9,94.0 205.0,110.7 179.0,110.7 159.1,94.0 154.6,68.4 167.6,45.9\" fill=\"#e3f2fd\" stroke=\"#1565c0\"/><polygon points=\"320.0,37.0 344.4,45.9 357.4,68.4 352.9,94.0 333.0,110.7 307.0,110.7 287.1,94.0 282.6,68.4 295.6,45.9\" fill=\"#fff3e0\" stroke=\"#ef6c00\"/><polygon points=\"448.0,37.0 472.4,45.9 485.4,68.4 480.9,94.0 461.0,110.7 435.0,110.7 415.1,94.0 410.6,68.4 423.6,45.9\" fill=\"#f3e5f5\" stroke=\"#6a1b9a\"/><polygon points=\"576.0,37.0 600.4,45.9 613.4,68.4 608.9,94.0 589.0,110.7 563.0,110.7 543.1,94.0 538.6,68.4 551.6,45.9\" fill=\"#fce4ec\" stroke=\"#ad1457\"/></g></svg><div class=\"desc\"><b>Figura 1</b>: Cinco eneágonos del mismo tamaño, cada uno con nueve lados.</div></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Cinco eneágonos del mismo tamaño, cada uno con nueve lados.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observa los cinco eneágonos de arriba: juntos tienen 9 + 9 + 9 + 9 + 9 = 45 lados. Di la secuencia en voz alta: nueve, dieciocho, veintisiete, treinta y seis, cuarenta y cinco. ¿Ves el patrón? Cada nuevo eneágono añade 9 lados. Eso es lo que llamamos contar de nueve en nueve.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1e9fb994-cdf8-4afd-af33-2f1398adf209",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1e9fb994-cdf8-4afd-af33-2f1398adf209",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizando\n\nPara ayudarte a visualizar todo esto, vamos a contar objetos en grupos de nueve. Selecciona uno de los objetos del selector de abajo y toca las multiplicaciones, una por una. Cada multiplicación muestra el objeto elegido repetido en nueve grupos: 9 × 1 tiene un grupo de nueve, 9 × 2 tiene dos grupos de nueve, y así sucesivamente.\n\nObserva que el número de grupos crece mientras el tamaño de cada grupo sigue siendo el mismo: eso es exactamente contar de nueve en nueve.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b9a8d76a-46a4-4395-a723-2dd775ecd165",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b9a8d76a-46a4-4395-a723-2dd775ecd165",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Una Regla para la Tabla del Nueve\n\nTeniendo en cuenta que siempre avanzamos de nueve en nueve, podemos entender esta tabla como una regla:\n\nN + N + N + N + N + N + N + N + N = 9 × N\n\nLa letra **N** representa cualquier número que elijas: una sola regla sirve para todos a la vez. Multiplicar un número por nueve significa sumarlo a sí mismo nueve veces.\n\nPor ejemplo, si **N** es 2, entonces 9 × 2 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "63942ae0-c5d0-4e51-b2ea-3e555a23ab3a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "63942ae0-c5d0-4e51-b2ea-3e555a23ab3a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Partir de la Tabla del 3\n\nComo las otras tablas que estudiamos, la tabla del nueve también se puede obtener de otra. Como 3 × 3 = 9, podemos multiplicar por 3 los valores de la tabla del tres para obtener la tabla del nueve:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 3 × 3</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Tabla del 9</th></tr><tr><td style=\"padding:4px 18px;\">3 × 3 = 9</td><td style=\"padding:4px 18px;\">9 × 1 = 9</td></tr><tr><td style=\"padding:4px 18px;\">3 × 6 = 18</td><td style=\"padding:4px 18px;\">9 × 2 = 18</td></tr><tr><td style=\"padding:4px 18px;\">3 × 9 = 27</td><td style=\"padding:4px 18px;\">9 × 3 = 27</td></tr><tr><td style=\"padding:4px 18px;\">3 × 12 = 36</td><td style=\"padding:4px 18px;\">9 × 4 = 36</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observa que siempre aumentamos de 3 en 3 en la tabla del tres (3, 6, 9, 12) y que cada nueva línea añade un nueve más a la tabla del nueve (1, 2, 3, 4). Esto funciona porque 3 × (3 × N) = (3 × 3) × N = 9 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "033677df-7475-4040-94fe-1ae9353b6983",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "033677df-7475-4040-94fe-1ae9353b6983",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Leyendo la Regla\n\nComo en las tablas anteriores, podemos extraer información importante de esta nueva tabla:\n\nN + N + N + N + N + N + N + N + N = 9 × N\n\n- Léela en voz alta: «nueve veces N es igual a N más N más N más N más N más N más N más N más N».\n- El producto es siempre N sumado a sí mismo nueve veces.\n- **N** es un marcador de posición para cualquier número que quieras, así que una sola regla cubre todas las multiplicaciones por nueve a la vez.\n\nPor ejemplo, si **N** es 2, entonces 9 × 2 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.\n\n**Consejo:** observa los productos del nueve — 9, 18, 27, 36, 45, 54, 63, 72, 81, 90. Suma los dígitos de cada producto de dos dígitos: 1 + 8 = 9, 2 + 7 = 9, 3 + 6 = 9… ¡Los dígitos siempre suman 9!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "53d947aa-5cf1-4f2d-892f-85d2c5f1dbe6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "53d947aa-5cf1-4f2d-892f-85d2c5f1dbe6",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusión\n\nEn esta clase aprendimos la tabla del nueve:\n\n9 × 1 = 9, 9 × 2 = 18, 9 × 3 = 27, 9 × 4 = 36, 9 × 5 = 45…\n\nAdemás, observamos que sus resultados se pueden obtener directamente de la tabla del 3: como 3 × 3 = 9, multiplicar por 3 los valores de la tabla del tres da la tabla del nueve. También aprendimos que podemos comprobar si un número pertenece a la tabla del nueve sumando sus dígitos: cuando la suma es 9, el número es múltiplo de nueve.\n\nSigue practicando con objetos reales: cuenta los lados de los eneágonos de nueve en nueve y explora de nuevo la tabla interactiva. Verás que la tabla del nueve funciona siempre.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

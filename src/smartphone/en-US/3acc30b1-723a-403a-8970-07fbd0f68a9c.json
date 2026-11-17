@@ -1,0 +1,94 @@
+{
+   "title": "Multiplication Table (Matching the Tables of 3 and 9)",
+   "index": "Multiplication",
+   "sources": [
+      "76994fc2-71a9-42c4-8951-7ba01d30bf94"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794852000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6e9416fa-2cd3-4504-8bee-0235f88e6e41",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Matching the Tables of 3 and 9\n\nNine is 3 × 3, so the table of 9 is the table of 3 multiplied by 3:\n\n3 × 3 × N = 9 × N\n\nTap an equality on the left, then its result on the right. Each result shows groups of nine characters, so you can count them to check your answer.\n\nThere are three levels with three pairs each: results 9 to 27, then 36 to 54, then 63 to 81. Match every pair to finish a level.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fabc55b-8dde-4a1e-b058-2beaaca34758",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9fabc55b-8dde-4a1e-b058-2beaaca34758",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nMatch each equality on the left with its result on the right. Every rectangle holds nine characters, exactly like the 9 × N side of the equality. If a pair is wrong, a message will ask you to try again.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
