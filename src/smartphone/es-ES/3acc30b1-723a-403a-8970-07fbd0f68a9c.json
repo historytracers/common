@@ -1,0 +1,94 @@
+{
+   "title": "Tabla de Multiplicar (Combinando las Tablas de 3 y 9)",
+   "index": "Multiplicación",
+   "sources": [
+      "76994fc2-71a9-42c4-8951-7ba01d30bf94"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794852000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "6e9416fa-2cd3-4504-8bee-0235f88e6e41",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Combinando las Tablas de 3 y 9\n\nEl nueve es 3 × 3, así que la tabla del 9 es la tabla del 3 multiplicada por 3:\n\n3 × 3 × N = 9 × N\n\nToca una igualdad a la izquierda y luego su resultado a la derecha. Cada resultado aparece como grupos de nueve caracteres, así que puedes contarlos para comprobar tu respuesta.\n\nHay tres niveles con tres parejas cada uno: resultados del 9 al 27, luego del 36 al 54 y luego del 63 al 81. Empareja todos los pares para completar un nivel.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9fabc55b-8dde-4a1e-b058-2beaaca34758",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9fabc55b-8dde-4a1e-b058-2beaaca34758",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=76994fc2-71a9-42c4-8951-7ba01d30bf94",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nEmpareja cada igualdad de la izquierda con su resultado de la derecha. Cada rectángulo tiene nueve caracteres, exactamente como el lado 9 × N de la igualdad. Si una pareja es incorrecta, un mensaje te pedirá que lo intentes de nuevo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

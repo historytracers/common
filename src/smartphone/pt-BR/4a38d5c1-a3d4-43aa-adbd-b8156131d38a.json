@@ -1,0 +1,94 @@
+{
+   "title": "Tabuada (Combinando as Tabuadas de 2, 4 e 8)",
+   "index": "Multiplicação",
+   "sources": [
+      "5a2eb2fa-1f73-4681-bedc-e9f4be54a071"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794844800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "4fff4cf3-7824-450d-9bf5-9d597a906542",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5a2eb2fa-1f73-4681-bedc-e9f4be54a071",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5a2eb2fa-1f73-4681-bedc-e9f4be54a071",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Combinando as Tabuadas de 2, 4 e 8\n\nO oito é o ponto de encontro das tabuadas do 2 e do 4:\n\n2 × 2 × 2 × N = 4 × 2 × N = 8 × N\n\nMultiplicar por 8 significa multiplicar por 2 três vezes seguidas (8 × N = 2 × 2 × 2 × N) e também é o mesmo que dobrar um resultado da tabuada do 4 (8 × N = 4 × 2 × N).\n\nToque em uma igualdade à esquerda e depois no resultado dela à direita. Cada resultado aparece como grupos de oito caracteres, então você pode contá-los para conferir.\n\n- Níveis 1 e 2: 2 × 2 × 2 × N = 8 × N.\n- Níveis 3 e 4: 4 × 2 × N = 8 × N.\n\nCombine todos os pares para concluir um nível.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "9ec337b4-edd3-44bf-b57a-fb81477c1911",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "9ec337b4-edd3-44bf-b57a-fb81477c1911",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5a2eb2fa-1f73-4681-bedc-e9f4be54a071",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5a2eb2fa-1f73-4681-bedc-e9f4be54a071",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nCombine cada igualdade à esquerda com o resultado dela à direita. Cada resultado também aparece como grupos de caracteres — cada retângulo tem oito caracteres, exatamente como o lado 8 × N da igualdade. Se um par estiver errado, uma mensagem pedirá que você tente novamente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

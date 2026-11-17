@@ -1,0 +1,328 @@
+{
+   "title": "Multiplication Table (The Last)",
+   "index": "Multiplication",
+   "sources": [
+      "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+      "c4a9e7b3-5d1f-4a82-9c6e-7b3d0f2a5c94"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794848400"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "fd21d8c2-b724-4a21-a7f3-b187d90e2055",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn this class we are going to learn the multiplication table of nine (9).\n\nThis is the last multiplication table we are going to study. Nine is the last decimal number we study here: ten will appear in a special scenario, and the other numbers will be reached with tools that help us multiply.\n\nLet us follow this path and see how the table of nine grows.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ea30fdca-8904-46d6-8070-4cbdb9ff7687",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ea30fdca-8904-46d6-8070-4cbdb9ff7687",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "c4a9e7b3-5d1f-4a82-9c6e-7b3d0f2a5c94",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Nonagon.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Nonagon\n\nIn this class we are going to study a figure named by the number nine: the **nonagon** (also called an **enneagon**), a polygon with nine sides. This means we are going to count objects nine by nine.\n\nOne nonagon has 9 sides. Two nonagons have 9 + 9 = 18 sides. Three nonagons have 9 + 9 + 9 = 27 sides. Each new nonagon adds 9 more sides: 9, 18, 27, 36, 45…",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div style=\"text-align:center; width:100%;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 150\" width=\"100%\" role=\"img\" aria-label=\"Five nonagons, each with nine sides\"><g stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"64.0,37.0 88.4,45.9 101.4,68.4 96.9,94.0 77.0,110.7 51.0,110.7 31.1,94.0 26.6,68.4 39.6,45.9\" fill=\"#e8f5e9\" stroke=\"#2e7d32\"/><polygon points=\"192.0,37.0 216.4,45.9 229.4,68.4 224.9,94.0 205.0,110.7 179.0,110.7 159.1,94.0 154.6,68.4 167.6,45.9\" fill=\"#e3f2fd\" stroke=\"#1565c0\"/><polygon points=\"320.0,37.0 344.4,45.9 357.4,68.4 352.9,94.0 333.0,110.7 307.0,110.7 287.1,94.0 282.6,68.4 295.6,45.9\" fill=\"#fff3e0\" stroke=\"#ef6c00\"/><polygon points=\"448.0,37.0 472.4,45.9 485.4,68.4 480.9,94.0 461.0,110.7 435.0,110.7 415.1,94.0 410.6,68.4 423.6,45.9\" fill=\"#f3e5f5\" stroke=\"#6a1b9a\"/><polygon points=\"576.0,37.0 600.4,45.9 613.4,68.4 608.9,94.0 589.0,110.7 563.0,110.7 543.1,94.0 538.6,68.4 551.6,45.9\" fill=\"#fce4ec\" stroke=\"#ad1457\"/></g></svg><div class=\"desc\"><b>Figure 1</b>: Five nonagons of the same size, each with nine sides.</div></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Five nonagons of the same size, each with nine sides.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Look at the five nonagons above: together they have 9 + 9 + 9 + 9 + 9 = 45 sides. Say the sequence out loud: nine, eighteen, twenty-seven, thirty-six, forty-five. Do you see the pattern? Each new nonagon adds 9 more sides. That is what we call counting by nines.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "1e9fb994-cdf8-4afd-af33-2f1398adf209",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "1e9fb994-cdf8-4afd-af33-2f1398adf209",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize all of this, let us count objects in groups of nine. Select one of the objects in the selector below, then tap the multiplications one by one. Each multiplication shows the chosen object repeated in nine groups: 9 × 1 has one group of nine, 9 × 2 has two groups of nine, and so on.\n\nObserve that the number of groups grows while the size of each group stays the same: that is exactly what counting by nines means.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b9a8d76a-46a4-4395-a723-2dd775ecd165",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b9a8d76a-46a4-4395-a723-2dd775ecd165",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule for the Table of Nine\n\nConsidering that we are always advancing nine by nine, we can understand this multiplication table as a rule:\n\nN + N + N + N + N + N + N + N + N = 9 × N\n\nThe letter **N** represents any number you choose: one single rule works for all of them at the same time. Multiplying a number by nine means adding it to itself nine times.\n\nFor example, if **N** is 2, then 9 × 2 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "63942ae0-c5d0-4e51-b2ea-3e555a23ab3a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "63942ae0-c5d0-4e51-b2ea-3e555a23ab3a",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### From the Table of 3\n\nLike the other multiplication tables we studied, the table of nine can also be obtained from another one. Because 3 × 3 = 9, we can multiply the values of the table of three by 3 to obtain the table of nine:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 3 × 3</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 9</th></tr><tr><td style=\"padding:4px 18px;\">3 × 3 = 9</td><td style=\"padding:4px 18px;\">9 × 1 = 9</td></tr><tr><td style=\"padding:4px 18px;\">3 × 6 = 18</td><td style=\"padding:4px 18px;\">9 × 2 = 18</td></tr><tr><td style=\"padding:4px 18px;\">3 × 9 = 27</td><td style=\"padding:4px 18px;\">9 × 3 = 27</td></tr><tr><td style=\"padding:4px 18px;\">3 × 12 = 36</td><td style=\"padding:4px 18px;\">9 × 4 = 36</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observe that we are always increasing by 3 in the table of three (3, 6, 9, 12), and that each new line adds one more nine to the table of nine (1, 2, 3, 4). This works because 3 × (3 × N) = (3 × 3) × N = 9 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "033677df-7475-4040-94fe-1ae9353b6983",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "033677df-7475-4040-94fe-1ae9353b6983",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nLike the multiplication tables before, we can extract important information from this new one:\n\nN + N + N + N + N + N + N + N + N = 9 × N\n\n- Read it aloud: “nine times N equals N plus N plus N plus N plus N plus N plus N plus N plus N.”\n- The product is always N added to itself nine times.\n- **N** is a placeholder for any number you like, so one rule covers every multiplication by nine at once.\n\nFor example, if **N** is 2, then 9 × 2 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 18.\n\n**Tip:** look at the products of nine — 9, 18, 27, 36, 45, 54, 63, 72, 81, 90. Add the digits of each two-digit product: 1 + 8 = 9, 2 + 7 = 9, 3 + 6 = 9… The digits always add up to 9!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "53d947aa-5cf1-4f2d-892f-85d2c5f1dbe6",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "53d947aa-5cf1-4f2d-892f-85d2c5f1dbe6",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we learned the multiplication table of nine:\n\n9 × 1 = 9, 9 × 2 = 18, 9 × 3 = 27, 9 × 4 = 36, 9 × 5 = 45…\n\nIn addition to this, we observed that its results can be derived directly from the multiplication table of 3: since 3 × 3 = 9, multiplying the values of the table of three by 3 gives the table of nine. We also learned that we can check whether a number belongs to the table of nine by adding its digits: when the sum is 9, the number is a multiple of nine.\n\nKeep practising with real objects: count the sides of nonagons nine by nine, and explore the interactive table again. You will see that the table of nine always works.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

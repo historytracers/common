@@ -1,0 +1,446 @@
+{
+   "title": "Multiplication Table (My First Cube)",
+   "index": "Multiplication",
+   "sources": [
+      "f15f6887-65b2-4622-a7d7-8d789fc8e2a1"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794787200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "8a160492-f28f-4e3b-96c9-7b4a005525f9",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introduction\n\nIn this class we are going to learn the multiplication table of eight (8).\n\nEight is the first number we study that receives the name **cube**. We obtain it by multiplying one same number three times: 2 × 2 × 2 = 8.\n\nBut that is not the only road to eight: we can also obtain it by multiplying 4 × 2 = 8, which means the road to this number was already studied before.\n\nLet us follow this path together and see how the table of eight grows.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "ace0e55f-193d-460f-b02a-147103d1db8c",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "ace0e55f-193d-460f-b02a-147103d1db8c",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            },
+            {
+               "type": 1,
+               "uuid": "b7f0c5a2-3e64-4c1d-9a8b-2f6d5e7c9a10",
+               "text": "Weisstein, Eric W.",
+               "page": "https://mathworld.wolfram.com/Polygon.html",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### More Polygons\n\nWe have already seen figures such as the triangle and the square, which repeat their sides, but they are not the only polygons. A **polygon** is a flat figure made of straight sides, and we name each polygon by counting its sides:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "- A **triangle** has 3 sides.\n- A **quadrilateral** has 4 sides.\n- A **pentagon** has 5 sides.\n- A **hexagon** has 6 sides.\n- A **heptagon** has 7 sides.\n- An **octagon** has 8 sides.\n- An **enneagon** (also called a **nonagon**) has 9 sides.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div style=\"text-align:center; width:100%;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 440\" width=\"100%\" style=\"max-width:250px\" role=\"img\" aria-label=\"Polygons with 3, 4, 5, 6, 7, 8 and 9 sides\"><g stroke=\"#2e7d32\" stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"60.0,36.0 89.4,87.0 30.6,87.0\" fill=\"#e8f5e9\"/><polygon points=\"165.0,36.0 199.0,70.0 165.0,104.0 131.0,70.0\" fill=\"#e3f2fd\"/><polygon points=\"270.0,36.0 302.3,59.5 290.0,97.5 250.0,97.5 237.7,59.5\" fill=\"#fff3e0\"/><polygon points=\"60.0,176.0 89.4,193.0 89.4,227.0 60.0,244.0 30.6,227.0 30.6,193.0\" fill=\"#f3e5f5\"/><polygon points=\"165.0,176.0 191.6,188.8 198.1,217.6 179.8,240.6 150.2,240.6 131.9,217.6 138.4,188.8\" fill=\"#e0f7fa\"/><polygon points=\"270.0,176.0 294.0,186.0 304.0,210.0 294.0,234.0 270.0,244.0 246.0,234.0 236.0,210.0 246.0,186.0\" fill=\"#fce4ec\"/><polygon points=\"165.0,316.0 186.9,324.0 198.5,344.1 194.4,367.0 176.6,381.9 153.4,381.9 135.6,367.0 131.5,344.1 143.1,324.0\" fill=\"#fff9c4\"/></g><g font-family=\"Arial, Helvetica, sans-serif\" text-anchor=\"middle\" fill=\"#1b5e20\"><text x=\"60\" y=\"122\" font-size=\"13\" font-weight=\"bold\">Triangle</text><text x=\"60\" y=\"138\" font-size=\"12\">3 sides</text><text x=\"165\" y=\"122\" font-size=\"13\" font-weight=\"bold\">Quadrilateral</text><text x=\"165\" y=\"138\" font-size=\"12\">4 sides</text><text x=\"270\" y=\"122\" font-size=\"13\" font-weight=\"bold\">Pentagon</text><text x=\"270\" y=\"138\" font-size=\"12\">5 sides</text><text x=\"60\" y=\"262\" font-size=\"13\" font-weight=\"bold\">Hexagon</text><text x=\"60\" y=\"278\" font-size=\"12\">6 sides</text><text x=\"165\" y=\"262\" font-size=\"13\" font-weight=\"bold\">Heptagon</text><text x=\"165\" y=\"278\" font-size=\"12\">7 sides</text><text x=\"270\" y=\"262\" font-size=\"13\" font-weight=\"bold\">Octagon</text><text x=\"270\" y=\"278\" font-size=\"12\">8 sides</text><text x=\"165\" y=\"402\" font-size=\"13\" font-weight=\"bold\">Enneagon</text><text x=\"165\" y=\"418\" font-size=\"12\">9 sides</text></g></svg><div class=\"desc\"><b>Figure 1</b>: Polygons with 3, 4, 5, 6, 7, 8 and 9 sides.</div></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Polygons with 3, 4, 5, 6, 7, 8 and 9 sides.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Count the sides of each figure with your finger. Observe that the octagon, the figure with eight sides, is the figure of this class.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "26729e6d-758f-4fb9-9ac1-d9c8a82b148a",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "26729e6d-758f-4fb9-9ac1-d9c8a82b148a",
+         "audio": "",
+         "smile": "inlove",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Octagon\n\nIn this class we are going to study a figure named by the number eight: the **octagon**, a polygon with eight sides. This means we are going to count objects eight by eight.\n\nOne octagon has 8 sides. Two octagons have 8 + 8 = 16 sides. Three octagons have 8 + 8 + 8 = 24 sides. Each new octagon adds 8 more sides: 8, 16, 24, 32, 40…",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div style=\"text-align:center; width:100%;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 150\" width=\"100%\" role=\"img\" aria-label=\"Five octagons, each with eight sides\"><g stroke-width=\"3\" stroke-linejoin=\"round\"><polygon points=\"64.0,37.0 90.9,48.1 102.0,75.0 90.9,101.9 64.0,113.0 37.1,101.9 26.0,75.0 37.1,48.1\" fill=\"#e8f5e9\" stroke=\"#2e7d32\"/><polygon points=\"192.0,37.0 218.9,48.1 230.0,75.0 218.9,101.9 192.0,113.0 165.1,101.9 154.0,75.0 165.1,48.1\" fill=\"#e3f2fd\" stroke=\"#1565c0\"/><polygon points=\"320.0,37.0 346.9,48.1 358.0,75.0 346.9,101.9 320.0,113.0 293.1,101.9 282.0,75.0 293.1,48.1\" fill=\"#fff3e0\" stroke=\"#ef6c00\"/><polygon points=\"448.0,37.0 474.9,48.1 486.0,75.0 474.9,101.9 448.0,113.0 421.1,101.9 410.0,75.0 421.1,48.1\" fill=\"#f3e5f5\" stroke=\"#6a1b9a\"/><polygon points=\"576.0,37.0 602.9,48.1 614.0,75.0 602.9,101.9 576.0,113.0 549.1,101.9 538.0,75.0 549.1,48.1\" fill=\"#fce4ec\" stroke=\"#ad1457\"/></g></svg><div class=\"desc\"><b>Figure 2</b>: Five octagons of the same size, each with eight sides.</div></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "Five octagons of the same size, each with eight sides.",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Look at the five octagons above: together they have 8 + 8 + 8 + 8 + 8 = 40 sides. Say the sequence out loud: eight, sixteen, twenty-four, thirty-two, forty. Do you see the pattern? Each new octagon adds 8 more sides. That is what we call counting by eights.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "e56ec6c9-fd3a-4a88-aa46-0df82ba70b1d",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "e56ec6c9-fd3a-4a88-aa46-0df82ba70b1d",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Visualizing\n\nTo help you visualize all of this, let us count objects in groups of eight. Select one of the objects in the selector below, then tap the multiplications one by one. Each multiplication shows the chosen object repeated in eight groups: 8 × 1 has one group of eight, 8 × 2 has two groups of eight, and so on.\n\nObserve that the number of groups grows while the size of each group stays the same: that is exactly what counting by eights means.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "d6f2badc-9015-47a2-953c-15078b2a170e",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "d6f2badc-9015-47a2-953c-15078b2a170e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Rule for the Table of Eight\n\nConsidering that we are always advancing eight by eight, we can understand this multiplication table as a rule:\n\nN + N + N + N + N + N + N + N = 8 × N\n\nThe letter **N** represents any number you choose: one single rule works for all of them at the same time. Multiplying a number by eight means adding it to itself eight times.\n\nFor example, if **N** is 3, then 8 × 3 = 3 + 3 + 3 + 3 + 3 + 3 + 3 + 3 = 24.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "6fb35f7d-e435-461d-bea7-6b8e23c50a1f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "6fb35f7d-e435-461d-bea7-6b8e23c50a1f",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### From the Table of 2\n\nWe can obtain the multiplication table of eight directly from the multiplication table of two. Take each value of the table of two (2, 4, 6, 8) and multiply it by 2 twice — that is, by 2 × 2 = 4:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 2 × 2 × 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 8</th></tr><tr><td style=\"padding:4px 18px;\">2 × 2 × 2 = 8</td><td style=\"padding:4px 18px;\">8 × 1 = 8</td></tr><tr><td style=\"padding:4px 18px;\">2 × 2 × 4 = 16</td><td style=\"padding:4px 18px;\">8 × 2 = 16</td></tr><tr><td style=\"padding:4px 18px;\">2 × 2 × 6 = 24</td><td style=\"padding:4px 18px;\">8 × 3 = 24</td></tr><tr><td style=\"padding:4px 18px;\">2 × 2 × 8 = 32</td><td style=\"padding:4px 18px;\">8 × 4 = 32</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Observe that we are always increasing by 2 in the last multiplication (2, 4, 6, 8), and that each new line adds one more eight to the table of eight (1, 2, 3, 4). This works because (2 × 2) × (2 × N) = 4 × 2 × N = 8 × N.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b610b8d7-77d5-401e-a00b-a6f2e3fa51a3",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b610b8d7-77d5-401e-a00b-a6f2e3fa51a3",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### From the Table of 4\n\nLikewise, we can also multiply by 2 some elements of the multiplication table of four and obtain the same results:",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<table style=\"margin:0 auto; border-collapse:collapse; text-align:center;\"><tr><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 4 × 2</th><th style=\"padding:4px 18px; border-bottom:2px solid #2e7d32;\">Table of 8</th></tr><tr><td style=\"padding:4px 18px;\">4 × 2 = 8</td><td style=\"padding:4px 18px;\">8 × 1 = 8</td></tr><tr><td style=\"padding:4px 18px;\">4 × 4 = 16</td><td style=\"padding:4px 18px;\">8 × 2 = 16</td></tr><tr><td style=\"padding:4px 18px;\">4 × 6 = 24</td><td style=\"padding:4px 18px;\">8 × 3 = 24</td></tr><tr><td style=\"padding:4px 18px;\">4 × 8 = 32</td><td style=\"padding:4px 18px;\">8 × 4 = 32</td></tr></table>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "This is exactly what we had in the previous screen, but instead of writing 2 × 2 we used the result of that multiplication (4 = 2 × 2). Because of this, the table of four also leads us straight to the table of eight.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "c60c16ef-2141-44a7-9188-a6a17738f7be",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "c60c16ef-2141-44a7-9188-a6a17738f7be",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Reading the Rule\n\nLike the multiplication tables before, we can extract important information from this new one:\n\nN + N + N + N + N + N + N + N = 8 × N\n\n- Read it aloud: “eight times N equals N plus N plus N plus N plus N plus N plus N plus N.”\n- The product is always N added to itself eight times.\n- **N** is a placeholder for any number you like, so one rule covers every multiplication by eight at once.\n\nFor example, if **N** is 3, then 8 × 3 = 3 + 3 + 3 + 3 + 3 + 3 + 3 + 3 = 24.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "b737a65d-f6ac-4aa2-884d-0113529a0b58",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "b737a65d-f6ac-4aa2-884d-0113529a0b58",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f15f6887-65b2-4622-a7d7-8d789fc8e2a1",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusion\n\nIn this class we learned the multiplication table of eight:\n\n8 × 1 = 8, 8 × 2 = 16, 8 × 3 = 24, 8 × 4 = 32, 8 × 5 = 40…\n\nIn addition to this, we observed that its results can be derived directly from the multiplication table of 4 or from the multiplication table of 2: since 4 × 2 = 8, doubling the results of the table of four gives the table of eight; and since 2 × 2 × 2 = 8, multiplying the results of the table of two by 4 gives the same results.\n\nKeep practicing with real objects: count the sides of octagons eight by eight, and explore the interactive table again. You will see that the table of eight always works.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
