@@ -1,0 +1,94 @@
+{
+   "title": "Tabuada (Praticando Multiplicação com Números Escolhidos)",
+   "index": "Multiplication",
+   "sources": [
+      "f5a96471-94f4-4cf2-80c4-47be458c28ea"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795024800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e6fe2291-ddd3-453e-bb76-c8c377a02ebb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Praticando a Multiplicação com Números Escolhidos\n\nEscolha nos campos acima da multiplicação o número que será multiplicado e o número de um dígito. O número pode ter um, dois ou três dígitos, e a multiplicação é escrita na vertical e resolvida coluna por coluna, começando pelas unidades.\n\n- Os quadrados azul-claro são os transportados da ordem anterior; os quadrados neutros são o produto da coluna.\n- Digite na caixa da linha do resultado o dígito que fica na coluna.\n- Quando a coluna chega a dez ou mais, aparece uma caixa de transporte acima da próxima ordem: digite nela o número de grupos completos de dez.\n\nOs valores são verificados à medida que você digita: um valor errado colore os quadrados e mostra uma dica; os valores certos preenchem os quadrados, mostram um parabéns e o botão da próxima coluna.\n\n**Exemplo: 7 × 8.** O grupo de 7 quadrados é repetido oito vezes: 7 × 8 = 56. Cinco grupos completos de dez são transportados para a próxima ordem e 6 quadrados ficam fora — esse é o dígito 6. Digite 6 na linha do resultado e 5 na caixa de transporte.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4029d523-a3a8-4c56-b7b0-343bb41e9913",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4029d523-a3a8-4c56-b7b0-343bb41e9913",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nEscolha o número e o número de um dígito acima da multiplicação e depois digite o dígito que fica na coluna e, quando ela chega a dez ou mais, o transporte acima da próxima ordem.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
