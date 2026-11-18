@@ -1,0 +1,94 @@
+{
+   "title": "Tabuada (Praticando a Multiplicação por Números de Um Dígito)",
+   "index": "Multiplication",
+   "sources": [
+      "b9e71da5-355b-4c0c-8d24-a746a27fcc3e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794931200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d11b9242-4a3a-494e-8545-3fbc4f057160",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Praticando a Multiplicação por Números de Um Dígito\n\nSão três níveis: um número de um dígito multiplicado por outro de um dígito; um de dois dígitos por um de um dígito; e um de três dígitos por um de um dígito. A multiplicação é escrita na vertical e resolvida coluna por coluna, começando pelas unidades.\n\n- Os quadrados azul-claro são os transportados da ordem anterior.\n- Use o botão para cima para repetir o grupo de quadrados da coluna e o botão para baixo para tirar uma repetição, até o grupo se repetir tantas vezes quanto o número de um dígito.\n- Cada grupo completo de dez quadrados se torna o transporte para a próxima ordem; os quadrados que ficam fora do último grupo de dez são o dígito que permanece na coluna.\n\n**Exemplo: 3 × 4.** A coluna repete o grupo de 3 quadrados quatro vezes: 3 × 4 = 12. Forma-se um grupo de dez, que é o 1 transportado, e 2 quadrados ficam fora: esse é o dígito 2.\n\nAo terminar, você recebe uma medalha e passa para o próximo problema.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nRepita o grupo de quadrados até ele aparecer tantas vezes quanto o número de um dígito e depois passe para a coluna seguinte.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

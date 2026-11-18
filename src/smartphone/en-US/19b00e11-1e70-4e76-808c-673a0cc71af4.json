@@ -1,0 +1,94 @@
+{
+   "title": "Multiplication Table (Complete the Multiplication Table)",
+   "index": "Multiplication",
+   "sources": [
+      "19b00e11-1e70-4e76-808c-673a0cc71af4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794916800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "394b0a20-92d0-4dc2-93ed-89c0afdb446e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Complete the Multiplication Table\n\nOn the left you will see the multiplication table of a number chosen in the **Multiplication Table** field: by default it is a random number between 2 and 9, but you can also choose a table from 0 to 9. Three results are missing, each one with a text input; all the other results are already filled.\n\n- **Tap a filled result** to see it drawn as groups of characters on the right: each rectangle holds as many characters as the table number, and the number of rectangles is the row of the table.\n- **Type a missing result**: a one-digit result is checked with its only digit and a two-digit result once both digits are typed. A right answer reveals the result with its groups; a wrong answer receives a tip with the range of the expected number.\n- **Choose the image** used to draw the groups.\n\nWhen the three answers are right, the whole table is complete, and **New exercise** picks another table and other missing results.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nComplete the three missing results. Tap a filled result to see its groups on the right, and use the tips to find the numbers.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

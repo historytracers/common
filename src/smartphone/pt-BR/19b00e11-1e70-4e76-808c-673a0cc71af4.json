@@ -1,0 +1,94 @@
+{
+   "title": "Tabuada (Complete a Tabela de Multiplicação)",
+   "index": "Multiplication",
+   "sources": [
+      "19b00e11-1e70-4e76-808c-673a0cc71af4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794916800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "394b0a20-92d0-4dc2-93ed-89c0afdb446e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Complete a Tabela de Multiplicação\n\nÀ esquerda você verá a tabela de multiplicação de um número escolhido no campo **Tabuada**: por padrão ele é sorteado entre 2 e 9, mas você também pode escolher uma tabuada de 0 a 9. Faltam três resultados, cada um com um campo de texto; todos os outros já estão preenchidos.\n\n- **Toque em um resultado preenchido** para vê-lo desenhado como grupos de caracteres à direita: cada retângulo tem tantos caracteres quanto o número da tabuada, e o número de retângulos é a linha da tabuada.\n- **Digite um resultado que falta**: um resultado de um dígito é verificado com esse dígito e um de dois dígitos quando os dois são digitados. Se estiver certo, o resultado é revelado com seus grupos; se estiver errado, você recebe uma dica com o intervalo do número esperado.\n- **Escolha a imagem** usada para desenhar os grupos.\n\nQuando as três respostas estiverem certas, a tabela toda estará completa, e **Novo Exercício** sorteia outra tabuada e outros resultados que faltam.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nComplete os três resultados que faltam. Toque em um resultado preenchido para ver os grupos dele à direita, e use as dicas para achar os números.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

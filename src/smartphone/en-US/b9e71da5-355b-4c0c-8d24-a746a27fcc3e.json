@@ -1,0 +1,94 @@
+{
+   "title": "Multiplication Table (Practicing Multiplication by One-Digit Numbers)",
+   "index": "Multiplication",
+   "sources": [
+      "b9e71da5-355b-4c0c-8d24-a746a27fcc3e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794931200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d11b9242-4a3a-494e-8545-3fbc4f057160",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing Multiplication by One-Digit Numbers\n\nThere are three levels: a one-digit number multiplied by another one-digit number; a two-digit number by a one-digit number; and a three-digit number by a one-digit number. The multiplication is written vertically and solved column by column, starting from the units.\n\n- The light blue squares are the ones carried from the previous order.\n- Use the up button to repeat the column's group of squares and the down button to remove one repetition, until the group is repeated as many times as the one-digit number.\n- Each complete group of ten squares becomes the carry to the next order; the squares left outside the last group of ten are the digit that stays in the column.\n\n**Example: 3 × 4.** The column repeats the group of 3 squares four times: 3 × 4 = 12. One group of ten is formed, which is the 1 carried, and 2 squares stay outside — that is the digit 2.\n\nWhen you finish, you receive a medal and move on to the next problem.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nRepeat the group of squares until it appears as many times as the one-digit number, then go to the next column.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
