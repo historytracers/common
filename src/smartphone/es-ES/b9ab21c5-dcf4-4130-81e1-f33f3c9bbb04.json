@@ -1,0 +1,94 @@
+{
+   "title": "Tabla de Multiplicar (Practicando la Multiplicación con Números Elegidos)",
+   "index": "Multiplication",
+   "sources": [
+      "f5a96471-94f4-4cf2-80c4-47be458c28ea"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795024800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e6fe2291-ddd3-453e-bb76-c8c377a02ebb",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicando la Multiplicación con Números Elegidos\n\nElige en los campos sobre la multiplicación el número que se multiplica y el número de una cifra. El número puede tener una, dos o tres cifras, y la multiplicación se escribe en vertical y se resuelve columna por columna, empezando por las unidades.\n\n- Los cuadrados azul claro son los acarreados del orden anterior; los cuadrados neutros son el producto de la columna.\n- Escribe en la casilla de la fila del resultado el dígito que se queda en la columna.\n- Cuando la columna llega a diez o más, aparece una casilla de acarreo sobre la siguiente orden: escribe en ella el número de grupos completos de diez.\n\nLos valores se comprueban a medida que escribes: un valor incorrecto colorea los cuadrados y muestra una pista; los valores correctos los llenan, muestran una felicitación y el botón de la siguiente columna.\n\n**Ejemplo: 7 × 8.** El grupo de 7 cuadrados se repite ocho veces: 7 × 8 = 56. Cinco grupos completos de diez se acarrean al siguiente orden y 6 cuadrados quedan fuera: ese es el dígito 6. Escribe 6 en la fila del resultado y 5 en la casilla del acarreo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4029d523-a3a8-4c56-b7b0-343bb41e9913",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4029d523-a3a8-4c56-b7b0-343bb41e9913",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nElige el número y el número de una cifra sobre la multiplicación y después escribe el dígito que se queda en la columna y, cuando llega a diez o más, el acarreo sobre la siguiente orden.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "Tabla de Multiplicar (Completa la Tabla de Multiplicar)",
+   "index": "Multiplication",
+   "sources": [
+      "19b00e11-1e70-4e76-808c-673a0cc71af4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794916800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "394b0a20-92d0-4dc2-93ed-89c0afdb446e",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Completa la Tabla de Multiplicar\n\nA la izquierda verás la tabla de multiplicar de un número elegido en el campo **Tabla de Multiplicar**: por defecto se sortea entre 2 y 9, pero también puedes elegir una tabla del 0 al 9. Faltan tres resultados, cada uno con un campo de texto; todos los demás ya están completos.\n\n- **Toca un resultado completo** para verlo dibujado como grupos de caracteres a la derecha: cada rectángulo tiene tantos caracteres como el número de la tabla, y el número de rectángulos es la fila de la tabla.\n- **Escribe un resultado que falta**: un resultado de una cifra se comprueba con esa cifra y uno de dos cifras cuando escribes las dos. Si es correcto, el resultado se revela con sus grupos; si es incorrecto, recibes una pista con el intervalo del número esperado.\n- **Elige la imagen** usada para dibujar los grupos.\n\nCuando las tres respuestas sean correctas, la tabla entera estará completa, y **Nuevo Ejercicio** sortea otra tabla y otros resultados que faltan.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a64a8307-a051-4fa6-9429-da275f6580c1",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=19b00e11-1e70-4e76-808c-673a0cc71af4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nCompleta los tres resultados que faltan. Toca un resultado completo para ver sus grupos a la derecha, y usa las pistas para hallar los números.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

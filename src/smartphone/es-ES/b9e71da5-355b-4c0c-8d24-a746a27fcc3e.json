@@ -1,0 +1,94 @@
+{
+   "title": "Tabla de Multiplicar (Practicando la Multiplicación por Números de Una Cifra)",
+   "index": "Multiplication",
+   "sources": [
+      "b9e71da5-355b-4c0c-8d24-a746a27fcc3e"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794931200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "d11b9242-4a3a-494e-8545-3fbc4f057160",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicando la Multiplicación por Números de Una Cifra\n\nHay tres niveles: un número de una cifra multiplicado por otro de una cifra; uno de dos cifras por uno de una cifra; y uno de tres cifras por uno de una cifra. La multiplicación se escribe en vertical y se resuelve columna por columna, empezando por las unidades.\n\n- Los cuadrados azul claro son los acarreados del orden anterior.\n- Usa el botón hacia arriba para repetir el grupo de cuadrados de la columna y el botón hacia abajo para quitar una repetición, hasta que el grupo se repita tantas veces como el número de una cifra.\n- Cada grupo completo de diez cuadrados se convierte en el acarreo al siguiente orden; los cuadrados que quedan fuera del último grupo de diez son el dígito que se queda en la columna.\n\n**Ejemplo: 3 × 4.** La columna repite el grupo de 3 cuadrados cuatro veces: 3 × 4 = 12. Se forma un grupo de diez, que es el 1 acarreado, y 2 cuadrados quedan fuera: ese es el dígito 2.\n\nAl terminar, recibes una medalla y pasas al siguiente problema.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "827cd90b-74c6-47fc-927e-0f058e5358fc",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=b9e71da5-355b-4c0c-8d24-a746a27fcc3e",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### El Juego\n\nRepite el grupo de cuadrados hasta que aparezca tantas veces como el número de una cifra y después pasa a la columna siguiente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

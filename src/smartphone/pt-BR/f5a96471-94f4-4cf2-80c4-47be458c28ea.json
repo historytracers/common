@@ -1,0 +1,94 @@
+{
+   "title": "Tabuada (Praticando a Multiplicação Digitando os Valores)",
+   "index": "Multiplication",
+   "sources": [
+      "f5a96471-94f4-4cf2-80c4-47be458c28ea"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795003200"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "e7ba1890-f25b-4bde-89c3-953bf69c6c13",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Praticando a Multiplicação Digitando os Valores\n\nSão três níveis: um número de um dígito multiplicado por outro de um dígito; um de dois dígitos por um de um dígito; e um de três dígitos por um de um dígito. A multiplicação é escrita na vertical e resolvida coluna por coluna, começando pelas unidades.\n\n- Os quadrados azul-claro são os transportados da ordem anterior; os quadrados neutros são o produto da coluna.\n- Digite na caixa da linha do resultado o dígito que fica na coluna.\n- Quando a coluna chega a dez ou mais, aparece uma caixa de transporte acima da próxima ordem: digite nela o número de grupos completos de dez.\n\nOs valores são verificados à medida que você digita: um valor errado colore os quadrados e mostra uma dica; os valores certos preenchem os quadrados, mostram um parabéns e o botão da próxima coluna.\n\n**Exemplo: 7 × 8.** O grupo de 7 quadrados é repetido oito vezes: 7 × 8 = 56. Cinco grupos completos de dez são transportados para a próxima ordem e 6 quadrados ficam fora — esse é o dígito 6. Digite 6 na linha do resultado e 5 na caixa de transporte.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2be1fa60-ca02-4fea-9c85-5975bd4154c9",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2be1fa60-ca02-4fea-9c85-5975bd4154c9",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f5a96471-94f4-4cf2-80c4-47be458c28ea",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nDigite o dígito que fica na coluna e, quando ela chega a dez ou mais, o transporte acima da próxima ordem. Os valores são verificados à medida que você digita.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
