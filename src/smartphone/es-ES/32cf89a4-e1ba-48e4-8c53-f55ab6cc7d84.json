@@ -1,0 +1,55 @@
+{
+   "title": "Juego de Secuencia",
+   "index": "FirstStepsScreen",
+   "sources": [
+      "fb9dca2c-cd76-4951-b7d0-4b2c694e8056"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later"
+   ],
+   "last_update": [
+      "1795373377"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "2a0881c0-be23-4f12-b50e-27be89cfd3ed",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "fb9dca2c-cd76-4951-b7d0-4b2c694e8056",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=fb9dca2c-cd76-4951-b7d0-4b2c694e8056",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2025",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Descubriendo el número que falta\n\nLos números pueden seguir un orden. Cuando contamos, avanzamos un paso a la vez: 1, 2, 3, 4...\n\nEn este juego aparecen tres números en orden, pero uno de ellos está oculto. Los números aumentan de uno en uno en cada paso. Observa los números antes y después del oculto para descubrir el número que completa la secuencia.\n\nUsa las flechas para cambiar tu respuesta. Cuando encuentras el número que falta, ganas puntos. Puedes jugar tantas veces como quieras.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      }
+   ]
+}

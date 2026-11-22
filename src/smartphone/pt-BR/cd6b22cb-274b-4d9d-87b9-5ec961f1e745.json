@@ -36,7 +36,7 @@
          ],
          "text": [
             {
-               "text": "#### Jogo da sequência (Famílias)\n\nComplete a sequência encontrando o número que falta. Para isso, use as setas e ajuste o valor até acertar.",
+               "text": "#### Contando em famílias\n\nQuando contamos, os números crescem um passo de cada vez. Depois do 9 vem o 10, depois o 11, o 12... Os números que compartilham a mesma dezena formam uma família: 20, 21, 22... são a família do 20.\n\nNeste jogo, três números de uma família aparecem em ordem, mas um deles está escondido. Observe os números antes e depois do que está escondido e use as setas para encontrar o número que completa a sequência.\n\nCada acerto leva você ao próximo nível, com uma nova família: de 0 a 9, depois de 10 a 19, e assim por diante até 90 a 99.",
                "source": null,
                "date_time": null,
                "isTable": false,
