@@ -190,7 +190,16 @@
          ],
          "text": [
             {
-               "text": "Chart",
+               "text": "#### Types of Intelligences",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "- Verbal-Linguistic\n- Logical-Mathematical\n- Visual-Spatial\n- Musical\n- Bodily-Kinesthetic\n- Intrapersonal\n- Interpersonal\n- Naturalistic\n- Existential",
                "source": [],
                "date_time": null,
                "isTable": false,

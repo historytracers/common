@@ -186,6 +186,15 @@
                "imgdesc": "",
                "format": "html",
                "PostMention": ""
+            },
+            {
+               "text": "- a) Mindinho\n- e) Anelar\n- i) Médio\n- o) Indicador\n- u) Polegar",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
             }
          ],
          "desc": null,

@@ -186,6 +186,15 @@
                "imgdesc": "",
                "format": "html",
                "PostMention": ""
+            },
+            {
+               "text": "- a) Meñique\n- e) Anular\n- i) Medio\n- o) Índice\n- u) Pulgar",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
             }
          ],
          "desc": null,
