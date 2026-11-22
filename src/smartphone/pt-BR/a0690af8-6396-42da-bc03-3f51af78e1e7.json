@@ -190,7 +190,16 @@
          ],
          "text": [
             {
-               "text": "Gráfico",
+               "text": "#### Tipos de inteligência",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "- Linguístico-verbal\n- Lógico-matemática\n- Visual-espacial\n- Musical\n- Corporal-cinestésica\n- Intrapessoal\n- Interpessoal\n- Naturalista\n- Existencial",
                "source": [],
                "date_time": null,
                "isTable": false,
