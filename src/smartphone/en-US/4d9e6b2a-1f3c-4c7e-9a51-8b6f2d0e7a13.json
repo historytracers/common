@@ -1,0 +1,41 @@
+{
+   "title": "Congratulations!",
+   "index": "",
+   "sources": [],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795300000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b7c2e4f1-6a90-4d38-8f52-3e1a9c7d6b24",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Congratulations!\n\nCongratulations on reaching this level! The previous classes are not locked, and you will not receive fewer points for studying them again. Every person has their own time to learn, and we respect that.\n\nWe are going to give you 10 points for reaching this level for the first time by completing everything before.\n\nEnjoy your own way of learning and your life, respecting yourself!",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1
+      }
+   ]
+}
