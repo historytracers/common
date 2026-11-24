@@ -73,7 +73,7 @@
          ],
          "text": [
             {
-               "text": "#### The Game\n\nChoose **Carry** or **Not carry** for the highlighted column. The game answers, explains the reason, and draws the ten squares of the complement to 10.\n\nThere are four levels — units, tens, hundreds and thousands — and each level adds one more column. Play the game to practice the three steps.",
+               "text": "#### The Game\n\nChoose **Carry** or **Not carry** for the highlighted column. The game explains why and shows the complement to 10.",
                "source": [],
                "date_time": null,
                "isTable": false,
