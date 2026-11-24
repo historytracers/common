@@ -167,7 +167,7 @@
          ],
          "text": [
             {
-               "text": "#### El Último Valor\n\nNo aumentamos el segundo orden hasta 19. Si lo hiciéramos, el conteo superaría 360.\n\nPara coincidir con el calendario, el valor máximo es 359: 17 en el orden actual y 19 en el anterior.",
+               "text": "#### El Último Valor\n\nNo aumentamos el segundo orden hasta 19. Si lo hiciéramos, el conteo superaría 360.\n\nPara coincidir con el calendario, el valor máximo es 359: 17 en el orden superior y 19 en el orden inferior.",
                "source": null,
                "date_time": null,
                "isTable": false,

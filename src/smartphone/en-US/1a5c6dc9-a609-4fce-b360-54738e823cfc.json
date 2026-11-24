@@ -167,7 +167,7 @@
          ],
          "text": [
             {
-               "text": "#### The Last Value\n\nWe do not increase the second order up to 19. If we did, the count would exceed 360.\n\nTo match the calendar, the maximum value is 359: 17 in the current order and 19 in the previous one.",
+               "text": "#### The Last Value\n\nWe do not increase the second order to 19. If we did, the count would exceed 360.\n\nTo match the calendar, the maximum value is 359: 17 in the higher order and 19 in the lower order.",
                "source": null,
                "date_time": null,
                "isTable": false,

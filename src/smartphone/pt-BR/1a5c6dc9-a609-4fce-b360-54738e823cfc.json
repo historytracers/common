@@ -167,7 +167,7 @@
          ],
          "text": [
             {
-               "text": "#### O Último Valor\n\nNão aumentamos a segunda ordem até 19. Se fizessemos isso, a contagem ultrapassaria 360.\n\nPara coincidir com o calendário, o valor máximo é 359: 17 na ordem atual e 19 na anterior.",
+               "text": "#### O Último Valor\n\nNão aumentamos a segunda ordem até 19. Se fizéssemos isso, a contagem ultrapassaria 360.\n\nPara coincidir com o calendário, o valor máximo é 359: 17 na ordem superior e 19 na ordem inferior.",
                "source": null,
                "date_time": null,
                "isTable": false,
