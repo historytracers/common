@@ -1,0 +1,94 @@
+{
+   "title": "Practicando Suma",
+   "index": "Addition",
+   "sources": [
+      "a4caa9fe-de1e-49c5-92de-50ed9c22a42d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795564800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Ejercicio de práctica\n\nLeer sobre la suma ayuda, pero la práctica es esencial para una comprensión real. A continuación se muestra una suma escrita en vertical, columna por columna, desde las unidades hasta las centenas. En cada columna:\n\n1. Los cuadrados azul claro muestran el dígito que ya está en la columna.\n2. Usa el botón hacia arriba para añadir un cuadrado y el botón hacia abajo para quitar uno, hasta que los cuadrados amarillo claro coincidan con el dígito inferior del segundo número.\n3. Cuando la cuenta llegue a diez cuadrados, esos diez se agrupan y se convierten en el 1 que se acarrea al siguiente orden.\n\nAntes de hacer clic en los botones, observa el complemento del valor que ya está en la columna: el complemento indica cuántos cuadrados faltan para llegar a diez. Después, asocia los cuadrados con el resultado — el grupo de diez se convierte en el 1 que se acarrea al siguiente orden, y los cuadrados que quedan fuera del grupo son el dígito que permanece en la columna.\n\nAl terminar el cálculo, recibirás una medalla (🥇) y podrás pasar al siguiente problema haciendo clic en el botón de abajo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicando Suma\n\nResuelve la suma columna por columna, empezando por las unidades. En cada columna, usa los botones para sumar o quitar cuadrados hasta que los cuadrados amarillo claro coincidan con el dígito inferior del segundo número. Cuando la cuenta llegue a diez cuadrados, esos diez se convierten en el 1 que se acarrea al siguiente orden.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

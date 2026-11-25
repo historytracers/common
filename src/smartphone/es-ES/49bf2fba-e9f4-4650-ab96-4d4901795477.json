@@ -587,7 +587,7 @@
          ],
          "text": [
             {
-               "text": "#### Sumando con Numerales Escritos\n\nSuma los dos números y escribe el resultado: el dígito que queda en la casa de las unidades y el 1 que se lleva a la casa de las decenas.",
+               "text": "#### Sumando con Numerales Escritos",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -783,7 +783,7 @@
          ],
          "text": [
             {
-               "text": "#### Sumando con la Yupana\n\nSuma los dos números y representa la suma en la yupana. Cuando la fila de las unidades llegue a diez, el acarreo aparece en la fila de las decenas arriba.",
+               "text": "#### Sumando con la Yupana",
                "source": null,
                "date_time": null,
                "isTable": false,

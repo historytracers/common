@@ -1,0 +1,57 @@
+{
+   "title": "Practicando Suma con Números Elegidos",
+   "index": "Addition",
+   "sources": [
+      "4d141853-389b-4ee9-87f2-03d8b2e4d5e4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795564800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "bf05ee31-0a81-4c2e-ba21-02a86fce725d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4d141853-389b-4ee9-87f2-03d8b2e4d5e4",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4d141853-389b-4ee9-87f2-03d8b2e4d5e4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicando Suma con Números Elegidos\n\nElige los números y haz clic en Comenzar. Después, en cada columna, escribe en la fila del resultado el dígito que queda y, cuando la suma llegue a diez, escribe 1 en la casilla del acarreo sobre el siguiente orden.\n\nEscribe dos números entre 0 y 99999.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
