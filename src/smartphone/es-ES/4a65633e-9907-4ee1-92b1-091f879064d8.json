@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introducción\n\nEn la clase anterior, aprendimos que la multiplicación consiste en sumar el mismo número muchas veces. Independientemente de los objetos que estemos sumando, el resultado nunca cambia.\n\nComo consecuencia, podemos organizar todos esos resultados en una tabla y usarla siempre que los necesitemos. A esta tabla la llamamos **tabla de multiplicar**.\n\nEn esta clase, aprenderemos qué es una tabla de multiplicar y cómo la vamos a construir.",
+               "text": "#### Introducción\n\nEn las clases anteriores, aprendimos que la multiplicación consiste en sumar el mismo número muchas veces. Independientemente de los objetos que sumamos, el resultado nunca cambia.\n\nComo consecuencia, podemos organizar todos esos resultados en una tabla y usarla siempre que los necesitemos. A esta tabla la llamamos **tabla de multiplicar**.\n\nEn esta clase, aprenderemos qué es una tabla de multiplicar y cómo la vamos a construir.",
                "source": [],
                "date_time": null,
                "isTable": false,
