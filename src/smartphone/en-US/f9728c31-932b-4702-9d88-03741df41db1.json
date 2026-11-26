@@ -1,0 +1,57 @@
+{
+   "title": "Practicing Addition with Chosen Numbers",
+   "index": "Addition",
+   "sources": [
+      "4d141853-389b-4ee9-87f2-03d8b2e4d5e4"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795564800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "bf05ee31-0a81-4c2e-ba21-02a86fce725d",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "4d141853-389b-4ee9-87f2-03d8b2e4d5e4",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=4d141853-389b-4ee9-87f2-03d8b2e4d5e4",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing Addition with Chosen Numbers\n\nChoose the numbers and click Start. Then, in each column, type the digit that stays in the result row and, when the sum reaches ten, type 1 in the carry box above the next order.\n\nType two numbers between 0 and 99999.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

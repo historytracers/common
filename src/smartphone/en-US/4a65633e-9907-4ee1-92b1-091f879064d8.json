@@ -48,7 +48,7 @@
          ],
          "text": [
             {
-               "text": "#### Introduction\n\nIn the previous class, we learned that multiplication is adding the same number many times. Independent of the objects we are adding, the result never changes.\n\nAs a consequence, we can organize all these results in a table and use it whenever we need them. We call this table a **multiplication table**.\n\nIn this class, we will learn what a multiplication table is and how we are going to mount it.",
+               "text": "#### Introduction\n\nIn the previous classes, we learned that multiplication is adding the same number many times. No matter which objects we add, the result never changes.\n\nAs a consequence, we can organize all these results in a table and use it whenever we need them. We call this table a **multiplication table**.\n\nIn this class, we will learn what a multiplication table is and how we are going to build it.",
                "source": [],
                "date_time": null,
                "isTable": false,

@@ -1,0 +1,94 @@
+{
+   "title": "Practicing Addition",
+   "index": "Addition",
+   "sources": [
+      "a4caa9fe-de1e-49c5-92de-50ed9c22a42d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795564800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practice Exercise\n\nReading about addition helps, but practice is essential for real understanding. Below is an addition written vertically, column by column, from the units to the hundreds. In each column:\n\n1. The light blue squares show the digit already in the column.\n2. Use the up button to add one square and the down button to remove one square, until the light yellow squares match the bottom digit of the second number.\n3. When the count reaches ten squares, those ten are grouped and become the 1 carried to the next order.\n\nBefore clicking the buttons, look at the complement of the value already in the column: the complement tells you how many squares are still missing to reach ten. Then associate the squares with the result — the group of ten becomes the 1 carried to the next order, and the squares left outside the group are the digit that stays in the column.\n\nWhen you finish the calculation, you will receive a medal (🥇) and you can move on to the next problem by clicking the button below.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Practicing Addition\n\nSolve the addition column by column, starting from the units. In each column, use the buttons to add or remove squares until the light yellow squares match the bottom digit of the second number. When the count reaches ten, those ten become the 1 carried to the next order.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

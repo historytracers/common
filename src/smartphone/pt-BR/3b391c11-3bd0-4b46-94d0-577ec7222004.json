@@ -1,0 +1,94 @@
+{
+   "title": "Praticando Adição",
+   "index": "Addition",
+   "sources": [
+      "a4caa9fe-de1e-49c5-92de-50ed9c22a42d"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795564800"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Exercício de prática\n\nLer sobre a soma ajuda, mas a prática é essencial para uma compreensão de verdade. Abaixo há uma soma escrita na vertical, coluna por coluna, das unidades às centenas. Em cada coluna:\n\n1. Os quadrados azul-claro mostram o dígito que já está na coluna.\n2. Use o botão para cima para somar um quadrado e o botão para baixo para tirar um quadrado, até que os quadrados amarelo-claro coincidam com o dígito de baixo do segundo número.\n3. Quando a conta chegar a dez quadrados, esses dez se agrupam e se tornam o 1 transportado para a próxima ordem.\n\nAntes de clicar nos botões, observe o complemento do valor que já está na coluna: o complemento diz quantos quadrados ainda faltam para chegar a dez. Depois, associe os quadrados ao resultado — o grupo de dez se torna o 1 transportado para a próxima ordem, e os quadrados que ficam fora do grupo são o dígito que permanece na coluna.\n\nAo terminar o cálculo, você receberá uma medalha (🥇) e poderá passar para o próximo problema clicando no botão abaixo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0467b1cb-acbf-46bb-8d8b-188b922e2803",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=a4caa9fe-de1e-49c5-92de-50ed9c22a42d",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Praticando Adição\n\nResolva a soma coluna por coluna, começando pelas unidades. Em cada coluna, use os botões para somar ou remover quadrados até que os quadrados amarelo-claro coincidam com o dígito de baixo do segundo número. Quando a conta chegar a dez quadrados, esses dez se tornam o 1 transportado para a próxima ordem.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "64d49993-0542-4cfd-bbe5-9cadd1936c3a",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
