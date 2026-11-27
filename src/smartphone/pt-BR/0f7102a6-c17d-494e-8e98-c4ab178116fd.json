@@ -1,0 +1,94 @@
+{
+   "title": "Multiplicando com Grupos (4 a 7)",
+   "index": "Multiplicação",
+   "sources": [
+      "0f7102a6-c17d-494e-8e98-c4ab178116fd"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794700000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9a7df831-a592-42d8-bf1c-15a9899b05a2",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplicando com Grupos (4 a 7)\n\nEste jogo ajuda você a ver a multiplicação como grupos iguais. À esquerda aparece uma multiplicação; à direita, o seu resultado é mostrado junto com um desenho de grupos de caracteres.\n\nCada retângulo à direita é um grupo. Todos os retângulos contêm tantos caracteres quanto o primeiro fator, e o número de retângulos é o segundo fator. Por exemplo, 4 × 6 mostra quatro caracteres em cada um de seis retângulos: isso é seis grupos de quatro, e o resultado é 24.\n\nO jogo tem quatro níveis:\n\n- **Nível 1**: duas multiplicações da tabuada do 4.\n- **Nível 2**: duas multiplicações da tabuada do 5.\n- **Nível 3**: duas multiplicações da tabuada do 6.\n- **Nível 4**: duas multiplicações da tabuada do 7.\n\nAcima do jogo, um seletor escolhe a imagem usada nos grupos: **🎲 Aleatório** desenha um objeto aleatório das tabuadas de multiplicação em cada novo exercício, ou você pode selecionar uma imagem específica — as mesmas usadas nas tabuadas de multiplicação — e todos os grupos a usam enquanto você joga.\n\nPara jogar, selecione uma multiplicação da esquerda e depois o resultado da direita. Se o par estiver correto, ambos ficam destacados. Quando acertar todos os pares, você terá completado o nível e poderá avançar para o próximo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a9577a5c-87df-42c4-8e85-a0f7724d0c97",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a9577a5c-87df-42c4-8e85-a0f7724d0c97",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Jogo\n\nUna cada multiplicação da esquerda com o resultado da direita. O resultado também aparece como grupos de caracteres, assim você pode contá-los para conferir a sua resposta. Se um par estiver errado, uma mensagem pedirá que você tente novamente.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "9a7df831-a592-42d8-bf1c-15a9899b05a2",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}
