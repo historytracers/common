@@ -1,0 +1,94 @@
+{
+   "title": "Multiplying with Groups (4 to 7)",
+   "index": "Multiplication",
+   "sources": [
+      "0f7102a6-c17d-494e-8e98-c4ab178116fd"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794700000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "9a7df831-a592-42d8-bf1c-15a9899b05a2",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplying with Groups (4 to 7)\n\nThis game helps you see multiplication as equal groups. On the left, you will see a multiplication; on the right, its result appears together with a picture of groups of characters.\n\nEach rectangle on the right is one group. Every rectangle holds as many characters as the first factor, and the number of rectangles is the second factor. For example, 4 × 6 shows four characters in each of six rectangles — that is six groups of four, and the result is 24.\n\nThe game has four levels:\n\n- **Level 1**: two multiplications from the 4 times table.\n- **Level 2**: two multiplications from the 5 times table.\n- **Level 3**: two multiplications from the 6 times table.\n- **Level 4**: two multiplications from the 7 times table.\n\nAbove the game, a selector chooses the image used in the groups: **🎲 Random** draws a random object from the multiplication tables in every new exercise, or you can select one specific image — the same ones used in the multiplication tables — and every group uses it while you play.\n\nTo play, select a multiplication on the left and then its result on the right. If the pair is correct, both stay highlighted. When you match every pair, you complete the level and can move on to the next one.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "a9577a5c-87df-42c4-8e85-a0f7724d0c97",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "a9577a5c-87df-42c4-8e85-a0f7724d0c97",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=0f7102a6-c17d-494e-8e98-c4ab178116fd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nMatch each multiplication on the left with its result on the right. The result also appears as groups of characters, so you can count them to check your answer. If a pair is wrong, a message will ask you to try again.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "9a7df831-a592-42d8-bf1c-15a9899b05a2",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

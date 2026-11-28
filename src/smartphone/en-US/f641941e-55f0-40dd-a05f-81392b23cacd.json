@@ -1,0 +1,94 @@
+{
+   "title": "Multiplying with Groups (0 to 3)",
+   "index": "Multiplication",
+   "sources": [
+      "f641941e-55f0-40dd-a05f-81392b23cacd"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1794694981"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "b93fad4a-9ecc-4b16-a1ed-3acbf9a4d264",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f641941e-55f0-40dd-a05f-81392b23cacd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f641941e-55f0-40dd-a05f-81392b23cacd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Multiplying with Groups (0 to 3)\n\nThis game helps you see multiplication as equal groups. On the left, you will see a multiplication; on the right, its result appears together with a picture of groups of characters.\n\nEach rectangle on the right is one group. Every rectangle holds as many characters as the first factor, and the number of rectangles is the second factor. For example, 2 × 4 shows two characters in each of four rectangles — that is four groups of two, and the result is 8. When the first factor is 0, no characters appear, because zero times any number is zero.\n\nThe game has three levels:\n\n- **Level 1**: three multiplications — one from the 0 times table and two from the 1 times table.\n- **Level 2**: two multiplications, both from the 2 times table.\n- **Level 3**: two multiplications, both from the 3 times table.\n\nTo play, select a multiplication on the left and then its result on the right. If the pair is correct, both stay highlighted. When you match every pair, you complete the level and can move on to the next one.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "2fcf8e4c-ea19-49e3-af95-2d1f86caf9bd",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "2fcf8e4c-ea19-49e3-af95-2d1f86caf9bd",
+         "audio": "",
+         "smile": "",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "f641941e-55f0-40dd-a05f-81392b23cacd",
+               "text": "Original Text",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=f641941e-55f0-40dd-a05f-81392b23cacd",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### The Game\n\nMatch each multiplication on the left with its result on the right. The result also appears as groups of characters, so you can count them to check your answer. If a pair is wrong, a message will ask you to try again.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "b93fad4a-9ecc-4b16-a1ed-3acbf9a4d264",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

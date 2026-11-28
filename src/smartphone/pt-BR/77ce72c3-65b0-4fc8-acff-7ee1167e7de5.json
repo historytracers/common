@@ -1,0 +1,302 @@
+{
+   "title": "Par ou Ímpar?",
+   "index": "first_steps",
+   "sources": [
+      "5dee0038-d6c8-404e-8039-5b9a2d11e115"
+   ],
+   "license": [
+      "SPDX-License-Identifier: GPL-3.0-or-later",
+      "CC BY-NC 4.0 DEED"
+   ],
+   "last_update": [
+      "1795300000"
+   ],
+   "authors": "",
+   "reviewers": "",
+   "version": 1,
+   "type": "sm_game",
+   "content": [
+      {
+         "id": "23595322-a40a-4c7a-b197-9782cac75c30",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Introdução\n\nMuitas vezes dividimos as coisas em dois lados para entendê-las melhor: um pedaço de bolo, uma folha de papel ou até o nosso próprio corpo. Isso ajuda-nos a ver como as coisas são feitas e como funcionam.\n\nOs números também podem ser divididos em dois grupos. Nesta aula, vamos ver como.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "8a0686bc-ba48-4f5d-aa25-6c59e7042a5f",
+         "prev": "",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "8a0686bc-ba48-4f5d-aa25-6c59e7042a5f",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Divisão Exata\n\nObserve a figura abaixo. Há duas caixas azul-claras, e cada caixa tem dois retângulos.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div><table style=\"margin:0 auto;border-collapse:collapse;\"><tr><th colspan=\"2\" style=\"border:1px solid #333333;padding:6px 12px;font-weight:bold;\">Caixa Dividida em 2</th></tr><tr><td style=\"height:100px;width:120px;background-color:#ADD8E6;border:1px solid #333333;text-align:center;\"><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span></td><td style=\"height:100px;width:120px;background-color:#ADD8E6;border:1px solid #333333;text-align:center;\"><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span></td></tr></table><p style=\"text-align:center;font-size:12px;font-style:italic;margin:6px 0;\"><b>Tabela 1</b>: Duas caixas, cada uma com dois retângulos.</p></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Cada lado recebeu o mesmo número de retângulos: dois e dois. Nada sobrou. Quando isso acontece, dizemos que a divisão é exata.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "13366d45-51df-4ae8-9b1a-5da0705ca9b3",
+         "prev": "23595322-a40a-4c7a-b197-9782cac75c30",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "13366d45-51df-4ae8-9b1a-5da0705ca9b3",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### O Resto\n\nAgora imagine que, em vez de dividir 4 retângulos, precisamos dividir 5 retângulos nas mesmas duas caixas.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            },
+            {
+               "text": "<div><table style=\"margin:0 auto;border-collapse:collapse;\"><tr><th colspan=\"3\" style=\"border:1px solid #333333;padding:6px 12px;font-weight:bold;\">Cinco Retângulos Repartidos em 2 Caixas</th></tr><tr><td style=\"height:100px;width:120px;background-color:#ADD8E6;border:1px solid #333333;text-align:center;\"><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span></td><td style=\"height:100px;width:120px;background-color:#ADD8E6;border:1px solid #333333;text-align:center;\"><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span></td><td style=\"height:100px;width:120px;border:none;text-align:center;\"><div style=\"font-size:11px;font-weight:bold;margin-bottom:4px;\">Resto</div><span style=\"display:inline-block;width:18px;height:36px;border:2px solid #333333;border-radius:3px;margin:0 4px;\"></span></td></tr></table><p style=\"text-align:center;font-size:12px;font-style:italic;margin:6px 0;\"><b>Tabela 2</b>: Cinco retângulos repartidos em duas caixas. Um retângulo fica de fora.</p></div>",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "html",
+               "PostMention": ""
+            },
+            {
+               "text": "Cada caixa ainda recebe dois retângulos, mas um retângulo fica fora. Ele não pode ser colocado em nenhuma das caixas se quisermos que os dois grupos fiquem iguais. Chamamos esse retângulo de **resto**.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "4dcbb6d3-104b-4e8c-9f16-a41baf2271df",
+         "prev": "8a0686bc-ba48-4f5d-aa25-6c59e7042a5f",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "4dcbb6d3-104b-4e8c-9f16-a41baf2271df",
+         "audio": "",
+         "smile": "happy",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### A Divisão por 2\n\nÉ exatamente isso que acontece quando dividimos, ou repartimos, por 2. Se um número pode ser repartido igualmente entre duas caixas, não há resto. Dizemos que o número é **divisível por 2**.\n\nSe um número não pode ser repartido igualmente, sobra um objeto. Então o resto é 1.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "93809d37-e26b-4926-bd1f-4465149febfd",
+         "prev": "13366d45-51df-4ae8-9b1a-5da0705ca9b3",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "93809d37-e26b-4926-bd1f-4465149febfd",
+         "audio": "",
+         "smile": "thinking",
+         "source_menu": [],
+         "text": [
+            {
+               "text": "#### Pensando\n\nPodemos descobrir se um número é divisível por 2 apenas olhando para o seu resto?\n\nEscolha a sua resposta abaixo.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "fe46d728-c7f8-44ee-891d-482142c45658",
+         "prev": "4dcbb6d3-104b-4e8c-9f16-a41baf2271df",
+         "jumpTo": "",
+         "answer": "yes",
+         "score": 2,
+         "position": ""
+      },
+      {
+         "id": "fe46d728-c7f8-44ee-891d-482142c45658",
+         "audio": "",
+         "smile": "nerd",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Par ou Ímpar\n\nQuando um número é divisível por outro, o resto é zero.\n\nNa divisão por 2:\n\n- **Números pares** terminam em 0, 2, 4, 6 ou 8. Podem ser repartidos igualmente entre dois grupos, então o resto é 0. Exemplos: 2, 4, 6, 8, 10...\n- **Números ímpares** terminam em 1, 3, 5, 7 ou 9. Quando os dividimos por 2, sobra sempre 1. Exemplos: 3, 5, 7, 9, 11... O número 1 é um caso especial que estudaremos em outra aula.\n\nAssim, o último algarismo diz-nos o grupo: se for par, o número é par; se for ímpar, o número é ímpar.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "0c74a998-5bc7-4130-ac47-bdada1318a43",
+         "prev": "93809d37-e26b-4926-bd1f-4465149febfd",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      },
+      {
+         "id": "0c74a998-5bc7-4130-ac47-bdada1318a43",
+         "audio": "",
+         "smile": "party",
+         "source_menu": [
+            {
+               "type": 1,
+               "uuid": "5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "text": "Texto Original",
+               "page": "https://www.historytracers.org/index.html?page=class_content&arg=5dee0038-d6c8-404e-8039-5b9a2d11e115",
+               "date_time": {
+                  "type": "gregory",
+                  "year": "2026",
+                  "month": "",
+                  "day": ""
+               }
+            }
+         ],
+         "text": [
+            {
+               "text": "#### Conclusão\n\nNesta aula, aprendemos que os números podem ser agrupados em dois grupos: **pares** e **ímpares**.\n\nTambém aprendemos que todo número par é divisível por 2, e todo número ímpar deixa resto 1 quando dividido por 2. O último algarismo diz-nos a que grupo o número pertence.",
+               "source": [],
+               "date_time": null,
+               "isTable": false,
+               "imgdesc": "",
+               "format": "markdown",
+               "PostMention": ""
+            }
+         ],
+         "desc": null,
+         "next": "",
+         "prev": "fe46d728-c7f8-44ee-891d-482142c45658",
+         "jumpTo": "",
+         "answer": null,
+         "score": 1,
+         "position": ""
+      }
+   ]
+}

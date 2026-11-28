@@ -295,7 +295,7 @@
          ],
          "text": [
             {
-               "text": "#### Juntos\n\nVamos usar frações para entender o que vemos nesta página. As duas metades da folha, juntas, são 2 partes de um total de 2.\n\n2 sobre 2 é igual a 1. Quando tudo está junto, é apenas 1.",
+               "text": "#### Juntos\n\nVamos usar frações para entender o que vemos nesta aula. As duas metades da folha, juntas, são 2 partes de um total de 2.\n\n2 sobre 2 é igual a 1. Quando tudo está junto, é apenas 1.",
                "source": null,
                "date_time": null,
                "isTable": false,
@@ -456,7 +456,7 @@
                "PostMention": ""
             },
             {
-               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> + <span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">5 + 5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">10</span></span> = 1</p>",
+               "text": "<style>.frac{display:inline-block;vertical-align:middle;text-align:center;margin:0 6px;white-space:nowrap;}.frac .n{display:block;padding:0 6px;border-bottom:2px solid #222222;white-space:nowrap;}.frac .d{display:block;padding:0 6px;white-space:nowrap;}.eq{text-align:center;font-size:26px;color:#222222;margin:8px 0;}</style><div><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> + <span class=\"frac\"><span class=\"n\">5</span><span class=\"d\">10</span></span> =</p><p class=\"eq\" style=\"font-size:26px;\"><span class=\"frac\"><span class=\"n\">5 + 5</span><span class=\"d\">10</span></span> = <span class=\"frac\"><span class=\"n\">10</span><span class=\"d\">10</span></span> =</p><p class=\"eq\" style=\"font-size:26px;\">1</p></div>",
                "source": null,
                "date_time": null,
                "isTable": false,
